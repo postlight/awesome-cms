@@ -1,4 +1,9 @@
+<!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
+
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
+
+_Last generated on {{generationTime}}. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+for details on generation and contribution._
 
 {{#each tocEntries}}
 - [{{text}}](#{{anchor}})
@@ -6,20 +11,57 @@
 
 ## Content Management Systems
 
+**Key**
+
+| Emoji                  | Meaning          |
+| ---------------------- | ---------------- |
+| :octocat:              | GitHub Link      |
+| :globe_with_meridians: | Official Website |
+| :information_source:   | Last Commit Date |
+
 {{#each cmsGroups}}
 ### {{name}}
 
-{{#each cmses}}
-{{#if githubURL}}
-- [{{name}}]({{githubURL}}) {{starCount}} ★ {{#if url}}[[website]({{url}})] {{/if}}- {{description}}
-{{else}}
-- [{{name}}]({{url}}) - {{description}}
-{{/if}}
-{{/each}}
+<table>
+  <thead>
+    <tr>
+      {{#each headerColumns}}
+        <th>{{this}}</th>
+      {{/each}}
+    </tr>
+  </thead>
+  <tbody>
+    {{#each cmses}}
+      <tr>
+        <td width="240">
+          <div>
+            <strong>{{name}}</strong>
+          </div>
+          <div>
+            {{#if githubURL}}
+              <a href="{{githubURL}}">:octocat:</a>&nbsp;&nbsp;
+            {{/if}}
+            {{#if url}}
+              <a href="{{url}}">:globe_with_meridians:</a>
+            {{/if}}
+          </div>
+          <div>
+            {{#if lastCommit}}
+              {{lastCommit}}
+              <ins title="Last commit on {{lastCommitISO}}">:information_source:</ins>
+            {{/if}}
+            {{#if starCount}}
+              &nbsp;|&nbsp;★{{starCount}}
+            {{/if}}
+          </div>
+        </td>
+        <td>{{description}}</td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
 
 {{/each}}
-
-_Last generated on {{generationTime}}_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
