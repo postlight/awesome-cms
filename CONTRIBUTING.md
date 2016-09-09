@@ -4,7 +4,7 @@ _All scripts require **Node 6** or greater._
 
 ## Generate the README.md
 
-The [README.md](/) for this project is created from the data in
+The [README.md](/) for this project is generated from the data in
 [`data.toml`](data.toml).
 
 ```
