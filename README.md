@@ -63,7 +63,7 @@ for details on generation and contribution._
               &nbsp;|&nbsp;★211
           </div>
         </td>
-        <td>DNN Corp Platform Repository.</td>
+        <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
       </tr>
       <tr>
         <td width="240">
