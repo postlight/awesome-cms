@@ -170,3 +170,63 @@ description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focu
 url = "https://github.com/CultivateLabs/storytime"
 github_repo = "CultivateLabs/storytime"
 language = "ruby"
+
+## ------
+## Python
+## ------
+
+[[cms]]
+name = "django CMS"
+description = "The easy-to-use and developer-friendly CMS."
+url = "http://www.django-cms.org"
+github_repo = "divio/django-cms"
+language = "python"
+
+[[cms]]
+name = "feinCMS"
+description = "A Django-based CMS with a focus on extensibility and concise code."
+url = "http://www.feincms.org/"
+github_repo = "feincms/feincms"
+language = "python"
+
+[[cms]]
+name = "Kotti"
+description = "Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS."
+url = "http://kotti.pylonsproject.org"
+github_repo = "Kotti/Kotti"
+language = "python"
+
+[[cms]]
+name = "Mezzanine"
+description = "CMS framework for Django."
+url = "http://mezzanine.jupo.org"
+github_repo = "stephenmcd/mezzanine"
+language = "python"
+
+[[cms]]
+name = "Opps Project"
+description = "A Django-based CMS for the magazines, newspappers websites and portals with high-traffic."
+url = "http://opps.github.io/opps/"
+github_repo = "opps/opps"
+language = "python"
+
+[[cms]]
+name = "Plone CMS"
+description = "Plone is a user friendly Content Management System running on top of Python, Zope and the CMF."
+url = "http://plone.org"
+github_repo = "plone/Plone"
+language = "python"
+
+[[cms]]
+name = "Quokka CMS"
+description = "Quokka is a flexible content management platform powered by Python, Flask and MongoDB."
+url = "http://www.quokkaproject.org"
+github_repo = "quokkaproject/quokka"
+language = "python"
+
+[[cms]]
+name = "Wagtail CMS"
+description = "Wagtail is a content management system built on Django. It's focused on user experience, and offers precise control for designers and developers."
+url = "http://wagtail.io"
+github_repo = "torchbox/wagtail"
+language = "python"

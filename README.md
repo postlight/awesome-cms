@@ -2,6 +2,7 @@
 
 - [JavaScript](#javascript)
 - [PHP](#php)
+- [Python](#python)
 - [Ruby](#ruby)
 - [Closed Source](#closed source)
 
@@ -25,6 +26,18 @@
 
 - [Drupal](https://github.com/drupal/drupal) [[website](https://www.drupal.org)] - Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.
 - [WordPress](https://github.com/WordPress/WordPress) [[website](https://wordpress.org)] - WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.
+
+
+### Python
+
+- [django CMS](https://github.com/divio/django-cms) [[website](http://www.django-cms.org)] - The easy-to-use and developer-friendly CMS.
+- [feinCMS](https://github.com/feincms/feincms) [[website](http://www.feincms.org/)] - A Django-based CMS with a focus on extensibility and concise code.
+- [Kotti](https://github.com/Kotti/Kotti) [[website](http://kotti.pylonsproject.org)] - Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.
+- [Mezzanine](https://github.com/stephenmcd/mezzanine) [[website](http://mezzanine.jupo.org)] - CMS framework for Django.
+- [Opps Project](https://github.com/opps/opps) [[website](http://opps.github.io/opps/)] - A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.
+- [Plone CMS](https://github.com/plone/Plone) [[website](http://plone.org)] - Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.
+- [Quokka CMS](https://github.com/quokkaproject/quokka) [[website](http://www.quokkaproject.org)] - Quokka is a flexible content management platform powered by Python, Flask and MongoDB.
+- [Wagtail CMS](https://github.com/torchbox/wagtail) [[website](http://wagtail.io)] - Wagtail is a content management system built on Django. It's focused on user experience, and offers precise control for designers and developers.
 
 
 ### Ruby

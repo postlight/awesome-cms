@@ -2,6 +2,11 @@
 
 _All scripts require **Node 6** or greater. Use [NVM][] to easily install it._
 
+## [data.toml](/data.toml) and [meta.toml](/meta.toml)
+
+[data.toml](/data.toml) and [meta.toml](/meta.toml) use the human-friendly [TOML]
+markup language. Together, they are used to generate the README.
+
 ## Generate the README.md
 
 The [README.md](/) for this project is generated from the data in
@@ -13,13 +18,13 @@ npm install
 npm run generate-readme
 ```
 
-## Convert a URL to [TOML](https://github.com/toml-lang/toml)
+## Convert a URL to [TOML][]
 
 The [`scripts`](/scripts) folder contains `url-to-toml.js`, a script
 to easily convert a URL into TOML. E.g.
 
 
-```
+```toml
 node scripts/url-to-toml.js https://github.com/keystonejs/keystone
 
 [[cms]]
@@ -34,3 +39,4 @@ Data is scraped using [X-Ray](https://github.com/lapwinglabs/x-ray). Some hand
 editing is normally needed.
 
 [NVM]: https://github.com/creationix/nvm
+[TOML]: (https://github.com/toml-lang/toml)

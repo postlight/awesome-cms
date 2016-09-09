@@ -1,5 +1,6 @@
 [languages_to_human]
 javascript = "JavaScript"
 php = "PHP"
+python = "Python"
 ruby = "Ruby"
 undefined = "Closed Source"
