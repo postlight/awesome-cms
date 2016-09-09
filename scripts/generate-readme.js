@@ -86,7 +86,7 @@ const generateReadme = () => {
             name,
             githubURL,
             starCount: numberWithCommas(starCount),
-            lastCommit: lastCommit.fromNow(),
+            lastCommit: lastCommit.format('YYYY/MM/DD'),
             lastCommitISO: lastCommit.toISOString(),
             url,
             description,
@@ -105,7 +105,7 @@ const generateReadme = () => {
       name: languagesToHuman[key],
       headerColumns: compact([
         'Name',
-        'Last Push',
+        key !== 'undefined' && 'Last Push',
         key !== 'undefined' && 'Stars',
         'Description',
       ]),
