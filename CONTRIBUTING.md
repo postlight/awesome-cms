@@ -1,6 +1,6 @@
 # How to Contribute to Awesome CMS
 
-_All scripts require **Node 6** or greater._
+_All scripts require **Node 6** or greater. Use [NVM][] to easily install it._
 
 ## Generate the README.md
 
@@ -32,3 +32,5 @@ language = "javascript"
 
 Data is scraped using [X-Ray](https://github.com/lapwinglabs/x-ray). Some hand
 editing is normally needed.
+
+[NVM]: https://github.com/creationix/nvm
