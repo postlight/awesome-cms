@@ -23,7 +23,7 @@
   </thead>
   <tbody>
       <tr>
-        <td width="220">
+        <td width="240">
           Apostrophe
             <a href="https://github.com/punkave/apostrophe">:octocat:</a>
         </td>
@@ -34,7 +34,7 @@
         <td>Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Camaleon CMS
             <a href="https://github.com/owen2345/camaleon-cms">:octocat:</a>
             <a href="http://camaleon.tuzitio.com/">:globe_with_meridians:</a>
@@ -46,7 +46,7 @@
         <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Cody
             <a href="https://github.com/jcoppieters/cody">:octocat:</a>
             <a href="http://howest.cody-cms.org">:globe_with_meridians:</a>
@@ -58,7 +58,7 @@
         <td>Javascript Content Management System running on Node.js.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Directus
             <a href="https://github.com/directus/directus">:octocat:</a>
             <a href="http://getdirectus.com">:globe_with_meridians:</a>
@@ -70,7 +70,7 @@
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Ghost
             <a href="https://github.com/tryghost/Ghost">:octocat:</a>
             <a href="https://ghost.org">:globe_with_meridians:</a>
@@ -82,7 +82,7 @@
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           KeystoneJS
             <a href="https://github.com/keystonejs/keystone">:octocat:</a>
             <a href="http://keystonejs.com">:globe_with_meridians:</a>
@@ -94,7 +94,7 @@
         <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Netlify CMS
             <a href="https://github.com/netlify/netlify-cms">:octocat:</a>
         </td>
@@ -105,7 +105,7 @@
         <td>A CMS for Static Site Generators.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           PencilBlue
             <a href="https://github.com/pencilblue/pencilblue">:octocat:</a>
             <a href="https://pencilblue.org">:globe_with_meridians:</a>
@@ -117,7 +117,7 @@
         <td>Business class content management for Node.js (plugins, server cluster management, data-driven pages).</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Reaction
             <a href="https://github.com/reactioncommerce/reaction">:octocat:</a>
             <a href="https://reactioncommerce.com/">:globe_with_meridians:</a>
@@ -129,7 +129,7 @@
         <td>Reaction is a modern reactive, real-time event driven ecommerce platform.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Relax
             <a href="https://github.com/relax/relax">:octocat:</a>
         </td>
@@ -140,7 +140,7 @@
         <td>New generation CMS on top of React, Redux and GraphQL.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           We.js Framework
             <a href="https://github.com/wejs/we">:octocat:</a>
             <a href="http://wejs.org/">:globe_with_meridians:</a>
@@ -167,7 +167,7 @@
   </thead>
   <tbody>
       <tr>
-        <td width="220">
+        <td width="240">
           Drupal
             <a href="https://github.com/drupal/drupal">:octocat:</a>
             <a href="https://www.drupal.org">:globe_with_meridians:</a>
@@ -179,7 +179,7 @@
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Joomla!
             <a href="https://github.com/joomla/joomla-cms">:octocat:</a>
             <a href="https://www.joomla.org">:globe_with_meridians:</a>
@@ -191,7 +191,7 @@
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           WordPress
             <a href="https://github.com/WordPress/WordPress">:octocat:</a>
             <a href="https://wordpress.org">:globe_with_meridians:</a>
@@ -218,7 +218,7 @@
   </thead>
   <tbody>
       <tr>
-        <td width="220">
+        <td width="240">
           django CMS
             <a href="https://github.com/divio/django-cms">:octocat:</a>
             <a href="http://www.django-cms.org">:globe_with_meridians:</a>
@@ -230,7 +230,7 @@
         <td>The easy-to-use and developer-friendly CMS.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           feinCMS
             <a href="https://github.com/feincms/feincms">:octocat:</a>
             <a href="http://www.feincms.org/">:globe_with_meridians:</a>
@@ -242,7 +242,7 @@
         <td>A Django-based CMS with a focus on extensibility and concise code.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Kotti
             <a href="https://github.com/Kotti/Kotti">:octocat:</a>
             <a href="http://kotti.pylonsproject.org">:globe_with_meridians:</a>
@@ -254,7 +254,7 @@
         <td>Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Mezzanine
             <a href="https://github.com/stephenmcd/mezzanine">:octocat:</a>
             <a href="http://mezzanine.jupo.org">:globe_with_meridians:</a>
@@ -266,7 +266,7 @@
         <td>CMS framework for Django.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Opps Project
             <a href="https://github.com/opps/opps">:octocat:</a>
             <a href="http://opps.github.io/opps/">:globe_with_meridians:</a>
@@ -278,7 +278,7 @@
         <td>A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Plone CMS
             <a href="https://github.com/plone/Plone">:octocat:</a>
             <a href="http://plone.org">:globe_with_meridians:</a>
@@ -290,7 +290,7 @@
         <td>Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Quokka CMS
             <a href="https://github.com/quokkaproject/quokka">:octocat:</a>
             <a href="http://www.quokkaproject.org">:globe_with_meridians:</a>
@@ -302,7 +302,7 @@
         <td>Quokka is a flexible content management platform powered by Python, Flask and MongoDB.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Wagtail CMS
             <a href="https://github.com/torchbox/wagtail">:octocat:</a>
             <a href="http://wagtail.io">:globe_with_meridians:</a>
@@ -329,7 +329,7 @@
   </thead>
   <tbody>
       <tr>
-        <td width="220">
+        <td width="240">
           Alchemy CMS
             <a href="https://github.com/AlchemyCMS/alchemy_cms">:octocat:</a>
             <a href="http://alchemy-cms.com">:globe_with_meridians:</a>
@@ -341,7 +341,7 @@
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           ComfortableMexicanSofa 
             <a href="https://github.com/comfy/comfortable-mexican-sofa">:octocat:</a>
         </td>
@@ -352,7 +352,7 @@
         <td>ComfortableMexicanSofa is a powerful Rails 4 CMS Engine.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           LocomotiveCMS
             <a href="https://github.com/locomotivecms/engine">:octocat:</a>
             <a href="http://locomotive.works">:globe_with_meridians:</a>
@@ -364,7 +364,7 @@
         <td>A platform to create, publish and edit sites.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Publify
             <a href="https://github.com/publify/publify">:octocat:</a>
             <a href="http://publify.co">:globe_with_meridians:</a>
@@ -376,7 +376,7 @@
         <td>A self hosted Web publishing platform on Rails.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Radiant CMS
             <a href="https://github.com/radiant/radiant">:octocat:</a>
             <a href="http://radiantcms.org/">:globe_with_meridians:</a>
@@ -388,7 +388,7 @@
         <td>Radiant is a no-fluff, open source content management system designed for small teams.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Refinery CMS
             <a href="https://github.com/refinery/refinerycms">:octocat:</a>
             <a href="http://refinerycms.com">:globe_with_meridians:</a>
@@ -400,7 +400,7 @@
         <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Spina
             <a href="https://github.com/denkGroot/Spina">:octocat:</a>
             <a href="http://www.spinacms.com">:globe_with_meridians:</a>
@@ -412,7 +412,7 @@
         <td>GitHub - denkGroot/Spina: Spina CMS.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Storytime
             <a href="https://github.com/CultivateLabs/storytime">:octocat:</a>
         </td>
@@ -436,63 +436,63 @@
   </thead>
   <tbody>
       <tr>
-        <td width="220">
+        <td width="240">
           Built.io Contentstack
             <a href="https://www.built.io/products/contentstack/overview">:globe_with_meridians:</a>
         </td>
         <td>Headless CMS divides front-end from backend architecture to send content to multiple devices and platforms without creating content differently each time.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Cloud CMS
             <a href="https://www.cloudcms.com">:globe_with_meridians:</a>
         </td>
         <td>Shatter the limits imposed by your old, legacy CMS. Our headless, API-first Content Management System provides everything needed for scalable, multi-device publishing through SaaS and On-Premise delivery</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Contentful
             <a href="https://www.contentful.com">:globe_with_meridians:</a>
         </td>
         <td>Contentful is an API-first CMS focused on the simplicity of development. Manage structured content in websites and apps.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Craft CMS
             <a href="https://craftcms.com">:globe_with_meridians:</a>
         </td>
         <td>Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           ExpressionEngine
             <a href="https://ellislab.com/expressionengine">:globe_with_meridians:</a>
         </td>
         <td>general purpose content management system written in object-oriented PHP and using MySQL for data storage.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Osmek
             <a href="http://osmek.com">:globe_with_meridians:</a>
         </td>
         <td>Osmek is a new kind of CMS, built in the cloud so your content is available where and how you need it. It&#x27;s a beautiful interface for creating content, and a powerful set of APIs for retrieving it.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           prismic.io
             <a href="https://prismic.io">:globe_with_meridians:</a>
         </td>
         <td>A hosted, API based and developer friendly CMS backend. We take care of upgrades, scalability and security.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           Siteleaf
             <a href="http://www.siteleaf.com">:globe_with_meridians:</a>
         </td>
         <td>Supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more.</td>
       </tr>
       <tr>
-        <td width="220">
+        <td width="240">
           SquareSpace
             <a href="https://www.squarespace.com">:globe_with_meridians:</a>
         </td>
@@ -502,7 +502,7 @@
 </table>
 
 
-_Last generated on Fri Sep 09 2016 11:15:07 GMT-0500 (CDT)_
+_Last generated on Fri Sep 09 2016 11:17:33 GMT-0500 (CDT)_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
