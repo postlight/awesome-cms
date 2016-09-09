@@ -15,10 +15,10 @@ const readmeTemplate = Handlebars.compile(
 const x = Xray({
   filters: {
     removeCommas(value) {
-      return value.replace(',', '');
+      return value && value.replace(',', '');
     },
     trim(value) {
-      return value.trim();
+      return value && value.trim();
     },
     toMoment(value) {
       return moment(value);
@@ -105,8 +105,6 @@ const generateReadme = () => {
       name: languagesToHuman[key],
       headerColumns: compact([
         'Name',
-        key !== 'undefined' && 'Last Push',
-        key !== 'undefined' && 'Stars',
         'Description',
       ]),
       cmses,

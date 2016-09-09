@@ -14,6 +14,7 @@
 | ---------------------- | ---------------- |
 | :octocat:              | GitHub Link      |
 | :globe_with_meridians: | Official Website |
+| :information_source:   | Last Commit Date |
 
 {{#each cmsGroups}}
 ### {{name}}
@@ -30,22 +31,27 @@
     {{#each cmses}}
       <tr>
         <td width="240">
-          {{name}}
-          {{#if githubURL}}
-            <a href="{{githubURL}}">:octocat:</a>
-          {{/if}}
-          {{#if url}}
-            <a href="{{url}}">:globe_with_meridians:</a>
-          {{/if}}
+          <div>
+            <strong>{{name}}</strong>
+          </div>
+          <div>
+            {{#if githubURL}}
+              <a href="{{githubURL}}">:octocat:</a>
+            {{/if}}
+            {{#if url}}
+              <a href="{{url}}">:globe_with_meridians:</a>
+            {{/if}}
+          </div>
+          <div>
+            {{#if lastCommit}}
+              {{lastCommit}}
+              <ins title="Last commit on {{lastCommitISO}}">:information_source:</ins>
+            {{/if}}
+            {{#if starCount}}
+              &nbsp;|&nbsp;★{{starCount}}
+            {{/if}}
+          </div>
         </td>
-        {{#if lastCommit}}
-          <td width="130">
-            <abbr title="{{lastCommitISO}}">{{lastCommit}}</abbr>
-          </td>
-        {{/if}}
-        {{#if starCount}}
-          <td>★{{starCount}}</td>
-        {{/if}}
         <td>{{description}}</td>
       </tr>
     {{/each}}
