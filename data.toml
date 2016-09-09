@@ -45,7 +45,7 @@ url = "http://www.siteleaf.com"
 
 [[cms]]
 name = "Netlify CMS"
-description = "A CMS for Static Site Generators"
+description = "A CMS for Static Site Generators."
 github_repo = "netlify/netlify-cms"
 language = "javascript"
 
@@ -58,7 +58,7 @@ language = "javascript"
 
 [[cms]]
 name = "Relax"
-description = "New generation CMS on top of React, Redux and GraphQL"
+description = "New generation CMS on top of React, Redux and GraphQL."
 github_repo = "relax/relax"
 language = "javascript"
 
@@ -71,21 +71,21 @@ language = "javascript"
 
 [[cms]]
 name = "We.js Framework"
-description = "Extensible Node.js MVC framework"
+description = "Extensible Node.js MVC framework."
 url = "http://wejs.org/"
 github_repo = "wejs/we"
 language = "javascript"
 
 [[cms]]
 name = "PencilBlue"
-description = "Business class content management for Node.js (plugins, server cluster management, data-driven pages)"
+description = "Business class content management for Node.js (plugins, server cluster management, data-driven pages)."
 url = "https://pencilblue.org"
 github_repo = "pencilblue/pencilblue"
 language = "javascript"
 
 [[cms]]
 name = "Cody"
-description = "Javascript Content Management System running on Node.js"
+description = "Javascript Content Management System running on Node.js."
 url = "http://howest.cody-cms.org"
 github_repo = "jcoppieters/cody"
 language = "javascript"
@@ -124,14 +124,14 @@ language = "javascript"
 
 [[cms]]
 name = "ComfortableMexicanSofa "
-description = "ComfortableMexicanSofa is a powerful Rails 4 CMS Engine"
+description = "ComfortableMexicanSofa is a powerful Rails 4 CMS Engine."
 url = "https://github.com/comfy/comfortable-mexican-sofa"
 github_repo = "comfy/comfortable-mexican-sofa"
 language = "ruby"
 
 [[cms]]
 name = "LocomotiveCMS"
-description = "A platform to create, publish and edit sites"
+description = "A platform to create, publish and edit sites."
 url = "http://locomotive.works"
 github_repo = "locomotivecms/engine"
 language = "ruby"
@@ -152,21 +152,21 @@ language = "ruby"
 
 [[cms]]
 name = "Refinery CMS"
-description = "An extendable Ruby on Rails CMS that supports Rails 4.2+"
+description = "An extendable Ruby on Rails CMS that supports Rails 4.2+."
 url = "http://refinerycms.com"
 github_repo = "refinery/refinerycms"
 language = "ruby"
 
 [[cms]]
 name = "Spina"
-description = "GitHub - denkGroot/Spina: Spina CMS"
+description = "GitHub - denkGroot/Spina: Spina CMS."
 url = "http://www.spinacms.com"
 github_repo = "denkGroot/Spina"
 language = "ruby"
 
 [[cms]]
 name = "Storytime"
-description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs"
+description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs."
 url = "https://github.com/CultivateLabs/storytime"
 github_repo = "CultivateLabs/storytime"
 language = "ruby"
