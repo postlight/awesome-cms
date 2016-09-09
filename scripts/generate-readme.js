@@ -67,7 +67,7 @@ const generateReadme = () => {
     }
     return {
       text: humanName,
-      anchor: humanName.toLowerCase(),
+      anchor: humanName.toLowerCase().replace(' ', '-'),
     };
   });
 
