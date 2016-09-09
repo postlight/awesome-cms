@@ -16,6 +16,7 @@
 | ---------------------- | ---------------- |
 | :octocat:              | GitHub Link      |
 | :globe_with_meridians: | Official Website |
+| :information_source:   | Last Commit Date |
 
 ### JavaScript
 
@@ -705,7 +706,7 @@
 </table>
 
 
-_Last generated on Fri Sep 09 2016 16:08:48 GMT-0500 (CDT)_
+_Last generated on Fri Sep 09 2016 16:12:49 GMT-0500 (CDT)_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
