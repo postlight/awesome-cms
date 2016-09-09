@@ -1,0 +1,18 @@
+{
+  "name": "awesome-cms",
+  "version": "1.0.0",
+  "description": "An Awesome List for Content Management Systems",
+  "dependencies": {
+    "humps": "1.1.0",
+    "lodash": "4.15.0",
+    "toml": "2.3.0",
+    "x-ray": "2.3.0"
+  },
+  "scripts": {
+    "generate-readme": "node scripts/generate-readme.js",
+    "website-to-toml": "node scripts/url-to-toml.js $1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

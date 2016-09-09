@@ -1,0 +1,172 @@
+# Template
+
+# [[cms]]
+# name = ""
+# description = ""
+# url = ""
+# github_repo = ""
+# language = ""
+
+# ---
+# PHP
+# ---
+
+[[cms]]
+name = "WordPress"
+description = "WordPress is a free and open-source content management system (CMS) based on PHP and MySQL."
+url = "https://wordpress.org"
+github_repo = "WordPress/WordPress"
+language = "php"
+
+[[cms]]
+name = "Drupal"
+description = "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
+url = "https://www.drupal.org"
+github_repo = "drupal/drupal"
+language = "php"
+
+# -------------
+# Closed Source
+# -------------
+
+[[cms]]
+name = "SquareSpace"
+description = "Squarespace is a SaaS-based content management system-integrated website builder, blogging platform and hosting service."
+url = "https://www.squarespace.com"
+
+[[cms]]
+name = "Siteleaf"
+description = "Supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more."
+url = "http://www.siteleaf.com"
+
+# ----------
+# JavaScript
+# ----------
+
+[[cms]]
+name = "Netlify CMS"
+description = "A CMS for Static Site Generators"
+github_repo = "netlify/netlify-cms"
+language = "javascript"
+
+[[cms]]
+name = "KeystoneJS"
+description = "The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB."
+url = "http://keystonejs.com"
+github_repo = "keystonejs/keystone"
+language = "javascript"
+
+[[cms]]
+name = "Relax"
+description = "New generation CMS on top of React, Redux and GraphQL"
+github_repo = "relax/relax"
+language = "javascript"
+
+[[cms]]
+name = "Ghost"
+description = "Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone."
+url = "https://ghost.org"
+github_repo = "tryghost/Ghost"
+language = "javascript"
+
+[[cms]]
+name = "We.js Framework"
+description = "Extensible Node.js MVC framework"
+url = "http://wejs.org/"
+github_repo = "wejs/we"
+language = "javascript"
+
+[[cms]]
+name = "PencilBlue"
+description = "Business class content management for Node.js (plugins, server cluster management, data-driven pages)"
+url = "https://pencilblue.org"
+github_repo = "pencilblue/pencilblue"
+language = "javascript"
+
+[[cms]]
+name = "Cody"
+description = "Javascript Content Management System running on Node.js"
+url = "http://howest.cody-cms.org"
+github_repo = "jcoppieters/cody"
+language = "javascript"
+
+[[cms]]
+name = "Apostrophe"
+description = "Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application."
+url = "https://github.com/punkave/apostrophe"
+github_repo = "punkave/apostrophe"
+language = "javascript"
+
+[[cms]]
+name = "Reaction"
+description = "Reaction is a modern reactive, real-time event driven ecommerce platform."
+url = "https://reactioncommerce.com/"
+github_repo = "reactioncommerce/reaction"
+language = "javascript"
+
+# ----
+# Ruby
+# ----
+
+[[cms]]
+name = "Alchemy CMS"
+description = "Alchemy is a powerful, flexible and user centric Rails CMS."
+url = "http://alchemy-cms.com"
+github_repo = "AlchemyCMS/alchemy_cms"
+language = "ruby"
+
+[[cms]]
+name = "Camaleon CMS"
+description = "Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4."
+url = "http://camaleon.tuzitio.com/"
+github_repo = "owen2345/camaleon-cms"
+language = "javascript"
+
+[[cms]]
+name = "ComfortableMexicanSofa "
+description = "ComfortableMexicanSofa is a powerful Rails 4 CMS Engine"
+url = "https://github.com/comfy/comfortable-mexican-sofa"
+github_repo = "comfy/comfortable-mexican-sofa"
+language = "ruby"
+
+[[cms]]
+name = "LocomotiveCMS"
+description = "A platform to create, publish and edit sites"
+url = "http://locomotive.works"
+github_repo = "locomotivecms/engine"
+language = "ruby"
+
+[[cms]]
+name = "Publify"
+description = "A self hosted Web publishing platform on Rails."
+url = "http://publify.co"
+github_repo = "publify/publify"
+language = "ruby"
+
+[[cms]]
+name = "Radiant CMS"
+description = "Radiant is a no-fluff, open source content management system designed for small teams."
+url = "http://radiantcms.org/"
+github_repo = "radiant/radiant"
+language = "ruby"
+
+[[cms]]
+name = "Refinery CMS"
+description = "An extendable Ruby on Rails CMS that supports Rails 4.2+"
+url = "http://refinerycms.com"
+github_repo = "refinery/refinerycms"
+language = "ruby"
+
+[[cms]]
+name = "Spina"
+description = "GitHub - denkGroot/Spina: Spina CMS"
+url = "http://www.spinacms.com"
+github_repo = "denkGroot/Spina"
+language = "ruby"
+
+[[cms]]
+name = "Storytime"
+description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs"
+url = "https://github.com/CultivateLabs/storytime"
+github_repo = "CultivateLabs/storytime"
+language = "ruby"
