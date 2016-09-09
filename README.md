@@ -34,7 +34,7 @@
             <strong>Apostrophe</strong>
           </div>
           <div>
-              <a href="https://github.com/punkave/apostrophe">:octocat:</a>
+              <a href="https://github.com/punkave/apostrophe">:octocat:</a>&nbsp;&nbsp;
           </div>
           <div>
               2016/09/08
@@ -50,7 +50,7 @@
             <strong>Camaleon CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/owen2345/camaleon-cms">:octocat:</a>
+              <a href="https://github.com/owen2345/camaleon-cms">:octocat:</a>&nbsp;&nbsp;
               <a href="http://camaleon.tuzitio.com/">:globe_with_meridians:</a>
           </div>
           <div>
@@ -67,7 +67,7 @@
             <strong>Cody</strong>
           </div>
           <div>
-              <a href="https://github.com/jcoppieters/cody">:octocat:</a>
+              <a href="https://github.com/jcoppieters/cody">:octocat:</a>&nbsp;&nbsp;
               <a href="http://howest.cody-cms.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -84,7 +84,7 @@
             <strong>Directus</strong>
           </div>
           <div>
-              <a href="https://github.com/directus/directus">:octocat:</a>
+              <a href="https://github.com/directus/directus">:octocat:</a>&nbsp;&nbsp;
               <a href="http://getdirectus.com">:globe_with_meridians:</a>
           </div>
           <div>
@@ -101,7 +101,7 @@
             <strong>Ghost</strong>
           </div>
           <div>
-              <a href="https://github.com/tryghost/Ghost">:octocat:</a>
+              <a href="https://github.com/tryghost/Ghost">:octocat:</a>&nbsp;&nbsp;
               <a href="https://ghost.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -118,7 +118,7 @@
             <strong>KeystoneJS</strong>
           </div>
           <div>
-              <a href="https://github.com/keystonejs/keystone">:octocat:</a>
+              <a href="https://github.com/keystonejs/keystone">:octocat:</a>&nbsp;&nbsp;
               <a href="http://keystonejs.com">:globe_with_meridians:</a>
           </div>
           <div>
@@ -135,7 +135,7 @@
             <strong>Netlify CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/netlify/netlify-cms">:octocat:</a>
+              <a href="https://github.com/netlify/netlify-cms">:octocat:</a>&nbsp;&nbsp;
           </div>
           <div>
               2016/08/16
@@ -151,7 +151,7 @@
             <strong>PencilBlue</strong>
           </div>
           <div>
-              <a href="https://github.com/pencilblue/pencilblue">:octocat:</a>
+              <a href="https://github.com/pencilblue/pencilblue">:octocat:</a>&nbsp;&nbsp;
               <a href="https://pencilblue.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -168,7 +168,7 @@
             <strong>Reaction</strong>
           </div>
           <div>
-              <a href="https://github.com/reactioncommerce/reaction">:octocat:</a>
+              <a href="https://github.com/reactioncommerce/reaction">:octocat:</a>&nbsp;&nbsp;
               <a href="https://reactioncommerce.com/">:globe_with_meridians:</a>
           </div>
           <div>
@@ -185,7 +185,7 @@
             <strong>Relax</strong>
           </div>
           <div>
-              <a href="https://github.com/relax/relax">:octocat:</a>
+              <a href="https://github.com/relax/relax">:octocat:</a>&nbsp;&nbsp;
           </div>
           <div>
               2016/09/08
@@ -201,7 +201,7 @@
             <strong>We.js Framework</strong>
           </div>
           <div>
-              <a href="https://github.com/wejs/we">:octocat:</a>
+              <a href="https://github.com/wejs/we">:octocat:</a>&nbsp;&nbsp;
               <a href="http://wejs.org/">:globe_with_meridians:</a>
           </div>
           <div>
@@ -231,7 +231,7 @@
             <strong>Drupal</strong>
           </div>
           <div>
-              <a href="https://github.com/drupal/drupal">:octocat:</a>
+              <a href="https://github.com/drupal/drupal">:octocat:</a>&nbsp;&nbsp;
               <a href="https://www.drupal.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -248,7 +248,7 @@
             <strong>Joomla!</strong>
           </div>
           <div>
-              <a href="https://github.com/joomla/joomla-cms">:octocat:</a>
+              <a href="https://github.com/joomla/joomla-cms">:octocat:</a>&nbsp;&nbsp;
               <a href="https://www.joomla.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -265,7 +265,7 @@
             <strong>WordPress</strong>
           </div>
           <div>
-              <a href="https://github.com/WordPress/WordPress">:octocat:</a>
+              <a href="https://github.com/WordPress/WordPress">:octocat:</a>&nbsp;&nbsp;
               <a href="https://wordpress.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -295,7 +295,7 @@
             <strong>django CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/divio/django-cms">:octocat:</a>
+              <a href="https://github.com/divio/django-cms">:octocat:</a>&nbsp;&nbsp;
               <a href="http://www.django-cms.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -312,7 +312,7 @@
             <strong>feinCMS</strong>
           </div>
           <div>
-              <a href="https://github.com/feincms/feincms">:octocat:</a>
+              <a href="https://github.com/feincms/feincms">:octocat:</a>&nbsp;&nbsp;
               <a href="http://www.feincms.org/">:globe_with_meridians:</a>
           </div>
           <div>
@@ -329,7 +329,7 @@
             <strong>Kotti</strong>
           </div>
           <div>
-              <a href="https://github.com/Kotti/Kotti">:octocat:</a>
+              <a href="https://github.com/Kotti/Kotti">:octocat:</a>&nbsp;&nbsp;
               <a href="http://kotti.pylonsproject.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -346,7 +346,7 @@
             <strong>Mezzanine</strong>
           </div>
           <div>
-              <a href="https://github.com/stephenmcd/mezzanine">:octocat:</a>
+              <a href="https://github.com/stephenmcd/mezzanine">:octocat:</a>&nbsp;&nbsp;
               <a href="http://mezzanine.jupo.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -363,7 +363,7 @@
             <strong>Opps Project</strong>
           </div>
           <div>
-              <a href="https://github.com/opps/opps">:octocat:</a>
+              <a href="https://github.com/opps/opps">:octocat:</a>&nbsp;&nbsp;
               <a href="http://opps.github.io/opps/">:globe_with_meridians:</a>
           </div>
           <div>
@@ -380,7 +380,7 @@
             <strong>Plone CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/plone/Plone">:octocat:</a>
+              <a href="https://github.com/plone/Plone">:octocat:</a>&nbsp;&nbsp;
               <a href="http://plone.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -397,7 +397,7 @@
             <strong>Quokka CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/quokkaproject/quokka">:octocat:</a>
+              <a href="https://github.com/quokkaproject/quokka">:octocat:</a>&nbsp;&nbsp;
               <a href="http://www.quokkaproject.org">:globe_with_meridians:</a>
           </div>
           <div>
@@ -414,7 +414,7 @@
             <strong>Wagtail CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/torchbox/wagtail">:octocat:</a>
+              <a href="https://github.com/torchbox/wagtail">:octocat:</a>&nbsp;&nbsp;
               <a href="http://wagtail.io">:globe_with_meridians:</a>
           </div>
           <div>
@@ -444,7 +444,7 @@
             <strong>Alchemy CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/AlchemyCMS/alchemy_cms">:octocat:</a>
+              <a href="https://github.com/AlchemyCMS/alchemy_cms">:octocat:</a>&nbsp;&nbsp;
               <a href="http://alchemy-cms.com">:globe_with_meridians:</a>
           </div>
           <div>
@@ -461,7 +461,7 @@
             <strong>ComfortableMexicanSofa </strong>
           </div>
           <div>
-              <a href="https://github.com/comfy/comfortable-mexican-sofa">:octocat:</a>
+              <a href="https://github.com/comfy/comfortable-mexican-sofa">:octocat:</a>&nbsp;&nbsp;
           </div>
           <div>
               2016/04/28
@@ -477,7 +477,7 @@
             <strong>LocomotiveCMS</strong>
           </div>
           <div>
-              <a href="https://github.com/locomotivecms/engine">:octocat:</a>
+              <a href="https://github.com/locomotivecms/engine">:octocat:</a>&nbsp;&nbsp;
               <a href="http://locomotive.works">:globe_with_meridians:</a>
           </div>
           <div>
@@ -494,7 +494,7 @@
             <strong>Publify</strong>
           </div>
           <div>
-              <a href="https://github.com/publify/publify">:octocat:</a>
+              <a href="https://github.com/publify/publify">:octocat:</a>&nbsp;&nbsp;
               <a href="http://publify.co">:globe_with_meridians:</a>
           </div>
           <div>
@@ -511,7 +511,7 @@
             <strong>Radiant CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/radiant/radiant">:octocat:</a>
+              <a href="https://github.com/radiant/radiant">:octocat:</a>&nbsp;&nbsp;
               <a href="http://radiantcms.org/">:globe_with_meridians:</a>
           </div>
           <div>
@@ -528,7 +528,7 @@
             <strong>Refinery CMS</strong>
           </div>
           <div>
-              <a href="https://github.com/refinery/refinerycms">:octocat:</a>
+              <a href="https://github.com/refinery/refinerycms">:octocat:</a>&nbsp;&nbsp;
               <a href="http://refinerycms.com">:globe_with_meridians:</a>
           </div>
           <div>
@@ -545,7 +545,7 @@
             <strong>Spina</strong>
           </div>
           <div>
-              <a href="https://github.com/denkGroot/Spina">:octocat:</a>
+              <a href="https://github.com/denkGroot/Spina">:octocat:</a>&nbsp;&nbsp;
               <a href="http://www.spinacms.com">:globe_with_meridians:</a>
           </div>
           <div>
@@ -562,7 +562,7 @@
             <strong>Storytime</strong>
           </div>
           <div>
-              <a href="https://github.com/CultivateLabs/storytime">:octocat:</a>
+              <a href="https://github.com/CultivateLabs/storytime">:octocat:</a>&nbsp;&nbsp;
           </div>
           <div>
               2016/07/11
@@ -706,7 +706,7 @@
 </table>
 
 
-_Last generated on Fri Sep 09 2016 16:12:49 GMT-0500 (CDT)_
+_Last generated on Fri Sep 09 2016 16:20:55 GMT-0500 (CDT)_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
