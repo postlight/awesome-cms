@@ -113,7 +113,7 @@ const generateReadme = () => {
     fs.writeFileSync('README.md', readmeTemplate({
       tocEntries,
       cmsGroups,
-      generationTime: (new Date()).toString(),
+      generationTime: moment().format('MMMM Do, YYYY'),
     }));
   }).catch((error) => {
     console.error('Error generating readme', error);

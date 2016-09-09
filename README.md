@@ -2,6 +2,9 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
+_Last generated on September 9th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+for details on generation and contribution._
+
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)
@@ -705,8 +708,6 @@
   </tbody>
 </table>
 
-
-_Last generated on Fri Sep 09 2016 16:20:55 GMT-0500 (CDT)_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
