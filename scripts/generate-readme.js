@@ -4,12 +4,15 @@ const groupBy = require('lodash/groupBy');
 const sortBy = require('lodash/sortBy');
 const { camelizeKeys } = require('humps');
 const Xray = require('x-ray');
+const Handlebars = require('handlebars');
+
+const readmeTemplate = Handlebars.compile(
+  fs.readFileSync('./README.md.hbs').toString()
+);
 
 const x = Xray();
 
 const GITHUB_URL = 'https://github.com';
-
-const mdLink = (text, url) => `[${text}](${url})`;
 
 const numberWithCommas = (n) => {
   return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
@@ -36,7 +39,7 @@ const generateReadme = () => {
   const cmsesByLanguage = groupBy(data.cms, 'language');
   const languageKeys = Object.keys(cmsesByLanguage).sort();
 
-  const tocText = languageKeys.map((key) => {
+  const tocEntries = languageKeys.map((key) => {
     let humanName = languagesToHuman[key];
     if (!humanName) {
       console.error(
@@ -44,8 +47,11 @@ const generateReadme = () => {
       );
       humanName = key;
     }
-    return `- [${humanName}](#${humanName.toLowerCase()})`;
-  }).join('\n');
+    return {
+      text: humanName,
+      anchor: humanName.toLowerCase(),
+    };
+  });
 
   Promise.all(languageKeys.map((key) => {
     const cmsesForLanguage = cmsesByLanguage[key];
@@ -53,55 +59,38 @@ const generateReadme = () => {
       cmsesForLanguage, ({ name }) => name.toLowerCase()
     );
 
-    const cmsGroupPromises = sortedCMSES.map(
+    const cmsPromises = sortedCMSES.map(
       ({ name, description, githubRepo, url }) => {
         const githubURL = `${GITHUB_URL}/${githubRepo}`;
 
         if (githubRepo) {
-          return fetchStarCount(githubURL).then((starCount) => [
-            '- ',
-            mdLink(name, githubURL),
-            ` ${numberWithCommas(starCount)} ★`,
-            githubRepo && url && ` [${mdLink('website', url)}]`,
-            ' - ',
+          return fetchStarCount(githubURL).then((starCount) => ({
+            name,
+            githubURL,
+            starCount: numberWithCommas(starCount),
+            url: githubRepo && url,
             description,
-          ].join(''));
+          }));
         }
 
-        return [
-          '- ',
-          mdLink(name, url),
-          ' - ',
+        return {
+          name,
+          url,
           description,
-        ].join('');
+        };
       }
     );
 
-    return Promise.all(cmsGroupPromises).then((cmsGroupLines) => (
-`
-### ${languagesToHuman[key]}
-
-${cmsGroupLines.join('\n')}
-`
-    ));
-  })).then((allGroupsLines) => {
-    const cmsGroupsText = allGroupsLines.join('\n');
-
-    // TODO use a template
-    fs.writeFileSync('README.md',
-`# Awesome CMS [![Awesome][awesome-image]][awesome-repo]
-
-${tocText}
-
-## Content Management Systems
-${cmsGroupsText}
-
-_Last generated on ${(new Date()).toString()}_
-
-[awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-repo]: https://github.com/sindresorhus/awesome
-`
-  );
+    return Promise.all(cmsPromises).then((cmses) => ({
+      name: languagesToHuman[key],
+      cmses,
+    }));
+  })).then((cmsGroups) => {
+    fs.writeFileSync('README.md', readmeTemplate({
+      tocEntries,
+      cmsGroups,
+      generationTime: (new Date()).toString(),
+    }));
   });
 };
 

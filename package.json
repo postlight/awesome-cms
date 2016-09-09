@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An Awesome List for Content Management Systems",
   "dependencies": {
+    "handlebars": "4.0.5",
     "humps": "1.1.0",
     "lodash": "4.15.0",
     "toml": "2.3.0",

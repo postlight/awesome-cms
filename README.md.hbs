@@ -1,0 +1,25 @@
+# Awesome CMS [![Awesome][awesome-image]][awesome-repo]
+
+{{#each tocEntries}}
+- [{{text}}](#{{anchor}})
+{{/each}}
+
+## Content Management Systems
+
+{{#each cmsGroups}}
+### {{name}}
+
+{{#each cmses}}
+{{#if githubURL}}
+- [{{name}}]({{githubURL}}) {{starCount}} ★ {{#if url}}[[website]({{url}})] {{/if}}- {{description}}
+{{else}}
+- [{{name}}]({{url}}) - {{description}}
+{{/if}}
+{{/each}}
+
+{{/each}}
+
+_Last generated on {{generationTime}}_
+
+[awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-repo]: https://github.com/sindresorhus/awesome
