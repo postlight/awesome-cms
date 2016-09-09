@@ -276,3 +276,41 @@ description = "Wagtail is a content management system built on Django. It's focu
 url = "http://wagtail.io"
 github_repo = "torchbox/wagtail"
 language = "python"
+
+# ----
+# .NET
+# ----
+
+[[cms]]
+name = "Umbraco"
+description = "The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites."
+url = "http://umbraco.com"
+github_repo = "umbraco/Umbraco-CMS"
+language = "c#"
+
+[[cms]]
+name = "Orchard"
+description = "Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform."
+url = "http://orchardproject.net"
+github_repo = "OrchardCMS/Orchard"
+language = "c#"
+
+[[cms]]
+name = "DotNetNuke (DNN)"
+description = "DNN Corp Platform Repository."
+url = "http://www.dnnsoftware.com"
+github_repo = "dnnsoftware/Dnn.Platform"
+language = "c#"
+
+[[cms]]
+name = "Piranha CMS"
+description = "Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix."
+url = "http://piranhacms.org"
+github_repo = "PiranhaCMS/Piranha"
+language = "c#"
+
+[[cms]]
+name = "Composite C1"
+description = "A web CMS that focus on UX and adaptability"
+github_repo = "Orckestra/C1-CMS"
+language = "c#"

@@ -5,6 +5,7 @@
 _Last generated on September 9th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
+- [.NET](#net)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)
@@ -20,6 +21,103 @@ for details on generation and contribution._
 | :octocat:              | GitHub Link      |
 | :globe_with_meridians: | Official Website |
 | :information_source:   | Last Commit Date |
+
+### .NET
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Composite C1</strong>
+          </div>
+          <div>
+              <a href="https://github.com/Orckestra/C1-CMS">:octocat:</a>&nbsp;&nbsp;
+          </div>
+          <div>
+              2016/09/06
+              <ins title="Last commit on 2016-09-06T11:14:21.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★93
+          </div>
+        </td>
+        <td>A web CMS that focus on UX and adaptability</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>DotNetNuke (DNN)</strong>
+          </div>
+          <div>
+              <a href="https://github.com/dnnsoftware/Dnn.Platform">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://www.dnnsoftware.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/09/08
+              <ins title="Last commit on 2016-09-08T22:43:25.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★211
+          </div>
+        </td>
+        <td>DNN Corp Platform Repository.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Orchard</strong>
+          </div>
+          <div>
+              <a href="https://github.com/OrchardCMS/Orchard">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://orchardproject.net">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/09/01
+              <ins title="Last commit on 2016-09-01T19:34:26.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★1,048
+          </div>
+        </td>
+        <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Piranha CMS</strong>
+          </div>
+          <div>
+              <a href="https://github.com/PiranhaCMS/Piranha">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://piranhacms.org">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/02/19
+              <ins title="Last commit on 2016-02-19T21:49:14.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★310
+          </div>
+        </td>
+        <td>Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It&#x27;s built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Umbraco</strong>
+          </div>
+          <div>
+              <a href="https://github.com/umbraco/Umbraco-CMS">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://umbraco.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/09/08
+              <ins title="Last commit on 2016-09-08T07:30:13.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★1,330
+          </div>
+        </td>
+        <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
+      </tr>
+  </tbody>
+</table>
 
 ### JavaScript
 
@@ -423,7 +521,7 @@ for details on generation and contribution._
           <div>
               2016/09/08
               <ins title="Last commit on 2016-09-08T11:10:53.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★3,684
+              &nbsp;|&nbsp;★3,683
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>

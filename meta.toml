@@ -1,4 +1,5 @@
 [languages_to_human]
+"c#" = ".NET"
 javascript = "JavaScript"
 php = "PHP"
 python = "Python"

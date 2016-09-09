@@ -26,6 +26,17 @@ const x = Xray({
   },
 });
 
+// From https://git.io/viRqj
+const anchorify = (text) => (
+  text.toLowerCase()
+    .split(/ /)
+    .join('-')
+    .split(/\t/)
+    .join('--')
+    .split(/[|$&`~=\\\/@+*!?({[\]})<>=.,;:'"^]/)
+    .join('')
+);
+
 const GITHUB_URL = 'https://github.com';
 
 const numberWithCommas = (n) => (
@@ -67,7 +78,7 @@ const generateReadme = () => {
     }
     return {
       text: humanName,
-      anchor: humanName.toLowerCase().replace(' ', '-'),
+      anchor: anchorify(humanName),
     };
   });
 
