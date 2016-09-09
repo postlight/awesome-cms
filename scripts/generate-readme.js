@@ -2,29 +2,47 @@ const fs = require('fs');
 const toml = require('toml');
 const groupBy = require('lodash/groupBy');
 const sortBy = require('lodash/sortBy');
+const compact = require('lodash/compact');
 const { camelizeKeys } = require('humps');
 const Xray = require('x-ray');
 const Handlebars = require('handlebars');
+const moment = require('moment');
 
 const readmeTemplate = Handlebars.compile(
   fs.readFileSync('./README.md.hbs').toString()
 );
 
-const x = Xray();
+const x = Xray({
+  filters: {
+    removeCommas(value) {
+      return value.replace(',', '');
+    },
+    trim(value) {
+      return value.trim();
+    },
+    toMoment(value) {
+      return moment(value);
+    },
+  },
+});
 
 const GITHUB_URL = 'https://github.com';
 
-const numberWithCommas = (n) => {
-  return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
-};
+const numberWithCommas = (n) => (
+  n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')
+);
 
-const fetchStarCount = (githubURL) => (
+const fetchGitHubDetails = (githubURL) => (
   new Promise((resolve, reject) => {
-    x(githubURL, '.js-social-count')((err, count) => {
+    x(githubURL, {
+      starCount: '.js-social-count | trim | removeCommas',
+      lastCommit: 'relative-time@datetime | trim | toMoment',
+    })((err, data) => {
       if (err) {
+        console.error(`Error scraping ${githubURL}`, err);
         return reject(err);
       }
-      return resolve(count && count.trim().replace(',', ''));
+      return resolve(data);
     });
   })
 );
@@ -64,11 +82,13 @@ const generateReadme = () => {
         const githubURL = `${GITHUB_URL}/${githubRepo}`;
 
         if (githubRepo) {
-          return fetchStarCount(githubURL).then((starCount) => ({
+          return fetchGitHubDetails(githubURL).then(({ starCount, lastCommit }) => ({
             name,
             githubURL,
             starCount: numberWithCommas(starCount),
-            url: githubRepo && url,
+            lastCommit: lastCommit.fromNow(),
+            lastCommitISO: lastCommit.toISOString(),
+            url,
             description,
           }));
         }
@@ -83,6 +103,12 @@ const generateReadme = () => {
 
     return Promise.all(cmsPromises).then((cmses) => ({
       name: languagesToHuman[key],
+      headerColumns: compact([
+        'Name',
+        'Last Push',
+        key !== 'undefined' && 'Stars',
+        'Description',
+      ]),
       cmses,
     }));
   })).then((cmsGroups) => {
@@ -91,6 +117,8 @@ const generateReadme = () => {
       cmsGroups,
       generationTime: (new Date()).toString(),
     }));
+  }).catch((error) => {
+    console.error('Error generating readme', error);
   });
 };
 

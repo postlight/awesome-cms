@@ -1,3 +1,5 @@
+<!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
+
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
 {{#each tocEntries}}
@@ -9,13 +11,39 @@
 {{#each cmsGroups}}
 ### {{name}}
 
-{{#each cmses}}
-{{#if githubURL}}
-- [{{name}}]({{githubURL}}) {{starCount}} ★ {{#if url}}[[website]({{url}})] {{/if}}- {{description}}
-{{else}}
-- [{{name}}]({{url}}) - {{description}}
-{{/if}}
-{{/each}}
+<table>
+  <thead>
+    <tr>
+      {{#each headerColumns}}
+        <th>{{this}}</th>
+      {{/each}}
+    </tr>
+  </thead>
+  <tbody>
+    {{#each cmses}}
+      <tr>
+        <td width="175">
+          {{name}}
+          {{#if githubURL}}
+            <a href="{{githubURL}}">:octocat:</a>
+          {{/if}}
+          {{#if url}}
+            <a href="{{url}}">:globe_with_meridians:</a>
+          {{/if}}
+        </td>
+        {{#if lastCommit}}
+          <td width="130">
+            <abbr title="{{lastCommitISO}}">{{lastCommit}}</abbr>
+          </td>
+        {{/if}}
+        {{#if starCount}}
+          <td>{{starCount}}★</td>
+        {{/if}}
+        <td>{{description}}</td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
 
 {{/each}}
 
