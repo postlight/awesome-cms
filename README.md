@@ -10,7 +10,7 @@
 
 ### JavaScript
 
-- [Apostrophe](https://github.com/punkave/apostrophe) 1,118 ★ [[website](https://github.com/punkave/apostrophe)] - Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application.
+- [Apostrophe](https://github.com/punkave/apostrophe) 1,118 ★ - Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application.
 - [Camaleon CMS](https://github.com/owen2345/camaleon-cms) 808 ★ [[website](http://camaleon.tuzitio.com/)] - Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.
 - [Cody](https://github.com/jcoppieters/cody) 525 ★ [[website](http://howest.cody-cms.org)] - Javascript Content Management System running on Node.js.
 - [Directus](https://github.com/directus/directus) 1,318 ★ [[website](http://getdirectus.com)] - Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.
@@ -42,14 +42,13 @@
 ### Ruby
 
 - [Alchemy CMS](https://github.com/AlchemyCMS/alchemy_cms) 424 ★ [[website](http://alchemy-cms.com)] - Alchemy is a powerful, flexible and user centric Rails CMS.
-- [ComfortableMexicanSofa ](https://github.com/comfy/comfortable-mexican-sofa) 2,030 ★ [[website](https://github.com/comfy/comfortable-mexican-sofa)] - ComfortableMexicanSofa is a powerful Rails 4 CMS Engine.
+- [ComfortableMexicanSofa ](https://github.com/comfy/comfortable-mexican-sofa) 2,030 ★ - ComfortableMexicanSofa is a powerful Rails 4 CMS Engine.
 - [LocomotiveCMS](https://github.com/locomotivecms/engine) 2,137 ★ [[website](http://locomotive.works)] - A platform to create, publish and edit sites.
 - [Publify](https://github.com/publify/publify) 1,628 ★ [[website](http://publify.co)] - A self hosted Web publishing platform on Rails.
 - [Radiant CMS](https://github.com/radiant/radiant) 1,654 ★ [[website](http://radiantcms.org/)] - Radiant is a no-fluff, open source content management system designed for small teams.
 - [Refinery CMS](https://github.com/refinery/refinerycms) 3,380 ★ [[website](http://refinerycms.com)] - An extendable Ruby on Rails CMS that supports Rails 4.2+.
 - [Spina](https://github.com/denkGroot/Spina) 1,017 ★ [[website](http://www.spinacms.com)] - GitHub - denkGroot/Spina: Spina CMS.
-- [Storytime](https://github.com/CultivateLabs/storytime) 671 ★ [[website](https://github.com/CultivateLabs/storytime)] - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.
-
+- [Storytime](https://github.com/CultivateLabs/storytime) 670 ★ - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.
 
 ### Closed Source
 
@@ -64,7 +63,7 @@
 - [SquareSpace](https://www.squarespace.com) - Squarespace is a SaaS-based content management system-integrated website builder, blogging platform and hosting service.
 
 
-_Last generated on Fri Sep 09 2016 09:28:46 GMT-0500 (CDT)_
+_Last generated on Fri Sep 09 2016 09:30:53 GMT-0500 (CDT)_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome

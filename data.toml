@@ -135,7 +135,6 @@ language = "javascript"
 [[cms]]
 name = "Apostrophe"
 description = "Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application."
-url = "https://github.com/punkave/apostrophe"
 github_repo = "punkave/apostrophe"
 language = "javascript"
 
@@ -174,7 +173,6 @@ language = "javascript"
 [[cms]]
 name = "ComfortableMexicanSofa "
 description = "ComfortableMexicanSofa is a powerful Rails 4 CMS Engine."
-url = "https://github.com/comfy/comfortable-mexican-sofa"
 github_repo = "comfy/comfortable-mexican-sofa"
 language = "ruby"
 
@@ -216,7 +214,6 @@ language = "ruby"
 [[cms]]
 name = "Storytime"
 description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs."
-url = "https://github.com/CultivateLabs/storytime"
 github_repo = "CultivateLabs/storytime"
 language = "ruby"
 
