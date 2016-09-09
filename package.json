@@ -1,7 +1,7 @@
 {
   "name": "awesome-cms",
   "version": "1.0.0",
-  "description": "An Awesome List for Content Management Systems",
+  "description": "📝 An Awesome List for Content Management Systems",
   "dependencies": {
     "handlebars": "4.0.5",
     "humps": "1.1.0",
@@ -15,6 +15,6 @@
     "website-to-toml": "node scripts/url-to-toml.js $1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Postlight",
+  "license": "CC0-1.0"
 }
