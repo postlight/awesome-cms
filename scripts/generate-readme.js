@@ -18,9 +18,16 @@ function generateReadme() {
   const cmsesByLanguage = groupBy(data.cms, 'language');
   const languageKeys = Object.keys(cmsesByLanguage).sort();
 
-  const tocText = languageKeys.map((key) => (
-    `- [${languagesToHuman[key]}](#${languagesToHuman[key].toLowerCase()})`
-  )).join('\n');
+  const tocText = languageKeys.map((key) => {
+    let humanName = languagesToHuman[key];
+    if (!humanName) {
+      console.error(
+        `Human name missing for "${key}" language. Add it to meta.toml`
+      );
+      humanName = key;
+    }
+    return `- [${humanName}](#${humanName.toLowerCase()})`;
+  }).join('\n');
 
   const cmsGroupsText = languageKeys.map((key) => {
     const cmsesForLanguage = cmsesByLanguage[key];
