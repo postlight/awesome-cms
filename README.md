@@ -13,6 +13,7 @@
 - [Apostrophe](https://github.com/punkave/apostrophe) [[website](https://github.com/punkave/apostrophe)] - Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application.
 - [Camaleon CMS](https://github.com/owen2345/camaleon-cms) [[website](http://camaleon.tuzitio.com/)] - Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.
 - [Cody](https://github.com/jcoppieters/cody) [[website](http://howest.cody-cms.org)] - Javascript Content Management System running on Node.js.
+- [Directus](https://github.com/directus/directus) [[website](http://getdirectus.com)] - Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.
 - [Ghost](https://github.com/tryghost/Ghost) [[website](https://ghost.org)] - Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.
 - [KeystoneJS](https://github.com/keystonejs/keystone) [[website](http://keystonejs.com)] - The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [Netlify CMS](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators.
@@ -25,6 +26,7 @@
 ### PHP
 
 - [Drupal](https://github.com/drupal/drupal) [[website](https://www.drupal.org)] - Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.
+- [Joomla!](https://github.com/joomla/joomla-cms) [[website](https://www.joomla.org)] - Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.
 - [WordPress](https://github.com/WordPress/WordPress) [[website](https://wordpress.org)] - WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.
 
 
@@ -54,6 +56,13 @@
 
 ### Closed Source
 
+- [Built.io Contentstack](https://www.built.io/products/contentstack/overview) - Headless CMS divides front-end from backend architecture to send content to multiple devices and platforms without creating content differently each time.
+- [Cloud CMS](https://www.cloudcms.com) - Shatter the limits imposed by your old, legacy CMS. Our headless, API-first Content Management System provides everything needed for scalable, multi-device publishing through SaaS and On-Premise delivery
+- [Contentful](https://www.contentful.com) - Contentful is an API-first CMS focused on the simplicity of development. Manage structured content in websites and apps.
+- [Craft CMS](https://craftcms.com) - Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.
+- [ExpressionEngine](https://ellislab.com/expressionengine) - general purpose content management system written in object-oriented PHP and using MySQL for data storage.
+- [Osmek](http://osmek.com) - Osmek is a new kind of CMS, built in the cloud so your content is available where and how you need it. It's a beautiful interface for creating content, and a powerful set of APIs for retrieving it.
+- [prismic.io](https://prismic.io) - A hosted, API based and developer friendly CMS backend. We take care of upgrades, scalability and security.
 - [Siteleaf](http://www.siteleaf.com) - Supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more.
 - [SquareSpace](https://www.squarespace.com) - Squarespace is a SaaS-based content management system-integrated website builder, blogging platform and hosting service.
 
