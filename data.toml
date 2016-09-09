@@ -25,6 +25,13 @@ url = "https://www.drupal.org"
 github_repo = "drupal/drupal"
 language = "php"
 
+[[cms]]
+name = "Joomla!"
+description = "Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS."
+url = "https://www.joomla.org"
+github_repo = "joomla/joomla-cms"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
@@ -38,6 +45,41 @@ url = "https://www.squarespace.com"
 name = "Siteleaf"
 description = "Supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more."
 url = "http://www.siteleaf.com"
+
+[[cms]]
+name = "ExpressionEngine"
+description = "general purpose content management system written in object-oriented PHP and using MySQL for data storage."
+url = "https://ellislab.com/expressionengine"
+
+[[cms]]
+name = "Craft CMS"
+description = "Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients."
+url = "https://craftcms.com"
+
+[[cms]]
+name = "prismic.io"
+description = "A hosted, API based and developer friendly CMS backend. We take care of upgrades, scalability and security."
+url = "https://prismic.io"
+
+[[cms]]
+name = "Built.io Contentstack"
+description = "Headless CMS divides front-end from backend architecture to send content to multiple devices and platforms without creating content differently each time."
+url = "https://www.built.io/products/contentstack/overview"
+
+[[cms]]
+name = "Osmek"
+description = "Osmek is a new kind of CMS, built in the cloud so your content is available where and how you need it. It's a beautiful interface for creating content, and a powerful set of APIs for retrieving it."
+url = "http://osmek.com"
+
+[[cms]]
+name = "Cloud CMS"
+description = "Shatter the limits imposed by your old, legacy CMS. Our headless, API-first Content Management System provides everything needed for scalable, multi-device publishing through SaaS and On-Premise delivery"
+url = "https://www.cloudcms.com"
+
+[[cms]]
+name = "Contentful"
+description = "Contentful is an API-first CMS focused on the simplicity of development. Manage structured content in websites and apps."
+url = "https://www.contentful.com"
 
 # ----------
 # JavaScript
@@ -102,6 +144,13 @@ name = "Reaction"
 description = "Reaction is a modern reactive, real-time event driven ecommerce platform."
 url = "https://reactioncommerce.com/"
 github_repo = "reactioncommerce/reaction"
+language = "javascript"
+
+[[cms]]
+name = "Directus"
+description = "Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas."
+url = "http://getdirectus.com"
+github_repo = "directus/directus"
 language = "javascript"
 
 # ----
