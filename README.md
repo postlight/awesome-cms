@@ -10,6 +10,13 @@
 
 ## Content Management Systems
 
+**Key**
+
+| Emoji                  | Meaning          |
+| ---------------------- | ---------------- |
+| :octocat:              | GitHub Link      |
+| :globe_with_meridians: | Official Website |
+
 ### JavaScript
 
 <table>
@@ -78,7 +85,7 @@
           <td width="130">
             <abbr title="2016-09-06T15:15:49.000Z">2016/09/06</abbr>
           </td>
-          <td>★20,598</td>
+          <td>★20,599</td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
       </tr>
       <tr>
@@ -502,7 +509,7 @@
 </table>
 
 
-_Last generated on Fri Sep 09 2016 11:17:33 GMT-0500 (CDT)_
+_Last generated on Fri Sep 09 2016 11:23:21 GMT-0500 (CDT)_
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
