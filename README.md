@@ -2,8 +2,8 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of 73 open and closed source Content Management Systems
-(CMS) for your perusal.
+A collection of **73** open and closed source Content Management
+Systems (CMS) for your perusal.
 
 _Last generated on September 11th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
