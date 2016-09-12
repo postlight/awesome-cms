@@ -74,11 +74,11 @@ const generateReadme = () => {
   const data = camelizeKeys(toml.parse(dataContents));
   const { cms: allCMSES } = data;
 
-  const duplicateUrls = duplicatesForKey(allCMSES, 'url');
+  const duplicateURLS = duplicatesForKey(allCMSES, 'url');
   const duplicateGithubRepos = duplicatesForKey(allCMSES, 'githubRepo');
 
-  if (duplicateUrls.length) {
-    console.error(`Duplciate url found: ${duplicateUrls}`);
+  if (duplicateURLS.length) {
+    console.error(`Duplciate url found: ${duplicateURLS}`);
   }
   if (duplicateGithubRepos.length) {
     console.error(`Duplciate github_repo found: ${duplicateGithubRepos}`);
