@@ -132,6 +132,21 @@ url = "https://contao.org/en/"
 github_repo = "contao/core"
 language = "php"
 
+[[cms]]
+name = "Microweber"
+description = "Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required."
+url = "https://microweber.com"
+github_repo = "microweber/microweber"
+language = "php"
+
+[[cms]]
+name = "PyroCMS"
+description = "PyroCMS is an MVC PHP Content Management System built to be easy to use, theme and develop with. It is used by individuals and organizations of all sizes around the world."
+url = "https://www.pyrocms.com/"
+github_repo = "pyrocms/pyrocms"
+awesome_repo = "websemantics/awesome-pyrocms"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
@@ -306,6 +321,13 @@ name = "Respond CMS"
 description = "Angular 2 + Lumen PHP + Static HTML sites.  Respond 6 is a responsive CMS that features Bootstrap 3, a complete REST API,  templates, plugins, and more."
 url = "https://respondcms.com"
 github_repo = "madoublet/respond"
+language = "javascript"
+
+[[cms]]
+name = "Jekyll Admin"
+description = "A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites."
+url = "https://jekyll.github.io/jekyll-admin/"
+github_repo = "jekyll/jekyll-admin"
 language = "javascript"
 
 # ----

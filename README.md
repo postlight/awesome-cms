@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **70** open and closed source Content Management Systems
+A collection of 73 open and closed source Content Management Systems
 (CMS) for your perusal.
 
 _Last generated on September 11th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
@@ -253,6 +253,27 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Jekyll Admin</b>
+          </div>
+          <div>
+              <a href="https://github.com/jekyll/jekyll-admin" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://jekyll.github.io/jekyll-admin/" title="Website for Jekyll Admin">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              2016/09/06
+              <ins title="Last commit on 2016-09-06T14:11:56.000Z">ⓘ</ins>
+              &nbsp;|&nbsp;★489
+          </div>
+        </td>
+        <td>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.</td>
       </tr>
       <tr>
         <td width="240">
@@ -684,6 +705,27 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Microweber</b>
+          </div>
+          <div>
+              <a href="https://github.com/microweber/microweber" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://microweber.com" title="Website for Microweber">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              2016/07/29
+              <ins title="Last commit on 2016-07-29T11:51:24.000Z">ⓘ</ins>
+              &nbsp;|&nbsp;★430
+          </div>
+        </td>
+        <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Pagekit</b>
           </div>
           <div>
@@ -747,6 +789,30 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>PyroCMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/pyrocms/pyrocms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.pyrocms.com/" title="Website for PyroCMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/websemantics/awesome-pyrocms" title="Awesome List for PyroCMS">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              2016/09/10
+              <ins title="Last commit on 2016-09-10T15:46:59.000Z">ⓘ</ins>
+              &nbsp;|&nbsp;★2,325
+          </div>
+        </td>
+        <td>PyroCMS is an MVC PHP Content Management System built to be easy to use, theme and develop with. It is used by individuals and organizations of all sizes around the world.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>SilverStripe</b>
           </div>
           <div>
@@ -783,7 +849,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/11
-              <ins title="Last commit on 2016-09-12T02:01:39.009Z">ⓘ</ins>
+              <ins title="Last commit on 2016-09-12T02:14:41.072Z">ⓘ</ins>
               &nbsp;|&nbsp;★7,935
           </div>
         </td>
