@@ -286,6 +286,7 @@ name = "django CMS"
 description = "The easy-to-use and developer-friendly CMS."
 url = "http://www.django-cms.org"
 github_repo = "divio/django-cms"
+awesome_repo = "mishbahr/awesome-django-cms"
 language = "python"
 
 [[cms]]
@@ -335,6 +336,7 @@ name = "Wagtail CMS"
 description = "Wagtail is a content management system built on Django. It's focused on user experience, and offers precise control for designers and developers."
 url = "http://wagtail.io"
 github_repo = "torchbox/wagtail"
+awesome_repo = "springload/awesome-wagtail"
 language = "python"
 
 [[cms]]

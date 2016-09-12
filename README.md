@@ -544,6 +544,9 @@ for details on generation and contribution._
               <a href="http://www.django-cms.org" title="Website for django CMS">
                 :globe_with_meridians:
               </a>&nbsp;&nbsp;
+            <a href="https://github.com/mishbahr/awesome-django-cms" title="Awesome List for django CMS">
+              :sunglasses:
+            </a>
           </div>
           <div>
               2016/09/09
@@ -712,6 +715,9 @@ for details on generation and contribution._
               <a href="http://wagtail.io" title="Website for Wagtail CMS">
                 :globe_with_meridians:
               </a>&nbsp;&nbsp;
+            <a href="https://github.com/springload/awesome-wagtail" title="Awesome List for Wagtail CMS">
+              :sunglasses:
+            </a>
           </div>
           <div>
               2016/09/08
