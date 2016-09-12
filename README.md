@@ -21,8 +21,8 @@ for details on generation and contribution._
 | ---------------------- | ---------------- |
 | :octocat:              | GitHub Repo      |
 | :globe_with_meridians: | Official Website |
-| :information_source:   | Last Commit Date |
 | :sunglasses:           | Awesome List     |
+| ⓘ                      | Last Commit Date |
 
 ## .NET
 
@@ -46,7 +46,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/06
-              <ins title="Last commit on 2016-09-06T11:14:21.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-06T11:14:21.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★93
           </div>
         </td>
@@ -67,7 +67,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/08
-              <ins title="Last commit on 2016-09-08T22:43:25.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-08T22:43:25.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★213
           </div>
         </td>
@@ -88,7 +88,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/01
-              <ins title="Last commit on 2016-09-01T19:34:26.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-01T19:34:26.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,049
           </div>
         </td>
@@ -109,7 +109,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/02/19
-              <ins title="Last commit on 2016-02-19T21:49:14.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-02-19T21:49:14.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★310
           </div>
         </td>
@@ -133,7 +133,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/08
-              <ins title="Last commit on 2016-09-08T07:30:13.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-08T07:30:13.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,331
           </div>
         </td>
@@ -164,7 +164,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/08
-              <ins title="Last commit on 2016-09-08T18:27:04.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-08T18:27:04.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,118
           </div>
         </td>
@@ -185,7 +185,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/11
-              <ins title="Last commit on 2016-09-11T10:56:00.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-11T10:56:00.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★808
           </div>
         </td>
@@ -206,7 +206,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/06/02
-              <ins title="Last commit on 2016-06-02T18:11:32.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-06-02T18:11:32.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★525
           </div>
         </td>
@@ -227,7 +227,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/09
-              <ins title="Last commit on 2016-09-09T14:35:09.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-09T14:35:09.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,327
           </div>
         </td>
@@ -248,7 +248,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/06
-              <ins title="Last commit on 2016-09-06T15:15:49.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-06T15:15:49.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★20,609
           </div>
         </td>
@@ -269,7 +269,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/11
-              <ins title="Last commit on 2016-09-11T13:00:42.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-11T13:00:42.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★7,587
           </div>
         </td>
@@ -287,7 +287,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/16
-              <ins title="Last commit on 2016-08-16T07:12:56.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-16T07:12:56.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★515
           </div>
         </td>
@@ -308,7 +308,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/05
-              <ins title="Last commit on 2016-09-05T22:31:41.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-05T22:31:41.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,422
           </div>
         </td>
@@ -329,7 +329,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/31
-              <ins title="Last commit on 2016-09-01T00:53:05.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-01T00:53:05.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★2,667
           </div>
         </td>
@@ -347,7 +347,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/08
-              <ins title="Last commit on 2016-09-08T17:19:42.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-08T17:19:42.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★6,102
           </div>
         </td>
@@ -368,7 +368,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/07/12
-              <ins title="Last commit on 2016-07-12T22:30:09.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-07-12T22:30:09.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★158
           </div>
         </td>
@@ -389,7 +389,7 @@ for details on generation and contribution._
           </div>
           <div>
               2015/09/04
-              <ins title="Last commit on 2015-09-04T21:51:47.000Z">:information_source:</ins>
+              <ins title="Last commit on 2015-09-04T21:51:47.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★500
           </div>
         </td>
@@ -423,7 +423,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/05/12
-              <ins title="Last commit on 2016-05-12T12:57:00.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-05-12T12:57:00.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★770
           </div>
         </td>
@@ -447,7 +447,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/09
-              <ins title="Last commit on 2016-09-09T21:21:53.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-09T21:21:53.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★2,363
           </div>
         </td>
@@ -468,7 +468,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/06/23
-              <ins title="Last commit on 2016-06-24T00:53:18.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-06-24T00:53:18.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★776
           </div>
         </td>
@@ -489,7 +489,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/11
-              <ins title="Last commit on 2016-09-11T13:32:17.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-11T13:32:17.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★2,135
           </div>
         </td>
@@ -513,7 +513,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/11
-              <ins title="Last commit on 2016-09-11T18:46:30.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-11T18:46:30.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★7,935
           </div>
         </td>
@@ -550,7 +550,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/09
-              <ins title="Last commit on 2016-09-09T16:32:18.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-09T16:32:18.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★4,390
           </div>
         </td>
@@ -571,7 +571,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/05/12
-              <ins title="Last commit on 2016-05-12T12:06:33.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-05-12T12:06:33.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★673
           </div>
         </td>
@@ -592,7 +592,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/29
-              <ins title="Last commit on 2016-08-29T09:01:14.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-29T09:01:14.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★298
           </div>
         </td>
@@ -613,7 +613,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/04
-              <ins title="Last commit on 2016-08-04T20:16:19.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-04T20:16:19.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,994
           </div>
         </td>
@@ -634,7 +634,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/08
-              <ins title="Last commit on 2016-09-09T01:25:27.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-09T01:25:27.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★2,812
           </div>
         </td>
@@ -655,7 +655,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/06/01
-              <ins title="Last commit on 2016-06-01T20:16:15.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-06-01T20:16:15.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★252
           </div>
         </td>
@@ -676,7 +676,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/19
-              <ins title="Last commit on 2016-08-19T18:33:44.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-19T18:33:44.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★58
           </div>
         </td>
@@ -697,7 +697,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/19
-              <ins title="Last commit on 2016-08-19T20:52:17.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-19T20:52:17.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,373
           </div>
         </td>
@@ -721,7 +721,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/08
-              <ins title="Last commit on 2016-09-08T11:10:53.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-08T11:10:53.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★3,687
           </div>
         </td>
@@ -755,7 +755,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/10
-              <ins title="Last commit on 2016-09-10T20:30:07.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-10T20:30:07.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★425
           </div>
         </td>
@@ -773,7 +773,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/04/28
-              <ins title="Last commit on 2016-04-28T15:22:34.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-04-28T15:22:34.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★2,030
           </div>
         </td>
@@ -794,7 +794,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/11
-              <ins title="Last commit on 2016-08-11T08:40:17.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-11T08:40:17.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★2,137
           </div>
         </td>
@@ -815,7 +815,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/08/17
-              <ins title="Last commit on 2016-08-17T11:58:13.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-08-17T11:58:13.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,628
           </div>
         </td>
@@ -836,7 +836,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/04/04
-              <ins title="Last commit on 2016-04-04T12:25:42.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-04-04T12:25:42.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,653
           </div>
         </td>
@@ -860,7 +860,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/07/31
-              <ins title="Last commit on 2016-07-31T23:19:23.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-07-31T23:19:23.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★3,380
           </div>
         </td>
@@ -881,7 +881,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/03
-              <ins title="Last commit on 2016-09-03T19:42:40.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-09-03T19:42:40.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★1,019
           </div>
         </td>
@@ -899,7 +899,7 @@ for details on generation and contribution._
           </div>
           <div>
               2016/07/11
-              <ins title="Last commit on 2016-07-11T22:48:02.000Z">:information_source:</ins>
+              <ins title="Last commit on 2016-07-11T22:48:02.000Z">ⓘ</ins>
               &nbsp;|&nbsp;★670
           </div>
         </td>
