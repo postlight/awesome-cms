@@ -3,6 +3,7 @@ const toml = require('toml');
 const groupBy = require('lodash/groupBy');
 const sortBy = require('lodash/sortBy');
 const compact = require('lodash/compact');
+const find = require('lodash/find');
 const { camelizeKeys } = require('humps');
 const Xray = require('x-ray');
 const Handlebars = require('handlebars');
@@ -58,14 +59,33 @@ const fetchGitHubDetails = (githubURL) => (
   })
 );
 
+// Find duplicate entries in an array of objects for a given key.
+const duplicatesForKey = (objectArray, key) => (
+  objectArray.filter((object, index) => (
+    object[key] && find(objectArray.slice(index + 1), [key, object[key]])
+  )).map((object) => object[key])
+);
+
 const generateReadme = () => {
+  const startedAt = moment();
   const metaContents = fs.readFileSync('./meta.toml');
   const meta = camelizeKeys(toml.parse(metaContents));
   const dataContents = fs.readFileSync('./data.toml');
   const data = camelizeKeys(toml.parse(dataContents));
+  const { cms: allCMSES } = data;
+
+  const duplicateUrls = duplicatesForKey(allCMSES, 'url');
+  const duplicateGithubRepos = duplicatesForKey(allCMSES, 'githubRepo');
+
+  if (duplicateUrls.length) {
+    console.error(`Duplciate url found: ${duplicateUrls}`);
+  }
+  if (duplicateGithubRepos.length) {
+    console.error(`Duplciate github_repo found: ${duplicateGithubRepos}`);
+  }
 
   const { languagesToHuman } = meta;
-  const cmsesByLanguage = groupBy(data.cms, 'language');
+  const cmsesByLanguage = groupBy(allCMSES, 'language');
   const languageKeys = Object.keys(cmsesByLanguage).sort();
 
   const tocEntries = languageKeys.map((key) => {
@@ -126,6 +146,11 @@ const generateReadme = () => {
       cmsGroups,
       generationTime: moment().format('MMMM Do, YYYY'),
     }));
+    const milliseconds = moment().diff(startedAt);
+    console.log(
+      `Finished README.md generation for ${allCMSES.length}` +
+        ` CMSes in ${milliseconds / 1000.0} seconds.`
+    );
   }).catch((error) => {
     console.error('Error generating readme', error);
   });
