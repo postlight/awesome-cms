@@ -120,7 +120,6 @@ const generateReadme = () => {
             githubURL,
             starCount: numberWithCommas(starCount),
             lastCommit: lastCommit.format('YYYY/MM/DD'),
-            lastCommitISO: lastCommit.toISOString(),
             url,
             description,
           }));
