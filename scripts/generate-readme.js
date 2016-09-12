@@ -145,9 +145,10 @@ const generateReadme = () => {
     }));
   })).then((cmsGroups) => {
     fs.writeFileSync('README.md', readmeTemplate({
-      tocEntries,
+      cmsCount: allCMSES.length,
       cmsGroups,
       generationTime: moment().format('MMMM Do, YYYY'),
+      tocEntries,
     }));
     const milliseconds = moment().diff(startedAt);
     console.log(

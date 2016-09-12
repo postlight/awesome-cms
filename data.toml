@@ -49,6 +49,89 @@ url = "http://www.getfuelcms.com"
 github_repo = "daylightstudio/FUEL-CMS"
 language = "php"
 
+[[cms]]
+name = "Grav"
+description = "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS."
+url = "http://getgrav.org"
+github_repo = "getgrav/grav"
+language = "php"
+
+[[cms]]
+name = "Pagekit"
+description = "Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js."
+url = "https://pagekit.com"
+github_repo = "pagekit/pagekit"
+language = "php"
+
+[[cms]]
+name = "Bolt"
+description = "Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL."
+url = "https://github.com/bolt/bolt"
+github_repo = "bolt/bolt"
+language = "php"
+
+[[cms]]
+name = "Anchor CMS"
+description = "A lightweight blog CMS for PHP."
+url = "http://anchorcms.com/"
+github_repo = "anchorcms/anchor-cms"
+language = "php"
+
+[[cms]]
+name = "Pico"
+description = "Pico is a stupidly simple, blazing fast, flat file CMS."
+url = "http://picocms.org/"
+github_repo = "picocms/Pico"
+language = "php"
+
+[[cms]]
+name = "Cockpit CMS"
+description = "Add content management functionality to any site."
+url = "http://getcockpit.com"
+github_repo = "COCOPi/cockpit"
+language = "php"
+
+[[cms]]
+name = "Bootstrap CMS"
+description = "A PHP CMS powered by Laravel 5 and Sentry"
+github_repo = "BootstrapCMS/CMS"
+language = "php"
+
+[[cms]]
+name = "Fork CMS"
+description = "Fork is an open source CMS using Symfony Components."
+url = "http://www.fork-cms.com"
+github_repo = "forkcms/forkcms"
+language = "php"
+
+[[cms]]
+name = "Pimcore Platform"
+description = "Content & Product Management Framework (CMS/PIM/E-Commerce)."
+url = "http://www.pimcore.org/"
+github_repo = "pimcore/pimcore"
+language = "php"
+
+[[cms]]
+name = "SilverStripe"
+description = "SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results."
+url = "http://silverstripe.org/"
+github_repo = "silverstripe/silverstripe-framework"
+language = "php"
+
+[[cms]]
+name = "Lavalite"
+description = "CMS Built with Laravel 5.2 and Bootstrap 3."
+url = "http://www.lavalite.org"
+github_repo = "LavaLite/cms"
+language = "php"
+
+[[cms]]
+name = "Contao"
+description = "Contao is a web-based Open Source CMS, which generates accessible websites. It supports multiple languages and can easily be learned and extended."
+url = "https://contao.org/en/"
+github_repo = "contao/core"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
@@ -211,6 +294,20 @@ url = "http://www.webhook.com"
 github_repo = "webhook/webhook"
 language = "javascript"
 
+[[cms]]
+name = "CMS.js"
+description = "CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website. CMS.js is like a file-based CMS. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting."
+url = "http://cdmedia.github.io/cms.js"
+github_repo = "cdmedia/cms.js"
+language = "javascript"
+
+[[cms]]
+name = "Respond CMS"
+description = "Angular 2 + Lumen PHP + Static HTML sites.  Respond 6 is a responsive CMS that features Bootstrap 3, a complete REST API,  templates, plugins, and more."
+url = "https://respondcms.com"
+github_repo = "madoublet/respond"
+language = "javascript"
+
 # ----
 # Ruby
 # ----
@@ -227,7 +324,7 @@ name = "Camaleon CMS"
 description = "Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4."
 url = "http://camaleon.tuzitio.com/"
 github_repo = "owen2345/camaleon-cms"
-language = "javascript"
+language = "ruby"
 
 [[cms]]
 name = "ComfortableMexicanSofa "
@@ -275,6 +372,13 @@ language = "ruby"
 name = "Storytime"
 description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs."
 github_repo = "CultivateLabs/storytime"
+language = "ruby"
+
+[[cms]]
+name = "Nesta"
+description = "A lightweight CMS, implemented in Sinatra."
+url = "http://nestacms.com"
+github_repo = "gma/nesta"
 language = "ruby"
 
 ## ------
