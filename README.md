@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-_Last generated on September 9th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+_Last generated on September 11th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
 - [.NET](#net)
@@ -46,7 +46,7 @@ for details on generation and contribution._
               &nbsp;|&nbsp;★93
           </div>
         </td>
-        <td>A web CMS that focus on UX and adaptability</td>
+        <td>A web CMS that focus on UX and adaptability.</td>
       </tr>
       <tr>
         <td width="240">
@@ -60,7 +60,7 @@ for details on generation and contribution._
           <div>
               2016/09/08
               <ins title="Last commit on 2016-09-08T22:43:25.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★211
+              &nbsp;|&nbsp;★213
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -77,7 +77,7 @@ for details on generation and contribution._
           <div>
               2016/09/01
               <ins title="Last commit on 2016-09-01T19:34:26.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,048
+              &nbsp;|&nbsp;★1,049
           </div>
         </td>
         <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
@@ -155,8 +155,8 @@ for details on generation and contribution._
               <a href="http://camaleon.tuzitio.com/">:globe_with_meridians:</a>
           </div>
           <div>
-              2016/09/08
-              <ins title="Last commit on 2016-09-09T01:22:57.000Z">:information_source:</ins>
+              2016/09/11
+              <ins title="Last commit on 2016-09-11T10:56:00.000Z">:information_source:</ins>
               &nbsp;|&nbsp;★808
           </div>
         </td>
@@ -191,7 +191,7 @@ for details on generation and contribution._
           <div>
               2016/09/09
               <ins title="Last commit on 2016-09-09T14:35:09.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,321
+              &nbsp;|&nbsp;★1,327
           </div>
         </td>
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
@@ -208,7 +208,7 @@ for details on generation and contribution._
           <div>
               2016/09/06
               <ins title="Last commit on 2016-09-06T15:15:49.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★20,599
+              &nbsp;|&nbsp;★20,609
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
@@ -223,9 +223,9 @@ for details on generation and contribution._
               <a href="http://keystonejs.com">:globe_with_meridians:</a>
           </div>
           <div>
-              2016/09/09
-              <ins title="Last commit on 2016-09-09T13:40:36.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★7,575
+              2016/09/11
+              <ins title="Last commit on 2016-09-11T13:00:42.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★7,587
           </div>
         </td>
         <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
@@ -241,7 +241,7 @@ for details on generation and contribution._
           <div>
               2016/08/16
               <ins title="Last commit on 2016-08-16T07:12:56.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★513
+              &nbsp;|&nbsp;★515
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -258,7 +258,7 @@ for details on generation and contribution._
           <div>
               2016/09/05
               <ins title="Last commit on 2016-09-05T22:31:41.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,421
+              &nbsp;|&nbsp;★1,422
           </div>
         </td>
         <td>Business class content management for Node.js (plugins, server cluster management, data-driven pages).</td>
@@ -275,7 +275,7 @@ for details on generation and contribution._
           <div>
               2016/08/31
               <ins title="Last commit on 2016-09-01T00:53:05.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★2,661
+              &nbsp;|&nbsp;★2,667
           </div>
         </td>
         <td>Reaction is a modern reactive, real-time event driven ecommerce platform.</td>
@@ -291,7 +291,7 @@ for details on generation and contribution._
           <div>
               2016/09/08
               <ins title="Last commit on 2016-09-08T17:19:42.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★6,094
+              &nbsp;|&nbsp;★6,102
           </div>
         </td>
         <td>New generation CMS on top of React, Redux and GraphQL.</td>
@@ -313,6 +313,23 @@ for details on generation and contribution._
         </td>
         <td>Extensible Node.js MVC framework.</td>
       </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Webhook</strong>
+          </div>
+          <div>
+              <a href="https://github.com/webhook/webhook">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://www.webhook.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2015/09/04
+              <ins title="Last commit on 2015-09-04T21:51:47.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★500
+          </div>
+        </td>
+        <td>Webhook lets you build a custom CMS with matching HTML templates in about a minute. Webhook is built with Node JS, Grunt, Firebase and Swig.</td>
+      </tr>
   </tbody>
 </table>
 
@@ -329,6 +346,23 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <strong>Croogo</strong>
+          </div>
+          <div>
+              <a href="https://github.com/croogo/croogo">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://www.croogo.org">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/05/12
+              <ins title="Last commit on 2016-05-12T12:57:00.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★770
+          </div>
+        </td>
+        <td>A CakePHP powered Content Management System.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <strong>Drupal</strong>
           </div>
           <div>
@@ -337,11 +371,28 @@ for details on generation and contribution._
           </div>
           <div>
               2016/09/09
-              <ins title="Last commit on 2016-09-09T17:42:09.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★2,361
+              <ins title="Last commit on 2016-09-09T21:21:53.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★2,363
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>FUEL CMS</strong>
+          </div>
+          <div>
+              <a href="https://github.com/daylightstudio/FUEL-CMS">:octocat:</a>&nbsp;&nbsp;
+              <a href="http://www.getfuelcms.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/06/23
+              <ins title="Last commit on 2016-06-24T00:53:18.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★776
+          </div>
+        </td>
+        <td>A CodeIgniter Content Management System.</td>
       </tr>
       <tr>
         <td width="240">
@@ -353,9 +404,9 @@ for details on generation and contribution._
               <a href="https://www.joomla.org">:globe_with_meridians:</a>
           </div>
           <div>
-              2016/09/08
-              <ins title="Last commit on 2016-09-08T17:17:36.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★2,133
+              2016/09/11
+              <ins title="Last commit on 2016-09-11T13:32:17.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★2,135
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -370,9 +421,9 @@ for details on generation and contribution._
               <a href="https://wordpress.org">:globe_with_meridians:</a>
           </div>
           <div>
-              2016/09/09
-              <ins title="Last commit on 2016-09-09T19:49:29.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★7,927
+              2016/09/11
+              <ins title="Last commit on 2016-09-11T18:46:30.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★7,935
           </div>
         </td>
         <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
@@ -402,7 +453,7 @@ for details on generation and contribution._
           <div>
               2016/09/09
               <ins title="Last commit on 2016-09-09T16:32:18.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★4,386
+              &nbsp;|&nbsp;★4,390
           </div>
         </td>
         <td>The easy-to-use and developer-friendly CMS.</td>
@@ -444,6 +495,23 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <strong>Lektor</strong>
+          </div>
+          <div>
+              <a href="https://github.com/lektor/lektor">:octocat:</a>&nbsp;&nbsp;
+              <a href="https://www.getlektor.com/">:globe_with_meridians:</a>
+          </div>
+          <div>
+              2016/08/04
+              <ins title="Last commit on 2016-08-04T20:16:19.000Z">:information_source:</ins>
+              &nbsp;|&nbsp;★1,994
+          </div>
+        </td>
+        <td>The lektor static file content management system</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <strong>Mezzanine</strong>
           </div>
           <div>
@@ -453,7 +521,7 @@ for details on generation and contribution._
           <div>
               2016/09/08
               <ins title="Last commit on 2016-09-09T01:25:27.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★2,813
+              &nbsp;|&nbsp;★2,812
           </div>
         </td>
         <td>CMS framework for Django.</td>
@@ -504,7 +572,7 @@ for details on generation and contribution._
           <div>
               2016/08/19
               <ins title="Last commit on 2016-08-19T20:52:17.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,372
+              &nbsp;|&nbsp;★1,373
           </div>
         </td>
         <td>Quokka is a flexible content management platform powered by Python, Flask and MongoDB.</td>
@@ -521,7 +589,7 @@ for details on generation and contribution._
           <div>
               2016/09/08
               <ins title="Last commit on 2016-09-08T11:10:53.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★3,683
+              &nbsp;|&nbsp;★3,687
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -549,8 +617,8 @@ for details on generation and contribution._
               <a href="http://alchemy-cms.com">:globe_with_meridians:</a>
           </div>
           <div>
-              2016/09/09
-              <ins title="Last commit on 2016-09-09T20:45:54.000Z">:information_source:</ins>
+              2016/09/10
+              <ins title="Last commit on 2016-09-10T20:30:07.000Z">:information_source:</ins>
               &nbsp;|&nbsp;★425
           </div>
         </td>
@@ -618,7 +686,7 @@ for details on generation and contribution._
           <div>
               2016/04/04
               <ins title="Last commit on 2016-04-04T12:25:42.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,654
+              &nbsp;|&nbsp;★1,653
           </div>
         </td>
         <td>Radiant is a no-fluff, open source content management system designed for small teams.</td>
@@ -652,7 +720,7 @@ for details on generation and contribution._
           <div>
               2016/09/03
               <ins title="Last commit on 2016-09-03T19:42:40.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,017
+              &nbsp;|&nbsp;★1,019
           </div>
         </td>
         <td>GitHub - denkGroot/Spina: Spina CMS.</td>
@@ -686,6 +754,19 @@ for details on generation and contribution._
     </tr>
   </thead>
   <tbody>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Blogger</strong>
+          </div>
+          <div>
+              <a href="https://www.blogger.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Publish your passions your way. Whether you’d like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.</td>
+      </tr>
       <tr>
         <td width="240">
           <div>
@@ -728,6 +809,19 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <strong>Cosmic JS</strong>
+          </div>
+          <div>
+              <a href="https://cosmicjs.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Cosmic JS is a cloud-hosted content platform that offers a flexible and intuitive CMS API.  Build websites and applications with more freedom and manage content easier.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <strong>Craft CMS</strong>
           </div>
           <div>
@@ -750,6 +844,32 @@ for details on generation and contribution._
           </div>
         </td>
         <td>general purpose content management system written in object-oriented PHP and using MySQL for data storage.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Jimdo</strong>
+          </div>
+          <div>
+              <a href="http://www.jimdo.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Create a professional website, online store or blog in minutes with Jimdo&#x27;s website builder. Choose one of our responsive templates, and get started!</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Medium</strong>
+          </div>
+          <div>
+              <a href="http://medium.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Welcome to Medium, a place to read, write, and interact with the stories that matter most to you. Every day thousands of new voices share…</td>
       </tr>
       <tr>
         <td width="240">
@@ -780,6 +900,19 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <strong>Prose</strong>
+          </div>
+          <div>
+              <a href="http://prose.io">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Prose is a content editor for GitHub designed for managing websites.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <strong>Siteleaf</strong>
           </div>
           <div>
@@ -802,6 +935,32 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Squarespace is a SaaS-based content management system-integrated website builder, blogging platform and hosting service.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Weebly</strong>
+          </div>
+          <div>
+              <a href="https://www.weebly.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Weebly makes it surprisingly easy to create a high-quality website, blog or online store. Over 30 million people use Weebly to bring their unique ideas to life.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <strong>Wix</strong>
+          </div>
+          <div>
+              <a href="http://www.wix.com">:globe_with_meridians:</a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Create a free website with Wix.com. Customize with Wix&#x27; free website builder, no coding skills needed. Choose a design, begin customizing and be online today!</td>
       </tr>
   </tbody>
 </table>

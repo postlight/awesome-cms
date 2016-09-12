@@ -32,6 +32,20 @@ url = "https://www.joomla.org"
 github_repo = "joomla/joomla-cms"
 language = "php"
 
+[[cms]]
+name = "Croogo"
+description = "A CakePHP powered Content Management System."
+url = "http://www.croogo.org"
+github_repo = "croogo/croogo"
+language = "php"
+
+[[cms]]
+name = "FUEL CMS"
+description = "A CodeIgniter Content Management System."
+url = "http://www.getfuelcms.com"
+github_repo = "daylightstudio/FUEL-CMS"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
@@ -80,6 +94,41 @@ url = "https://www.cloudcms.com"
 name = "Contentful"
 description = "Contentful is an API-first CMS focused on the simplicity of development. Manage structured content in websites and apps."
 url = "https://www.contentful.com"
+
+[[cms]]
+name = "Cosmic JS"
+description = "Cosmic JS is a cloud-hosted content platform that offers a flexible and intuitive CMS API.  Build websites and applications with more freedom and manage content easier."
+url = "https://cosmicjs.com"
+
+[[cms]]
+name = "Prose"
+description = "Prose is a content editor for GitHub designed for managing websites."
+url = "http://prose.io"
+
+[[cms]]
+name = "Weebly"
+description = "Weebly makes it surprisingly easy to create a high-quality website, blog or online store. Over 30 million people use Weebly to bring their unique ideas to life."
+url = "https://www.weebly.com"
+
+[[cms]]
+name = "Wix"
+description = "Create a free website with Wix.com. Customize with Wix' free website builder, no coding skills needed. Choose a design, begin customizing and be online today!"
+url = "http://www.wix.com"
+
+[[cms]]
+name = "Blogger"
+description = "Publish your passions your way. Whether you’d like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free."
+url = "https://www.blogger.com"
+
+[[cms]]
+name = "Medium"
+description = "Welcome to Medium, a place to read, write, and interact with the stories that matter most to you. Every day thousands of new voices share…"
+url = "http://medium.com"
+
+[[cms]]
+name = "Jimdo"
+description = "Create a professional website, online store or blog in minutes with Jimdo's website builder. Choose one of our responsive templates, and get started!"
+url = "http://www.jimdo.com"
 
 # ----------
 # JavaScript
@@ -150,6 +199,13 @@ name = "Directus"
 description = "Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas."
 url = "http://getdirectus.com"
 github_repo = "directus/directus"
+language = "javascript"
+
+[[cms]]
+name = "Webhook"
+description = "Webhook lets you build a custom CMS with matching HTML templates in about a minute. Webhook is built with Node JS, Grunt, Firebase and Swig."
+url = "http://www.webhook.com"
+github_repo = "webhook/webhook"
 language = "javascript"
 
 # ----
@@ -277,6 +333,13 @@ url = "http://wagtail.io"
 github_repo = "torchbox/wagtail"
 language = "python"
 
+[[cms]]
+name = "Lektor"
+description = "The lektor static file content management system"
+url = "https://www.getlektor.com/"
+github_repo = "lektor/lektor"
+language = "python"
+
 # ----
 # .NET
 # ----
@@ -311,6 +374,6 @@ language = "c#"
 
 [[cms]]
 name = "Composite C1"
-description = "A web CMS that focus on UX and adaptability"
+description = "A web CMS that focus on UX and adaptability."
 github_repo = "Orckestra/C1-CMS"
 language = "c#"
