@@ -134,7 +134,7 @@ for details on generation and contribution._
           <div>
               2016/09/08
               <ins title="Last commit on 2016-09-08T07:30:13.000Z">:information_source:</ins>
-              &nbsp;|&nbsp;★1,330
+              &nbsp;|&nbsp;★1,331
           </div>
         </td>
         <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
@@ -486,9 +486,6 @@ for details on generation and contribution._
               <a href="https://www.joomla.org" title="Website for Joomla!">
                 :globe_with_meridians:
               </a>&nbsp;&nbsp;
-            <a href="https://github.com/brunowego/awesome-joomla" title="Awesome List for Joomla!">
-              :sunglasses:
-            </a>
           </div>
           <div>
               2016/09/11
