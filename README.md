@@ -2,6 +2,9 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
+A collection of open and closed source Content Management Systems (CMS) for your
+perusal.
+
 _Last generated on September 11th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
@@ -12,8 +15,6 @@ for details on generation and contribution._
 - [Ruby](#ruby)
 - [Closed Source](#closed-source)
 
-## Content Management Systems
-
 **Key**
 
 | Emoji                  | Meaning          |
@@ -23,7 +24,7 @@ for details on generation and contribution._
 | :information_source:   | Last Commit Date |
 | :sunglasses:           | Awesome List     |
 
-### .NET
+## .NET
 
 <table>
   <thead>
@@ -36,7 +37,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Composite C1</strong>
+            <b>Composite C1</b>
           </div>
           <div>
               <a href="https://github.com/Orckestra/C1-CMS" title="GitHub Repo">
@@ -54,7 +55,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>DotNetNuke (DNN)</strong>
+            <b>DotNetNuke (DNN)</b>
           </div>
           <div>
               <a href="https://github.com/dnnsoftware/Dnn.Platform" title="GitHub Repo">
@@ -75,7 +76,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Orchard</strong>
+            <b>Orchard</b>
           </div>
           <div>
               <a href="https://github.com/OrchardCMS/Orchard" title="GitHub Repo">
@@ -96,7 +97,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Piranha CMS</strong>
+            <b>Piranha CMS</b>
           </div>
           <div>
               <a href="https://github.com/PiranhaCMS/Piranha" title="GitHub Repo">
@@ -117,7 +118,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Umbraco</strong>
+            <b>Umbraco</b>
           </div>
           <div>
               <a href="https://github.com/umbraco/Umbraco-CMS" title="GitHub Repo">
@@ -141,7 +142,7 @@ for details on generation and contribution._
   </tbody>
 </table>
 
-### JavaScript
+## JavaScript
 
 <table>
   <thead>
@@ -154,7 +155,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Apostrophe</strong>
+            <b>Apostrophe</b>
           </div>
           <div>
               <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
@@ -172,7 +173,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Camaleon CMS</strong>
+            <b>Camaleon CMS</b>
           </div>
           <div>
               <a href="https://github.com/owen2345/camaleon-cms" title="GitHub Repo">
@@ -193,7 +194,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Cody</strong>
+            <b>Cody</b>
           </div>
           <div>
               <a href="https://github.com/jcoppieters/cody" title="GitHub Repo">
@@ -214,7 +215,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Directus</strong>
+            <b>Directus</b>
           </div>
           <div>
               <a href="https://github.com/directus/directus" title="GitHub Repo">
@@ -235,7 +236,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Ghost</strong>
+            <b>Ghost</b>
           </div>
           <div>
               <a href="https://github.com/tryghost/Ghost" title="GitHub Repo">
@@ -256,7 +257,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>KeystoneJS</strong>
+            <b>KeystoneJS</b>
           </div>
           <div>
               <a href="https://github.com/keystonejs/keystone" title="GitHub Repo">
@@ -277,7 +278,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Netlify CMS</strong>
+            <b>Netlify CMS</b>
           </div>
           <div>
               <a href="https://github.com/netlify/netlify-cms" title="GitHub Repo">
@@ -295,7 +296,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>PencilBlue</strong>
+            <b>PencilBlue</b>
           </div>
           <div>
               <a href="https://github.com/pencilblue/pencilblue" title="GitHub Repo">
@@ -316,7 +317,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Reaction</strong>
+            <b>Reaction</b>
           </div>
           <div>
               <a href="https://github.com/reactioncommerce/reaction" title="GitHub Repo">
@@ -337,7 +338,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Relax</strong>
+            <b>Relax</b>
           </div>
           <div>
               <a href="https://github.com/relax/relax" title="GitHub Repo">
@@ -355,7 +356,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>We.js Framework</strong>
+            <b>We.js Framework</b>
           </div>
           <div>
               <a href="https://github.com/wejs/we" title="GitHub Repo">
@@ -376,7 +377,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Webhook</strong>
+            <b>Webhook</b>
           </div>
           <div>
               <a href="https://github.com/webhook/webhook" title="GitHub Repo">
@@ -397,7 +398,7 @@ for details on generation and contribution._
   </tbody>
 </table>
 
-### PHP
+## PHP
 
 <table>
   <thead>
@@ -410,7 +411,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Croogo</strong>
+            <b>Croogo</b>
           </div>
           <div>
               <a href="https://github.com/croogo/croogo" title="GitHub Repo">
@@ -431,7 +432,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Drupal</strong>
+            <b>Drupal</b>
           </div>
           <div>
               <a href="https://github.com/drupal/drupal" title="GitHub Repo">
@@ -455,7 +456,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>FUEL CMS</strong>
+            <b>FUEL CMS</b>
           </div>
           <div>
               <a href="https://github.com/daylightstudio/FUEL-CMS" title="GitHub Repo">
@@ -476,7 +477,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Joomla!</strong>
+            <b>Joomla!</b>
           </div>
           <div>
               <a href="https://github.com/joomla/joomla-cms" title="GitHub Repo">
@@ -500,7 +501,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>WordPress</strong>
+            <b>WordPress</b>
           </div>
           <div>
               <a href="https://github.com/WordPress/WordPress" title="GitHub Repo">
@@ -524,7 +525,7 @@ for details on generation and contribution._
   </tbody>
 </table>
 
-### Python
+## Python
 
 <table>
   <thead>
@@ -537,7 +538,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>django CMS</strong>
+            <b>django CMS</b>
           </div>
           <div>
               <a href="https://github.com/divio/django-cms" title="GitHub Repo">
@@ -558,7 +559,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>feinCMS</strong>
+            <b>feinCMS</b>
           </div>
           <div>
               <a href="https://github.com/feincms/feincms" title="GitHub Repo">
@@ -579,7 +580,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Kotti</strong>
+            <b>Kotti</b>
           </div>
           <div>
               <a href="https://github.com/Kotti/Kotti" title="GitHub Repo">
@@ -600,7 +601,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Lektor</strong>
+            <b>Lektor</b>
           </div>
           <div>
               <a href="https://github.com/lektor/lektor" title="GitHub Repo">
@@ -621,7 +622,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Mezzanine</strong>
+            <b>Mezzanine</b>
           </div>
           <div>
               <a href="https://github.com/stephenmcd/mezzanine" title="GitHub Repo">
@@ -642,7 +643,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Opps Project</strong>
+            <b>Opps Project</b>
           </div>
           <div>
               <a href="https://github.com/opps/opps" title="GitHub Repo">
@@ -663,7 +664,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Plone CMS</strong>
+            <b>Plone CMS</b>
           </div>
           <div>
               <a href="https://github.com/plone/Plone" title="GitHub Repo">
@@ -684,7 +685,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Quokka CMS</strong>
+            <b>Quokka CMS</b>
           </div>
           <div>
               <a href="https://github.com/quokkaproject/quokka" title="GitHub Repo">
@@ -705,7 +706,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Wagtail CMS</strong>
+            <b>Wagtail CMS</b>
           </div>
           <div>
               <a href="https://github.com/torchbox/wagtail" title="GitHub Repo">
@@ -726,7 +727,7 @@ for details on generation and contribution._
   </tbody>
 </table>
 
-### Ruby
+## Ruby
 
 <table>
   <thead>
@@ -739,7 +740,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Alchemy CMS</strong>
+            <b>Alchemy CMS</b>
           </div>
           <div>
               <a href="https://github.com/AlchemyCMS/alchemy_cms" title="GitHub Repo">
@@ -760,7 +761,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>ComfortableMexicanSofa </strong>
+            <b>ComfortableMexicanSofa </b>
           </div>
           <div>
               <a href="https://github.com/comfy/comfortable-mexican-sofa" title="GitHub Repo">
@@ -778,7 +779,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>LocomotiveCMS</strong>
+            <b>LocomotiveCMS</b>
           </div>
           <div>
               <a href="https://github.com/locomotivecms/engine" title="GitHub Repo">
@@ -799,7 +800,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Publify</strong>
+            <b>Publify</b>
           </div>
           <div>
               <a href="https://github.com/publify/publify" title="GitHub Repo">
@@ -820,7 +821,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Radiant CMS</strong>
+            <b>Radiant CMS</b>
           </div>
           <div>
               <a href="https://github.com/radiant/radiant" title="GitHub Repo">
@@ -841,7 +842,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Refinery CMS</strong>
+            <b>Refinery CMS</b>
           </div>
           <div>
               <a href="https://github.com/refinery/refinerycms" title="GitHub Repo">
@@ -865,7 +866,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Spina</strong>
+            <b>Spina</b>
           </div>
           <div>
               <a href="https://github.com/denkGroot/Spina" title="GitHub Repo">
@@ -886,7 +887,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Storytime</strong>
+            <b>Storytime</b>
           </div>
           <div>
               <a href="https://github.com/CultivateLabs/storytime" title="GitHub Repo">
@@ -904,7 +905,7 @@ for details on generation and contribution._
   </tbody>
 </table>
 
-### Closed Source
+## Closed Source
 
 <table>
   <thead>
@@ -917,7 +918,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Blogger</strong>
+            <b>Blogger</b>
           </div>
           <div>
               <a href="https://www.blogger.com" title="Website for Blogger">
@@ -932,7 +933,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Built.io Contentstack</strong>
+            <b>Built.io Contentstack</b>
           </div>
           <div>
               <a href="https://www.built.io/products/contentstack/overview" title="Website for Built.io Contentstack">
@@ -947,7 +948,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Cloud CMS</strong>
+            <b>Cloud CMS</b>
           </div>
           <div>
               <a href="https://www.cloudcms.com" title="Website for Cloud CMS">
@@ -962,7 +963,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Contentful</strong>
+            <b>Contentful</b>
           </div>
           <div>
               <a href="https://www.contentful.com" title="Website for Contentful">
@@ -977,7 +978,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Cosmic JS</strong>
+            <b>Cosmic JS</b>
           </div>
           <div>
               <a href="https://cosmicjs.com" title="Website for Cosmic JS">
@@ -992,7 +993,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Craft CMS</strong>
+            <b>Craft CMS</b>
           </div>
           <div>
               <a href="https://craftcms.com" title="Website for Craft CMS">
@@ -1007,7 +1008,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>ExpressionEngine</strong>
+            <b>ExpressionEngine</b>
           </div>
           <div>
               <a href="https://ellislab.com/expressionengine" title="Website for ExpressionEngine">
@@ -1022,7 +1023,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Jimdo</strong>
+            <b>Jimdo</b>
           </div>
           <div>
               <a href="http://www.jimdo.com" title="Website for Jimdo">
@@ -1037,7 +1038,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Medium</strong>
+            <b>Medium</b>
           </div>
           <div>
               <a href="http://medium.com" title="Website for Medium">
@@ -1052,7 +1053,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Osmek</strong>
+            <b>Osmek</b>
           </div>
           <div>
               <a href="http://osmek.com" title="Website for Osmek">
@@ -1067,7 +1068,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>prismic.io</strong>
+            <b>prismic.io</b>
           </div>
           <div>
               <a href="https://prismic.io" title="Website for prismic.io">
@@ -1082,7 +1083,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Prose</strong>
+            <b>Prose</b>
           </div>
           <div>
               <a href="http://prose.io" title="Website for Prose">
@@ -1097,7 +1098,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Siteleaf</strong>
+            <b>Siteleaf</b>
           </div>
           <div>
               <a href="http://www.siteleaf.com" title="Website for Siteleaf">
@@ -1112,7 +1113,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>SquareSpace</strong>
+            <b>SquareSpace</b>
           </div>
           <div>
               <a href="https://www.squarespace.com" title="Website for SquareSpace">
@@ -1127,7 +1128,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Weebly</strong>
+            <b>Weebly</b>
           </div>
           <div>
               <a href="https://www.weebly.com" title="Website for Weebly">
@@ -1142,7 +1143,7 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <strong>Wix</strong>
+            <b>Wix</b>
           </div>
           <div>
               <a href="http://www.wix.com" title="Website for Wix">
