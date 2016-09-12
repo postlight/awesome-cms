@@ -109,11 +109,13 @@ const generateReadme = () => {
     );
 
     const cmsPromises = sortedCMSES.map(
-      ({ name, description, githubRepo, url }) => {
-        const githubURL = `${GITHUB_URL}/${githubRepo}`;
+      ({ awesomeRepo, name, description, githubRepo, url }) => {
+        const githubURL = githubRepo && `${GITHUB_URL}/${githubRepo}`;
+        const awesomeURL = awesomeRepo && `${GITHUB_URL}/${awesomeRepo}`;
 
         if (githubRepo) {
           return fetchGitHubDetails(githubURL).then(({ starCount, lastCommit }) => ({
+            awesomeURL,
             name,
             githubURL,
             starCount: numberWithCommas(starCount),
@@ -125,6 +127,7 @@ const generateReadme = () => {
         }
 
         return {
+          awesomeURL,
           name,
           url,
           description,

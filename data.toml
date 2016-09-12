@@ -5,6 +5,7 @@
 # description = ""
 # url = ""
 # github_repo = ""
+# awesome_repo = ""
 # language = ""
 
 # ---
@@ -16,6 +17,7 @@ name = "WordPress"
 description = "WordPress is a free and open-source content management system (CMS) based on PHP and MySQL."
 url = "https://wordpress.org"
 github_repo = "WordPress/WordPress"
+awesome_repo = "miziomon/awesome-wordpress"
 language = "php"
 
 [[cms]]
@@ -23,6 +25,7 @@ name = "Drupal"
 description = "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
 url = "https://www.drupal.org"
 github_repo = "drupal/drupal"
+awesome_repo = "mrsinguyen/awesome-drupal"
 language = "php"
 
 [[cms]]
@@ -30,6 +33,7 @@ name = "Joomla!"
 description = "Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS."
 url = "https://www.joomla.org"
 github_repo = "joomla/joomla-cms"
+awesome_repo = "brunowego/awesome-joomla"
 language = "php"
 
 [[cms]]
@@ -258,6 +262,7 @@ name = "Refinery CMS"
 description = "An extendable Ruby on Rails CMS that supports Rails 4.2+."
 url = "http://refinerycms.com"
 github_repo = "refinery/refinerycms"
+awesome_repo = "refinerycms-contrib/awesome-refinerycms"
 language = "ruby"
 
 [[cms]]
@@ -349,6 +354,7 @@ name = "Umbraco"
 description = "The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites."
 url = "http://umbraco.com"
 github_repo = "umbraco/Umbraco-CMS"
+awesome_repo = "leekelleher/awesome-umbraco"
 language = "c#"
 
 [[cms]]

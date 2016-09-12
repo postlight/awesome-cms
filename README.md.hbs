@@ -15,9 +15,10 @@ for details on generation and contribution._
 
 | Emoji                  | Meaning          |
 | ---------------------- | ---------------- |
-| :octocat:              | GitHub Link      |
+| :octocat:              | GitHub Repo      |
 | :globe_with_meridians: | Official Website |
 | :information_source:   | Last Commit Date |
+| :sunglasses:           | Awesome List     |
 
 {{#each cmsGroups}}
 ### {{name}}
@@ -39,10 +40,19 @@ for details on generation and contribution._
           </div>
           <div>
             {{#if githubURL}}
-              <a href="{{githubURL}}">:octocat:</a>&nbsp;&nbsp;
+              <a href="{{githubURL}}" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
             {{/if}}
             {{#if url}}
-              <a href="{{url}}">:globe_with_meridians:</a>
+              <a href="{{url}}" title="Website for {{name}}">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            {{/if}}
+            {{#if awesomeURL}}
+            <a href="{{awesomeURL}}" title="Awesome List for {{name}}">
+              :sunglasses:
+            </a>
             {{/if}}
           </div>
           <div>
