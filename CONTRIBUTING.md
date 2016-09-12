@@ -23,15 +23,19 @@ npm run generate-readme
 The [`scripts`](/scripts) folder contains `url-to-toml.js`, a script
 to easily convert a URL into TOML. E.g.
 
+```
+node scripts/url-to-toml.js https://github.com/jekyll/jekyll-admin
+```
+
+will generate
 
 ```toml
-node scripts/url-to-toml.js https://github.com/keystonejs/keystone
 
 [[cms]]
-name = "KeystoneJS · Node.js cms and web application platform built on Express and MongoDB"
-description = "node.js cms and web app framework"
-url = "http://www.keystonejs.com"
-github_repo = "keystonejs/keystone"
+name = "Jekyll Admin - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites."
+description = "A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites."
+url = "https://jekyll.github.io/jekyll-admin/"
+github_repo = "jekyll/jekyll-admin"
 language = "javascript"
 ```
 
