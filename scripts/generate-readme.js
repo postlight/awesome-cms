@@ -21,6 +21,9 @@ const x = Xray({
     trim(value) {
       return value && value.trim();
     },
+    toInt(value) {
+      return value && parseInt(value, 10);
+    },
     toMoment(value) {
       return moment(value);
     },
@@ -47,7 +50,7 @@ const numberWithCommas = (n) => (
 const fetchGitHubDetails = (githubURL) => (
   new Promise((resolve, reject) => {
     x(githubURL, {
-      starCount: '.js-social-count | trim | removeCommas',
+      starCount: '.js-social-count | trim | removeCommas | toInt',
       lastCommit: 'relative-time@datetime | trim | toMoment',
     })((err, data) => {
       if (err) {
@@ -104,11 +107,8 @@ const generateReadme = () => {
 
   Promise.all(languageKeys.map((key) => {
     const cmsesForLanguage = cmsesByLanguage[key];
-    const sortedCMSES = sortBy(
-      cmsesForLanguage, ({ name }) => name.toLowerCase()
-    );
 
-    const cmsPromises = sortedCMSES.map(
+    const cmsPromises = cmsesForLanguage.map(
       ({ awesomeRepo, name, description, githubRepo, url }) => {
         const githubURL = githubRepo && `${GITHUB_URL}/${githubRepo}`;
         const awesomeURL = awesomeRepo && `${GITHUB_URL}/${awesomeRepo}`;
@@ -118,7 +118,8 @@ const generateReadme = () => {
             awesomeURL,
             name,
             githubURL,
-            starCount: numberWithCommas(starCount),
+            starCount,
+            starCountText: numberWithCommas(starCount),
             lastCommit: lastCommit.format('YYYY/MM/DD'),
             url,
             description,
@@ -134,14 +135,22 @@ const generateReadme = () => {
       }
     );
 
-    return Promise.all(cmsPromises).then((cmses) => ({
-      name: languagesToHuman[key],
-      headerColumns: compact([
-        'Name',
-        'Description',
-      ]),
-      cmses,
-    }));
+    return Promise.all(cmsPromises).then((cmses) => {
+      // Sort by star count or name if starCount not available.
+      const sortedCMSES = cmses[0].githubURL ?
+        sortBy(cmses, ({ starCount }) => starCount).reverse()
+        :
+        sortBy(cmses, ({ name }) => name.toLowerCase());
+
+      return {
+        name: languagesToHuman[key],
+        headerColumns: compact([
+          'Name',
+          'Description',
+        ]),
+        cmses: sortedCMSES,
+      };
+    });
   })).then((cmsGroups) => {
     fs.writeFileSync('README.md', readmeTemplate({
       cmsCount: allCMSES.length,

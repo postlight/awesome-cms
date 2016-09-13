@@ -57,12 +57,12 @@ for details on generation and contribution._
             {{/if}}
           </div>
           <div>
-            {{#if lastCommit}}
-              {{lastCommit}}
-              <ins title="Last commit on {{lastCommit}}">ⓘ</ins>
+            {{#if starCountText}}
+              ★{{starCountText}}
             {{/if}}
-            {{#if starCount}}
-              &nbsp;|&nbsp;★{{starCount}}
+            {{#if lastCommit}}
+              |&nbsp;{{lastCommit}}
+              <ins title="Last commit on {{lastCommit}}">ⓘ</ins>
             {{/if}}
           </div>
         </td>
