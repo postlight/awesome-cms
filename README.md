@@ -52,7 +52,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,332
-              &nbsp;|&nbsp;2016/09/12
+              |&nbsp;2016/09/12
               <ins title="Last commit on 2016/09/12">ⓘ</ins>
           </div>
         </td>
@@ -73,7 +73,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,050
-              &nbsp;|&nbsp;2016/09/01
+              |&nbsp;2016/09/01
               <ins title="Last commit on 2016/09/01">ⓘ</ins>
           </div>
         </td>
@@ -94,7 +94,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★310
-              &nbsp;|&nbsp;2016/02/19
+              |&nbsp;2016/02/19
               <ins title="Last commit on 2016/02/19">ⓘ</ins>
           </div>
         </td>
@@ -115,7 +115,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★214
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -133,7 +133,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★94
-              &nbsp;|&nbsp;2016/09/06
+              |&nbsp;2016/09/06
               <ins title="Last commit on 2016/09/06">ⓘ</ins>
           </div>
         </td>
@@ -167,7 +167,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★20,633
-              &nbsp;|&nbsp;2016/09/06
+              |&nbsp;2016/09/06
               <ins title="Last commit on 2016/09/06">ⓘ</ins>
           </div>
         </td>
@@ -188,7 +188,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★7,602
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -206,7 +206,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★6,109
-              &nbsp;|&nbsp;2016/09/08
+              |&nbsp;2016/09/08
               <ins title="Last commit on 2016/09/08">ⓘ</ins>
           </div>
         </td>
@@ -227,7 +227,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,674
-              &nbsp;|&nbsp;2016/08/31
+              |&nbsp;2016/08/31
               <ins title="Last commit on 2016/08/31">ⓘ</ins>
           </div>
         </td>
@@ -248,7 +248,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,890
-              &nbsp;|&nbsp;2016/03/07
+              |&nbsp;2016/03/07
               <ins title="Last commit on 2016/03/07">ⓘ</ins>
           </div>
         </td>
@@ -269,7 +269,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,422
-              &nbsp;|&nbsp;2016/09/05
+              |&nbsp;2016/09/05
               <ins title="Last commit on 2016/09/05">ⓘ</ins>
           </div>
         </td>
@@ -290,7 +290,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,329
-              &nbsp;|&nbsp;2016/09/09
+              |&nbsp;2016/09/09
               <ins title="Last commit on 2016/09/09">ⓘ</ins>
           </div>
         </td>
@@ -308,7 +308,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,118
-              &nbsp;|&nbsp;2016/09/12
+              |&nbsp;2016/09/12
               <ins title="Last commit on 2016/09/12">ⓘ</ins>
           </div>
         </td>
@@ -329,7 +329,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★782
-              &nbsp;|&nbsp;2016/08/30
+              |&nbsp;2016/08/30
               <ins title="Last commit on 2016/08/30">ⓘ</ins>
           </div>
         </td>
@@ -350,7 +350,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★525
-              &nbsp;|&nbsp;2016/06/02
+              |&nbsp;2016/06/02
               <ins title="Last commit on 2016/06/02">ⓘ</ins>
           </div>
         </td>
@@ -368,7 +368,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★519
-              &nbsp;|&nbsp;2016/08/16
+              |&nbsp;2016/08/16
               <ins title="Last commit on 2016/08/16">ⓘ</ins>
           </div>
         </td>
@@ -389,7 +389,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★500
-              &nbsp;|&nbsp;2016/09/06
+              |&nbsp;2016/09/06
               <ins title="Last commit on 2016/09/06">ⓘ</ins>
           </div>
         </td>
@@ -410,7 +410,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★500
-              &nbsp;|&nbsp;2015/09/04
+              |&nbsp;2015/09/04
               <ins title="Last commit on 2015/09/04">ⓘ</ins>
           </div>
         </td>
@@ -431,7 +431,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★158
-              &nbsp;|&nbsp;2016/07/12
+              |&nbsp;2016/07/12
               <ins title="Last commit on 2016/07/12">ⓘ</ins>
           </div>
         </td>
@@ -468,7 +468,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★7,943
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -489,7 +489,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★5,100
-              &nbsp;|&nbsp;2016/09/09
+              |&nbsp;2016/09/09
               <ins title="Last commit on 2016/09/09">ⓘ</ins>
           </div>
         </td>
@@ -510,7 +510,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,708
-              &nbsp;|&nbsp;2016/08/26
+              |&nbsp;2016/08/26
               <ins title="Last commit on 2016/08/26">ⓘ</ins>
           </div>
         </td>
@@ -531,7 +531,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,959
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -552,7 +552,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,787
-              &nbsp;|&nbsp;2016/08/08
+              |&nbsp;2016/08/08
               <ins title="Last commit on 2016/08/08">ⓘ</ins>
           </div>
         </td>
@@ -573,7 +573,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,394
-              &nbsp;|&nbsp;2016/09/02
+              |&nbsp;2016/09/02
               <ins title="Last commit on 2016/09/02">ⓘ</ins>
           </div>
         </td>
@@ -597,7 +597,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,365
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -621,7 +621,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,328
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -642,7 +642,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,135
-              &nbsp;|&nbsp;2016/09/11
+              |&nbsp;2016/09/11
               <ins title="Last commit on 2016/09/11">ⓘ</ins>
           </div>
         </td>
@@ -663,7 +663,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,933
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -681,7 +681,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,825
-              &nbsp;|&nbsp;2016/06/28
+              |&nbsp;2016/06/28
               <ins title="Last commit on 2016/06/28">ⓘ</ins>
           </div>
         </td>
@@ -702,7 +702,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★925
-              &nbsp;|&nbsp;2016/09/05
+              |&nbsp;2016/09/05
               <ins title="Last commit on 2016/09/05">ⓘ</ins>
           </div>
         </td>
@@ -723,7 +723,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★776
-              &nbsp;|&nbsp;2016/06/23
+              |&nbsp;2016/06/23
               <ins title="Last commit on 2016/06/23">ⓘ</ins>
           </div>
         </td>
@@ -744,7 +744,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★770
-              &nbsp;|&nbsp;2016/05/12
+              |&nbsp;2016/05/12
               <ins title="Last commit on 2016/05/12">ⓘ</ins>
           </div>
         </td>
@@ -765,7 +765,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★580
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -786,7 +786,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★556
-              &nbsp;|&nbsp;2016/07/25
+              |&nbsp;2016/07/25
               <ins title="Last commit on 2016/07/25">ⓘ</ins>
           </div>
         </td>
@@ -807,7 +807,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★522
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -828,7 +828,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★517
-              &nbsp;|&nbsp;2016/09/05
+              |&nbsp;2016/09/05
               <ins title="Last commit on 2016/09/05">ⓘ</ins>
           </div>
         </td>
@@ -849,7 +849,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★430
-              &nbsp;|&nbsp;2016/07/29
+              |&nbsp;2016/07/29
               <ins title="Last commit on 2016/07/29">ⓘ</ins>
           </div>
         </td>
@@ -886,7 +886,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★4,393
-              &nbsp;|&nbsp;2016/09/09
+              |&nbsp;2016/09/09
               <ins title="Last commit on 2016/09/09">ⓘ</ins>
           </div>
         </td>
@@ -910,7 +910,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,691
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
@@ -931,7 +931,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,816
-              &nbsp;|&nbsp;2016/09/08
+              |&nbsp;2016/09/08
               <ins title="Last commit on 2016/09/08">ⓘ</ins>
           </div>
         </td>
@@ -952,7 +952,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,998
-              &nbsp;|&nbsp;2016/08/04
+              |&nbsp;2016/08/04
               <ins title="Last commit on 2016/08/04">ⓘ</ins>
           </div>
         </td>
@@ -973,7 +973,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,374
-              &nbsp;|&nbsp;2016/08/19
+              |&nbsp;2016/08/19
               <ins title="Last commit on 2016/08/19">ⓘ</ins>
           </div>
         </td>
@@ -994,7 +994,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★673
-              &nbsp;|&nbsp;2016/05/12
+              |&nbsp;2016/05/12
               <ins title="Last commit on 2016/05/12">ⓘ</ins>
           </div>
         </td>
@@ -1015,7 +1015,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★298
-              &nbsp;|&nbsp;2016/08/29
+              |&nbsp;2016/08/29
               <ins title="Last commit on 2016/08/29">ⓘ</ins>
           </div>
         </td>
@@ -1036,7 +1036,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★252
-              &nbsp;|&nbsp;2016/06/01
+              |&nbsp;2016/06/01
               <ins title="Last commit on 2016/06/01">ⓘ</ins>
           </div>
         </td>
@@ -1057,7 +1057,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★58
-              &nbsp;|&nbsp;2016/08/19
+              |&nbsp;2016/08/19
               <ins title="Last commit on 2016/08/19">ⓘ</ins>
           </div>
         </td>
@@ -1094,7 +1094,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,381
-              &nbsp;|&nbsp;2016/07/31
+              |&nbsp;2016/07/31
               <ins title="Last commit on 2016/07/31">ⓘ</ins>
           </div>
         </td>
@@ -1115,7 +1115,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,137
-              &nbsp;|&nbsp;2016/08/11
+              |&nbsp;2016/08/11
               <ins title="Last commit on 2016/08/11">ⓘ</ins>
           </div>
         </td>
@@ -1133,7 +1133,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,030
-              &nbsp;|&nbsp;2016/04/28
+              |&nbsp;2016/04/28
               <ins title="Last commit on 2016/04/28">ⓘ</ins>
           </div>
         </td>
@@ -1154,7 +1154,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,654
-              &nbsp;|&nbsp;2016/04/04
+              |&nbsp;2016/04/04
               <ins title="Last commit on 2016/04/04">ⓘ</ins>
           </div>
         </td>
@@ -1175,7 +1175,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,628
-              &nbsp;|&nbsp;2016/08/17
+              |&nbsp;2016/08/17
               <ins title="Last commit on 2016/08/17">ⓘ</ins>
           </div>
         </td>
@@ -1196,7 +1196,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,018
-              &nbsp;|&nbsp;2016/09/03
+              |&nbsp;2016/09/03
               <ins title="Last commit on 2016/09/03">ⓘ</ins>
           </div>
         </td>
@@ -1217,7 +1217,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★898
-              &nbsp;|&nbsp;2016/08/11
+              |&nbsp;2016/08/11
               <ins title="Last commit on 2016/08/11">ⓘ</ins>
           </div>
         </td>
@@ -1238,7 +1238,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★809
-              &nbsp;|&nbsp;2016/09/12
+              |&nbsp;2016/09/12
               <ins title="Last commit on 2016/09/12">ⓘ</ins>
           </div>
         </td>
@@ -1256,7 +1256,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★670
-              &nbsp;|&nbsp;2016/07/11
+              |&nbsp;2016/07/11
               <ins title="Last commit on 2016/07/11">ⓘ</ins>
           </div>
         </td>
@@ -1277,7 +1277,7 @@ for details on generation and contribution._
           </div>
           <div>
               ★426
-              &nbsp;|&nbsp;2016/09/13
+              |&nbsp;2016/09/13
               <ins title="Last commit on 2016/09/13">ⓘ</ins>
           </div>
         </td>
