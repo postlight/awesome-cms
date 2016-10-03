@@ -51,7 +51,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★1,349
+              ★1,348
               |&nbsp;2016/09/28
               <ins title="Last commit on 2016/09/28">ⓘ</ins>
           </div>
@@ -205,7 +205,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,209
+              ★6,208
               |&nbsp;2016/09/26
               <ins title="Last commit on 2016/09/26">ⓘ</ins>
           </div>
@@ -329,8 +329,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★794
-              |&nbsp;2016/08/30
-              <ins title="Last commit on 2016/08/30">ⓘ</ins>
+              |&nbsp;2016/08/31
+              <ins title="Last commit on 2016/08/31">ⓘ</ins>
           </div>
         </td>
         <td>Angular 2 + Lumen PHP + Static HTML sites.  Respond 6 is a responsive CMS that features Bootstrap 3, a complete REST API,  templates, plugins, and more.</td>
@@ -467,7 +467,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,028
+              ★8,027
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -488,7 +488,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,215
+              ★5,214
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -530,7 +530,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,974
+              ★2,975
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -597,8 +597,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,376
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              |&nbsp;2016/09/30
+              <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -663,8 +663,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,955
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/01
+              <ins title="Last commit on 2016/10/01">ⓘ</ins>
           </div>
         </td>
         <td>Add content management functionality to any site.</td>
@@ -723,8 +723,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★781
-              |&nbsp;2016/06/23
-              <ins title="Last commit on 2016/06/23">ⓘ</ins>
+              |&nbsp;2016/06/24
+              <ins title="Last commit on 2016/06/24">ⓘ</ins>
           </div>
         </td>
         <td>A CodeIgniter Content Management System.</td>
@@ -749,27 +749,6 @@ for details on generation and contribution._
           </div>
         </td>
         <td>A CakePHP powered Content Management System.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>MediaWiki</b>
-          </div>
-          <div>
-              <a href="https://github.com/wikimedia/mediawiki" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.mediawiki.org" title="Website for MediaWiki">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★673
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
-          </div>
-        </td>
-        <td>MediaWiki, the collaborative editing software that runs Wikipedia. This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.</td>
       </tr>
       <tr>
         <td width="240">
@@ -828,8 +807,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★522
-              |&nbsp;2016/10/02
-              <ins title="Last commit on 2016/10/02">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
@@ -875,6 +854,30 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Textpattern CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/textpattern/textpattern" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://textpattern.com/" title="Website for Textpattern CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/drmonkeyninja/awesome-textpattern" title="Awesome List for Textpattern CMS">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              ★214
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+          </div>
+        </td>
+        <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
       </tr>
   </tbody>
 </table>
@@ -952,8 +955,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,835
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/01
+              <ins title="Last commit on 2016/10/01">ⓘ</ins>
           </div>
         </td>
         <td>CMS framework for Django.</td>
@@ -1115,8 +1118,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,387
-              |&nbsp;2016/09/23
-              <ins title="Last commit on 2016/09/23">ⓘ</ins>
+              |&nbsp;2016/09/24
+              <ins title="Last commit on 2016/09/24">ⓘ</ins>
           </div>
         </td>
         <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
