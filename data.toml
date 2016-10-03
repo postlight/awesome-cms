@@ -184,7 +184,7 @@ language = "php"
 
 [[cms]]
 name = "MODX Web Content Management System and Platform"
-description = "MODX Revolution"
+description = "MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs."
 url = "https://modx.com/"
 github_repo = "modxcms/revolution"
 language = "php"
