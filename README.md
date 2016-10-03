@@ -205,7 +205,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,211
+              ★6,212
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -1078,8 +1078,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,397
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Quokka is a flexible content management platform powered by Python, Flask and MongoDB.</td>
@@ -1659,6 +1659,16 @@ for details on generation and contribution._
   </tbody>
 </table>
 
+
+## Contributors
+
+- [Jeremy Mack](https://github.com/mutewinter)
+- [Stefan Grund](https://github.com/stefangrund)
+- [Phil Wareham](https://github.com/philwareham)
+- [Odirlei Borgert](https://github.com/odirleiborgert)
+- [Jack McDade](https://github.com/jackmcdade)
+- [Randy Oest](https://github.com/amazingrando)
+- [Nicolas Widart](https://github.com/nWidart)
 
 ## License
 
