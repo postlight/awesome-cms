@@ -228,6 +228,11 @@ description = "Prose is a content editor for GitHub designed for managing websit
 url = "http://prose.io"
 
 [[cms]]
+name = "Statamic"
+description = "Statamic is a flat file CMS built for developers and clients alike. It's a platform designed to make you the hero. Built with Laravel and Vue.js."
+url = "https://statamic.com"
+
+[[cms]]
 name = "Weebly"
 description = "Weebly makes it surprisingly easy to create a high-quality website, blog or online store. Over 30 million people use Weebly to bring their unique ideas to life."
 url = "https://www.weebly.com"
