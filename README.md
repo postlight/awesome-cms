@@ -855,6 +855,24 @@ for details on generation and contribution._
         </td>
         <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
       </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Borgert CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/odirleiborgert/borgert-cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★72
+              |&nbsp;2016/10/02
+              <ins title="Last commit on 2016/10/02">ⓘ</ins>
+          </div>
+        </td>
+        <td>A simple CMS to start projects in Laravel 5.3 containing some modules. Blog, Pages, Products, Mailbox, Image Gallery and Users.</td>
+      </tr>
   </tbody>
 </table>
 
