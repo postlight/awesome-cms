@@ -147,6 +147,13 @@ github_repo = "pyrocms/pyrocms"
 awesome_repo = "websemantics/awesome-pyrocms"
 language = "php"
 
+[[cms]]
+name = "AsgardCms - A laravel CMS that's modular and multilingual"
+description = "A modular multilingual CMS built with Laravel 5."
+url = "https://asgardcms.com/"
+github_repo = "AsgardCms/Platform"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
