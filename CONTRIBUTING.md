@@ -5,7 +5,7 @@ is accepted._
 
 ## On GitHub
 
-1. Open [/data.toml]().
+1. Open [/data.toml](/data.toml).
 1. Click the edit button (pencil icon).
 1. Add your new CMS.
 1. Submit a pull request.
