@@ -1,0 +1,3 @@
+- [ ] verified that the CMS I'm adding is still maintained.
+- [ ] read [CONTRIBUTING.md](/CONTRIBUTING.md).
+- [ ] did not generate README.md.
