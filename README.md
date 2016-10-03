@@ -769,7 +769,7 @@ for details on generation and contribution._
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
-        <td>MediaWiki, the collaborative editing software that runs Wikipedia. This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.</td>
+        <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
       </tr>
       <tr>
         <td width="240">
