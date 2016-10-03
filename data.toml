@@ -98,6 +98,12 @@ github_repo = "BootstrapCMS/CMS"
 language = "php"
 
 [[cms]]
+name = "Borgert CMS"
+description = "A simple CMS to start projects in Laravel 5.3 containing some modules. Blog, Pages, Products, Mailbox, Image Gallery and Users."
+github_repo = "odirleiborgert/borgert-cms"
+language = "php"
+
+[[cms]]
 name = "Fork CMS"
 description = "Fork is an open source CMS using Symfony Components."
 url = "http://www.fork-cms.com"
