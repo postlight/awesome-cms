@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **73** open and closed source Content Management
+A collection of **74** open and closed source Content Management
 Systems (CMS) for your perusal.
 
 _Last generated on October 3rd, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
@@ -115,8 +115,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★218
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/01
+              <ins title="Last commit on 2016/10/01">ⓘ</ins>
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -166,7 +166,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,789
+              ★20,791
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -187,7 +187,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,785
+              ★7,786
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -226,7 +226,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,750
+              ★2,751
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -247,7 +247,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,905
+              ★1,906
               |&nbsp;2016/03/07
               <ins title="Last commit on 2016/03/07">ⓘ</ins>
           </div>
@@ -289,7 +289,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,407
+              ★1,408
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -329,8 +329,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★794
-              |&nbsp;2016/08/30
-              <ins title="Last commit on 2016/08/30">ⓘ</ins>
+              |&nbsp;2016/08/31
+              <ins title="Last commit on 2016/08/31">ⓘ</ins>
           </div>
         </td>
         <td>Angular 2 + Lumen PHP + Static HTML sites.  Respond 6 is a responsive CMS that features Bootstrap 3, a complete REST API,  templates, plugins, and more.</td>
@@ -368,8 +368,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★553
-              |&nbsp;2016/09/22
-              <ins title="Last commit on 2016/09/22">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -431,8 +431,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★158
-              |&nbsp;2016/07/12
-              <ins title="Last commit on 2016/07/12">ⓘ</ins>
+              |&nbsp;2016/07/13
+              <ins title="Last commit on 2016/07/13">ⓘ</ins>
           </div>
         </td>
         <td>Extensible Node.js MVC framework.</td>
@@ -489,8 +489,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★5,214
-              |&nbsp;2016/10/01
-              <ins title="Last commit on 2016/10/01">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
@@ -572,7 +572,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,404
+              ★2,406
               |&nbsp;2016/09/17
               <ins title="Last commit on 2016/09/17">ⓘ</ins>
           </div>
@@ -596,7 +596,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,375
+              ★2,376
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -663,8 +663,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,955
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/01
+              <ins title="Last commit on 2016/10/01">ⓘ</ins>
           </div>
         </td>
         <td>Add content management functionality to any site.</td>
@@ -723,8 +723,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★781
-              |&nbsp;2016/06/23
-              <ins title="Last commit on 2016/06/23">ⓘ</ins>
+              |&nbsp;2016/06/24
+              <ins title="Last commit on 2016/06/24">ⓘ</ins>
           </div>
         </td>
         <td>A CodeIgniter Content Management System.</td>
@@ -764,7 +764,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★598
+              ★599
               |&nbsp;2016/07/25
               <ins title="Last commit on 2016/07/25">ⓘ</ins>
           </div>
@@ -807,8 +807,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★522
-              |&nbsp;2016/10/02
-              <ins title="Last commit on 2016/10/02">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
@@ -854,6 +854,27 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>TYPO3</b>
+          </div>
+          <div>
+              <a href="https://github.com/TYPO3/TYPO3.CMS" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://typo3.org" title="Website for TYPO3">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★398
+              |&nbsp;2016/09/29
+              <ins title="Last commit on 2016/09/29">ⓘ</ins>
+          </div>
+        </td>
+        <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
       </tr>
   </tbody>
 </table>
@@ -910,8 +931,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,735
-              |&nbsp;2016/06/17
-              <ins title="Last commit on 2016/06/17">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -931,8 +952,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,835
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/01
+              <ins title="Last commit on 2016/10/01">ⓘ</ins>
           </div>
         </td>
         <td>CMS framework for Django.</td>
@@ -1094,8 +1115,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,387
-              |&nbsp;2016/09/23
-              <ins title="Last commit on 2016/09/23">ⓘ</ins>
+              |&nbsp;2016/09/24
+              <ins title="Last commit on 2016/09/24">ⓘ</ins>
           </div>
         </td>
         <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
@@ -1256,8 +1277,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★669
-              |&nbsp;2016/07/11
-              <ins title="Last commit on 2016/07/11">ⓘ</ins>
+              |&nbsp;2016/07/12
+              <ins title="Last commit on 2016/07/12">ⓘ</ins>
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
