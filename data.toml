@@ -176,14 +176,6 @@ github_repo = "wikimedia/mediawiki"
 language = "php"
 
 [[cms]]
-name = "Textpattern CMS"
-description = "A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source."
-url = "http://textpattern.com/"
-github_repo = "textpattern/textpattern"
-awesome_repo = "drmonkeyninja/awesome-textpattern"
-language = "php"
-
-[[cms]]
 name = "AsgardCms - A laravel CMS that's modular and multilingual"
 description = "A modular multilingual CMS built with Laravel 5."
 url = "https://asgardcms.com/"
