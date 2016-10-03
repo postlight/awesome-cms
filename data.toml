@@ -154,6 +154,13 @@ awesome_repo = "websemantics/awesome-pyrocms"
 language = "php"
 
 [[cms]]
+name = "TYPO3"
+description = "With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web & mobile applications worldwide."
+url = "http://typo3.org"
+github_repo = "TYPO3/TYPO3.CMS"
+language = "php"
+
+[[cms]]
 name = "Textpattern CMS"
 description = "A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source."
 url = "http://textpattern.com/"
