@@ -182,6 +182,13 @@ url = "https://asgardcms.com/"
 github_repo = "AsgardCms/Platform"
 language = "php"
 
+[[cms]]
+name = "MODX Web Content Management System and Platform"
+description = "MODX Revolution"
+url = "https://modx.com/"
+github_repo = "modxcms/revolution"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
