@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **73** open and closed source Content Management
+A collection of **74** open and closed source Content Management
 Systems (CMS) for your perusal.
 
 _Last generated on October 3rd, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
@@ -51,7 +51,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★1,348
+              ★1,349
               |&nbsp;2016/09/28
               <ins title="Last commit on 2016/09/28">ⓘ</ins>
           </div>
@@ -166,7 +166,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,789
+              ★20,791
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -187,7 +187,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,785
+              ★7,786
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -205,7 +205,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,208
+              ★6,209
               |&nbsp;2016/09/26
               <ins title="Last commit on 2016/09/26">ⓘ</ins>
           </div>
@@ -226,7 +226,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,750
+              ★2,751
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -247,7 +247,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,905
+              ★1,906
               |&nbsp;2016/03/07
               <ins title="Last commit on 2016/03/07">ⓘ</ins>
           </div>
@@ -289,7 +289,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,407
+              ★1,408
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -368,8 +368,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★553
-              |&nbsp;2016/09/22
-              <ins title="Last commit on 2016/09/22">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -467,7 +467,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,027
+              ★8,028
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -488,9 +488,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,214
-              |&nbsp;2016/10/01
-              <ins title="Last commit on 2016/10/01">ⓘ</ins>
+              ★5,215
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
@@ -530,7 +530,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,975
+              ★2,974
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -572,7 +572,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,404
+              ★2,406
               |&nbsp;2016/09/17
               <ins title="Last commit on 2016/09/17">ⓘ</ins>
           </div>
@@ -596,9 +596,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,375
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              ★2,376
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -753,6 +753,27 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>MediaWiki</b>
+          </div>
+          <div>
+              <a href="https://github.com/wikimedia/mediawiki" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.mediawiki.org" title="Website for MediaWiki">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★673
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+          </div>
+        </td>
+        <td>MediaWiki, the collaborative editing software that runs Wikipedia. This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Lavalite</b>
           </div>
           <div>
@@ -764,7 +785,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★598
+              ★599
               |&nbsp;2016/07/25
               <ins title="Last commit on 2016/07/25">ⓘ</ins>
           </div>
@@ -910,8 +931,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,735
-              |&nbsp;2016/06/17
-              <ins title="Last commit on 2016/06/17">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
