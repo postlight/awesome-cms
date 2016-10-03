@@ -183,6 +183,13 @@ github_repo = "textpattern/textpattern"
 awesome_repo = "drmonkeyninja/awesome-textpattern"
 language = "php"
 
+[[cms]]
+name = "AsgardCms - A laravel CMS that's modular and multilingual"
+description = "A modular multilingual CMS built with Laravel 5."
+url = "https://asgardcms.com/"
+github_repo = "AsgardCms/Platform"
+language = "php"
+
 # -------------
 # Closed Source
 # -------------
