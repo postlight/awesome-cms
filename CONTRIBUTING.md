@@ -1,5 +1,9 @@
 # How to Add a CMS to Awesome CMS
 
+Awesome CMS currently accepts open-source CMSes with over 100 stars on GitHub
+and a commit within the last year. Closed-source CMSes will be judged on a
+case-by-case basis.
+
 _Note: **Do not** generate README.md. That will happen after your pull request
 is accepted._
 
