@@ -115,8 +115,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★218
-              |&nbsp;2016/10/01
-              <ins title="Last commit on 2016/10/01">ⓘ</ins>
+              |&nbsp;2016/09/30
+              <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -431,8 +431,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★158
-              |&nbsp;2016/07/13
-              <ins title="Last commit on 2016/07/13">ⓘ</ins>
+              |&nbsp;2016/07/12
+              <ins title="Last commit on 2016/07/12">ⓘ</ins>
           </div>
         </td>
         <td>Extensible Node.js MVC framework.</td>
@@ -858,23 +858,26 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>TYPO3</b>
+            <b>Textpattern CMS</b>
           </div>
           <div>
-              <a href="https://github.com/TYPO3/TYPO3.CMS" title="GitHub Repo">
+              <a href="https://github.com/textpattern/textpattern" title="GitHub Repo">
                 :octocat:
               </a>&nbsp;&nbsp;
-              <a href="http://typo3.org" title="Website for TYPO3">
+              <a href="http://textpattern.com/" title="Website for Textpattern CMS">
                 :globe_with_meridians:
               </a>&nbsp;&nbsp;
+            <a href="https://github.com/drmonkeyninja/awesome-textpattern" title="Awesome List for Textpattern CMS">
+              :sunglasses:
+            </a>
           </div>
           <div>
-              ★398
-              |&nbsp;2016/09/29
-              <ins title="Last commit on 2016/09/29">ⓘ</ins>
+              ★214
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
-        <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
+        <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
       </tr>
   </tbody>
 </table>
@@ -1277,8 +1280,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★669
-              |&nbsp;2016/07/12
-              <ins title="Last commit on 2016/07/12">ⓘ</ins>
+              |&nbsp;2016/07/11
+              <ins title="Last commit on 2016/07/11">ⓘ</ins>
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
