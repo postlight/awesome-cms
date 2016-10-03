@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **79** open and closed source Content Management
+A collection of **80** open and closed source Content Management
 Systems (CMS) for your perusal.
 
 _Last generated on October 3rd, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
@@ -707,6 +707,27 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Fork is an open source CMS using Symfony Components.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>MODX Web Content Management System and Platform</b>
+          </div>
+          <div>
+              <a href="https://github.com/modxcms/revolution" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://modx.com/" title="Website for MODX Web Content Management System and Platform">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★785
+              |&nbsp;2016/09/28
+              <ins title="Last commit on 2016/09/28">ⓘ</ins>
+          </div>
+        </td>
+        <td>MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1669,6 +1690,7 @@ for details on generation and contribution._
 - [Jack McDade](https://github.com/jackmcdade)
 - [Randy Oest](https://github.com/amazingrando)
 - [Nicolas Widart](https://github.com/nWidart)
+- [Iain K. MacLeod](https://github.com/boostventilator)
 
 ## License
 
