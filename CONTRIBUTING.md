@@ -41,7 +41,7 @@ language = "php"
 ### 3. Submit a pull request.
 
 Be sure to check the boxes in the [pull request
-template](/PULl_REQUEST_TEMPLATE.md).
+template](/PULL_REQUEST_TEMPLATE.md).
 
 ## On Your Computer
 
