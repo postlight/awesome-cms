@@ -19,11 +19,13 @@ is accepted._
 ```toml
 name = ""
 description = ""
+# A URL other than the GitHub URL
 url = ""
 # If there's an awesome list for this CMS.
-awesome_repo = ""
+awesome_repo = "org/repo"
 # Only if it's open source
-github_repo = ""
+github_repo = "org/repo"
+# Lower case, e.g. javascript, php, c#.
 language = ""
 ```
 
