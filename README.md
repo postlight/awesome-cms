@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **82** open and closed source Content Management
+A collection of **84** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -202,7 +202,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,800
+              ★20,801
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -852,6 +852,27 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Thelia</b>
+          </div>
+          <div>
+              <a href="https://github.com/thelia/thelia" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://thelia.net" title="Website for Thelia">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★637
+              |&nbsp;2016/09/23
+              <ins title="Last commit on 2016/09/23">ⓘ</ins>
+          </div>
+        </td>
+        <td>Thelia is an open source tool for creating e-business websites and managing online content. This software is published under LGPL and uses a large number of components from the Symfony project.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Lavalite</b>
           </div>
           <div>
@@ -978,6 +999,27 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Kirby</b>
+          </div>
+          <div>
+              <a href="https://github.com/getkirby/starterkit" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://getkirby.com/" title="Website for Kirby">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★279
+              |&nbsp;2016/08/03
+              <ins title="Last commit on 2016/08/03">ⓘ</ins>
+          </div>
+        </td>
+        <td>Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Textpattern CMS</b>
           </div>
           <div>
@@ -1093,8 +1135,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★3,736
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              |&nbsp;2016/08/23
+              <ins title="Last commit on 2016/08/23">ⓘ</ins>
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -1315,7 +1357,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,031
+              ★2,032
               |&nbsp;2016/04/28
               <ins title="Last commit on 2016/04/28">ⓘ</ins>
           </div>
@@ -1750,6 +1792,8 @@ for details on generation and contribution._
 - [Iain K. MacLeod](https://github.com/boostventilator)
 - [Saint Asky](https://github.com/loongmxbt)
 - [Kumar Gaurav](https://github.com/kgthegreat)
+- [Hawken Rives](https://github.com/hawkrives)
+- [Gilles Bourgeat](https://github.com/gillesbourgeat)
 
 ## License
 
