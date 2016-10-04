@@ -1,3 +1,6 @@
 name = "Prose"
 description = "Prose is a content editor for GitHub designed for managing websites."
 url = "http://prose.io"
+github_repo = "prose/prose"
+language = "javascript"
+
