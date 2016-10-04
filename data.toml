@@ -43,6 +43,13 @@ github_repo = "croogo/croogo"
 language = "php"
 
 [[cms]]
+name = "October"
+description = "October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again."
+url = "https://octobercms.com/"
+github_repo = "octobercms/october"
+language = "php"
+
+[[cms]]
 name = "FUEL CMS"
 description = "A CodeIgniter Content Management System."
 url = "http://www.getfuelcms.com"
