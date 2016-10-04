@@ -1,0 +1,5 @@
+name = "Roadiz"
+description = "Roadiz is a modern CMS based on a node system which can handle many types of services."
+url = "https://www.roadiz.io/"
+github_repo = "roadiz/roadiz/"
+language = "php"
