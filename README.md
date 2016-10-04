@@ -223,7 +223,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,797
+              ★7,798
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -262,7 +262,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,762
+              ★2,764
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -1804,6 +1804,8 @@ for details on generation and contribution._
 ## Contributors
 
 - [Jeremy Mack](https://github.com/mutewinter)
+- [Paul Ford](https://github.com/ftrain)
+- [Drew Bell](https://github.com/droob)
 - [Stefan Grund](https://github.com/stefangrund)
 - [Phil Wareham](https://github.com/philwareham)
 - [Odirlei Borgert](https://github.com/odirleiborgert)
