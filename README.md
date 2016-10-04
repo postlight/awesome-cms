@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **87** open and closed source Content Management
+A collection of **88** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -1721,6 +1721,21 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Create a professional website, online store or blog in minutes with Jimdo&#x27;s website builder. Choose one of our responsive templates, and get started!</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>LiveWhale</b>
+          </div>
+          <div>
+              <a href="https://www.livewhale.com" title="Website for LiveWhale">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>LiveWhale is a powerful, flexible, and incredibly easy to use CMS designed primarily for use at colleges and universities. Licensees have full source code access. Made by White Whale Web Services.</td>
       </tr>
       <tr>
         <td width="240">
