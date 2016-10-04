@@ -38,14 +38,16 @@ awesome_repo = "miziomon/awesome-wordpress"
 language = "php"
 ```
 
-### 3. Add your new CMS.
-### 4. Submit a pull request.
+### 3. Submit a pull request.
+
+Be sure to check the boxes in the [pull request
+template](/PULl_REQUEST_TEMPLATE.md).
 
 ## On Your Computer
 
 1. Fork the repo on GitHub.
 1. Clone the project.
-1. Commit changes to your own branch.
+1. Follow the steps above.
 1. Push your work back up to your fork.
 1. Submit a pull request.
 
