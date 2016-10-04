@@ -564,3 +564,14 @@ name = "Composite C1"
 description = "A web CMS that focus on UX and adaptability."
 github_repo = "Orckestra/C1-CMS"
 language = "c#"
+
+# ----
+# Java
+# ----
+
+[[cms]]
+name = "Alfresco"
+description = "Alfresco is leading the convergence of ECM and BPM."
+url = "https://www.alfresco.com"
+github_repo = "Alfresco/community-edition"
+language = "Java"
