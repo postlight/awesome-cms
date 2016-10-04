@@ -9,7 +9,7 @@ is accepted._
 
 ## On GitHub
 
-### 1. [Create a new file in the data folder]() named as follows:
+### 1. [Create a new file in the data folder][] named as follows:
 
 - Open source? Use the _lowercase_ filename `org#repo.toml`.
 - Closed source? Use the _lowercase_ product name, with dashes substituded for spaces `product-name.toml`.
@@ -89,4 +89,4 @@ npm run generateReadme
 
 [NVM]: https://github.com/creationix/nvm
 [TOML]: (https://github.com/toml-lang/toml)
-[Create a new file]: https://github.com/postlight/awesome-cms/new/master/scripts
+[Create a new file in the data folder]: https://github.com/postlight/awesome-cms/new/master/scripts
