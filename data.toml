@@ -161,6 +161,13 @@ awesome_repo = "websemantics/awesome-pyrocms"
 language = "php"
 
 [[cms]]
+name = "Thelia"
+    description = "Thelia is an open source tool for creating e-business websites and managing online content. This software is published under LGPL and uses a large number of components from the Symfony project."
+url = "http://thelia.net"
+github_repo = "thelia/thelia"
+language = "php"
+
+[[cms]]
 name = "TYPO3"
 description = "With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web & mobile applications worldwide."
 url = "http://typo3.org"
