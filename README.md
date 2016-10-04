@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **80** open and closed source Content Management
+A collection of **81** open and closed source Content Management
 Systems (CMS) for your perusal.
 
 _Last generated on October 3rd, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
@@ -51,7 +51,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★1,349
+              ★1,350
               |&nbsp;2016/09/28
               <ins title="Last commit on 2016/09/28">ⓘ</ins>
           </div>
@@ -114,7 +114,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★218
+              ★219
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -166,7 +166,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,793
+              ★20,795
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -187,7 +187,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,787
+              ★7,790
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -205,7 +205,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,212
+              ★6,217
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -226,7 +226,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,754
+              ★2,755
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -268,7 +268,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,436
+              ★1,437
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -290,8 +290,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,408
-              |&nbsp;2016/09/30
-              <ins title="Last commit on 2016/09/30">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
@@ -350,8 +350,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★571
-              |&nbsp;2016/09/29
-              <ins title="Last commit on 2016/09/29">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.</td>
@@ -430,7 +430,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★158
+              ★159
               |&nbsp;2016/07/12
               <ins title="Last commit on 2016/07/12">ⓘ</ins>
           </div>
@@ -467,7 +467,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,030
+              ★8,034
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -488,12 +488,33 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,215
+              ★5,216
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>October</b>
+          </div>
+          <div>
+              <a href="https://github.com/octobercms/october" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://octobercms.com/" title="Website for October">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★5,124
+              |&nbsp;2016/09/08
+              <ins title="Last commit on 2016/09/08">ⓘ</ins>
+          </div>
+        </td>
+        <td>October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again.</td>
       </tr>
       <tr>
         <td width="240">
@@ -596,7 +617,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,376
+              ★2,375
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -620,7 +641,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,344
+              ★2,345
               |&nbsp;2016/09/27
               <ins title="Last commit on 2016/09/27">ⓘ</ins>
           </div>
@@ -642,8 +663,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,145
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              |&nbsp;2016/10/02
+              <ins title="Last commit on 2016/10/02">ⓘ</ins>
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -680,7 +701,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,846
+              ★1,847
               |&nbsp;2016/06/28
               <ins title="Last commit on 2016/06/28">ⓘ</ins>
           </div>
@@ -785,7 +806,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★673
+              ★674
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -806,7 +827,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★600
+              ★601
               |&nbsp;2016/07/25
               <ins title="Last commit on 2016/07/25">ⓘ</ins>
           </div>
@@ -1011,7 +1032,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,428
+              ★4,429
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -1691,6 +1712,7 @@ for details on generation and contribution._
 - [Randy Oest](https://github.com/amazingrando)
 - [Nicolas Widart](https://github.com/nWidart)
 - [Iain K. MacLeod](https://github.com/boostventilator)
+- [Saint Asky](https://github.com/loongmxbt)
 
 ## License
 
