@@ -3,7 +3,8 @@
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
 A collection of **81** open and closed source Content Management
-Systems (CMS) for your perusal.
+Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
+Awesome CMS.
 
 _Last generated on October 3rd, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
@@ -205,7 +206,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,217
+              ★6,218
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -226,7 +227,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,755
+              ★2,756
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -289,7 +290,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,408
+              ★1,409
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -593,7 +594,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,406
+              ★2,407
               |&nbsp;2016/09/17
               <ins title="Last commit on 2016/09/17">ⓘ</ins>
           </div>
@@ -1720,3 +1721,4 @@ MIT, see [LICENSE](/LICENSE) for more details.
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
+[the blog post]: https://trackchanges.postlight.com/building-awesome-cms-f034344d8ed
