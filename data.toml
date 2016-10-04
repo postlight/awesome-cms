@@ -190,6 +190,13 @@ github_repo = "wikimedia/mediawiki"
 language = "php"
 
 [[cms]]
+name = "Ponydocs"
+description = "Ponydocs is Splunk's MediaWiki-powered documentation platform. Ponydocs is free and open source."
+url = "http://docs.splunk.com/Documentation/Ponydocs/1.0/Content/WhatisPonydocs"
+github_repo = "splunk/ponydocs"
+language = "php"
+
+[[cms]]
 name = "AsgardCms - A laravel CMS that's modular and multilingual"
 description = "A modular multilingual CMS built with Laravel 5."
 url = "https://asgardcms.com/"
