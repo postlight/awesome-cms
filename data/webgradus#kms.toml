@@ -1,0 +1,5 @@
+name = "KMS"
+description = "Simple and powerful Ruby on Rails CMS for developers"
+url = ""
+github_repo = "webgradus/kms"
+language = "ruby"
