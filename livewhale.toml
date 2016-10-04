@@ -1,0 +1,6 @@
+
+name = "LiveWhale"
+description = "LiveWhale is a powerful, flexible, and incredibly easy to use CMS designed primarily for use at colleges and universities. Licensees have full source code access. Made by White Whale Web Services."
+url = "https://www.livewhale.com"
+github_repo = "whitewhale"
+language = "php"
