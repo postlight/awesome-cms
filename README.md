@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **84** open and closed source Content Management
+A collection of **85** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -1065,6 +1065,27 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Redaxscript</b>
+          </div>
+          <div>
+              <a href="https://github.com/redaxmedia/redaxscript" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://redaxscript.com" title="Website for Redaxscript">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★192
+              |&nbsp;2016/05/04
+              <ins title="Last commit on 2016/05/04">ⓘ</ins>
+          </div>
+        </td>
+        <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Borgert CMS</b>
           </div>
           <div>
@@ -1794,6 +1815,7 @@ for details on generation and contribution._
 - [Kumar Gaurav](https://github.com/kgthegreat)
 - [Hawken Rives](https://github.com/hawkrives)
 - [Gilles Bourgeat](https://github.com/gillesbourgeat)
+- [redaxmedia](https://github.com/redaxmedia)
 
 ## License
 
