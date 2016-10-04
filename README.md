@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **85** open and closed source Content Management
+A collection of **86** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -202,9 +202,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,802
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              ★20,805
+              |&nbsp;2016/10/04
+              <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
@@ -223,7 +223,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,798
+              ★7,804
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -247,6 +247,27 @@ for details on generation and contribution._
           </div>
         </td>
         <td>New generation CMS on top of React, Redux and GraphQL.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Prose</b>
+          </div>
+          <div>
+              <a href="https://github.com/prose/prose" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://prose.io" title="Website for Prose">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★3,420
+              |&nbsp;2016/08/22
+              <ins title="Last commit on 2016/08/22">ⓘ</ins>
+          </div>
+        </td>
+        <td>Prose is a content editor for GitHub designed for managing websites.</td>
       </tr>
       <tr>
         <td width="240">
@@ -385,7 +406,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★573
+              ★574
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -503,7 +524,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,041
+              ★8,042
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -524,7 +545,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,218
+              ★5,220
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -545,7 +566,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,127
+              ★5,130
               |&nbsp;2016/09/08
               <ins title="Last commit on 2016/09/08">ⓘ</ins>
           </div>
@@ -566,7 +587,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,749
+              ★3,750
               |&nbsp;2016/08/26
               <ins title="Last commit on 2016/08/26">ⓘ</ins>
           </div>
@@ -654,8 +675,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,377
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              |&nbsp;2016/10/04
+              <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -678,8 +699,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,346
-              |&nbsp;2016/09/27
-              <ins title="Last commit on 2016/09/27">ⓘ</ins>
+              |&nbsp;2016/10/04
+              <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
         </td>
         <td>PyroCMS is an MVC PHP Content Management System built to be easy to use, theme and develop with. It is used by individuals and organizations of all sizes around the world.</td>
@@ -737,7 +758,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,848
+              ★1,850
               |&nbsp;2016/06/28
               <ins title="Last commit on 2016/06/28">ⓘ</ins>
           </div>
@@ -884,7 +905,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★602
+              ★603
               |&nbsp;2016/07/25
               <ins title="Last commit on 2016/07/25">ⓘ</ins>
           </div>
@@ -1020,6 +1041,27 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Roadiz</b>
+          </div>
+          <div>
+              <a href="https://github.com/roadiz/roadiz" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.roadiz.io/" title="Website for Roadiz">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★247
+              |&nbsp;2016/09/15
+              <ins title="Last commit on 2016/09/15">ⓘ</ins>
+          </div>
+        </td>
+        <td>Roadiz is a modern CMS based on a node system which can handle many types of services.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Textpattern CMS</b>
           </div>
           <div>
@@ -1077,8 +1119,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★192
-              |&nbsp;2016/05/04
-              <ins title="Last commit on 2016/05/04">ⓘ</ins>
+              |&nbsp;2016/10/04
+              <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
         </td>
         <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
@@ -1131,9 +1173,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,429
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              ★4,430
+              |&nbsp;2016/10/04
+              <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
         </td>
         <td>The easy-to-use and developer-friendly CMS.</td>
@@ -1706,21 +1748,6 @@ for details on generation and contribution._
           </div>
         </td>
         <td>A hosted, API based and developer friendly CMS backend. We take care of upgrades, scalability and security.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Prose</b>
-          </div>
-          <div>
-              <a href="http://prose.io" title="Website for Prose">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-          </div>
-        </td>
-        <td>Prose is a content editor for GitHub designed for managing websites.</td>
       </tr>
       <tr>
         <td width="240">
