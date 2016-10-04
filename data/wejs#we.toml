@@ -1,0 +1,5 @@
+name = "We.js Framework"
+description = "Extensible Node.js MVC framework."
+url = "http://wejs.org/"
+github_repo = "wejs/we"
+language = "javascript"

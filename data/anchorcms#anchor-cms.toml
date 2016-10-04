@@ -1,0 +1,5 @@
+name = "Anchor CMS"
+description = "A lightweight blog CMS for PHP."
+url = "http://anchorcms.com/"
+github_repo = "anchorcms/anchor-cms"
+language = "php"

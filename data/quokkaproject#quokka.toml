@@ -1,0 +1,5 @@
+name = "Quokka CMS"
+description = "Quokka is a flexible content management platform powered by Python, Flask and MongoDB."
+url = "http://www.quokkaproject.org"
+github_repo = "quokkaproject/quokka"
+language = "python"

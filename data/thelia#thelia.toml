@@ -1,0 +1,5 @@
+name = "Thelia"
+description = "Thelia is an open source tool for creating e-business websites and managing online content. This software is published under LGPL and uses a large number of components from the Symfony project."
+url = "http://thelia.net"
+github_repo = "thelia/thelia"
+language = "php"

@@ -1,0 +1,3 @@
+name = "Siteleaf"
+description = "Supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more."
+url = "http://www.siteleaf.com"

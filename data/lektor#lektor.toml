@@ -1,0 +1,5 @@
+name = "Lektor"
+description = "The lektor static file content management system"
+url = "https://www.getlektor.com/"
+github_repo = "lektor/lektor"
+language = "python"

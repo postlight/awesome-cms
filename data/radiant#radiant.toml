@@ -1,0 +1,5 @@
+name = "Radiant CMS"
+description = "Radiant is a no-fluff, open source content management system designed for small teams."
+url = "http://radiantcms.org/"
+github_repo = "radiant/radiant"
+language = "ruby"

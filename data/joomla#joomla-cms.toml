@@ -1,0 +1,5 @@
+name = "Joomla!"
+description = "Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS."
+url = "https://www.joomla.org"
+github_repo = "joomla/joomla-cms"
+language = "php"

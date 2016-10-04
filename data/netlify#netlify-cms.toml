@@ -1,0 +1,4 @@
+name = "Netlify CMS"
+description = "A CMS for Static Site Generators."
+github_repo = "netlify/netlify-cms"
+language = "javascript"

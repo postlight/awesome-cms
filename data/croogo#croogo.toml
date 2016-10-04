@@ -1,0 +1,5 @@
+name = "Croogo"
+description = "A CakePHP powered Content Management System."
+url = "http://www.croogo.org"
+github_repo = "croogo/croogo"
+language = "php"

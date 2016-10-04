@@ -1,0 +1,5 @@
+name = "Pico"
+description = "Pico is a stupidly simple, blazing fast, flat file CMS."
+url = "http://picocms.org/"
+github_repo = "picocms/Pico"
+language = "php"

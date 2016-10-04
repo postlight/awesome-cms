@@ -1,0 +1,5 @@
+name = "FUEL CMS"
+description = "A CodeIgniter Content Management System."
+url = "http://www.getfuelcms.com"
+github_repo = "daylightstudio/FUEL-CMS"
+language = "php"

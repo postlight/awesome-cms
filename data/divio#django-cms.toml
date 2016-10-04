@@ -1,0 +1,6 @@
+name = "django CMS"
+description = "The easy-to-use and developer-friendly CMS."
+url = "http://www.django-cms.org"
+github_repo = "divio/django-cms"
+awesome_repo = "mishbahr/awesome-django-cms"
+language = "python"

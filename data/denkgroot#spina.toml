@@ -1,0 +1,5 @@
+name = "Spina"
+description = "GitHub - denkGroot/Spina: Spina CMS."
+url = "http://www.spinacms.com"
+github_repo = "denkGroot/Spina"
+language = "ruby"

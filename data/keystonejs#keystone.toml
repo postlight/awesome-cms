@@ -1,0 +1,5 @@
+name = "KeystoneJS"
+description = "The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB."
+url = "http://keystonejs.com"
+github_repo = "keystonejs/keystone"
+language = "javascript"

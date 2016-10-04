@@ -1,0 +1,5 @@
+name = "Lavalite"
+description = "CMS Built with Laravel 5.2 and Bootstrap 3."
+url = "http://www.lavalite.org"
+github_repo = "LavaLite/cms"
+language = "php"

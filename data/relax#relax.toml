@@ -1,0 +1,4 @@
+name = "Relax"
+description = "New generation CMS on top of React, Redux and GraphQL."
+github_repo = "relax/relax"
+language = "javascript"

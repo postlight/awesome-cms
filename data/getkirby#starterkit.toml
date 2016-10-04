@@ -1,0 +1,5 @@
+name = "Kirby"
+description = "Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell."
+url = "https://getkirby.com/"
+github_repo = "getkirby/starterkit"
+language = "php"

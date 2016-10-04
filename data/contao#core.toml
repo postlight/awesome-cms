@@ -1,0 +1,5 @@
+name = "Contao"
+description = "Contao is a web-based Open Source CMS, which generates accessible websites. It supports multiple languages and can easily be learned and extended."
+url = "https://contao.org/en/"
+github_repo = "contao/core"
+language = "php"

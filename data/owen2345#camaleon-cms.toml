@@ -1,0 +1,5 @@
+name = "Camaleon CMS"
+description = "Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4."
+url = "http://camaleon.tuzitio.com/"
+github_repo = "owen2345/camaleon-cms"
+language = "ruby"
