@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **86** open and closed source Content Management
+A collection of **87** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -117,8 +117,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★220
-              |&nbsp;2016/10/03
-              <ins title="Last commit on 2016/10/03">ⓘ</ins>
+              |&nbsp;2016/10/04
+              <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -223,7 +223,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,804
+              ★7,805
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -241,7 +241,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,230
+              ★6,233
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -283,7 +283,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,764
+              ★2,766
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -325,7 +325,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,437
+              ★1,438
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -346,7 +346,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,411
+              ★1,412
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -545,7 +545,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,220
+              ★5,222
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -566,7 +566,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,130
+              ★5,131
               |&nbsp;2016/09/08
               <ins title="Last commit on 2016/09/08">ⓘ</ins>
           </div>
@@ -608,7 +608,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,974
+              ★2,975
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -698,7 +698,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,346
+              ★2,347
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -719,7 +719,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,146
+              ★2,147
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -863,7 +863,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★674
+              ★675
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -1011,8 +1011,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★398
-              |&nbsp;2016/09/29
-              <ins title="Last commit on 2016/09/29">ⓘ</ins>
+              |&nbsp;2016/10/03
+              <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1136,7 +1136,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★72
+              ★73
               |&nbsp;2016/10/02
               <ins title="Last commit on 2016/10/02">ⓘ</ins>
           </div>
@@ -1173,7 +1173,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,430
+              ★4,431
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -1218,7 +1218,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,835
+              ★2,836
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -1239,7 +1239,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,059
+              ★2,060
               |&nbsp;2016/10/02
               <ins title="Last commit on 2016/10/02">ⓘ</ins>
           </div>
@@ -1344,7 +1344,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★60
+              ★61
               |&nbsp;2016/10/02
               <ins title="Last commit on 2016/10/02">ⓘ</ins>
           </div>
@@ -1570,6 +1570,24 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>KMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/webgradus/kms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★62
+              |&nbsp;2016/10/01
+              <ins title="Last commit on 2016/10/01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Simple and powerful Ruby on Rails CMS for developers</td>
       </tr>
   </tbody>
 </table>
@@ -1846,6 +1864,7 @@ for details on generation and contribution._
 - [Gilles Bourgeat](https://github.com/gillesbourgeat)
 - [redaxmedia](https://github.com/redaxmedia)
 - [Mohammad Faisal](https://github.com/faisalhmohd)
+- [PitOn](https://github.com/GarPit)
 
 ## License
 
