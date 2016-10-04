@@ -75,21 +75,14 @@ editing is normally needed.
 
 _All scripts require **Node 6** or greater. Use [NVM][] to easily install it._
 
-### [data.toml](/data.toml) and [meta.toml](/meta.toml)
+### The Data Folder
 
-[data.toml](/data.toml) and [meta.toml](/meta.toml) use the human-friendly [TOML]
-markup language. Together, they are used to generate the README.
-
-### Generating the README.
-
-_Note, don't generate the README for your Pull Request. Otherwise it will
-conflict._
-
-The [README.md](/) for this project is generated from the data in
-[`data.toml`](data.toml).
+The files in the [`/data`](/data) folder and [meta.toml](/meta.toml) use the
+human-friendly [TOML][] markup language. Together, they are used to generate the
+README.
 
 ```
-# Edit data.toml
+# Edit something in /data
 npm install
 npm run generateReadme
 ```
