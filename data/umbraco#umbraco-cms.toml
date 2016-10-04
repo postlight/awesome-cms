@@ -1,0 +1,6 @@
+name = "Umbraco"
+description = "The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites."
+url = "http://umbraco.com"
+github_repo = "umbraco/Umbraco-CMS"
+awesome_repo = "leekelleher/awesome-umbraco"
+language = "c#"

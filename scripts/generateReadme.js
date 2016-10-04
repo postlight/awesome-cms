@@ -8,6 +8,7 @@ const { camelizeKeys } = require('humps');
 const Xray = require('x-ray');
 const Handlebars = require('handlebars');
 const moment = require('moment');
+const glob = require('glob');
 
 const readmeTemplate = Handlebars.compile(
   fs.readFileSync('./README.md.hbs').toString()
@@ -73,9 +74,10 @@ const generateReadme = () => {
   const startedAt = moment();
   const metaContents = fs.readFileSync('./meta.toml');
   const meta = camelizeKeys(toml.parse(metaContents));
-  const dataContents = fs.readFileSync('./data.toml');
-  const data = camelizeKeys(toml.parse(dataContents));
-  const { cms: allCMSES } = data;
+  const dataFiles = glob.sync('data/*.toml');
+  const allCMSES = dataFiles.map((dataFile) => (
+    camelizeKeys(toml.parse(fs.readFileSync(dataFile)))
+  ));
 
   const duplicateURLS = duplicatesForKey(allCMSES, 'url');
   const duplicateGithubRepos = duplicatesForKey(allCMSES, 'githubRepo');

@@ -1,0 +1,6 @@
+name = "WordPress"
+description = "WordPress is a free and open-source content management system (CMS) based on PHP and MySQL."
+url = "https://wordpress.org"
+github_repo = "WordPress/WordPress"
+awesome_repo = "miziomon/awesome-wordpress"
+language = "php"

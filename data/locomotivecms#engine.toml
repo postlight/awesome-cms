@@ -1,0 +1,5 @@
+name = "LocomotiveCMS"
+description = "A platform to create, publish and edit sites."
+url = "http://locomotive.works"
+github_repo = "locomotivecms/engine"
+language = "ruby"

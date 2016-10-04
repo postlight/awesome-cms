@@ -1,0 +1,5 @@
+name = "Alchemy CMS"
+description = "Alchemy is a powerful, flexible and user centric Rails CMS."
+url = "http://alchemy-cms.com"
+github_repo = "AlchemyCMS/alchemy_cms"
+language = "ruby"

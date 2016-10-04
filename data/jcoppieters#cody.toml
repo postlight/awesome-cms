@@ -1,0 +1,5 @@
+name = "Cody"
+description = "Javascript Content Management System running on Node.js."
+url = "http://howest.cody-cms.org"
+github_repo = "jcoppieters/cody"
+language = "javascript"

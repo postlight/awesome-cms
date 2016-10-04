@@ -1,0 +1,5 @@
+name = "Pagekit"
+description = "Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js."
+url = "https://pagekit.com"
+github_repo = "pagekit/pagekit"
+language = "php"

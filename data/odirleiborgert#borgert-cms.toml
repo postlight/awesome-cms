@@ -1,0 +1,4 @@
+name = "Borgert CMS"
+description = "A simple CMS to start projects in Laravel 5.3 containing some modules. Blog, Pages, Products, Mailbox, Image Gallery and Users."
+github_repo = "odirleiborgert/borgert-cms"
+language = "php"

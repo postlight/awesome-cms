@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "📝 An Awesome List for Content Management Systems",
   "dependencies": {
+    "glob": "7.1.0",
     "handlebars": "4.0.5",
     "humps": "1.1.0",
     "lodash": "4.15.0",
@@ -11,8 +12,8 @@
     "x-ray": "2.3.0"
   },
   "scripts": {
-    "generate-readme": "node scripts/generate-readme.js",
-    "website-to-toml": "node scripts/url-to-toml.js $1",
+    "generateReadme": "node scripts/generateReadme.js",
+    "websiteToToml": "node scripts/urlToToml.js $1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Postlight",

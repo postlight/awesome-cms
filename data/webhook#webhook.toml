@@ -1,0 +1,5 @@
+name = "Webhook"
+description = "Webhook lets you build a custom CMS with matching HTML templates in about a minute. Webhook is built with Node JS, Grunt, Firebase and Swig."
+url = "http://www.webhook.com"
+github_repo = "webhook/webhook"
+language = "javascript"

@@ -1,0 +1,5 @@
+name = "feinCMS"
+description = "A Django-based CMS with a focus on extensibility and concise code."
+url = "http://www.feincms.org/"
+github_repo = "feincms/feincms"
+language = "python"

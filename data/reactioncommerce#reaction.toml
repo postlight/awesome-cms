@@ -1,0 +1,5 @@
+name = "Reaction"
+description = "Reaction is a modern reactive, real-time event driven ecommerce platform."
+url = "https://reactioncommerce.com/"
+github_repo = "reactioncommerce/reaction"
+language = "javascript"

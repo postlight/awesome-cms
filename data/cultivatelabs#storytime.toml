@@ -1,0 +1,4 @@
+name = "Storytime"
+description = "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs."
+github_repo = "CultivateLabs/storytime"
+language = "ruby"

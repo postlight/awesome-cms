@@ -1,0 +1,4 @@
+name = "Composite C1"
+description = "A web CMS that focus on UX and adaptability."
+github_repo = "Orckestra/C1-CMS"
+language = "c#"

@@ -1,0 +1,5 @@
+name = "PencilBlue"
+description = "Business class content management for Node.js (plugins, server cluster management, data-driven pages)."
+url = "https://pencilblue.org"
+github_repo = "pencilblue/pencilblue"
+language = "javascript"

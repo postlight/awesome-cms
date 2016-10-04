@@ -1,0 +1,5 @@
+name = "Alfresco"
+description = "Alfresco is a leading repository for enterprise content management (ECM), providing document management, collaboration, records management, knowledge management, and web content services."
+url = "https://www.alfresco.com"
+github_repo = "Alfresco/community-edition"
+language = "java"

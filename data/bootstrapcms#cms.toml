@@ -1,0 +1,4 @@
+name = "Bootstrap CMS"
+description = "A PHP CMS powered by Laravel 5 and Sentry"
+github_repo = "BootstrapCMS/CMS"
+language = "php"

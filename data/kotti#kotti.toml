@@ -1,0 +1,5 @@
+name = "Kotti"
+description = "Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS."
+url = "http://kotti.pylonsproject.org"
+github_repo = "Kotti/Kotti"
+language = "python"

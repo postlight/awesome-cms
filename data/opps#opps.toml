@@ -1,0 +1,5 @@
+name = "Opps Project"
+description = "A Django-based CMS for the magazines, newspappers websites and portals with high-traffic."
+url = "http://opps.github.io/opps/"
+github_repo = "opps/opps"
+language = "python"

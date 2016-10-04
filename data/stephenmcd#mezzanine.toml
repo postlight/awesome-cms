@@ -1,0 +1,5 @@
+name = "Mezzanine"
+description = "CMS framework for Django."
+url = "http://mezzanine.jupo.org"
+github_repo = "stephenmcd/mezzanine"
+language = "python"

@@ -1,0 +1,6 @@
+name = "Drupal"
+description = "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
+url = "https://www.drupal.org"
+github_repo = "drupal/drupal"
+awesome_repo = "mrsinguyen/awesome-drupal"
+language = "php"

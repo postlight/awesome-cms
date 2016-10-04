@@ -1,0 +1,6 @@
+name = "Textpattern CMS"
+description = "A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source."
+url = "http://textpattern.com/"
+github_repo = "textpattern/textpattern"
+awesome_repo = "drmonkeyninja/awesome-textpattern"
+language = "php"

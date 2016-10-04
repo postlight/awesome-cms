@@ -1,0 +1,5 @@
+name = "Ghost"
+description = "Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone."
+url = "https://ghost.org"
+github_repo = "tryghost/Ghost"
+language = "javascript"

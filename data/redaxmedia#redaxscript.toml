@@ -1,0 +1,5 @@
+name = "Redaxscript"
+description = "Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL."
+url = "http://redaxscript.com"
+github_repo = "redaxmedia/redaxscript"
+language = "php"

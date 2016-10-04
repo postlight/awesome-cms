@@ -1,0 +1,5 @@
+name = "Respond CMS"
+description = "Angular 2 + Lumen PHP + Static HTML sites.  Respond 6 is a responsive CMS that features Bootstrap 3, a complete REST API,  templates, plugins, and more."
+url = "https://respondcms.com"
+github_repo = "madoublet/respond"
+language = "javascript"

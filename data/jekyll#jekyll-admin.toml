@@ -1,0 +1,5 @@
+name = "Jekyll Admin"
+description = "A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites."
+url = "https://jekyll.github.io/jekyll-admin/"
+github_repo = "jekyll/jekyll-admin"
+language = "javascript"

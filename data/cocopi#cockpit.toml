@@ -1,0 +1,5 @@
+name = "Cockpit CMS"
+description = "Add content management functionality to any site."
+url = "http://getcockpit.com"
+github_repo = "COCOPi/cockpit"
+language = "php"

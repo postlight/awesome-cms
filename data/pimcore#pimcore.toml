@@ -1,0 +1,5 @@
+name = "Pimcore Platform"
+description = "Content & Product Management Framework (CMS/PIM/E-Commerce)."
+url = "http://www.pimcore.org/"
+github_repo = "pimcore/pimcore"
+language = "php"

@@ -1,0 +1,5 @@
+name = "Orchard"
+description = "Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform."
+url = "http://orchardproject.net"
+github_repo = "OrchardCMS/Orchard"
+language = "c#"

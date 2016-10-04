@@ -1,0 +1,5 @@
+name = "Fork CMS"
+description = "Fork is an open source CMS using Symfony Components."
+url = "http://www.fork-cms.com"
+github_repo = "forkcms/forkcms"
+language = "php"
