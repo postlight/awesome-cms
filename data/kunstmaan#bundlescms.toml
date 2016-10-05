@@ -1,0 +1,5 @@
+name = "KunstmaanBundlesCMS"
+description = "An advanced yet user-friendly content management system, based on the full stack Symfony2 framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS system with an innovative page and form assembling process, versioning, workflow, translation and media managers and much more."
+url = "https://bundles.kunstmaan.be"
+github_repo = "Kunstmaan/KunstmaanBundlesCMS"
+language = "php"
