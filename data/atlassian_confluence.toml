@@ -1,4 +1,3 @@
 name = "Atlassian Confluence"
 description = "Spend less time hunting things down and more time making things happen. Organize your work, create documents, and discuss everything in one place."
 url = "https://www.atlassian.com/software/confluence"
-language = "java"
