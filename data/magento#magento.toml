@@ -1,0 +1,5 @@
+name = "Magento"
+description = "Magento is an open-source e-commerce platform written in PHP."
+url = "https://magento.com/"
+github_repo = "magento/magento2"
+language = "php"
