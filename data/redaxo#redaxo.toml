@@ -1,0 +1,5 @@
+name = "REDAXO"
+description = "Easy to handle for users, flexible for developers. Feels quite reasonable. (Hint: will open up for English users gradually!)"
+url = "http://www.redaxo.org/"
+github_repo = "redaxo/redaxo"
+language = "php"
