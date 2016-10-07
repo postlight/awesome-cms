@@ -55,7 +55,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★1,355
+              ★1,356
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -76,7 +76,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,069
+              ★1,070
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -204,7 +204,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,836
+              ★20,838
               |&nbsp;2016/10/07
               <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
@@ -225,7 +225,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,820
+              ★7,822
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -264,7 +264,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,423
+              ★3,424
               |&nbsp;2016/08/22
               <ins title="Last commit on 2016/08/22">ⓘ</ins>
           </div>
@@ -327,7 +327,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,440
+              ★1,441
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -348,7 +348,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,422
+              ★1,424
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -426,7 +426,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★567
+              ★568
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -526,9 +526,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,067
-              |&nbsp;2016/10/06
-              <ins title="Last commit on 2016/10/06">ⓘ</ins>
+              ★8,068
+              |&nbsp;2016/10/07
+              <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
         </td>
         <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
@@ -547,7 +547,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,242
+              ★5,244
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -589,7 +589,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,782
+              ★3,783
               |&nbsp;2016/10/07
               <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
@@ -697,7 +697,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,379
+              ★2,378
               |&nbsp;2016/10/05
               <ins title="Last commit on 2016/10/05">ⓘ</ins>
           </div>
@@ -763,7 +763,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,958
+              ★1,959
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -887,8 +887,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★677
-              |&nbsp;2016/10/06
-              <ins title="Last commit on 2016/10/06">ⓘ</ins>
+              |&nbsp;2016/10/07
+              <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
         </td>
         <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
@@ -1012,7 +1012,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★437
+              ★438
               |&nbsp;2016/07/29
               <ins title="Last commit on 2016/07/29">ⓘ</ins>
           </div>
@@ -1055,8 +1055,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★398
-              |&nbsp;2016/10/07
-              <ins title="Last commit on 2016/10/07">ⓘ</ins>
+              |&nbsp;2016/09/03
+              <ins title="Last commit on 2016/09/03">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1120,7 +1120,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★219
+              ★220
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -1259,7 +1259,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,443
+              ★4,442
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -1283,7 +1283,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★3,743
+              ★3,745
               |&nbsp;2016/10/07
               <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
@@ -1304,7 +1304,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,841
+              ★2,842
               |&nbsp;2016/09/30
               <ins title="Last commit on 2016/09/30">ⓘ</ins>
           </div>
@@ -1506,7 +1506,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,030
+              ★2,032
               |&nbsp;2016/04/28
               <ins title="Last commit on 2016/04/28">ⓘ</ins>
           </div>
@@ -1569,7 +1569,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,031
+              ★1,032
               |&nbsp;2016/10/05
               <ins title="Last commit on 2016/10/05">ⓘ</ins>
           </div>
@@ -1651,8 +1651,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★430
-              |&nbsp;2016/10/05
-              <ins title="Last commit on 2016/10/05">ⓘ</ins>
+              |&nbsp;2016/10/07
+              <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
