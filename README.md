@@ -9,6 +9,8 @@ Awesome CMS.
 _Last generated on October 7th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
+## Contents
+
 - [.NET](#net)
 - [Java](#java)
 - [JavaScript](#javascript)
