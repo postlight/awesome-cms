@@ -2,20 +2,13 @@
   "name": "awesome-cms",
   "version": "1.0.0",
   "description": "📝 An Awesome List for Content Management Systems",
+  "repository": "github:postlight/awesome-cms",
   "dependencies": {
-    "glob": "7.1.0",
-    "handlebars": "4.0.5",
-    "humps": "1.1.0",
-    "lodash": "4.15.0",
-    "moment": "2.14.1",
-    "toml": "2.3.0",
-    "x-ray": "2.3.0"
+    "generate-awesome": "0.1.1"
   },
   "scripts": {
-    "generateReadme": "node scripts/generateReadme.js",
-    "websiteToToml": "node scripts/urlToToml.js $1",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generateReadme": "generate-awesome generate"
   },
   "author": "Postlight",
-  "license": "MIT"
+  "license": "CC0-1.0"
 }

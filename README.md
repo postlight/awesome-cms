@@ -241,7 +241,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,258
+              ★6,259
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -524,7 +524,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,066
+              ★8,067
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -608,7 +608,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,755
+              ★3,754
               |&nbsp;2016/08/26
               <ins title="Last commit on 2016/08/26">ⓘ</ins>
           </div>
@@ -650,7 +650,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,802
+              ★2,803
               |&nbsp;2016/08/08
               <ins title="Last commit on 2016/08/08">ⓘ</ins>
           </div>
@@ -1985,7 +1985,7 @@ for details on generation and contribution._
 
 ## License
 
-MIT, see [LICENSE](/LICENSE) for more details.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
