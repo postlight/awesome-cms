@@ -92,5 +92,5 @@ npm run generateReadme
 ```
 
 [NVM]: https://github.com/creationix/nvm
-[TOML]: (https://github.com/toml-lang/toml)
+[TOML]: https://github.com/toml-lang/toml
 [Create a new file]: https://github.com/postlight/awesome-cms/new/master/data?filename=org%23repo.toml
