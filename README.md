@@ -2,7 +2,7 @@
 
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **93** open and closed source Content Management
+A collection of **95** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -547,7 +547,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,244
+              ★5,245
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -631,7 +631,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,974
+              ★2,975
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -743,8 +743,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,149
-              |&nbsp;2016/10/06
-              <ins title="Last commit on 2016/10/06">ⓘ</ins>
+              |&nbsp;2016/10/07
+              <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -823,7 +823,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★787
+              ★788
               |&nbsp;2016/09/28
               <ins title="Last commit on 2016/09/28">ⓘ</ins>
           </div>
@@ -949,7 +949,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★589
+              ★590
               |&nbsp;2016/10/07
               <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
@@ -1055,8 +1055,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★398
-              |&nbsp;2016/09/03
-              <ins title="Last commit on 2016/09/03">ⓘ</ins>
+              |&nbsp;2016/10/07
+              <ins title="Last commit on 2016/10/07">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1346,7 +1346,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,401
+              ★1,402
               |&nbsp;2016/10/03
               <ins title="Last commit on 2016/10/03">ⓘ</ins>
           </div>
@@ -1871,6 +1871,21 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Perch</b>
+          </div>
+          <div>
+              <a href="https://grabaperch.com/" title="Website for Perch">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Perch is a really little content management system for when you or your clients need to edit content without the hassle of setting up a big CMS. Perch is self-hosted and brandable, written in PHP and uses a database.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>prismic.io</b>
           </div>
           <div>
@@ -1882,6 +1897,21 @@ for details on generation and contribution._
           </div>
         </td>
         <td>A hosted, API based and developer friendly CMS backend. We take care of upgrades, scalability and security.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Sitecore XP</b>
+          </div>
+          <div>
+              <a href="http://www.sitecore.net/en/products/sitecore-experience-platform/" title="Website for Sitecore XP">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>A powerful, feature-rich, enterprise-class .NET web content management system.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1984,6 +2014,7 @@ for details on generation and contribution._
 - [Dirk Schürjohann](https://github.com/schuer)
 - [sserot](https://github.com/sserot)
 - [joshin4colours](https://github.com/joshmgrant)
+- [Stef Pause](https://github.com/ManxStef)
 
 ## License
 
