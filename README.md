@@ -1,7 +1,7 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **98** open and closed source Content Management
+A collection of **99** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -203,7 +203,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,942
+              ★20,943
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -224,7 +224,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,921
+              ★7,924
               |&nbsp;2016/10/17
               <ins title="Last commit on 2016/10/17">ⓘ</ins>
           </div>
@@ -242,7 +242,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,321
+              ★6,322
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -263,7 +263,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,438
+              ★3,439
               |&nbsp;2016/08/22
               <ins title="Last commit on 2016/08/22">ⓘ</ins>
           </div>
@@ -284,9 +284,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,827
-              |&nbsp;2016/09/23
-              <ins title="Last commit on 2016/09/23">ⓘ</ins>
+              ★2,828
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Reaction is a modern reactive, real-time event driven ecommerce platform.</td>
@@ -305,7 +305,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,913
+              ★1,912
               |&nbsp;2016/03/07
               <ins title="Last commit on 2016/03/07">ⓘ</ins>
           </div>
@@ -407,7 +407,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★605
+              ★606
               |&nbsp;2016/10/13
               <ins title="Last commit on 2016/10/13">ⓘ</ins>
           </div>
@@ -425,9 +425,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★580
-              |&nbsp;2016/10/18
-              <ins title="Last commit on 2016/10/18">ⓘ</ins>
+              ★581
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -525,7 +525,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,107
+              ★8,104
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -546,7 +546,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,316
+              ★5,317
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -567,7 +567,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,182
+              ★5,184
               |&nbsp;2016/09/08
               <ins title="Last commit on 2016/09/08">ⓘ</ins>
           </div>
@@ -609,7 +609,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,777
+              ★3,778
               |&nbsp;2016/08/26
               <ins title="Last commit on 2016/08/26">ⓘ</ins>
           </div>
@@ -630,7 +630,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,982
+              ★2,983
               |&nbsp;2016/10/18
               <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
@@ -696,7 +696,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,388
+              ★2,387
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -720,7 +720,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,357
+              ★2,358
               |&nbsp;2016/10/04
               <ins title="Last commit on 2016/10/04">ⓘ</ins>
           </div>
@@ -741,7 +741,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,155
+              ★2,156
               |&nbsp;2016/10/18
               <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
@@ -780,7 +780,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,862
+              ★1,863
               |&nbsp;2016/06/28
               <ins title="Last commit on 2016/06/28">ⓘ</ins>
           </div>
@@ -1053,7 +1053,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★404
+              ★405
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -1095,7 +1095,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★250
+              ★251
               |&nbsp;2016/09/15
               <ins title="Last commit on 2016/09/15">ⓘ</ins>
           </div>
@@ -1119,7 +1119,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★224
+              ★225
               |&nbsp;2016/10/19
               <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
@@ -1258,7 +1258,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,466
+              ★4,465
               |&nbsp;2016/10/12
               <ins title="Last commit on 2016/10/12">ⓘ</ins>
           </div>
@@ -1324,7 +1324,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,082
+              ★2,083
               |&nbsp;2016/10/09
               <ins title="Last commit on 2016/10/09">ⓘ</ins>
           </div>
@@ -1345,7 +1345,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,443
+              ★1,444
               |&nbsp;2016/10/18
               <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
@@ -1547,7 +1547,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,641
+              ★1,642
               |&nbsp;2016/10/17
               <ins title="Last commit on 2016/10/17">ⓘ</ins>
           </div>
@@ -1855,6 +1855,21 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
+            <b>Kentico</b>
+          </div>
+          <div>
+              <a href="http://www.kentico.com" title="Website for Kentico">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Kentico is the only fully integrated ASP.NET CMS, E-commerce, and Online Marketing platform that allows you to create cutting-edge websites and optimize your digital customers’ experiences fully across multiple channels. Kentico saves you time and resources so you can accomplish more.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>LiveWhale</b>
           </div>
           <div>
@@ -2036,7 +2051,7 @@ for details on generation and contribution._
 </table>
 
 
-## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors)
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors)
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -2044,7 +2059,7 @@ for details on generation and contribution._
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/44739?v=3" width="100px;"/><br /><sub>Jack McDade</sub>](http://jackmcdade.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=jackmcdade) | [<img src="https://avatars.githubusercontent.com/u/409903?v=3" width="100px;"/><br /><sub>Randy Oest</sub>](www.randyoest.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=amazingrando) | [<img src="https://avatars.githubusercontent.com/u/882397?v=3" width="100px;"/><br /><sub>Nicolas Widart</sub>](http://www.nicolaswidart.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=nWidart) | [<img src="https://avatars.githubusercontent.com/u/194032?v=3" width="100px;"/><br /><sub>Iain K. MacLeod</sub>](http://boostventilator.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=boostventilator) | [<img src="https://avatars.githubusercontent.com/u/5986600?v=3" width="100px;"/><br /><sub>Saint Asky</sub>](http://www.jianshu.com/users/b04f0f36ad58/latest_articles)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=loongmxbt) | [<img src="https://avatars.githubusercontent.com/u/115534?v=3" width="100px;"/><br /><sub>Kumar Gaurav</sub>](http://kumargaurav.co/about)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=kgthegreat) | [<img src="https://avatars.githubusercontent.com/u/464441?v=3" width="100px;"/><br /><sub>Hawken Rives</sub>](https://hawkrives.github.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=hawkrives) |
 | [<img src="https://avatars.githubusercontent.com/u/7335734?v=3" width="100px;"/><br /><sub>Gilles Bourgeat</sub>](https://twitter.com/gillesbourgeat)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=gillesbourgeat) | [<img src="https://avatars.githubusercontent.com/u/1835397?v=3" width="100px;"/><br /><sub>redaxmedia</sub>](http://redaxmedia.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=redaxmedia) | [<img src="https://avatars.githubusercontent.com/u/8844136?v=3" width="100px;"/><br /><sub>Mohammad Faisal</sub>](https://faisalhmohd.github.io/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=faisalhmohd) | [<img src="https://avatars.githubusercontent.com/u/339663?v=3" width="100px;"/><br /><sub>Igor Petrov</sub>](http://webgradus.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=GarPit) | [<img src="https://avatars.githubusercontent.com/u/1297466?v=3" width="100px;"/><br /><sub>Dirk Schürjohann</sub>](https://decaf.de)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=schuer) | [<img src="https://avatars.githubusercontent.com/u/1163333?v=3" width="100px;"/><br /><sub>sserot</sub>](https://github.com/sserot)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=sserot) | [<img src="https://avatars.githubusercontent.com/u/702729?v=3" width="100px;"/><br /><sub>joshin4colours</sub>](http://simplythetest.tumblr.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=joshmgrant) |
-| [<img src="https://avatars.githubusercontent.com/u/116098?v=3" width="100px;"/><br /><sub>Stef Pause</sub>](https://stefpause.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ManxStef) | [<img src="https://avatars.githubusercontent.com/u/1884268?v=3" width="100px;"/><br /><sub>Camille Baronnet</sub>](https://www.camillebaronnet.fr/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=camillebaronnet) | [<img src="https://avatars.githubusercontent.com/u/4451296?v=3" width="100px;"/><br /><sub>Maxim Siebert</sub>](http://www.maximsiebert.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=MaximSiebert) |
+| [<img src="https://avatars.githubusercontent.com/u/116098?v=3" width="100px;"/><br /><sub>Stef Pause</sub>](https://stefpause.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ManxStef) | [<img src="https://avatars.githubusercontent.com/u/1884268?v=3" width="100px;"/><br /><sub>Camille Baronnet</sub>](https://www.camillebaronnet.fr/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=camillebaronnet) | [<img src="https://avatars.githubusercontent.com/u/4451296?v=3" width="100px;"/><br /><sub>Maxim Siebert</sub>](http://www.maximsiebert.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=MaximSiebert) | [<img src="https://avatars.githubusercontent.com/u/9885800?v=3" width="100px;"/><br /><sub>Chris Hamm</sub>](https://github.com/misterhamm)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=misterhamm) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
