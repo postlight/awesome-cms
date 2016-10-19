@@ -1,12 +1,11 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
+# Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-# Awesome CMS [![Awesome][awesome-image]][awesome-repo] [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors)
-
-A collection of **97** open and closed source Content Management
+A collection of **98** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
-_Last generated on October 17th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+_Last generated on October 19th, 2016. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
 ## Contents
@@ -55,9 +54,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★1,364
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★1,365
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
@@ -76,9 +75,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,089
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              ★1,092
+              |&nbsp;2016/10/17
+              <ins title="Last commit on 2016/10/17">ⓘ</ins>
           </div>
         </td>
         <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
@@ -118,7 +117,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★232
+              ★234
               |&nbsp;2016/10/16
               <ins title="Last commit on 2016/10/16">ⓘ</ins>
           </div>
@@ -137,8 +136,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★103
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>A web CMS that focus on UX and adaptability.</td>
@@ -170,7 +169,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★162
+              ★163
               |&nbsp;2016/09/07
               <ins title="Last commit on 2016/09/07">ⓘ</ins>
           </div>
@@ -204,9 +203,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★20,919
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★20,942
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
@@ -225,7 +224,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,900
+              ★7,921
               |&nbsp;2016/10/17
               <ins title="Last commit on 2016/10/17">ⓘ</ins>
           </div>
@@ -243,9 +242,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,310
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              ★6,321
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>New generation CMS on top of React, Redux and GraphQL.</td>
@@ -264,7 +263,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,436
+              ★3,438
               |&nbsp;2016/08/22
               <ins title="Last commit on 2016/08/22">ⓘ</ins>
           </div>
@@ -285,7 +284,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,816
+              ★2,827
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -306,7 +305,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,912
+              ★1,913
               |&nbsp;2016/03/07
               <ins title="Last commit on 2016/03/07">ⓘ</ins>
           </div>
@@ -327,9 +326,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,444
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              ★1,445
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>Business class content management for Node.js (plugins, server cluster management, data-driven pages).</td>
@@ -348,9 +347,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,441
-              |&nbsp;2016/10/11
-              <ins title="Last commit on 2016/10/11">ⓘ</ins>
+              ★1,444
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
@@ -367,8 +366,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,216
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application.</td>
@@ -408,7 +407,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★600
+              ★605
               |&nbsp;2016/10/13
               <ins title="Last commit on 2016/10/13">ⓘ</ins>
           </div>
@@ -426,9 +425,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★578
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              ★580
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -447,7 +446,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★539
+              ★538
               |&nbsp;2016/06/02
               <ins title="Last commit on 2016/06/02">ⓘ</ins>
           </div>
@@ -489,7 +488,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★160
+              ★159
               |&nbsp;2016/07/12
               <ins title="Last commit on 2016/07/12">ⓘ</ins>
           </div>
@@ -526,9 +525,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★8,106
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★8,107
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
@@ -547,9 +546,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,312
-              |&nbsp;2016/10/14
-              <ins title="Last commit on 2016/10/14">ⓘ</ins>
+              ★5,316
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
@@ -568,7 +567,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,175
+              ★5,182
               |&nbsp;2016/09/08
               <ins title="Last commit on 2016/09/08">ⓘ</ins>
           </div>
@@ -589,9 +588,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,803
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★3,806
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Magento is an open-source e-commerce platform written in PHP.</td>
@@ -610,7 +609,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,771
+              ★3,777
               |&nbsp;2016/08/26
               <ins title="Last commit on 2016/08/26">ⓘ</ins>
           </div>
@@ -632,8 +631,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,982
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
@@ -652,7 +651,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,808
+              ★2,811
               |&nbsp;2016/08/08
               <ins title="Last commit on 2016/08/08">ⓘ</ins>
           </div>
@@ -698,8 +697,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,388
-              |&nbsp;2016/10/15
-              <ins title="Last commit on 2016/10/15">ⓘ</ins>
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -742,9 +741,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,152
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★2,155
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -763,9 +762,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,973
-              |&nbsp;2016/10/12
-              <ins title="Last commit on 2016/10/12">ⓘ</ins>
+              ★1,974
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>Add content management functionality to any site.</td>
@@ -802,9 +801,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★933
-              |&nbsp;2016/10/16
-              <ins title="Last commit on 2016/10/16">ⓘ</ins>
+              ★934
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Fork is an open source CMS using Symfony Components.</td>
@@ -844,7 +843,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★780
+              ★782
               |&nbsp;2016/06/23
               <ins title="Last commit on 2016/06/23">ⓘ</ins>
           </div>
@@ -886,9 +885,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★684
-              |&nbsp;2016/10/16
-              <ins title="Last commit on 2016/10/16">ⓘ</ins>
+              ★685
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
@@ -907,7 +906,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★638
+              ★639
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -928,7 +927,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★612
+              ★616
               |&nbsp;2016/07/25
               <ins title="Last commit on 2016/07/25">ⓘ</ins>
           </div>
@@ -949,9 +948,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★594
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★595
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Content &amp; Product Management Framework (CMS/PIM/E-Commerce).</td>
@@ -971,8 +970,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★528
-              |&nbsp;2016/10/16
-              <ins title="Last commit on 2016/10/16">ⓘ</ins>
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
@@ -1033,7 +1032,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★428
+              ★429
               |&nbsp;2016/10/12
               <ins title="Last commit on 2016/10/12">ⓘ</ins>
           </div>
@@ -1055,8 +1054,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★404
-              |&nbsp;2016/10/16
-              <ins title="Last commit on 2016/10/16">ⓘ</ins>
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1121,8 +1120,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★224
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
@@ -1163,8 +1162,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★194
-              |&nbsp;2016/10/16
-              <ins title="Last commit on 2016/10/16">ⓘ</ins>
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
@@ -1183,7 +1182,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★177
+              ★181
               |&nbsp;2016/10/14
               <ins title="Last commit on 2016/10/14">ⓘ</ins>
           </div>
@@ -1222,7 +1221,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★76
+              ★78
               |&nbsp;2016/10/06
               <ins title="Last commit on 2016/10/06">ⓘ</ins>
           </div>
@@ -1259,7 +1258,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,460
+              ★4,466
               |&nbsp;2016/10/12
               <ins title="Last commit on 2016/10/12">ⓘ</ins>
           </div>
@@ -1283,7 +1282,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★3,772
+              ★3,773
               |&nbsp;2016/10/17
               <ins title="Last commit on 2016/10/17">ⓘ</ins>
           </div>
@@ -1304,9 +1303,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,858
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              ★2,861
+              |&nbsp;2016/10/17
+              <ins title="Last commit on 2016/10/17">ⓘ</ins>
           </div>
         </td>
         <td>CMS framework for Django.</td>
@@ -1325,7 +1324,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,073
+              ★2,082
               |&nbsp;2016/10/09
               <ins title="Last commit on 2016/10/09">ⓘ</ins>
           </div>
@@ -1346,9 +1345,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,406
-              |&nbsp;2016/10/10
-              <ins title="Last commit on 2016/10/10">ⓘ</ins>
+              ★1,443
+              |&nbsp;2016/10/18
+              <ins title="Last commit on 2016/10/18">ⓘ</ins>
           </div>
         </td>
         <td>Quokka is a flexible content management platform powered by Python, Flask and MongoDB.</td>
@@ -1409,9 +1408,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★253
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★254
+              |&nbsp;2016/06/01
+              <ins title="Last commit on 2016/06/01">ⓘ</ins>
           </div>
         </td>
         <td>A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.</td>
@@ -1467,7 +1466,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★3,390
+              ★3,391
               |&nbsp;2016/09/23
               <ins title="Last commit on 2016/09/23">ⓘ</ins>
           </div>
@@ -1506,7 +1505,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,037
+              ★2,038
               |&nbsp;2016/04/28
               <ins title="Last commit on 2016/04/28">ⓘ</ins>
           </div>
@@ -1569,7 +1568,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,035
+              ★1,036
               |&nbsp;2016/10/05
               <ins title="Last commit on 2016/10/05">ⓘ</ins>
           </div>
@@ -1590,9 +1589,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★899
-              |&nbsp;2016/10/17
-              <ins title="Last commit on 2016/10/17">ⓘ</ins>
+              ★900
+              |&nbsp;2016/08/11
+              <ins title="Last commit on 2016/08/11">ⓘ</ins>
           </div>
         </td>
         <td>A lightweight CMS, implemented in Sinatra.</td>
@@ -1611,9 +1610,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★821
-              |&nbsp;2016/10/13
-              <ins title="Last commit on 2016/10/13">ⓘ</ins>
+              ★824
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
@@ -1650,9 +1649,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★430
-              |&nbsp;2016/10/16
-              <ins title="Last commit on 2016/10/16">ⓘ</ins>
+              ★431
+              |&nbsp;2016/10/19
+              <ins title="Last commit on 2016/10/19">ⓘ</ins>
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
@@ -1747,6 +1746,21 @@ for details on generation and contribution._
           </div>
         </td>
         <td>Shatter the limits imposed by your old, legacy CMS. Our headless, API-first Content Management System provides everything needed for scalable, multi-device publishing through SaaS and On-Premise delivery</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Cloudcannon</b>
+          </div>
+          <div>
+              <a href="http://cloudcannon.com/" title="Website for Cloudcannon">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Build Jekyll or static websites, have your team and clients update inline.</td>
       </tr>
       <tr>
         <td width="240">
@@ -2022,14 +2036,15 @@ for details on generation and contribution._
 </table>
 
 
-## Contributors
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors)
+
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 | [<img src="https://avatars.githubusercontent.com/u/305901?v=3" width="100px;"/><br /><sub>Jeremy Mack</sub>](https://twitter.com/mutewinter)<br />💡 [💻](https://github.com/postlight/awesome-cms/commits?author=mutewinter) [📖](https://github.com/postlight/awesome-cms/commits?author=mutewinter) 📝 | [<img src="https://avatars.githubusercontent.com/u/573182?v=3" width="100px;"/><br /><sub>Matt</sub>](https://github.com/mattq)<br />🎨 | [<img src="https://avatars.githubusercontent.com/u/20264?v=3" width="100px;"/><br /><sub>Paul Ford</sub>](http://www.ftrain.com)<br />📢 👀 💁 📝 | [<img src="https://avatars.githubusercontent.com/u/183608?v=3" width="100px;"/><br /><sub>Drew Bell</sub>](droob.org)<br />👀 | [<img src="https://avatars.githubusercontent.com/u/1671150?v=3" width="100px;"/><br /><sub>Stefan Grund</sub>](https://stefangrund.de/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=stefangrund) | [<img src="https://avatars.githubusercontent.com/u/413665?v=3" width="100px;"/><br /><sub>Phil Wareham</sub>](https://twitter.com/philwareham)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=philwareham) | [<img src="https://avatars.githubusercontent.com/u/1898307?v=3" width="100px;"/><br /><sub>Odirlei Borgert</sub>](www.odirleiborgert.com.br)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=odirleiborgert) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/44739?v=3" width="100px;"/><br /><sub>Jack McDade</sub>](http://jackmcdade.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=jackmcdade) | [<img src="https://avatars.githubusercontent.com/u/409903?v=3" width="100px;"/><br /><sub>Randy Oest</sub>](www.randyoest.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=amazingrando) | [<img src="https://avatars.githubusercontent.com/u/882397?v=3" width="100px;"/><br /><sub>Nicolas Widart</sub>](http://www.nicolaswidart.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=nWidart) | [<img src="https://avatars.githubusercontent.com/u/194032?v=3" width="100px;"/><br /><sub>Iain K. MacLeod</sub>](http://boostventilator.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=boostventilator) | [<img src="https://avatars.githubusercontent.com/u/5986600?v=3" width="100px;"/><br /><sub>Saint Asky</sub>](http://www.jianshu.com/users/b04f0f36ad58/latest_articles)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=loongmxbt) | [<img src="https://avatars.githubusercontent.com/u/115534?v=3" width="100px;"/><br /><sub>Kumar Gaurav</sub>](http://kumargaurav.co/about)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=kgthegreat) | [<img src="https://avatars.githubusercontent.com/u/464441?v=3" width="100px;"/><br /><sub>Hawken Rives</sub>](https://hawkrives.github.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=hawkrives) |
 | [<img src="https://avatars.githubusercontent.com/u/7335734?v=3" width="100px;"/><br /><sub>Gilles Bourgeat</sub>](https://twitter.com/gillesbourgeat)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=gillesbourgeat) | [<img src="https://avatars.githubusercontent.com/u/1835397?v=3" width="100px;"/><br /><sub>redaxmedia</sub>](http://redaxmedia.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=redaxmedia) | [<img src="https://avatars.githubusercontent.com/u/8844136?v=3" width="100px;"/><br /><sub>Mohammad Faisal</sub>](https://faisalhmohd.github.io/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=faisalhmohd) | [<img src="https://avatars.githubusercontent.com/u/339663?v=3" width="100px;"/><br /><sub>Igor Petrov</sub>](http://webgradus.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=GarPit) | [<img src="https://avatars.githubusercontent.com/u/1297466?v=3" width="100px;"/><br /><sub>Dirk Schürjohann</sub>](https://decaf.de)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=schuer) | [<img src="https://avatars.githubusercontent.com/u/1163333?v=3" width="100px;"/><br /><sub>sserot</sub>](https://github.com/sserot)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=sserot) | [<img src="https://avatars.githubusercontent.com/u/702729?v=3" width="100px;"/><br /><sub>joshin4colours</sub>](http://simplythetest.tumblr.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=joshmgrant) |
-| [<img src="https://avatars.githubusercontent.com/u/116098?v=3" width="100px;"/><br /><sub>Stef Pause</sub>](https://stefpause.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ManxStef) | [<img src="https://avatars.githubusercontent.com/u/1884268?v=3" width="100px;"/><br /><sub>Camille Baronnet</sub>](https://www.camillebaronnet.fr/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=camillebaronnet) |
+| [<img src="https://avatars.githubusercontent.com/u/116098?v=3" width="100px;"/><br /><sub>Stef Pause</sub>](https://stefpause.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ManxStef) | [<img src="https://avatars.githubusercontent.com/u/1884268?v=3" width="100px;"/><br /><sub>Camille Baronnet</sub>](https://www.camillebaronnet.fr/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=camillebaronnet) | [<img src="https://avatars.githubusercontent.com/u/4451296?v=3" width="100px;"/><br /><sub>Maxim Siebert</sub>](http://www.maximsiebert.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=MaximSiebert) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
