@@ -1,0 +1,5 @@
+name = "Processwire"
+description = "CMS and framework for building sites of all shapes and sizes. Developer and client friendly. Open Source"
+url = "https://processwire.com/"
+github_repo = "processwire/processwire"
+language = "php"
