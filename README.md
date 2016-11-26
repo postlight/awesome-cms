@@ -742,8 +742,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★2,196
-              |&nbsp;2016/11/25
-              <ins title="Last commit on 2016/11/25">ⓘ</ins>
+              |&nbsp;2016/11/26
+              <ins title="Last commit on 2016/11/26">ⓘ</ins>
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -1105,13 +1105,13 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>AsgardCms - A laravel CMS that&#x27;s modular and multilingual</b>
+            <b>AsgardCms</b>
           </div>
           <div>
               <a href="https://github.com/AsgardCms/Platform" title="GitHub Repo">
                 :octocat:
               </a>&nbsp;&nbsp;
-              <a href="https://asgardcms.com/" title="Website for AsgardCms - A laravel CMS that&#x27;s modular and multilingual">
+              <a href="https://asgardcms.com/" title="Website for AsgardCms">
                 :globe_with_meridians:
               </a>&nbsp;&nbsp;
           </div>
