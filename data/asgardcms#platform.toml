@@ -1,4 +1,4 @@
-name = "AsgardCms - A laravel CMS that's modular and multilingual"
+name = "AsgardCms"
 description = "A modular multilingual CMS built with Laravel 5."
 url = "https://asgardcms.com/"
 github_repo = "AsgardCms/Platform"
