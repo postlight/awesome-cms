@@ -4,7 +4,7 @@
   "description": "📝 An Awesome List for Content Management Systems",
   "repository": "github:postlight/awesome-cms",
   "dependencies": {
-    "all-contributors-cli": "3.0.7",
+    "all-contributors-cli": "^4.0.1",
     "generate-awesome": "0.1.1"
   },
   "scripts": {
