@@ -255,6 +255,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "twoSeats",
+      "name": "Twaambo Haamucenje",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/536306?v=3",
+      "profile": "https://github.com/twoSeats",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "thomas4019",
+      "name": "Thomas Hansen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/406149?v=3",
+      "profile": "http://thomashansen.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
