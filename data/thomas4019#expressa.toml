@@ -1,0 +1,4 @@
+name = "Expressa"
+description = "Helps you create APIs with very little code. It's a middleware for making RESTFUL apis from JSON schema, with a Django-like Admin interface that lets you edit your data and modify your schemas.. It's easy to integrate into other applications and your schemas and permissions are just defined in JSON files."
+github_repo = "thomas4019/expressa"
+language = "javascript"
