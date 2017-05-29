@@ -1,0 +1,5 @@
+name = "APIQ"
+description = "Simple and powerful Ruby on Rails CMS for developers and agencies"
+url = "http://apiq.io"
+github_repo = "apiqcms/kms"
+language = "ruby"
