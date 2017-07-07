@@ -5,7 +5,7 @@ A collection of **104** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
-_Last generated on June 30th, 2017. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+_Last generated on July 7th, 2017. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
 ## Contents
@@ -54,9 +54,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★1,657
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★1,668
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
@@ -75,7 +75,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,396
+              ★1,402
               |&nbsp;2017/06/29
               <ins title="Last commit on 2017/06/29">ⓘ</ins>
           </div>
@@ -117,9 +117,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★358
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★363
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -136,8 +136,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★135
-              |&nbsp;2017/06/27
-              <ins title="Last commit on 2017/06/27">ⓘ</ins>
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>A web CMS that focus on UX and adaptability.</td>
@@ -169,7 +169,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★179
+              ★177
               |&nbsp;2016/09/07
               <ins title="Last commit on 2016/09/07">ⓘ</ins>
           </div>
@@ -203,9 +203,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★22,986
-              |&nbsp;2017/06/27
-              <ins title="Last commit on 2017/06/27">ⓘ</ins>
+              ★23,031
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
@@ -224,7 +224,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★10,248
+              ★10,344
               |&nbsp;2017/06/14
               <ins title="Last commit on 2017/06/14">ⓘ</ins>
           </div>
@@ -242,7 +242,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,286
+              ★7,307
               |&nbsp;2017/05/17
               <ins title="Last commit on 2017/05/17">ⓘ</ins>
           </div>
@@ -263,7 +263,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4,942
+              ★4,980
               |&nbsp;2017/06/21
               <ins title="Last commit on 2017/06/21">ⓘ</ins>
           </div>
@@ -284,9 +284,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,715
-              |&nbsp;2017/04/24
-              <ins title="Last commit on 2017/04/24">ⓘ</ins>
+              ★3,720
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>Prose is a content editor for GitHub designed for managing websites.</td>
@@ -305,9 +305,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,629
-              |&nbsp;2017/06/25
-              <ins title="Last commit on 2017/06/25">ⓘ</ins>
+              ★2,656
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -326,9 +326,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,080
-              |&nbsp;2017/06/21
-              <ins title="Last commit on 2017/06/21">ⓘ</ins>
+              ★2,091
+              |&nbsp;2017/07/02
+              <ins title="Last commit on 2017/07/02">ⓘ</ins>
           </div>
         </td>
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
@@ -347,7 +347,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,986
+              ★1,985
               |&nbsp;2017/03/26
               <ins title="Last commit on 2017/03/26">ⓘ</ins>
           </div>
@@ -368,7 +368,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,579
+              ★1,580
               |&nbsp;2017/04/11
               <ins title="Last commit on 2017/04/11">ⓘ</ins>
           </div>
@@ -386,9 +386,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,534
-              |&nbsp;2017/06/28
-              <ins title="Last commit on 2017/06/28">ⓘ</ins>
+              ★1,546
+              |&nbsp;2017/06/30
+              <ins title="Last commit on 2017/06/30">ⓘ</ins>
           </div>
         </td>
         <td>Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application.</td>
@@ -407,9 +407,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,201
-              |&nbsp;2017/06/27
-              <ins title="Last commit on 2017/06/27">ⓘ</ins>
+              ★1,212
+              |&nbsp;2017/07/01
+              <ins title="Last commit on 2017/07/01">ⓘ</ins>
           </div>
         </td>
         <td>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.</td>
@@ -428,9 +428,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★919
-              |&nbsp;2017/06/04
-              <ins title="Last commit on 2017/06/04">ⓘ</ins>
+              ★920
+              |&nbsp;2017/06/25
+              <ins title="Last commit on 2017/06/25">ⓘ</ins>
           </div>
         </td>
         <td>Angular 2 + Lumen PHP + Static HTML sites.  Respond 6 is a responsive CMS that features Bootstrap 3, a complete REST API,  templates, plugins, and more.</td>
@@ -449,7 +449,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★615
+              ★618
               |&nbsp;2016/12/29
               <ins title="Last commit on 2016/12/29">ⓘ</ins>
           </div>
@@ -470,7 +470,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★585
+              ★586
               |&nbsp;2015/09/04
               <ins title="Last commit on 2015/09/04">ⓘ</ins>
           </div>
@@ -491,7 +491,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★174
+              ★176
               |&nbsp;2017/06/13
               <ins title="Last commit on 2017/06/13">ⓘ</ins>
           </div>
@@ -509,7 +509,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★158
+              ★159
               |&nbsp;2017/06/29
               <ins title="Last commit on 2017/06/29">ⓘ</ins>
           </div>
@@ -546,9 +546,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★9,365
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★9,388
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
@@ -567,9 +567,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,064
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★7,103
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
@@ -588,7 +588,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★6,054
+              ★6,074
               |&nbsp;2017/05/15
               <ins title="Last commit on 2017/05/15">ⓘ</ins>
           </div>
@@ -609,9 +609,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4,513
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★4,529
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>Magento is an open-source e-commerce platform written in PHP.</td>
@@ -630,9 +630,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4,270
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★4,287
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js.</td>
@@ -651,9 +651,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,321
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★3,331
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
@@ -672,9 +672,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,942
-              |&nbsp;2017/06/27
-              <ins title="Last commit on 2017/06/27">ⓘ</ins>
+              ★2,946
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>A lightweight blog CMS for PHP.</td>
@@ -696,9 +696,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,671
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★2,672
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -717,7 +717,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,610
+              ★2,614
               |&nbsp;2017/06/12
               <ins title="Last commit on 2017/06/12">ⓘ</ins>
           </div>
@@ -741,9 +741,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,565
-              |&nbsp;2017/06/07
-              <ins title="Last commit on 2017/06/07">ⓘ</ins>
+              ★2,570
+              |&nbsp;2017/07/05
+              <ins title="Last commit on 2017/07/05">ⓘ</ins>
           </div>
         </td>
         <td>PyroCMS is an MVC PHP Content Management System built to be easy to use, theme and develop with. It is used by individuals and organizations of all sizes around the world.</td>
@@ -762,9 +762,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,414
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★2,419
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -783,9 +783,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,264
-              |&nbsp;2017/06/28
-              <ins title="Last commit on 2017/06/28">ⓘ</ins>
+              ★2,269
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Add content management functionality to any site.</td>
@@ -801,7 +801,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,139
+              ★2,145
               |&nbsp;2016/06/28
               <ins title="Last commit on 2016/06/28">ⓘ</ins>
           </div>
@@ -822,9 +822,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★975
-              |&nbsp;2017/06/26
-              <ins title="Last commit on 2017/06/26">ⓘ</ins>
+              ★976
+              |&nbsp;2017/07/04
+              <ins title="Last commit on 2017/07/04">ⓘ</ins>
           </div>
         </td>
         <td>Fork is an open source CMS using Symfony Components.</td>
@@ -843,7 +843,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★924
+              ★925
               |&nbsp;2017/05/18
               <ins title="Last commit on 2017/05/18">ⓘ</ins>
           </div>
@@ -864,9 +864,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★883
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★891
+              |&nbsp;2017/07/05
+              <ins title="Last commit on 2017/07/05">ⓘ</ins>
           </div>
         </td>
         <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
@@ -886,8 +886,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★837
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.</td>
@@ -906,7 +906,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★818
+              ★819
               |&nbsp;2017/04/02
               <ins title="Last commit on 2017/04/02">ⓘ</ins>
           </div>
@@ -927,9 +927,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★780
-              |&nbsp;2017/05/15
-              <ins title="Last commit on 2017/05/15">ⓘ</ins>
+              ★781
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>A CakePHP powered Content Management System.</td>
@@ -949,8 +949,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★751
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Content &amp; Product Management Framework (CMS/PIM/E-Commerce).</td>
@@ -969,9 +969,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★686
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★694
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.</td>
@@ -990,7 +990,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★679
+              ★680
               |&nbsp;2017/06/30
               <ins title="Last commit on 2017/06/30">ⓘ</ins>
           </div>
@@ -1011,9 +1011,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★574
-              |&nbsp;2017/06/27
-              <ins title="Last commit on 2017/06/27">ⓘ</ins>
+              ★579
+              |&nbsp;2017/07/05
+              <ins title="Last commit on 2017/07/05">ⓘ</ins>
           </div>
         </td>
         <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
@@ -1032,9 +1032,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★569
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★570
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
@@ -1053,7 +1053,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★529
+              ★533
               |&nbsp;2017/06/28
               <ins title="Last commit on 2017/06/28">ⓘ</ins>
           </div>
@@ -1096,8 +1096,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★460
-              |&nbsp;2017/06/27
-              <ins title="Last commit on 2017/06/27">ⓘ</ins>
+              |&nbsp;2017/07/05
+              <ins title="Last commit on 2017/07/05">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1116,9 +1116,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★341
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★344
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
@@ -1138,8 +1138,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★302
-              |&nbsp;2017/06/22
-              <ins title="Last commit on 2017/06/22">ⓘ</ins>
+              |&nbsp;2017/07/04
+              <ins title="Last commit on 2017/07/04">ⓘ</ins>
           </div>
         </td>
         <td>Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.</td>
@@ -1158,7 +1158,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★285
+              ★286
               |&nbsp;2017/06/23
               <ins title="Last commit on 2017/06/23">ⓘ</ins>
           </div>
@@ -1182,9 +1182,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★245
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★246
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
@@ -1204,8 +1204,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★237
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              |&nbsp;2017/07/05
+              <ins title="Last commit on 2017/07/05">ⓘ</ins>
           </div>
         </td>
         <td>An advanced yet user-friendly content management system, based on the full stack Symfony2 framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS system with an innovative page and form assembling process, versioning, workflow, translation and media managers and much more.</td>
@@ -1246,11 +1246,29 @@ for details on generation and contribution._
           </div>
           <div>
               ★209
-              |&nbsp;2017/06/07
-              <ins title="Last commit on 2017/06/07">ⓘ</ins>
+              |&nbsp;2017/07/05
+              <ins title="Last commit on 2017/07/05">ⓘ</ins>
           </div>
         </td>
         <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Borgert CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/odirleiborgert/borgert-cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★146
+              |&nbsp;2017/05/19
+              <ins title="Last commit on 2017/05/19">ⓘ</ins>
+          </div>
+        </td>
+        <td>A simple CMS to start projects in Laravel 5.3 containing some modules. Blog, Pages, Products, Mailbox, Image Gallery and Users.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1267,29 +1285,11 @@ for details on generation and contribution._
           </div>
           <div>
               ★145
-              |&nbsp;2017/06/11
-              <ins title="Last commit on 2017/06/11">ⓘ</ins>
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>Easy to handle for users, flexible for developers. Feels quite reasonable. (Hint: will open up for English users gradually!)</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Borgert CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/odirleiborgert/borgert-cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★145
-              |&nbsp;2017/05/19
-              <ins title="Last commit on 2017/05/19">ⓘ</ins>
-          </div>
-        </td>
-        <td>A simple CMS to start projects in Laravel 5.3 containing some modules. Blog, Pages, Products, Mailbox, Image Gallery and Users.</td>
       </tr>
   </tbody>
 </table>
@@ -1321,9 +1321,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★5,003
-              |&nbsp;2017/06/22
-              <ins title="Last commit on 2017/06/22">ⓘ</ins>
+              ★5,019
+              |&nbsp;2017/07/04
+              <ins title="Last commit on 2017/07/04">ⓘ</ins>
           </div>
         </td>
         <td>The easy-to-use and developer-friendly CMS.</td>
@@ -1345,9 +1345,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★4,472
-              |&nbsp;2017/06/30
-              <ins title="Last commit on 2017/06/30">ⓘ</ins>
+              ★4,496
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -1366,7 +1366,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,117
+              ★3,128
               |&nbsp;2017/06/29
               <ins title="Last commit on 2017/06/29">ⓘ</ins>
           </div>
@@ -1387,9 +1387,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,412
-              |&nbsp;2017/06/13
-              <ins title="Last commit on 2017/06/13">ⓘ</ins>
+              ★2,417
+              |&nbsp;2017/07/01
+              <ins title="Last commit on 2017/07/01">ⓘ</ins>
           </div>
         </td>
         <td>The lektor static file content management system</td>
@@ -1408,7 +1408,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,651
+              ★1,660
               |&nbsp;2017/03/15
               <ins title="Last commit on 2017/03/15">ⓘ</ins>
           </div>
@@ -1429,7 +1429,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★694
+              ★696
               |&nbsp;2017/06/15
               <ins title="Last commit on 2017/06/15">ⓘ</ins>
           </div>
@@ -1450,7 +1450,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★311
+              ★312
               |&nbsp;2017/06/06
               <ins title="Last commit on 2017/06/06">ⓘ</ins>
           </div>
@@ -1493,8 +1493,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★84
-              |&nbsp;2017/05/22
-              <ins title="Last commit on 2017/05/22">ⓘ</ins>
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.</td>
@@ -1529,7 +1529,7 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★3,459
+              ★3,463
               |&nbsp;2017/01/11
               <ins title="Last commit on 2017/01/11">ⓘ</ins>
           </div>
@@ -1550,9 +1550,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,222
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              ★2,224
+              |&nbsp;2017/07/04
+              <ins title="Last commit on 2017/07/04">ⓘ</ins>
           </div>
         </td>
         <td>A platform to create, publish and edit sites.</td>
@@ -1568,7 +1568,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,134
+              ★2,136
               |&nbsp;2017/05/23
               <ins title="Last commit on 2017/05/23">ⓘ</ins>
           </div>
@@ -1590,8 +1590,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★1,689
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>A self hosted Web publishing platform on Rails.</td>
@@ -1610,7 +1610,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,679
+              ★1,680
               |&nbsp;2016/04/04
               <ins title="Last commit on 2016/04/04">ⓘ</ins>
           </div>
@@ -1631,9 +1631,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,227
-              |&nbsp;2017/06/07
-              <ins title="Last commit on 2017/06/07">ⓘ</ins>
+              ★1,231
+              |&nbsp;2017/07/06
+              <ins title="Last commit on 2017/07/06">ⓘ</ins>
           </div>
         </td>
         <td>GitHub - denkGroot/Spina: Spina CMS.</td>
@@ -1653,8 +1653,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★964
-              |&nbsp;2017/06/23
-              <ins title="Last commit on 2017/06/23">ⓘ</ins>
+              |&nbsp;2017/07/03
+              <ins title="Last commit on 2017/07/03">ⓘ</ins>
           </div>
         </td>
         <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
@@ -1673,7 +1673,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★899
+              ★900
               |&nbsp;2016/08/11
               <ins title="Last commit on 2016/08/11">ⓘ</ins>
           </div>
@@ -1691,9 +1691,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★705
-              |&nbsp;2017/04/20
-              <ins title="Last commit on 2017/04/20">ⓘ</ins>
+              ★707
+              |&nbsp;2017/06/30
+              <ins title="Last commit on 2017/06/30">ⓘ</ins>
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
@@ -1712,9 +1712,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★479
-              |&nbsp;2017/06/26
-              <ins title="Last commit on 2017/06/26">ⓘ</ins>
+              ★482
+              |&nbsp;2017/07/04
+              <ins title="Last commit on 2017/07/04">ⓘ</ins>
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
@@ -1734,8 +1734,8 @@ for details on generation and contribution._
           </div>
           <div>
               ★265
-              |&nbsp;2017/06/29
-              <ins title="Last commit on 2017/06/29">ⓘ</ins>
+              |&nbsp;2017/07/07
+              <ins title="Last commit on 2017/07/07">ⓘ</ins>
           </div>
         </td>
         <td>Simple and powerful Ruby on Rails CMS for developers and agencies</td>
