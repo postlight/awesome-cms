@@ -1,0 +1,5 @@
+name = "Ponzu"
+description = "Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go."
+url = "https://ponzu-cms.org"
+github_repo = "ponzu-cms/ponzu"
+language = "go"
