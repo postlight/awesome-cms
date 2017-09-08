@@ -309,6 +309,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "itsnwa",
+      "name": "Nichlas Wærnes Andersen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19958806?v=4",
+      "profile": "http://itsnwa.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sdebacker",
+      "name": "Samuel De Backer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/134503?v=4",
+      "profile": "http://www.typi.be",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nilslice",
+      "name": "Steve Manuel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7517515?v=4",
+      "profile": "http://stvmnl.co",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
