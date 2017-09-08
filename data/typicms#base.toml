@@ -1,0 +1,5 @@
+name = "TypiCMS"
+description = "A modular multilingual CMS built with Laravel 5."
+url = "https://typicms.org"
+github_repo = "TypiCMS/Base"
+language = "php"
