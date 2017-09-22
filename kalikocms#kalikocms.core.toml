@@ -1,0 +1,5 @@
+name = "Kaliko CMS"
+description = "Kaliko CMS is a free, powerful and flexible CMS framework for ASP.NET MVC and WebForms."
+url = "https://kaliko.com/cms/"
+github_repo = "KalikoCMS/KalikoCMS.Core"
+language = "c#"
