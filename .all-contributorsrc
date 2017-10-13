@@ -345,6 +345,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cgarnier",
+      "name": "Clément Garnier",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1249958?v=4",
+      "profile": "https://github.com/cgarnier",
+      "contributions": [
+        "bug"
+      ]
     }
   ]
 }
