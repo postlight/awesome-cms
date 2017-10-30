@@ -1,0 +1,5 @@
+name = "Platformus"
+description = "Free, open source, and cross-platform developer-friendly CMS, based on ASP.NET Core and ExtCore frameworks."
+url = "http://platformus.net"
+github_repo = "Platformus/Platformus"
+language = "c#"
