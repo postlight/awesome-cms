@@ -1,0 +1,5 @@
+name = "XOOPS"
+description = "XOOPS CMS is a web application platform written in PHP for the MySQL database. Its object orientation makes it an ideal tool for developing small or large community websites, corporate portals, weblogs and much more."
+url = "https://xoops.org/"
+github_repo = "XOOPS/XoopsCore"
+language = "php"
