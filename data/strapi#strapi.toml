@@ -1,0 +1,5 @@
+name = "strapi"
+description = "The most advanced open-source Content Management Framework to build powerful API with no effort."
+url = "https://strapi.io/"
+github_repo = "https://github.com/strapi/strapi"
+language = "javascript"
