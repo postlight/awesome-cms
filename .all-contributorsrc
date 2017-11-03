@@ -354,6 +354,33 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "DmitrySikorsky",
+      "name": "Dmitry Sikorsky",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6570196?v=4",
+      "profile": "http://sikorsky.pro/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mambax7",
+      "name": "Michael Beck",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/613686?v=4",
+      "profile": "http://xoops.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "crazy4groovy",
+      "name": "crazy4groovy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1110812?v=4",
+      "profile": "http://crazy4groovy.blogspot.ca",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
