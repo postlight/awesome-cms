@@ -1,0 +1,5 @@
+name = "Property Web Builder"
+description = "Property Web Builder is a CMS for real estate (property listings) implemented as a Ruby on Rails 5 Engine with an ember.js admin panel."
+url = "http://propertywebbuilder.com"
+github_repo = "etewiah/property_web_builder"
+language = "ruby"
