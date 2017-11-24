@@ -823,7 +823,7 @@ for details on generation and contribution._
               <ins title="Last commit on 2017/11/20">ⓘ</ins>
           </div>
         </td>
-        <td>PyroCMS is an MVC PHP Content Management System built to be easy to use, theme and develop with. It is used by individuals and organizations of all sizes around the world.</td>
+        <td>PyroCMS is a modular and DDD-like PHP Content Management System built on top of Laravel's MVC to be easy to use. It has artisan code generators, which would make it funny to create a domain with suggested models or just a new theme and then develop that created code. It has highest learning curve of presented here products!</td>
       </tr>
       <tr>
         <td width="240">
