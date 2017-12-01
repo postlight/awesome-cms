@@ -1,0 +1,5 @@
+name = "HashBrown"
+description = "HashBrown is a free and open-source headless CMS that lets you build and deploy content any way you can imagine"
+url = "http://hashbrown.rocks"
+github_repo = "Putaitu/hashbrown-cms"
+language = "javascript"
