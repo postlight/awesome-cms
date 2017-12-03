@@ -1,0 +1,5 @@
+name = "Contenta CMS"
+description = "Open Source Healess CMS powered by Drupal. Contenta CMS is for highly structured content. Contenta CMS uses leverages the data modelling tools from Drupal and offers a queriable API and a friendly admin interface."
+url = "http://contentacms.org/"
+github_repo = "contentacms/contenta_jsonapi"
+language = "php"
