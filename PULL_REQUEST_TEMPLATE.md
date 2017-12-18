@@ -1,3 +1,3 @@
 - [ ] verified that the CMS I'm adding is still maintained.
-- [ ] read [CONTRIBUTING.md](/CONTRIBUTING.md).
+- [ ] read [CONTRIBUTING.md](https://github.com/postlight/awesome-cms/blob/master/CONTRIBUTING.md).
 - [ ] did not generate README.md.
