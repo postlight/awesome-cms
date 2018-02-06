@@ -417,6 +417,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Kevded",
+      "name": "kevded",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10823695?v=4",
+      "profile": "http://github.deddy.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Piterden",
+      "name": "Denis Efremov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5930429?v=4",
+      "profile": "https://github.com/Piterden",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
