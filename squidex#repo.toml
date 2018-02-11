@@ -1,0 +1,5 @@
+name = "Squidex"
+description = "Headless CMS and content management hub built on top of ASP.NET Core and Event Sourcing"
+url = "https://squidex.io"
+github_repo = "squidex/squidex"
+language = "c#"
