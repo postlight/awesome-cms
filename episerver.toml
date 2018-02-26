@@ -1,0 +1,4 @@
+name = "Episerver"
+description = "Manages content, products and campaigns. Built on top of a Microsoft technology stack and features integrations with a cloud platform and third party services."
+url = "https://www.episerver.com/"
+awesome_repo = "valdisiljuconoks/awesome-episerver"
