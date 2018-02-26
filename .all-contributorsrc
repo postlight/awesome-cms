@@ -435,6 +435,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SebastianStehle",
+      "name": "Sebastian Stehle",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1236435?v=4",
+      "profile": "https://squidex.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "frebro",
+      "name": "Fredrik Broman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/136237?v=4",
+      "profile": "http://frebro.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
