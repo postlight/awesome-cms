@@ -1,0 +1,5 @@
+name = "WonderCMS"
+description = "Free, fast and small (only 5 files, 13KB zip) flat file CMS. No setup or configuration required. Maintained since 2008."
+url = "https://www.wondercms.com"
+github_repo = "robiso/WonderCMS"
+language = "php"
