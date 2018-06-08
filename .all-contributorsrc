@@ -462,6 +462,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Synj24",
+      "name": "M.D.Gregory",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13753370?v=4",
+      "profile": "http://www.matthewdarylgregory.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "octavore",
+      "name": "octavore",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1707744?v=4",
+      "profile": "https://github.com/octavore",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
