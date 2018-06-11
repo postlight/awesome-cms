@@ -1,5 +1,3 @@
 name = "Quintype"
 description = "Quintype is API driven CMS built for the needs of modern publishers and content creators."
 url = "https://www.quintype.com"
-github_repo = "Quintype/quintype"
-language = "React.js"
