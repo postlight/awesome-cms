@@ -1,0 +1,5 @@
+name = "dotCMS"
+description = "dotCMS is a open source content management system and headless CMS for managing and delivering content driven web apps and sites."
+url = "https://www.dotcms.com/"
+github_repo = "dotCMS/core"
+language = "java"
