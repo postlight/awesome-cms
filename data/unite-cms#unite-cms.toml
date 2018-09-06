@@ -1,0 +1,5 @@
+name = "unite cms"
+description = "Open Source headless CMS, built on top of Symfony and GraphQL. Allows you to connect and manage all your digital project's data in one single backend."
+url = "https://www.unitecms.io"
+github_repo = "unite-cms/unite-cms"
+language = "php"
