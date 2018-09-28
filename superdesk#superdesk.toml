@@ -1,0 +1,5 @@
+name = "Superdesk"
+description = "Superdesk is an open-source headless CMS written in Python using the Flask microframework with RESTful APIs developed in Python-Eve."
+url = "https://www.superdesk.org/"
+github_repo = "superdesk/superdesk"
+language = "python"
