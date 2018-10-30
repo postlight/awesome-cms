@@ -1,6 +1,4 @@
 name = "Awesome Cms Core"
 description = "Awesome Cms Core is an Open Source Content Management System built using .Net Core"
-# Only if it's open source
-github_repo = "https://github.com/Awesome-CMS-Core/Awesome-CMS-Core"
-# Lower case, e.g. javascript, php, c#.
+github_repo = "Awesome-CMS-Core/Awesome-CMS-Core"
 language = "c#"
