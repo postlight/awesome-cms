@@ -1,0 +1,5 @@
+name = "Twill"
+description = "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible."
+url = "https://twill.io"
+github_repo = "area17/twill"
+language = "php"
