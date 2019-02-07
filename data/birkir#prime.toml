@@ -1,0 +1,5 @@
+name = "Prime CMS"
+description = "Prime is a standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript."
+url = "https://birkir.github.io/prime"
+github_repo = "birkir/prime"
+language = "javascript"
