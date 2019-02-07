@@ -1,0 +1,5 @@
+name = "Gatsby.js"
+description = "Gatsby is a blazing fast modern site generator for React."
+url = "https://www.gatsbyjs.org"
+github_repo = "gatsbyjs/gatsby"
+language = "javascript"
