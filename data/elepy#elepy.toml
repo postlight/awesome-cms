@@ -1,0 +1,5 @@
+name = "Elepy"
+description = "Elepy is a Headless CMS Framework for Java. It assists developers to easily spin-up flexible CMSes"
+url = "https://elepy.com"
+github_repo = "RyanSusana/elepy"
+language = "java"
