@@ -1,0 +1,5 @@
+name = "Elepy"
+description = "Elepy is a Headless Content Management Framework for Java & Kotlin. It is developer-first and focuses on extendability."
+url = "http://elepy.com"
+github_repo = "RyanSusana/elepy"
+language = "java"
