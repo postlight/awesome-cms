@@ -1,5 +1,5 @@
 name = "Apostrophe"
-description = "Apostrophe is a content management system. This core module provides rich content editing as well as essential services to tie Apostrophe to your Express application."
+description = "ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more."
 url = "https://apostrophecms.org"
 github_repo = "punkave/apostrophe"
 language = "javascript"
