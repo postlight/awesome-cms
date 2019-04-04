@@ -1,0 +1,5 @@
+name = "Crafter CMS"
+description = "Crafter CMS is an open source hybrid headless CMS based on Git that brings content authors, devolopers and devops together to deliver stunning personalized, multi-channel experiences faster and easier than ever before."
+url = "https://craftercms.org"
+language = "java"
+github_repo = "craftercms/craftercms"
