@@ -1,0 +1,11 @@
+name = "Sanity.io"
+description = "Sanity is a real-time content infrastructure. The editor is built in
+JavaScript and React.js and connects to a scalable, hosted backend featuring a Graph Oriented Query Language (GROQ), asset pipelines and fast edge caches"
+# A URL other than the GitHub URL
+url = "https://www.sanity.io"
+# If there's an awesome list for this CMS.
+awesome_repo = ""
+# Only if it's open source
+github_repo = "sanity-io/sanity"
+# Lower case, e.g. javascript, php, c#.
+language = "javascript"
