@@ -1,11 +1,11 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-A collection of **131** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **131** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
-_Last generated on May 3rd, 2019. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+_Last generated on May 31st, 2019. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
 ## Contents
@@ -55,9 +55,9 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              ★2,541
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★2,578
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
@@ -76,9 +76,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,023
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★2,038
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
@@ -97,9 +97,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★626
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★663
+              |&nbsp;2019/05/24
+              <ins title="Last commit on 2019/05/24">ⓘ</ins>
           </div>
         </td>
         <td>Headless CMS and content management hub built on top of ASP.NET Core and Event Sourcing</td>
@@ -118,9 +118,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★589
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★597
+              |&nbsp;2019/05/22
+              <ins title="Last commit on 2019/05/22">ⓘ</ins>
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -139,7 +139,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★408
+              ★410
               |&nbsp;2018/12/20
               <ins title="Last commit on 2018/12/20">ⓘ</ins>
           </div>
@@ -160,7 +160,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★373
+              ★374
               |&nbsp;2019/04/18
               <ins title="Last commit on 2019/04/18">ⓘ</ins>
           </div>
@@ -178,7 +178,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★214
+              ★223
               |&nbsp;2019/04/21
               <ins title="Last commit on 2019/04/21">ⓘ</ins>
           </div>
@@ -196,9 +196,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★192
-              |&nbsp;2019/04/04
-              <ins title="Last commit on 2019/04/04">ⓘ</ins>
+              ★197
+              |&nbsp;2019/05/24
+              <ins title="Last commit on 2019/05/24">ⓘ</ins>
           </div>
         </td>
         <td>A web CMS that focus on UX and adaptability.</td>
@@ -217,9 +217,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★119
-              |&nbsp;2018/10/08
-              <ins title="Last commit on 2018/10/08">ⓘ</ins>
+              ★120
+              |&nbsp;2019/05/29
+              <ins title="Last commit on 2019/05/29">ⓘ</ins>
           </div>
         </td>
         <td>Kaliko CMS is a free, powerful and flexible CMS framework for ASP.NET MVC and WebForms.</td>
@@ -251,7 +251,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4,396
+              ★4,459
               |&nbsp;2019/03/25
               <ins title="Last commit on 2019/03/25">ⓘ</ins>
           </div>
@@ -306,9 +306,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★477
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★484
+              |&nbsp;2019/05/30
+              <ins title="Last commit on 2019/05/30">ⓘ</ins>
           </div>
         </td>
         <td>dotCMS is a open source content management system and headless CMS for managing and delivering content driven web apps and sites.</td>
@@ -327,9 +327,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★302
-              |&nbsp;2019/04/26
-              <ins title="Last commit on 2019/04/26">ⓘ</ins>
+              ★311
+              |&nbsp;2019/05/30
+              <ins title="Last commit on 2019/05/30">ⓘ</ins>
           </div>
         </td>
         <td>Gentics Mesh is an open source API-first CMS, complete with multi‑language support, versioning and roles &amp; permissions.</td>
@@ -348,7 +348,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★117
+              ★119
               |&nbsp;2019/05/01
               <ins title="Last commit on 2019/05/01">ⓘ</ins>
           </div>
@@ -369,9 +369,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★55
-              |&nbsp;2019/04/27
-              <ins title="Last commit on 2019/04/27">ⓘ</ins>
+              ★56
+              |&nbsp;2019/05/23
+              <ins title="Last commit on 2019/05/23">ⓘ</ins>
           </div>
         </td>
         <td>Elepy is a Headless Content Management Framework for Java &amp; Kotlin. It is developer-first and focuses on extendability.</td>
@@ -403,9 +403,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★34,337
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★35,114
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Gatsby is a blazing fast modern site generator for React.</td>
@@ -424,33 +424,12 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★29,783
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★30,032
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>KeystoneJS</b>
-          </div>
-          <div>
-              <a href="https://github.com/keystonejs/keystone" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://keystonejs.com" title="Website for KeystoneJS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★14,339
-              |&nbsp;2019/04/12
-              <ins title="Last commit on 2019/04/12">ⓘ</ins>
-          </div>
-        </td>
-        <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
       </tr>
       <tr>
         <td width="240">
@@ -466,12 +445,33 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★13,935
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★14,619
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>The most advanced open-source Content Management Framework to build powerful API with no effort.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>KeystoneJS</b>
+          </div>
+          <div>
+              <a href="https://github.com/keystonejs/keystone" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://keystonejs.com" title="Website for KeystoneJS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★14,430
+              |&nbsp;2019/05/27
+              <ins title="Last commit on 2019/05/27">ⓘ</ins>
+          </div>
+        </td>
+        <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
       </tr>
       <tr>
         <td width="240">
@@ -487,7 +487,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★8,782
+              ★8,864
               |&nbsp;2019/03/20
               <ins title="Last commit on 2019/03/20">ⓘ</ins>
           </div>
@@ -508,9 +508,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★8,321
-              |&nbsp;2019/04/16
-              <ins title="Last commit on 2019/04/16">ⓘ</ins>
+              ★8,701
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -526,7 +526,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★8,276
+              ★8,281
               |&nbsp;2017/12/10
               <ins title="Last commit on 2017/12/10">ⓘ</ins>
           </div>
@@ -547,7 +547,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4,197
+              ★4,205
               |&nbsp;2018/11/28
               <ins title="Last commit on 2018/11/28">ⓘ</ins>
           </div>
@@ -568,9 +568,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,952
-              |&nbsp;2019/03/17
-              <ins title="Last commit on 2019/03/17">ⓘ</ins>
+              ★2,956
+              |&nbsp;2019/05/12
+              <ins title="Last commit on 2019/05/12">ⓘ</ins>
           </div>
         </td>
         <td>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol&#x27; HTML, CSS and Javascript to generate your website. CMS.js is like a file-based CMS. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting.</td>
@@ -589,9 +589,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,672
-              |&nbsp;2019/05/01
-              <ins title="Last commit on 2019/05/01">ⓘ</ins>
+              ★2,703
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more.</td>
@@ -610,7 +610,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,962
+              ★1,990
               |&nbsp;2019/03/27
               <ins title="Last commit on 2019/03/27">ⓘ</ins>
           </div>
@@ -652,9 +652,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★977
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★1,062
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Sanity is a real-time content infrastructure. The editor is built in
@@ -674,9 +674,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★839
-              |&nbsp;2019/04/28
-              <ins title="Last commit on 2019/04/28">ⓘ</ins>
+              ★930
+              |&nbsp;2019/05/27
+              <ins title="Last commit on 2019/05/27">ⓘ</ins>
           </div>
         </td>
         <td>Prime is a standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.</td>
@@ -695,7 +695,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★653
+              ★658
               |&nbsp;2015/09/04
               <ins title="Last commit on 2015/09/04">ⓘ</ins>
           </div>
@@ -716,9 +716,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★648
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★650
+              |&nbsp;2017/12/01
+              <ins title="Last commit on 2017/12/01">ⓘ</ins>
           </div>
         </td>
         <td>Javascript Content Management System running on Node.js.</td>
@@ -734,7 +734,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★268
+              ★272
               |&nbsp;2019/01/09
               <ins title="Last commit on 2019/01/09">ⓘ</ins>
           </div>
@@ -755,9 +755,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★192
-              |&nbsp;2018/05/26
-              <ins title="Last commit on 2018/05/26">ⓘ</ins>
+              ★191
+              |&nbsp;2019/05/08
+              <ins title="Last commit on 2019/05/08">ⓘ</ins>
           </div>
         </td>
         <td>Extensible Node.js MVC framework.</td>
@@ -792,9 +792,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★12,389
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★12,512
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
@@ -813,9 +813,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★10,842
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★10,993
+              |&nbsp;2019/05/27
+              <ins title="Last commit on 2019/05/27">ⓘ</ins>
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
@@ -834,9 +834,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★8,530
-              |&nbsp;2019/01/27
-              <ins title="Last commit on 2019/01/27">ⓘ</ins>
+              ★8,625
+              |&nbsp;2019/05/14
+              <ins title="Last commit on 2019/05/14">ⓘ</ins>
           </div>
         </td>
         <td>October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again.</td>
@@ -855,9 +855,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★7,256
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★7,393
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Magento is an open-source e-commerce platform written in PHP.</td>
@@ -876,7 +876,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★5,117
+              ★5,137
               |&nbsp;2019/01/18
               <ins title="Last commit on 2019/01/18">ⓘ</ins>
           </div>
@@ -897,9 +897,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4,399
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★4,534
+              |&nbsp;2019/05/23
+              <ins title="Last commit on 2019/05/23">ⓘ</ins>
           </div>
         </td>
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
@@ -919,8 +919,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★3,895
-              |&nbsp;2019/04/11
-              <ins title="Last commit on 2019/04/11">ⓘ</ins>
+              |&nbsp;2019/05/23
+              <ins title="Last commit on 2019/05/23">ⓘ</ins>
           </div>
         </td>
         <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
@@ -939,9 +939,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,824
-              |&nbsp;2019/04/29
-              <ins title="Last commit on 2019/04/29">ⓘ</ins>
+              ★3,884
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Add content management functionality to any site.</td>
@@ -960,7 +960,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,276
+              ★3,285
               |&nbsp;2019/04/01
               <ins title="Last commit on 2019/04/01">ⓘ</ins>
           </div>
@@ -984,9 +984,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★3,246
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★3,263
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -1005,9 +1005,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,213
-              |&nbsp;2019/04/30
-              <ins title="Last commit on 2019/04/30">ⓘ</ins>
+              ★3,241
+              |&nbsp;2019/05/30
+              <ins title="Last commit on 2019/05/30">ⓘ</ins>
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -1026,7 +1026,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,072
+              ★3,093
               |&nbsp;2019/02/21
               <ins title="Last commit on 2019/02/21">ⓘ</ins>
           </div>
@@ -1050,7 +1050,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★2,910
+              ★2,917
               |&nbsp;2019/04/09
               <ins title="Last commit on 2019/04/09">ⓘ</ins>
           </div>
@@ -1068,7 +1068,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,450
+              ★2,463
               |&nbsp;2016/06/28
               <ins title="Last commit on 2016/06/28">ⓘ</ins>
           </div>
@@ -1089,7 +1089,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,714
+              ★1,743
               |&nbsp;2019/04/20
               <ins title="Last commit on 2019/04/20">ⓘ</ins>
           </div>
@@ -1110,9 +1110,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,689
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★1,735
+              |&nbsp;2019/05/30
+              <ins title="Last commit on 2019/05/30">ⓘ</ins>
           </div>
         </td>
         <td>Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.</td>
@@ -1131,9 +1131,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,513
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★1,541
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
@@ -1152,9 +1152,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,389
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★1,429
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Content &amp; Product Management Framework (CMS/PIM/E-Commerce).</td>
@@ -1173,9 +1173,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,221
-              |&nbsp;2019/04/16
-              <ins title="Last commit on 2019/04/16">ⓘ</ins>
+              ★1,275
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.</td>
@@ -1194,9 +1194,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,195
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★1,236
+              |&nbsp;2019/05/21
+              <ins title="Last commit on 2019/05/21">ⓘ</ins>
           </div>
         </td>
         <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
@@ -1215,7 +1215,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,094
+              ★1,099
               |&nbsp;2019/05/02
               <ins title="Last commit on 2019/05/02">ⓘ</ins>
           </div>
@@ -1237,8 +1237,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★1,050
-              |&nbsp;2019/03/14
-              <ins title="Last commit on 2019/03/14">ⓘ</ins>
+              |&nbsp;2019/05/21
+              <ins title="Last commit on 2019/05/21">ⓘ</ins>
           </div>
         </td>
         <td>Fork is an open source CMS using Symfony Components.</td>
@@ -1257,7 +1257,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★889
+              ★890
               |&nbsp;2018/11/30
               <ins title="Last commit on 2018/11/30">ⓘ</ins>
           </div>
@@ -1278,7 +1278,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★800
+              ★802
               |&nbsp;2018/12/02
               <ins title="Last commit on 2018/12/02">ⓘ</ins>
           </div>
@@ -1299,9 +1299,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★726
-              |&nbsp;2019/04/19
-              <ins title="Last commit on 2019/04/19">ⓘ</ins>
+              ★735
+              |&nbsp;2019/05/29
+              <ins title="Last commit on 2019/05/29">ⓘ</ins>
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
@@ -1321,8 +1321,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★716
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              |&nbsp;2019/05/20
+              <ins title="Last commit on 2019/05/20">ⓘ</ins>
           </div>
         </td>
         <td>Thelia is an open source tool for creating e-business websites and managing online content. This software is published under LGPL and uses a large number of components from the Symfony project.</td>
@@ -1341,9 +1341,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★649
-              |&nbsp;2019/02/28
-              <ins title="Last commit on 2019/02/28">ⓘ</ins>
+              ★653
+              |&nbsp;2019/05/16
+              <ins title="Last commit on 2019/05/16">ⓘ</ins>
           </div>
         </td>
         <td>Sulu is a content management platform based on Symfony made for businesses. It’s a flexible CMS to create and manage enterprise multi-sites and a reliable development environment for high-performance apps</td>
@@ -1362,9 +1362,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★648
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★649
+              |&nbsp;2019/05/30
+              <ins title="Last commit on 2019/05/30">ⓘ</ins>
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
@@ -1383,7 +1383,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★621
+              ★624
               |&nbsp;2018/12/01
               <ins title="Last commit on 2018/12/01">ⓘ</ins>
           </div>
@@ -1404,33 +1404,12 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★617
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★621
+              |&nbsp;2019/05/25
+              <ins title="Last commit on 2019/05/25">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Contao</b>
-          </div>
-          <div>
-              <a href="https://github.com/contao/core" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://contao.org/en/" title="Website for Contao">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★529
-              |&nbsp;2019/04/11
-              <ins title="Last commit on 2019/04/11">ⓘ</ins>
-          </div>
-        </td>
-        <td>Contao is a web-based Open Source CMS, which generates accessible websites. It supports multiple languages and can easily be learned and extended.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1446,12 +1425,33 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★510
+              ★528
               |&nbsp;2018/12/21
               <ins title="Last commit on 2018/12/21">ⓘ</ins>
           </div>
         </td>
         <td>CMS and framework for building sites of all shapes and sizes. Developer and client friendly. Open Source</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Contao</b>
+          </div>
+          <div>
+              <a href="https://github.com/contao/core" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://contao.org/en/" title="Website for Contao">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★528
+              |&nbsp;2019/04/11
+              <ins title="Last commit on 2019/04/11">ⓘ</ins>
+          </div>
+        </td>
+        <td>Contao is a web-based Open Source CMS, which generates accessible websites. It supports multiple languages and can easily be learned and extended.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1470,9 +1470,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★424
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★426
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
@@ -1492,8 +1492,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★341
-              |&nbsp;2019/04/17
-              <ins title="Last commit on 2019/04/17">ⓘ</ins>
+              |&nbsp;2019/05/20
+              <ins title="Last commit on 2019/05/20">ⓘ</ins>
           </div>
         </td>
         <td>Roadiz is a modern CMS based on a node system which can handle many types of services.</td>
@@ -1512,9 +1512,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★298
-              |&nbsp;2019/04/19
-              <ins title="Last commit on 2019/04/19">ⓘ</ins>
+              ★300
+              |&nbsp;2019/05/20
+              <ins title="Last commit on 2019/05/20">ⓘ</ins>
           </div>
         </td>
         <td>An advanced yet user-friendly content management system, based on the full stack Symfony2 framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS system with an innovative page and form assembling process, versioning, workflow, translation and media managers and much more.</td>
@@ -1551,33 +1551,12 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★254
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★255
+              |&nbsp;2019/05/10
+              <ins title="Last commit on 2019/05/10">ⓘ</ins>
           </div>
         </td>
         <td>Open Source Healess CMS powered by Drupal. Contenta CMS is for highly structured content. Contenta CMS uses leverages the data modelling tools from Drupal and offers a queriable API and a friendly admin interface.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Redaxscript</b>
-          </div>
-          <div>
-              <a href="https://github.com/redaxmedia/redaxscript" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://redaxscript.com" title="Website for Redaxscript">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★230
-              |&nbsp;2019/04/22
-              <ins title="Last commit on 2019/04/22">ⓘ</ins>
-          </div>
-        </td>
-        <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1593,12 +1572,33 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★228
-              |&nbsp;2019/04/02
-              <ins title="Last commit on 2019/04/02">ⓘ</ins>
+              ★230
+              |&nbsp;2019/05/23
+              <ins title="Last commit on 2019/05/23">ⓘ</ins>
           </div>
         </td>
         <td>Easy to handle for users, flexible for developers. Feels quite reasonable. (Hint: will open up for English users gradually!)</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Redaxscript</b>
+          </div>
+          <div>
+              <a href="https://github.com/redaxmedia/redaxscript" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://redaxscript.com" title="Website for Redaxscript">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★229
+              |&nbsp;2019/05/29
+              <ins title="Last commit on 2019/05/29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1614,7 +1614,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★206
+              ★211
               |&nbsp;2019/03/31
               <ins title="Last commit on 2019/03/31">ⓘ</ins>
           </div>
@@ -1635,9 +1635,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★141
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★145
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Open Source headless CMS, built on top of Symfony and GraphQL. Allows you to connect and manage all your digital project&#x27;s data in one single backend.</td>
@@ -1657,8 +1657,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★111
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>XOOPS CMS is a web application platform written in PHP for the MySQL database. Its object orientation makes it an ideal tool for developing small or large community websites, corporate portals, weblogs and much more.</td>
@@ -1677,9 +1677,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★37
-              |&nbsp;2019/04/23
-              <ins title="Last commit on 2019/04/23">ⓘ</ins>
+              ★40
+              |&nbsp;2019/05/21
+              <ins title="Last commit on 2019/05/21">ⓘ</ins>
           </div>
         </td>
         <td>Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.</td>
@@ -1714,9 +1714,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★7,116
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★7,285
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -1738,9 +1738,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★6,754
-              |&nbsp;2019/03/19
-              <ins title="Last commit on 2019/03/19">ⓘ</ins>
+              ★6,815
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>The easy-to-use and developer-friendly CMS.</td>
@@ -1759,7 +1759,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,791
+              ★3,823
               |&nbsp;2019/03/18
               <ins title="Last commit on 2019/03/18">ⓘ</ins>
           </div>
@@ -1780,9 +1780,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,034
-              |&nbsp;2019/04/04
-              <ins title="Last commit on 2019/04/04">ⓘ</ins>
+              ★3,054
+              |&nbsp;2019/05/13
+              <ins title="Last commit on 2019/05/13">ⓘ</ins>
           </div>
         </td>
         <td>The lektor static file content management system</td>
@@ -1801,7 +1801,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,038
+              ★2,053
               |&nbsp;2019/03/06
               <ins title="Last commit on 2019/03/06">ⓘ</ins>
           </div>
@@ -1822,7 +1822,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★756
+              ★758
               |&nbsp;2019/02/01
               <ins title="Last commit on 2019/02/01">ⓘ</ins>
           </div>
@@ -1843,9 +1843,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★439
-              |&nbsp;2019/03/05
-              <ins title="Last commit on 2019/03/05">ⓘ</ins>
+              ★446
+              |&nbsp;2019/05/28
+              <ins title="Last commit on 2019/05/28">ⓘ</ins>
           </div>
         </td>
         <td>Superdesk is an open-source headless CMS written in Python using the Flask microframework with RESTful APIs developed in Python-Eve.</td>
@@ -1864,7 +1864,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★332
+              ★333
               |&nbsp;2019/01/09
               <ins title="Last commit on 2019/01/09">ⓘ</ins>
           </div>
@@ -1886,8 +1886,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★298
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              |&nbsp;2016/06/01
+              <ins title="Last commit on 2016/06/01">ⓘ</ins>
           </div>
         </td>
         <td>A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.</td>
@@ -1906,9 +1906,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★132
-              |&nbsp;2019/03/21
-              <ins title="Last commit on 2019/03/21">ⓘ</ins>
+              ★133
+              |&nbsp;2019/05/10
+              <ins title="Last commit on 2019/05/10">ⓘ</ins>
           </div>
         </td>
         <td>Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.</td>
@@ -1943,9 +1943,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★3,639
-              |&nbsp;2019/02/21
-              <ins title="Last commit on 2019/02/21">ⓘ</ins>
+              ★3,649
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
@@ -1961,7 +1961,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,535
+              ★2,552
               |&nbsp;2019/03/31
               <ins title="Last commit on 2019/03/31">ⓘ</ins>
           </div>
@@ -1982,9 +1982,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,293
-              |&nbsp;2019/04/29
-              <ins title="Last commit on 2019/04/29">ⓘ</ins>
+              ★2,295
+              |&nbsp;2019/05/29
+              <ins title="Last commit on 2019/05/29">ⓘ</ins>
           </div>
         </td>
         <td>A platform to create, publish and edit sites.</td>
@@ -2003,7 +2003,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,748
+              ★1,750
               |&nbsp;2019/05/01
               <ins title="Last commit on 2019/05/01">ⓘ</ins>
           </div>
@@ -2024,9 +2024,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,697
-              |&nbsp;2019/04/13
-              <ins title="Last commit on 2019/04/13">ⓘ</ins>
+              ★1,695
+              |&nbsp;2019/05/12
+              <ins title="Last commit on 2019/05/12">ⓘ</ins>
           </div>
         </td>
         <td>Radiant is a no-fluff, open source content management system designed for small teams.</td>
@@ -2045,7 +2045,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,645
+              ★1,657
               |&nbsp;2019/04/04
               <ins title="Last commit on 2019/04/04">ⓘ</ins>
           </div>
@@ -2066,9 +2066,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★1,096
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★1,099
+              |&nbsp;2019/05/24
+              <ins title="Last commit on 2019/05/24">ⓘ</ins>
           </div>
         </td>
         <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
@@ -2087,9 +2087,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★899
-              |&nbsp;2019/05/03
-              <ins title="Last commit on 2019/05/03">ⓘ</ins>
+              ★898
+              |&nbsp;2018/11/30
+              <ins title="Last commit on 2018/11/30">ⓘ</ins>
           </div>
         </td>
         <td>A lightweight CMS, implemented in Sinatra.</td>
@@ -2106,8 +2106,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★744
-              |&nbsp;2018/10/16
-              <ins title="Last commit on 2018/10/16">ⓘ</ins>
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
@@ -2126,9 +2126,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★565
-              |&nbsp;2019/05/02
-              <ins title="Last commit on 2019/05/02">ⓘ</ins>
+              ★570
+              |&nbsp;2019/05/31
+              <ins title="Last commit on 2019/05/31">ⓘ</ins>
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
@@ -2168,7 +2168,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★318
+              ★321
               |&nbsp;2019/03/22
               <ins title="Last commit on 2019/03/22">ⓘ</ins>
           </div>
@@ -2708,6 +2708,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+---
+
+🔬 A Labs project from your friends at [Postlight](https://postlight.com).
+
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
-[the blog post]: https://trackchanges.postlight.com/building-awesome-cms-f034344d8ed
+[the blog post]: https://postlight.com/trackchanges/building-awesome-cms
