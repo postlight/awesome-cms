@@ -17,6 +17,7 @@ for details on generation and contribution._
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Closed Source](#closed-source)
 
 **Key**
@@ -2174,6 +2175,40 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Property Web Builder is a CMS for real estate (property listings) implemented as a Ruby on Rails 5 Engine with an ember.js admin panel.</td>
+      </tr>
+  </tbody>
+</table>
+
+## Rust
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Rocket</b>
+          </div>
+          <div>
+              <a href="https://github.com/SergioBenitez/Rocket/" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://rocket.rs/" title="Website for Rocket">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★7,277
+              |&nbsp;2019/06/18
+              <ins title="Last commit on 2019/06/18">ⓘ</ins>
+          </div>
+        </td>
+        <td>Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety.</td>
       </tr>
   </tbody>
 </table>
