@@ -1,0 +1,5 @@
+name = "Factor JS"
+description = "Factor is an extension-driven platform for VueJS and Node."
+url = "https://factor.dev"
+github_repo = "fiction-com/factor"
+language = "javascript"
