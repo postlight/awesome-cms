@@ -518,9 +518,10 @@ fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
 
-generate-awesome@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/generate-awesome/-/generate-awesome-0.1.1.tgz#1aaa6ddc32dfacb2774dbf29a3ba569106961f1d"
+generate-awesome@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/generate-awesome/-/generate-awesome-0.2.0.tgz#18e9d7e2f48c8be7582659b06640e0e55ee129ff"
+  integrity sha512-9UQOhake/Tg2wxTJogPH62u2QD1vRYbTH46E5dIBjaz95xlX3o69vhcOotv516O36ma2eUipBdoy0mppmVq0EA==
   dependencies:
     chalk "1.1.3"
     commander "2.9.0"
