@@ -1,0 +1,5 @@
+name = "TinaCMS"
+description = "Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)"
+url = "https://tinacms.org"
+github_repo = "tinacms/tinacms"
+language = "javascript"
