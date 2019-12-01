@@ -1,11 +1,11 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-[Postlight](https://postlight.com)'s Awesome CMS is a collection of **132** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **134** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
-_Last generated on October 7th, 2019. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+_Last generated on December 1st, 2019. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
 ## Contents
@@ -41,51 +41,6 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Umbraco</b>
-          </div>
-          <div>
-              <a href="https://github.com/umbraco/Umbraco-CMS" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://umbraco.com" title="Website for Umbraco">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/leekelleher/awesome-umbraco" title="Awesome List for Umbraco">
-              :sunglasses:
-            </a>
-          </div>
-          <div>
-              ★2,732
-              |&nbsp;2019-10-05
-              <ins title="Last commit on 2019-10-05">ⓘ</ins>
-          </div>
-        </td>
-        <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Orchard</b>
-          </div>
-          <div>
-              <a href="https://github.com/OrchardCMS/Orchard" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://orchardproject.net" title="Website for Orchard">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,069
-              |&nbsp;2019-09-05
-              <ins title="Last commit on 2019-09-05">ⓘ</ins>
-          </div>
-        </td>
-        <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
             <b>Squidex</b>
           </div>
           <div>
@@ -97,9 +52,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★787
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★834
+              |&nbsp;2019-11-30
+              <ins title="Last commit on 2019-11-30">ⓘ</ins>
           </div>
         </td>
         <td>Headless CMS and content management hub built on top of ASP.NET Core and Event Sourcing</td>
@@ -118,9 +73,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★631
-              |&nbsp;2019-10-06
-              <ins title="Last commit on 2019-10-06">ⓘ</ins>
+              ★650
+              |&nbsp;2019-11-30
+              <ins title="Last commit on 2019-11-30">ⓘ</ins>
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -139,7 +94,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★410
+              ★411
               |&nbsp;2018-12-20
               <ins title="Last commit on 2018-12-20">ⓘ</ins>
           </div>
@@ -160,9 +115,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★384
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★389
+              |&nbsp;2019-08-12
+              <ins title="Last commit on 2019-08-12">ⓘ</ins>
           </div>
         </td>
         <td>Free, open source, and cross-platform developer-friendly CMS, based on ASP.NET Core and ExtCore frameworks.</td>
@@ -178,7 +133,7 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★248
+              ★262
               |&nbsp;2019-04-21
               <ins title="Last commit on 2019-04-21">ⓘ</ins>
           </div>
@@ -196,9 +151,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★204
-              |&nbsp;2019-09-30
-              <ins title="Last commit on 2019-09-30">ⓘ</ins>
+              ★207
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
           </div>
         </td>
         <td>A web CMS that focus on UX and adaptability.</td>
@@ -217,12 +172,57 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★129
-              |&nbsp;2019-05-29
-              <ins title="Last commit on 2019-05-29">ⓘ</ins>
+              ★130
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Kaliko CMS is a free, powerful and flexible CMS framework for ASP.NET MVC and WebForms.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Umbraco</b>
+          </div>
+          <div>
+              <a href="https://github.com/umbraco/Umbraco-CMS" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://umbraco.com" title="Website for Umbraco">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/leekelleher/awesome-umbraco" title="Awesome List for Umbraco">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
+          </div>
+        </td>
+        <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Orchard</b>
+          </div>
+          <div>
+              <a href="https://github.com/OrchardCMS/Orchard" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://orchardproject.net" title="Website for Orchard">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-11-26
+              <ins title="Last commit on 2019-11-26">ⓘ</ins>
+          </div>
+        </td>
+        <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
       </tr>
   </tbody>
 </table>
@@ -240,27 +240,6 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Ponzu</b>
-          </div>
-          <div>
-              <a href="https://github.com/ponzu-cms/ponzu" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://ponzu-cms.org" title="Website for Ponzu">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★4,623
-              |&nbsp;2019-10-04
-              <ins title="Last commit on 2019-10-04">ⓘ</ins>
-          </div>
-        </td>
-        <td>Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
             <b>Ketchup</b>
           </div>
           <div>
@@ -272,12 +251,33 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★384
+              ★385
               |&nbsp;2018-06-05
               <ins title="Last commit on 2018-06-05">ⓘ</ins>
           </div>
         </td>
         <td>Developer-first CMS built with Go and React. Version-controlled templates, complete JSON API, built-in HTTPS and HTTP/2, fast and easy to use.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Ponzu</b>
+          </div>
+          <div>
+              <a href="https://github.com/ponzu-cms/ponzu" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://ponzu-cms.org" title="Website for Ponzu">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★4
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.</td>
       </tr>
   </tbody>
 </table>
@@ -306,9 +306,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★518
-              |&nbsp;2019-10-05
-              <ins title="Last commit on 2019-10-05">ⓘ</ins>
+              ★525
+              |&nbsp;2019-11-25
+              <ins title="Last commit on 2019-11-25">ⓘ</ins>
           </div>
         </td>
         <td>dotCMS is a open source content management system and headless CMS for managing and delivering content driven web apps and sites.</td>
@@ -327,9 +327,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★368
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★386
+              |&nbsp;2019-11-27
+              <ins title="Last commit on 2019-11-27">ⓘ</ins>
           </div>
         </td>
         <td>Gentics Mesh is an open source API-first CMS, complete with multi‑language support, versioning and roles &amp; permissions.</td>
@@ -348,9 +348,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★137
-              |&nbsp;2019-09-09
-              <ins title="Last commit on 2019-09-09">ⓘ</ins>
+              ★143
+              |&nbsp;2019-11-26
+              <ins title="Last commit on 2019-11-26">ⓘ</ins>
           </div>
         </td>
         <td>Crafter CMS is an open source hybrid headless CMS based on Git that brings content authors, devolopers and devops together to deliver stunning personalized, multi-channel experiences faster and easier than ever before.</td>
@@ -369,9 +369,9 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★75
-              |&nbsp;2019-10-06
-              <ins title="Last commit on 2019-10-06">ⓘ</ins>
+              ★81
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Elepy is a Headless Content Management Framework for Java &amp; Kotlin. It is developer-first and focuses on extendability.</td>
@@ -392,69 +392,6 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Gatsby.js</b>
-          </div>
-          <div>
-              <a href="https://github.com/gatsbyjs/gatsby" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.gatsbyjs.org" title="Website for Gatsby.js">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★38,889
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Gatsby is a blazing fast modern site generator for React.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Ghost</b>
-          </div>
-          <div>
-              <a href="https://github.com/tryghost/Ghost" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://ghost.org" title="Website for Ghost">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★31,061
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>strapi</b>
-          </div>
-          <div>
-              <a href="https://github.com/strapi/strapi" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://strapi.io/" title="Website for strapi">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★17,845
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>The most advanced open-source Content Management Framework to build powerful API with no effort.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
             <b>KeystoneJS</b>
           </div>
           <div>
@@ -466,220 +403,12 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★14,834
-              |&nbsp;2019-09-18
-              <ins title="Last commit on 2019-09-18">ⓘ</ins>
+              ★911
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
           </div>
         </td>
         <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Netlify CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/netlify/netlify-cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.netlifycms.org/" title="Website for Netlify CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★9,729
-              |&nbsp;2019-10-01
-              <ins title="Last commit on 2019-10-01">ⓘ</ins>
-          </div>
-        </td>
-        <td>A CMS for Static Site Generators.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Reaction</b>
-          </div>
-          <div>
-              <a href="https://github.com/reactioncommerce/reaction" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://reactioncommerce.com/" title="Website for Reaction">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★9,298
-              |&nbsp;2019-10-03
-              <ins title="Last commit on 2019-10-03">ⓘ</ins>
-          </div>
-        </td>
-        <td>Reaction is a modern reactive, real-time event driven ecommerce platform.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Relax</b>
-          </div>
-          <div>
-              <a href="https://github.com/relax/relax" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★8,284
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>New generation CMS on top of React, Redux and GraphQL.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Prose</b>
-          </div>
-          <div>
-              <a href="https://github.com/prose/prose" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://prose.io" title="Website for Prose">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★4,245
-              |&nbsp;2018-11-28
-              <ins title="Last commit on 2018-11-28">ⓘ</ins>
-          </div>
-        </td>
-        <td>Prose is a content editor for GitHub designed for managing websites.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>CMS.js</b>
-          </div>
-          <div>
-              <a href="https://github.com/cdmedia/cms.js" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://cdmedia.github.io/cms.js" title="Website for CMS.js">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,961
-              |&nbsp;2019-05-12
-              <ins title="Last commit on 2019-05-12">ⓘ</ins>
-          </div>
-        </td>
-        <td>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol&#x27; HTML, CSS and Javascript to generate your website. CMS.js is like a file-based CMS. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Apostrophe</b>
-          </div>
-          <div>
-              <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://apostrophecms.org" title="Website for Apostrophe">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,828
-              |&nbsp;2019-10-03
-              <ins title="Last commit on 2019-10-03">ⓘ</ins>
-          </div>
-        </td>
-        <td>ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Jekyll Admin</b>
-          </div>
-          <div>
-              <a href="https://github.com/jekyll/jekyll-admin" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://jekyll.github.io/jekyll-admin/" title="Website for Jekyll Admin">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,096
-              |&nbsp;2019-10-04
-              <ins title="Last commit on 2019-10-04">ⓘ</ins>
-          </div>
-        </td>
-        <td>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>PencilBlue</b>
-          </div>
-          <div>
-              <a href="https://github.com/pencilblue/pencilblue" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://pencilblue.org" title="Website for PencilBlue">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,598
-              |&nbsp;2017-04-11
-              <ins title="Last commit on 2017-04-11">ⓘ</ins>
-          </div>
-        </td>
-        <td>Business class content management for Node.js (plugins, server cluster management, data-driven pages).</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Sanity.io</b>
-          </div>
-          <div>
-              <a href="https://github.com/sanity-io/sanity" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.sanity.io" title="Website for Sanity.io">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,265
-              |&nbsp;2019-10-04
-              <ins title="Last commit on 2019-10-04">ⓘ</ins>
-          </div>
-        </td>
-        <td>Sanity is a real-time content infrastructure. The editor is built in
-JavaScript and React.js and connects to a scalable, hosted backend featuring a Graph Oriented Query Language (GROQ), asset pipelines and fast edge caches</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Prime CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/birkir/prime" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://birkir.github.io/prime" title="Website for Prime CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,169
-              |&nbsp;2019-10-04
-              <ins title="Last commit on 2019-10-04">ⓘ</ins>
-          </div>
-        </td>
-        <td>Prime is a standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.</td>
       </tr>
       <tr>
         <td width="240">
@@ -695,9 +424,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★659
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★658
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Webhook lets you build a custom CMS with matching HTML templates in about a minute. Webhook is built with Node JS, Grunt, Firebase and Swig.</td>
@@ -717,8 +446,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★655
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              |&nbsp;2017-12-01
+              <ins title="Last commit on 2017-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Javascript Content Management System running on Node.js.</td>
@@ -734,7 +463,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★283
+              ★285
               |&nbsp;2019-01-09
               <ins title="Last commit on 2019-01-09">ⓘ</ins>
           </div>
@@ -756,8 +485,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★192
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              |&nbsp;2019-07-31
+              <ins title="Last commit on 2019-07-31">ⓘ</ins>
           </div>
         </td>
         <td>Extensible Node.js MVC framework.</td>
@@ -776,12 +505,304 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★129
-              |&nbsp;2019-10-06
-              <ins title="Last commit on 2019-10-06">ⓘ</ins>
+              ★154
+              |&nbsp;2019-11-30
+              <ins title="Last commit on 2019-11-30">ⓘ</ins>
           </div>
         </td>
         <td>Factor is an extension-driven platform for VueJS and Node.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Gatsby.js</b>
+          </div>
+          <div>
+              <a href="https://github.com/gatsbyjs/gatsby" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.gatsbyjs.org" title="Website for Gatsby.js">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★40
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Gatsby is a blazing fast modern site generator for React.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Ghost</b>
+          </div>
+          <div>
+              <a href="https://github.com/tryghost/Ghost" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://ghost.org" title="Website for Ghost">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★31
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
+          </div>
+        </td>
+        <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>strapi</b>
+          </div>
+          <div>
+              <a href="https://github.com/strapi/strapi" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://strapi.io/" title="Website for strapi">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★19
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>The most advanced open-source Content Management Framework to build powerful API with no effort.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Netlify CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/netlify/netlify-cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.netlifycms.org/" title="Website for Netlify CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★10
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>A CMS for Static Site Generators.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Reaction</b>
+          </div>
+          <div>
+              <a href="https://github.com/reactioncommerce/reaction" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://reactioncommerce.com/" title="Website for Reaction">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★9
+              |&nbsp;2019-11-14
+              <ins title="Last commit on 2019-11-14">ⓘ</ins>
+          </div>
+        </td>
+        <td>Reaction is a modern reactive, real-time event driven ecommerce platform.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Relax</b>
+          </div>
+          <div>
+              <a href="https://github.com/relax/relax" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★8
+              |&nbsp;2017-12-10
+              <ins title="Last commit on 2017-12-10">ⓘ</ins>
+          </div>
+        </td>
+        <td>New generation CMS on top of React, Redux and GraphQL.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Prose</b>
+          </div>
+          <div>
+              <a href="https://github.com/prose/prose" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://prose.io" title="Website for Prose">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★4
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Prose is a content editor for GitHub designed for managing websites.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>TinaCMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/tinacms/tinacms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://tinacms.org" title="Website for TinaCMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>CMS.js</b>
+          </div>
+          <div>
+              <a href="https://github.com/cdmedia/cms.js" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://cdmedia.github.io/cms.js" title="Website for CMS.js">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-05-12
+              <ins title="Last commit on 2019-05-12">ⓘ</ins>
+          </div>
+        </td>
+        <td>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol&#x27; HTML, CSS and Javascript to generate your website. CMS.js is like a file-based CMS. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Apostrophe</b>
+          </div>
+          <div>
+              <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://apostrophecms.org" title="Website for Apostrophe">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-11-25
+              <ins title="Last commit on 2019-11-25">ⓘ</ins>
+          </div>
+        </td>
+        <td>ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Jekyll Admin</b>
+          </div>
+          <div>
+              <a href="https://github.com/jekyll/jekyll-admin" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://jekyll.github.io/jekyll-admin/" title="Website for Jekyll Admin">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Sanity.io</b>
+          </div>
+          <div>
+              <a href="https://github.com/sanity-io/sanity" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.sanity.io" title="Website for Sanity.io">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Sanity is a real-time content infrastructure. The editor is built in
+JavaScript and React.js and connects to a scalable, hosted backend featuring a Graph Oriented Query Language (GROQ), asset pipelines and fast edge caches</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>PencilBlue</b>
+          </div>
+          <div>
+              <a href="https://github.com/pencilblue/pencilblue" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://pencilblue.org" title="Website for PencilBlue">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2017-04-11
+              <ins title="Last commit on 2017-04-11">ⓘ</ins>
+          </div>
+        </td>
+        <td>Business class content management for Node.js (plugins, server cluster management, data-driven pages).</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Prime CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/birkir/prime" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://birkir.github.io/prime" title="Website for Prime CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-25
+              <ins title="Last commit on 2019-11-25">ⓘ</ins>
+          </div>
+        </td>
+        <td>Prime is a standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.</td>
       </tr>
   </tbody>
 </table>
@@ -799,474 +820,6 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>WordPress</b>
-          </div>
-          <div>
-              <a href="https://github.com/WordPress/WordPress" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://wordpress.org" title="Website for WordPress">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/miziomon/awesome-wordpress" title="Awesome List for WordPress">
-              :sunglasses:
-            </a>
-          </div>
-          <div>
-              ★12,932
-              |&nbsp;2019-10-06
-              <ins title="Last commit on 2019-10-06">ⓘ</ins>
-          </div>
-        </td>
-        <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Grav</b>
-          </div>
-          <div>
-              <a href="https://github.com/getgrav/grav" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://getgrav.org" title="Website for Grav">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★11,371
-              |&nbsp;2019-10-03
-              <ins title="Last commit on 2019-10-03">ⓘ</ins>
-          </div>
-        </td>
-        <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>October</b>
-          </div>
-          <div>
-              <a href="https://github.com/octobercms/october" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://octobercms.com/" title="Website for October">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★9,071
-              |&nbsp;2019-09-30
-              <ins title="Last commit on 2019-09-30">ⓘ</ins>
-          </div>
-        </td>
-        <td>October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Magento</b>
-          </div>
-          <div>
-              <a href="https://github.com/magento/magento2" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://magento.com/" title="Website for Magento">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★7,884
-              |&nbsp;2019-10-05
-              <ins title="Last commit on 2019-10-05">ⓘ</ins>
-          </div>
-        </td>
-        <td>Magento is an open-source e-commerce platform written in PHP.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Pagekit</b>
-          </div>
-          <div>
-              <a href="https://github.com/pagekit/pagekit" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://pagekit.com" title="Website for Pagekit">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★5,203
-              |&nbsp;2019-07-11
-              <ins title="Last commit on 2019-07-11">ⓘ</ins>
-          </div>
-        </td>
-        <td>Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Directus</b>
-          </div>
-          <div>
-              <a href="https://github.com/directus/directus" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://getdirectus.com" title="Website for Directus">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★5,076
-              |&nbsp;2019-09-27
-              <ins title="Last commit on 2019-09-27">ⓘ</ins>
-          </div>
-        </td>
-        <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Cockpit CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/COCOPi/cockpit" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://getcockpit.com" title="Website for Cockpit CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★4,114
-              |&nbsp;2019-09-25
-              <ins title="Last commit on 2019-09-25">ⓘ</ins>
-          </div>
-        </td>
-        <td>Add content management functionality to any site.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Bolt</b>
-          </div>
-          <div>
-              <a href="https://github.com/bolt/bolt" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://github.com/bolt/bolt" title="Website for Bolt">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★3,936
-              |&nbsp;2019-09-24
-              <ins title="Last commit on 2019-09-24">ⓘ</ins>
-          </div>
-        </td>
-        <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Joomla!</b>
-          </div>
-          <div>
-              <a href="https://github.com/joomla/joomla-cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.joomla.org" title="Website for Joomla!">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★3,362
-              |&nbsp;2019-10-06
-              <ins title="Last commit on 2019-10-06">ⓘ</ins>
-          </div>
-        </td>
-        <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Drupal</b>
-          </div>
-          <div>
-              <a href="https://github.com/drupal/drupal" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.drupal.org" title="Website for Drupal">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/mrsinguyen/awesome-drupal" title="Awesome List for Drupal">
-              :sunglasses:
-            </a>
-          </div>
-          <div>
-              ★3,330
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Anchor CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/anchorcms/anchor-cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://anchorcms.com/" title="Website for Anchor CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★3,314
-              |&nbsp;2019-04-01
-              <ins title="Last commit on 2019-04-01">ⓘ</ins>
-          </div>
-        </td>
-        <td>A lightweight blog CMS for PHP.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Pico</b>
-          </div>
-          <div>
-              <a href="https://github.com/picocms/Pico" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://picocms.org/" title="Website for Pico">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★3,149
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Pico is a stupidly simple, blazing fast, flat file CMS.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>PyroCMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/pyrocms/pyrocms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.pyrocms.com/" title="Website for PyroCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/websemantics/awesome-pyrocms" title="Awesome List for PyroCMS">
-              :sunglasses:
-            </a>
-          </div>
-          <div>
-              ★2,936
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>PyroCMS is athe modular DDD-adheres PHP CMS/CMF, built on top of the Laravel&#x27;s MVC implementation. It has artisan based code generators, which would made it funny to create the Domain including models or just a new theme and then develop that created code. It has the highest learning curve, from all described here products!</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Bootstrap CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/BootstrapCMS/CMS" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,489
-              |&nbsp;2016-06-28
-              <ins title="Last commit on 2016-06-28">ⓘ</ins>
-          </div>
-        </td>
-        <td>A PHP CMS powered by Laravel 5 and Sentry</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Craft CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/craftcms/cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://craftcms.com" title="Website for Craft CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,877
-              |&nbsp;2019-10-03
-              <ins title="Last commit on 2019-10-03">ⓘ</ins>
-          </div>
-        </td>
-        <td>Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Lavalite</b>
-          </div>
-          <div>
-              <a href="https://github.com/LavaLite/cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://www.lavalite.org" title="Website for Lavalite">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,866
-              |&nbsp;2019-08-18
-              <ins title="Last commit on 2019-08-18">ⓘ</ins>
-          </div>
-        </td>
-        <td>CMS Built with Laravel 5.2 and Bootstrap 3.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>MediaWiki</b>
-          </div>
-          <div>
-              <a href="https://github.com/wikimedia/mediawiki" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.mediawiki.org" title="Website for MediaWiki">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,674
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Pimcore Platform</b>
-          </div>
-          <div>
-              <a href="https://github.com/pimcore/pimcore" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://www.pimcore.org/" title="Website for Pimcore Platform">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,586
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Content &amp; Product Management Framework (CMS/PIM/E-Commerce).</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Twill</b>
-          </div>
-          <div>
-              <a href="https://github.com/area17/twill" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://twill.io" title="Website for Twill">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,575
-              |&nbsp;2019-10-03
-              <ins title="Last commit on 2019-10-03">ⓘ</ins>
-          </div>
-        </td>
-        <td>Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Microweber</b>
-          </div>
-          <div>
-              <a href="https://github.com/microweber/microweber" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://microweber.com" title="Website for Microweber">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,330
-              |&nbsp;2019-09-16
-              <ins title="Last commit on 2019-09-16">ⓘ</ins>
-          </div>
-        </td>
-        <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>MODX Web Content Management System and Platform</b>
-          </div>
-          <div>
-              <a href="https://github.com/modxcms/revolution" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://modx.com/" title="Website for MODX Web Content Management System and Platform">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,135
-              |&nbsp;2019-10-01
-              <ins title="Last commit on 2019-10-01">ⓘ</ins>
-          </div>
-        </td>
-        <td>MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Fork CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/forkcms/forkcms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://www.fork-cms.com" title="Website for Fork CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,066
-              |&nbsp;2019-10-04
-              <ins title="Last commit on 2019-10-04">ⓘ</ins>
-          </div>
-        </td>
-        <td>Fork is an open source CMS using Symfony Components.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
             <b>FUEL CMS</b>
           </div>
           <div>
@@ -1278,9 +831,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★896
-              |&nbsp;2019-08-28
-              <ins title="Last commit on 2019-08-28">ⓘ</ins>
+              ★906
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>A CodeIgniter Content Management System.</td>
@@ -1300,8 +853,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★804
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>A CakePHP powered Content Management System.</td>
@@ -1320,9 +873,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★769
-              |&nbsp;2019-09-19
-              <ins title="Last commit on 2019-09-19">ⓘ</ins>
+              ★792
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
@@ -1341,9 +894,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★725
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★727
+              |&nbsp;2019-10-31
+              <ins title="Last commit on 2019-10-31">ⓘ</ins>
           </div>
         </td>
         <td>Thelia is an open source tool for creating e-business websites and managing online content. This software is published under LGPL and uses a large number of components from the Symfony project.</td>
@@ -1362,33 +915,12 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★664
-              |&nbsp;2019-10-03
-              <ins title="Last commit on 2019-10-03">ⓘ</ins>
+              ★667
+              |&nbsp;2019-11-27
+              <ins title="Last commit on 2019-11-27">ⓘ</ins>
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Sulu</b>
-          </div>
-          <div>
-              <a href="https://github.com/sulu/sulu-standard" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://sulu.io/en" title="Website for Sulu">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★653
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Sulu is a content management platform based on Symfony made for businesses. It’s a flexible CMS to create and manage enterprise multi-sites and a reliable development environment for high-performance apps</td>
       </tr>
       <tr>
         <td width="240">
@@ -1404,9 +936,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★649
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★659
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1425,12 +957,33 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★648
-              |&nbsp;2019-09-08
-              <ins title="Last commit on 2019-09-08">ⓘ</ins>
+              ★657
+              |&nbsp;2019-10-14
+              <ins title="Last commit on 2019-10-14">ⓘ</ins>
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Sulu</b>
+          </div>
+          <div>
+              <a href="https://github.com/sulu/sulu-standard" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://sulu.io/en" title="Website for Sulu">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★647
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Sulu is a content management platform based on Symfony made for businesses. It’s a flexible CMS to create and manage enterprise multi-sites and a reliable development environment for high-performance apps</td>
       </tr>
       <tr>
         <td width="240">
@@ -1446,9 +999,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★554
-              |&nbsp;2018-12-21
-              <ins title="Last commit on 2018-12-21">ⓘ</ins>
+              ★560
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>CMS and framework for building sites of all shapes and sizes. Developer and client friendly. Open Source</td>
@@ -1467,9 +1020,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★527
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★525
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Contao is a web-based Open Source CMS, which generates accessible websites. It supports multiple languages and can easily be learned and extended.</td>
@@ -1491,9 +1044,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★446
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★451
+              |&nbsp;2019-11-30
+              <ins title="Last commit on 2019-11-30">ⓘ</ins>
           </div>
         </td>
         <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
@@ -1512,9 +1065,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★347
-              |&nbsp;2019-10-04
-              <ins title="Last commit on 2019-10-04">ⓘ</ins>
+              ★348
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Roadiz is a modern CMS based on a node system which can handle many types of services.</td>
@@ -1533,9 +1086,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★310
-              |&nbsp;2019-09-12
-              <ins title="Last commit on 2019-09-12">ⓘ</ins>
+              ★314
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
           </div>
         </td>
         <td>An advanced yet user-friendly content management system, based on the full stack Symfony2 framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS system with an innovative page and form assembling process, versioning, workflow, translation and media managers and much more.</td>
@@ -1551,7 +1104,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★297
+              ★298
               |&nbsp;2018-08-21
               <ins title="Last commit on 2018-08-21">ⓘ</ins>
           </div>
@@ -1572,7 +1125,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★265
+              ★273
               |&nbsp;2019-09-03
               <ins title="Last commit on 2019-09-03">ⓘ</ins>
           </div>
@@ -1593,9 +1146,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★238
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★242
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Easy to handle for users, flexible for developers. Feels quite reasonable. (Hint: will open up for English users gradually!)</td>
@@ -1614,9 +1167,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★233
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★236
+              |&nbsp;2019-11-19
+              <ins title="Last commit on 2019-11-19">ⓘ</ins>
           </div>
         </td>
         <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
@@ -1635,7 +1188,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★221
+              ★226
               |&nbsp;2019-03-31
               <ins title="Last commit on 2019-03-31">ⓘ</ins>
           </div>
@@ -1656,9 +1209,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★174
-              |&nbsp;2019-09-14
-              <ins title="Last commit on 2019-09-14">ⓘ</ins>
+              ★181
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
           </div>
         </td>
         <td>Open Source headless CMS, built on top of Symfony and GraphQL. Allows you to connect and manage all your digital project&#x27;s data in one single backend.</td>
@@ -1677,7 +1230,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★112
+              ★113
               |&nbsp;2019-07-29
               <ins title="Last commit on 2019-07-29">ⓘ</ins>
           </div>
@@ -1698,12 +1251,480 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★57
-              |&nbsp;2019-09-24
-              <ins title="Last commit on 2019-09-24">ⓘ</ins>
+              ★66
+              |&nbsp;2019-11-26
+              <ins title="Last commit on 2019-11-26">ⓘ</ins>
           </div>
         </td>
         <td>Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>WordPress</b>
+          </div>
+          <div>
+              <a href="https://github.com/WordPress/WordPress" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://wordpress.org" title="Website for WordPress">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/miziomon/awesome-wordpress" title="Awesome List for WordPress">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              ★13
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Grav</b>
+          </div>
+          <div>
+              <a href="https://github.com/getgrav/grav" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://getgrav.org" title="Website for Grav">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★11
+              |&nbsp;2019-11-18
+              <ins title="Last commit on 2019-11-18">ⓘ</ins>
+          </div>
+        </td>
+        <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>October</b>
+          </div>
+          <div>
+              <a href="https://github.com/octobercms/october" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://octobercms.com/" title="Website for October">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★9
+              |&nbsp;2019-10-11
+              <ins title="Last commit on 2019-10-11">ⓘ</ins>
+          </div>
+        </td>
+        <td>October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Magento</b>
+          </div>
+          <div>
+              <a href="https://github.com/magento/magento2" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://magento.com/" title="Website for Magento">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★8
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Magento is an open-source e-commerce platform written in PHP.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Pagekit</b>
+          </div>
+          <div>
+              <a href="https://github.com/pagekit/pagekit" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://pagekit.com" title="Website for Pagekit">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★5
+              |&nbsp;2019-07-11
+              <ins title="Last commit on 2019-07-11">ⓘ</ins>
+          </div>
+        </td>
+        <td>Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Directus</b>
+          </div>
+          <div>
+              <a href="https://github.com/directus/directus" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://getdirectus.com" title="Website for Directus">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★5
+              |&nbsp;2019-11-21
+              <ins title="Last commit on 2019-11-21">ⓘ</ins>
+          </div>
+        </td>
+        <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Cockpit CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/COCOPi/cockpit" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://getcockpit.com" title="Website for Cockpit CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★4
+              |&nbsp;2019-11-27
+              <ins title="Last commit on 2019-11-27">ⓘ</ins>
+          </div>
+        </td>
+        <td>Add content management functionality to any site.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Bolt</b>
+          </div>
+          <div>
+              <a href="https://github.com/bolt/bolt" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://github.com/bolt/bolt" title="Website for Bolt">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★4
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Pico</b>
+          </div>
+          <div>
+              <a href="https://github.com/picocms/Pico" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://picocms.org/" title="Website for Pico">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Pico is a stupidly simple, blazing fast, flat file CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Joomla!</b>
+          </div>
+          <div>
+              <a href="https://github.com/joomla/joomla-cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.joomla.org" title="Website for Joomla!">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-11-26
+              <ins title="Last commit on 2019-11-26">ⓘ</ins>
+          </div>
+        </td>
+        <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Drupal</b>
+          </div>
+          <div>
+              <a href="https://github.com/drupal/drupal" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.drupal.org" title="Website for Drupal">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/mrsinguyen/awesome-drupal" title="Awesome List for Drupal">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Anchor CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/anchorcms/anchor-cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://anchorcms.com/" title="Website for Anchor CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-04-01
+              <ins title="Last commit on 2019-04-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>A lightweight blog CMS for PHP.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>PyroCMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/pyrocms/pyrocms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.pyrocms.com/" title="Website for PyroCMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/websemantics/awesome-pyrocms" title="Awesome List for PyroCMS">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-11-26
+              <ins title="Last commit on 2019-11-26">ⓘ</ins>
+          </div>
+        </td>
+        <td>PyroCMS is athe modular DDD-adheres PHP CMS/CMF, built on top of the Laravel&#x27;s MVC implementation. It has artisan based code generators, which would made it funny to create the Domain including models or just a new theme and then develop that created code. It has the highest learning curve, from all described here products!</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Bootstrap CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/BootstrapCMS/CMS" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★2
+              |&nbsp;2016-06-28
+              <ins title="Last commit on 2016-06-28">ⓘ</ins>
+          </div>
+        </td>
+        <td>A PHP CMS powered by Laravel 5 and Sentry</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>MediaWiki</b>
+          </div>
+          <div>
+              <a href="https://github.com/wikimedia/mediawiki" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.mediawiki.org" title="Website for MediaWiki">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Pimcore Platform</b>
+          </div>
+          <div>
+              <a href="https://github.com/pimcore/pimcore" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://www.pimcore.org/" title="Website for Pimcore Platform">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Content &amp; Product Management Framework (CMS/PIM/E-Commerce).</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>MODX Web Content Management System and Platform</b>
+          </div>
+          <div>
+              <a href="https://github.com/modxcms/revolution" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://modx.com/" title="Website for MODX Web Content Management System and Platform">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Microweber</b>
+          </div>
+          <div>
+              <a href="https://github.com/microweber/microweber" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://microweber.com" title="Website for Microweber">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-29
+              <ins title="Last commit on 2019-11-29">ⓘ</ins>
+          </div>
+        </td>
+        <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Lavalite</b>
+          </div>
+          <div>
+              <a href="https://github.com/LavaLite/cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://www.lavalite.org" title="Website for Lavalite">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-09
+              <ins title="Last commit on 2019-11-09">ⓘ</ins>
+          </div>
+        </td>
+        <td>CMS Built with Laravel 5.2 and Bootstrap 3.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Fork CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/forkcms/forkcms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://www.fork-cms.com" title="Website for Fork CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-07
+              <ins title="Last commit on 2019-11-07">ⓘ</ins>
+          </div>
+        </td>
+        <td>Fork is an open source CMS using Symfony Components.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Craft CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/craftcms/cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://craftcms.com" title="Website for Craft CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Twill</b>
+          </div>
+          <div>
+              <a href="https://github.com/area17/twill" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://twill.io" title="Website for Twill">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.</td>
       </tr>
   </tbody>
 </table>
@@ -1721,6 +1742,111 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
+            <b>feinCMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/feincms/feincms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://www.feincms.org/" title="Website for feinCMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★767
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>A Django-based CMS with a focus on extensibility and concise code.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Superdesk</b>
+          </div>
+          <div>
+              <a href="https://github.com/superdesk/superdesk" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="https://www.superdesk.org/" title="Website for Superdesk">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★469
+              |&nbsp;2019-11-10
+              <ins title="Last commit on 2019-11-10">ⓘ</ins>
+          </div>
+        </td>
+        <td>Superdesk is an open-source headless CMS written in Python using the Flask microframework with RESTful APIs developed in Python-Eve.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Kotti</b>
+          </div>
+          <div>
+              <a href="https://github.com/Kotti/Kotti" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://kotti.pylonsproject.org" title="Website for Kotti">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★339
+              |&nbsp;2019-11-21
+              <ins title="Last commit on 2019-11-21">ⓘ</ins>
+          </div>
+        </td>
+        <td>Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Opps Project</b>
+          </div>
+          <div>
+              <a href="https://github.com/opps/opps" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://opps.github.io/opps/" title="Website for Opps Project">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★302
+              |&nbsp;2016-06-01
+              <ins title="Last commit on 2016-06-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Plone CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/plone/Plone" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://plone.org" title="Website for Plone CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★143
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
             <b>Wagtail CMS</b>
           </div>
           <div>
@@ -1735,9 +1861,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★7,919
-              |&nbsp;2019-10-02
-              <ins title="Last commit on 2019-10-02">ⓘ</ins>
+              ★8
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -1759,9 +1885,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              ★7,046
-              |&nbsp;2019-09-26
-              <ins title="Last commit on 2019-09-26">ⓘ</ins>
+              ★7
+              |&nbsp;2019-11-26
+              <ins title="Last commit on 2019-11-26">ⓘ</ins>
           </div>
         </td>
         <td>The easy-to-use and developer-friendly CMS.</td>
@@ -1780,9 +1906,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,927
-              |&nbsp;2019-03-18
-              <ins title="Last commit on 2019-03-18">ⓘ</ins>
+              ★4
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>CMS framework for Django.</td>
@@ -1801,9 +1927,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★3,144
-              |&nbsp;2019-09-23
-              <ins title="Last commit on 2019-09-23">ⓘ</ins>
+              ★3
+              |&nbsp;2019-10-20
+              <ins title="Last commit on 2019-10-20">ⓘ</ins>
           </div>
         </td>
         <td>The lektor static file content management system</td>
@@ -1822,117 +1948,12 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★2,125
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★2
+              |&nbsp;2019-03-06
+              <ins title="Last commit on 2019-03-06">ⓘ</ins>
           </div>
         </td>
         <td>Quokka is a flexible content management platform powered by Python, Flask and MongoDB.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>feinCMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/feincms/feincms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://www.feincms.org/" title="Website for feinCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★765
-              |&nbsp;2019-08-06
-              <ins title="Last commit on 2019-08-06">ⓘ</ins>
-          </div>
-        </td>
-        <td>A Django-based CMS with a focus on extensibility and concise code.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Superdesk</b>
-          </div>
-          <div>
-              <a href="https://github.com/superdesk/superdesk" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="https://www.superdesk.org/" title="Website for Superdesk">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★461
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Superdesk is an open-source headless CMS written in Python using the Flask microframework with RESTful APIs developed in Python-Eve.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Kotti</b>
-          </div>
-          <div>
-              <a href="https://github.com/Kotti/Kotti" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://kotti.pylonsproject.org" title="Website for Kotti">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★338
-              |&nbsp;2019-06-26
-              <ins title="Last commit on 2019-06-26">ⓘ</ins>
-          </div>
-        </td>
-        <td>Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Opps Project</b>
-          </div>
-          <div>
-              <a href="https://github.com/opps/opps" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://opps.github.io/opps/" title="Website for Opps Project">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★301
-              |&nbsp;2016-06-01
-              <ins title="Last commit on 2016-06-01">ⓘ</ins>
-          </div>
-        </td>
-        <td>A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Plone CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/plone/Plone" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://plone.org" title="Website for Plone CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★140
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.</td>
       </tr>
   </tbody>
 </table>
@@ -1950,132 +1971,6 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Refinery CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/refinery/refinerycms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://refinerycms.com" title="Website for Refinery CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/refinerycms-contrib/awesome-refinerycms" title="Awesome List for Refinery CMS">
-              :sunglasses:
-            </a>
-          </div>
-          <div>
-              ★3,670
-              |&nbsp;2019-08-28
-              <ins title="Last commit on 2019-08-28">ⓘ</ins>
-          </div>
-        </td>
-        <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>ComfortableMexicanSofa </b>
-          </div>
-          <div>
-              <a href="https://github.com/comfy/comfortable-mexican-sofa" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,596
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>ComfortableMexicanSofa is a powerful Rails 4 CMS Engine.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>LocomotiveCMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/locomotivecms/engine" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://locomotive.works" title="Website for LocomotiveCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★2,298
-              |&nbsp;2019-09-10
-              <ins title="Last commit on 2019-09-10">ⓘ</ins>
-          </div>
-        </td>
-        <td>A platform to create, publish and edit sites.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Publify</b>
-          </div>
-          <div>
-              <a href="https://github.com/publify/publify" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://publify.co" title="Website for Publify">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,752
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>A self hosted Web publishing platform on Rails.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Radiant CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/radiant/radiant" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://radiantcms.org/" title="Website for Radiant CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,695
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
-          </div>
-        </td>
-        <td>Radiant is a no-fluff, open source content management system designed for small teams.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-            <b>Camaleon CMS</b>
-          </div>
-          <div>
-              <a href="https://github.com/owen2345/camaleon-cms" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
-              <a href="http://camaleon.tuzitio.com/" title="Website for Camaleon CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-          </div>
-          <div>
-              ★1,114
-              |&nbsp;2019-09-05
-              <ins title="Last commit on 2019-09-05">ⓘ</ins>
-          </div>
-        </td>
-        <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
             <b>Nesta</b>
           </div>
           <div>
@@ -2087,9 +1982,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★895
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              ★894
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>A lightweight CMS, implemented in Sinatra.</td>
@@ -2106,8 +2001,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
           <div>
               ★748
-              |&nbsp;2019-10-07
-              <ins title="Last commit on 2019-10-07">ⓘ</ins>
+              |&nbsp;2019-09-26
+              <ins title="Last commit on 2019-09-26">ⓘ</ins>
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
@@ -2126,9 +2021,9 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★588
-              |&nbsp;2019-09-27
-              <ins title="Last commit on 2019-09-27">ⓘ</ins>
+              ★597
+              |&nbsp;2019-11-28
+              <ins title="Last commit on 2019-11-28">ⓘ</ins>
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
@@ -2147,7 +2042,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★342
+              ★347
               |&nbsp;2019-08-21
               <ins title="Last commit on 2019-08-21">ⓘ</ins>
           </div>
@@ -2168,7 +2063,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★335
+              ★334
               |&nbsp;2018-05-30
               <ins title="Last commit on 2018-05-30">ⓘ</ins>
           </div>
@@ -2189,12 +2084,138 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              ★4
-              |&nbsp;2019-08-07
-              <ins title="Last commit on 2019-08-07">ⓘ</ins>
+              ★5
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
           </div>
         </td>
         <td>GitHub - denkGroot/Spina: Spina CMS.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Refinery CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/refinery/refinerycms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://refinerycms.com" title="Website for Refinery CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+            <a href="https://github.com/refinerycms-contrib/awesome-refinerycms" title="Awesome List for Refinery CMS">
+              :sunglasses:
+            </a>
+          </div>
+          <div>
+              ★3
+              |&nbsp;2019-10-01
+              <ins title="Last commit on 2019-10-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>LocomotiveCMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/locomotivecms/engine" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://locomotive.works" title="Website for LocomotiveCMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-11-21
+              <ins title="Last commit on 2019-11-21">ⓘ</ins>
+          </div>
+        </td>
+        <td>A platform to create, publish and edit sites.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>ComfortableMexicanSofa </b>
+          </div>
+          <div>
+              <a href="https://github.com/comfy/comfortable-mexican-sofa" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★2
+              |&nbsp;2019-11-04
+              <ins title="Last commit on 2019-11-04">ⓘ</ins>
+          </div>
+        </td>
+        <td>ComfortableMexicanSofa is a powerful Rails 4 CMS Engine.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Radiant CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/radiant/radiant" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://radiantcms.org/" title="Website for Radiant CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-12-01
+              <ins title="Last commit on 2019-12-01">ⓘ</ins>
+          </div>
+        </td>
+        <td>Radiant is a no-fluff, open source content management system designed for small teams.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Publify</b>
+          </div>
+          <div>
+              <a href="https://github.com/publify/publify" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://publify.co" title="Website for Publify">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-24
+              <ins title="Last commit on 2019-11-24">ⓘ</ins>
+          </div>
+        </td>
+        <td>A self hosted Web publishing platform on Rails.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Camaleon CMS</b>
+          </div>
+          <div>
+              <a href="https://github.com/owen2345/camaleon-cms" title="GitHub Repo">
+                :octocat:
+              </a>&nbsp;&nbsp;
+              <a href="http://camaleon.tuzitio.com/" title="Website for Camaleon CMS">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+              ★1
+              |&nbsp;2019-11-13
+              <ins title="Last commit on 2019-11-13">ⓘ</ins>
+          </div>
+        </td>
+        <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
       </tr>
   </tbody>
 </table>
@@ -2452,10 +2473,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Kentico</b>
+            <b>Kentico EMS</b>
           </div>
           <div>
-              <a href="http://www.kentico.com" title="Website for Kentico">
+              <a href="https://www.kentico.com" title="Website for Kentico EMS">
                 :globe_with_meridians:
               </a>&nbsp;&nbsp;
           </div>
@@ -2463,6 +2484,21 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Kentico is the only fully integrated ASP.NET CMS, E-commerce, and Online Marketing platform that allows you to create cutting-edge websites and optimize your digital customers’ experiences fully across multiple channels. Kentico saves you time and resources so you can accomplish more.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+            <b>Kentico Kontent</b>
+          </div>
+          <div>
+              <a href="https://www.kontent.ai" title="Website for Kentico Kontent">
+                :globe_with_meridians:
+              </a>&nbsp;&nbsp;
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Kentico Kontent offers Content as a Service to gain full control over content presentation across all digital channels. Organize your content in a cloud-based content hub where you can collaborate with your team.</td>
       </tr>
       <tr>
         <td width="240">
@@ -2708,7 +2744,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 </table>
 
 
-## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors)
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors)
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -2722,7 +2758,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 | [<img src="https://avatars1.githubusercontent.com/u/1741198?v=4" width="100px;"/><br /><sub>Ed Tewiah</sub>](http://propertywebbuilder.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=etewiah) | [<img src="https://avatars0.githubusercontent.com/u/599247?v=4" width="100px;"/><br /><sub>Michael Lukaszczyk</sub>](https://graphcms.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=mlukaszczyk) | [<img src="https://avatars2.githubusercontent.com/u/1140906?v=4" width="100px;"/><br /><sub>Mateu Aguiló Bosch</sub>](http://about.me/e0ipso)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=e0ipso) | [<img src="https://avatars0.githubusercontent.com/u/10823695?v=4" width="100px;"/><br /><sub>kevded</sub>](http://github.deddy.me)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Kevded) | [<img src="https://avatars3.githubusercontent.com/u/5930429?v=4" width="100px;"/><br /><sub>Denis Efremov</sub>](https://github.com/Piterden)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Piterden) | [<img src="https://avatars1.githubusercontent.com/u/1236435?v=4" width="100px;"/><br /><sub>Sebastian Stehle</sub>](https://squidex.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=SebastianStehle) | [<img src="https://avatars0.githubusercontent.com/u/136237?v=4" width="100px;"/><br /><sub>Fredrik Broman</sub>](http://frebro.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=frebro) |
 | [<img src="https://avatars2.githubusercontent.com/u/6200139?v=4" width="100px;"/><br /><sub>robiso</sub>](https://twitter.com/robertisoski)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=robiso) | [<img src="https://avatars2.githubusercontent.com/u/13753370?v=4" width="100px;"/><br /><sub>M.D.Gregory</sub>](http://www.matthewdarylgregory.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Synj24) | [<img src="https://avatars3.githubusercontent.com/u/1707744?v=4" width="100px;"/><br /><sub>octavore</sub>](https://github.com/octavore)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=octavore) | [<img src="https://avatars2.githubusercontent.com/u/38933328?v=4" width="100px;"/><br /><sub>Susannavargs90</sub>](https://github.com/Susannavargs90)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Susannavargs90) | [<img src="https://avatars3.githubusercontent.com/u/309309?v=4" width="100px;"/><br /><sub>Franz Wilding</sub>](https://unitecms.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=franzwilding) | [<img src="https://avatars1.githubusercontent.com/u/562536?v=4" width="100px;"/><br /><sub>Rafał Muszyński</sub>](https://blog.rafalmuszynski.pl)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=takeit) | [<img src="https://avatars3.githubusercontent.com/u/3196138?v=4" width="100px;"/><br /><sub>Juha Lindfors</sub>](https://github.com/juhalindfors)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=juhalindfors) |
 | [<img src="https://avatars3.githubusercontent.com/u/13591213?v=4" width="100px;"/><br /><sub>Tony Hudson</sub>](https://ngohungphuc.wordpress.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ngohungphuc) | [<img src="https://avatars0.githubusercontent.com/u/127962?v=4" width="100px;"/><br /><sub>Mark Catalano</sub>](https://www.takeshape.io/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=mcat) | [<img src="https://avatars1.githubusercontent.com/u/708498?v=4" width="100px;"/><br /><sub>Quentin Renard</sub>](https://github.com/ifox)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ifox) | [<img src="https://avatars0.githubusercontent.com/u/13603045?v=4" width="100px;"/><br /><sub>Viraj Trivedi</sub>](https://otaku.codes)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=inf3cti0n95) | [<img src="https://avatars3.githubusercontent.com/u/180773?v=4" width="100px;"/><br /><sub>Birkir Gudjonsson</sub>](https://medium.com/@birkir.gudjonsson)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=birkir) | [<img src="https://avatars3.githubusercontent.com/u/11514928?v=4" width="100px;"/><br /><sub>Joseph Thomas</sub>](https://www.good-idea.studio)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=good-idea) | [<img src="https://avatars1.githubusercontent.com/u/32125?v=4" width="100px;"/><br /><sub>Tom Boutell</sub>](http://punkave.com/window)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=boutell) |
-| [<img src="https://avatars1.githubusercontent.com/u/169432?v=4" width="100px;"/><br /><sub>Russ Danner</sub>](http://craftersoftware.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=russdanner) | [<img src="https://avatars1.githubusercontent.com/u/1254351?v=4" width="100px;"/><br /><sub>Ryan Susana</sub>](https://ryansusana.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=RyanSusana) | [<img src="https://avatars3.githubusercontent.com/u/308134?v=4" width="100px;"/><br /><sub>Andrew Powers</sub>](https://www.fiction.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=arpowers) |
+| [<img src="https://avatars1.githubusercontent.com/u/169432?v=4" width="100px;"/><br /><sub>Russ Danner</sub>](http://craftersoftware.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=russdanner) | [<img src="https://avatars1.githubusercontent.com/u/1254351?v=4" width="100px;"/><br /><sub>Ryan Susana</sub>](https://ryansusana.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=RyanSusana) | [<img src="https://avatars3.githubusercontent.com/u/308134?v=4" width="100px;"/><br /><sub>Andrew Powers</sub>](https://www.fiction.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=arpowers) | [<img src="https://avatars1.githubusercontent.com/u/9218736?v=4" width="100px;"/><br /><sub>Ondřej Chrastina</sub>](https://github.com/Simply007)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Simply007) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
