@@ -44,6 +44,9 @@ for details on generation and contribution._
             {{#if githubURL}}
               <a href="{{githubURL}}" title="GitHub Repo">
                 :octocat:
+                {{#if starImageURL}}
+                  <img alt="Stars for {{name}}" src="{{starImageURL}}?label=★&color=black" />
+                {{/if}}
               </a>&nbsp;&nbsp;
             {{/if}}
             {{#if url}}
@@ -58,9 +61,6 @@ for details on generation and contribution._
             {{/if}}
           </div>
           <div>
-            {{#if starImageURL}}
-              <img alt="Stars for {{name}}" src="{{starImageURL}}?label=★&color=black" />
-            {{/if}}
             {{#if lastCommitURL}}
               <img alt="Last commit for {{name}}" src="{{lastCommitURL}}?color=black" />
             {{/if}}
