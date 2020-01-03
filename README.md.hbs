@@ -38,25 +38,30 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>{{name}}</b>
+            {{#if githubURL}}
+              <a href="{{githubURL}}">
+                <b>{{name}}</b>
+              </a>
+            {{else}}
+              <a href="{{url}}">
+                <b>{{name}}</b>
+              </a>
+            {{/if}}
           </div>
           <div>
             {{#if githubURL}}
               <a href="{{githubURL}}" title="GitHub Repo">
-                :octocat:
-                {{#if starImageURL}}
-                  <img alt="Stars for {{name}}" src="{{starImageURL}}?label=★&color=black" />
-                {{/if}}
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for {{name}}" src="{{starImageURL}}?label=★&color=black" />
+              </a>
             {{/if}}
             {{#if url}}
-              <a href="{{url}}" title="Website for {{name}}">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="{{url}}">
+                <img alt="Website for {{name}}" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
             {{/if}}
             {{#if awesomeURL}}
-            <a href="{{awesomeURL}}" title="Awesome List for {{name}}">
-              :sunglasses:
+            <a href="{{awesomeURL}}">
+              <img alt="Awesome List for {{name}}" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
             {{/if}}
           </div>

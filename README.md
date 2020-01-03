@@ -40,13 +40,14 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Awesome Cms Core</b>
+              <a href="https://github.com/SaiGonSoftware/Awesome-CMS-Core">
+                <b>Awesome Cms Core</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/SaiGonSoftware/Awesome-CMS-Core" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/SaiGonSoftware/Awesome-CMS-Core?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/SaiGonSoftware/Awesome-CMS-Core?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Awesome Cms Core" src="https://flat.badgen.net/github/last-commit/SaiGonSoftware/Awesome-CMS-Core?color=black" />
@@ -57,13 +58,14 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Composite C1</b>
+              <a href="https://github.com/Orckestra/C1-CMS">
+                <b>Composite C1</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/Orckestra/C1-CMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Composite C1" src="https://flat.badgen.net/github/stars/Orckestra/C1-CMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Composite C1" src="https://flat.badgen.net/github/stars/Orckestra/C1-CMS?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Composite C1" src="https://flat.badgen.net/github/last-commit/Orckestra/C1-CMS?color=black" />
@@ -74,16 +76,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>DotNetNuke (DNN)</b>
+              <a href="https://github.com/dnnsoftware/Dnn.Platform">
+                <b>DotNetNuke (DNN)</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/dnnsoftware/Dnn.Platform" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for DotNetNuke (DNN)" src="https://flat.badgen.net/github/stars/dnnsoftware/Dnn.Platform?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.dnnsoftware.com" title="Website for DotNetNuke (DNN)">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for DotNetNuke (DNN)" src="https://flat.badgen.net/github/stars/dnnsoftware/Dnn.Platform?label=★&color=black" />
+              </a>
+              <a href="http://www.dnnsoftware.com">
+                <img alt="Website for DotNetNuke (DNN)" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for DotNetNuke (DNN)" src="https://flat.badgen.net/github/last-commit/dnnsoftware/Dnn.Platform?color=black" />
@@ -94,16 +97,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Kaliko CMS</b>
+              <a href="https://github.com/KalikoCMS/KalikoCMS.Core">
+                <b>Kaliko CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/KalikoCMS/KalikoCMS.Core" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Kaliko CMS" src="https://flat.badgen.net/github/stars/KalikoCMS/KalikoCMS.Core?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://kaliko.com/cms/" title="Website for Kaliko CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Kaliko CMS" src="https://flat.badgen.net/github/stars/KalikoCMS/KalikoCMS.Core?label=★&color=black" />
+              </a>
+              <a href="https://kaliko.com/cms/">
+                <img alt="Website for Kaliko CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Kaliko CMS" src="https://flat.badgen.net/github/last-commit/KalikoCMS/KalikoCMS.Core?color=black" />
@@ -114,16 +118,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Orchard</b>
+              <a href="https://github.com/OrchardCMS/Orchard">
+                <b>Orchard</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/OrchardCMS/Orchard" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Orchard" src="https://flat.badgen.net/github/stars/OrchardCMS/Orchard?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://orchardproject.net" title="Website for Orchard">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Orchard" src="https://flat.badgen.net/github/stars/OrchardCMS/Orchard?label=★&color=black" />
+              </a>
+              <a href="http://orchardproject.net">
+                <img alt="Website for Orchard" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Orchard" src="https://flat.badgen.net/github/last-commit/OrchardCMS/Orchard?color=black" />
@@ -134,16 +139,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Piranha CMS</b>
+              <a href="https://github.com/PiranhaCMS/Piranha">
+                <b>Piranha CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/PiranhaCMS/Piranha" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/PiranhaCMS/Piranha?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://piranhacms.org" title="Website for Piranha CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/PiranhaCMS/Piranha?label=★&color=black" />
+              </a>
+              <a href="http://piranhacms.org">
+                <img alt="Website for Piranha CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Piranha CMS" src="https://flat.badgen.net/github/last-commit/PiranhaCMS/Piranha?color=black" />
@@ -154,16 +160,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Platformus</b>
+              <a href="https://github.com/Platformus/Platformus">
+                <b>Platformus</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/Platformus/Platformus" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Platformus" src="https://flat.badgen.net/github/stars/Platformus/Platformus?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://platformus.net" title="Website for Platformus">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Platformus" src="https://flat.badgen.net/github/stars/Platformus/Platformus?label=★&color=black" />
+              </a>
+              <a href="http://platformus.net">
+                <img alt="Website for Platformus" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Platformus" src="https://flat.badgen.net/github/last-commit/Platformus/Platformus?color=black" />
@@ -174,16 +181,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Squidex</b>
+              <a href="https://github.com/squidex/squidex">
+                <b>Squidex</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/squidex/squidex" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Squidex" src="https://flat.badgen.net/github/stars/squidex/squidex?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://squidex.io" title="Website for Squidex">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Squidex" src="https://flat.badgen.net/github/stars/squidex/squidex?label=★&color=black" />
+              </a>
+              <a href="https://squidex.io">
+                <img alt="Website for Squidex" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Squidex" src="https://flat.badgen.net/github/last-commit/squidex/squidex?color=black" />
@@ -194,18 +202,19 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Umbraco</b>
+              <a href="https://github.com/umbraco/Umbraco-CMS">
+                <b>Umbraco</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/umbraco/Umbraco-CMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Umbraco" src="https://flat.badgen.net/github/stars/umbraco/Umbraco-CMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://umbraco.com" title="Website for Umbraco">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/leekelleher/awesome-umbraco" title="Awesome List for Umbraco">
-              :sunglasses:
+                <img alt="Stars for Umbraco" src="https://flat.badgen.net/github/stars/umbraco/Umbraco-CMS?label=★&color=black" />
+              </a>
+              <a href="http://umbraco.com">
+                <img alt="Website for Umbraco" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/leekelleher/awesome-umbraco">
+              <img alt="Awesome List for Umbraco" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -230,16 +239,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Ketchup</b>
+              <a href="https://github.com/ketchuphq/ketchup">
+                <b>Ketchup</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/ketchuphq/ketchup" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Ketchup" src="https://flat.badgen.net/github/stars/ketchuphq/ketchup?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://ketchuphq.com" title="Website for Ketchup">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Ketchup" src="https://flat.badgen.net/github/stars/ketchuphq/ketchup?label=★&color=black" />
+              </a>
+              <a href="https://ketchuphq.com">
+                <img alt="Website for Ketchup" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Ketchup" src="https://flat.badgen.net/github/last-commit/ketchuphq/ketchup?color=black" />
@@ -250,16 +260,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Ponzu</b>
+              <a href="https://github.com/ponzu-cms/ponzu">
+                <b>Ponzu</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/ponzu-cms/ponzu" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Ponzu" src="https://flat.badgen.net/github/stars/ponzu-cms/ponzu?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://ponzu-cms.org" title="Website for Ponzu">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Ponzu" src="https://flat.badgen.net/github/stars/ponzu-cms/ponzu?label=★&color=black" />
+              </a>
+              <a href="https://ponzu-cms.org">
+                <img alt="Website for Ponzu" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Ponzu" src="https://flat.badgen.net/github/last-commit/ponzu-cms/ponzu?color=black" />
@@ -283,16 +294,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Crafter CMS</b>
+              <a href="https://github.com/craftercms/craftercms">
+                <b>Crafter CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/craftercms/craftercms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Crafter CMS" src="https://flat.badgen.net/github/stars/craftercms/craftercms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://craftercms.org" title="Website for Crafter CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Crafter CMS" src="https://flat.badgen.net/github/stars/craftercms/craftercms?label=★&color=black" />
+              </a>
+              <a href="https://craftercms.org">
+                <img alt="Website for Crafter CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Crafter CMS" src="https://flat.badgen.net/github/last-commit/craftercms/craftercms?color=black" />
@@ -303,16 +315,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>dotCMS</b>
+              <a href="https://github.com/dotCMS/core">
+                <b>dotCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/dotCMS/core" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for dotCMS" src="https://flat.badgen.net/github/stars/dotCMS/core?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.dotcms.com/" title="Website for dotCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for dotCMS" src="https://flat.badgen.net/github/stars/dotCMS/core?label=★&color=black" />
+              </a>
+              <a href="https://www.dotcms.com/">
+                <img alt="Website for dotCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for dotCMS" src="https://flat.badgen.net/github/last-commit/dotCMS/core?color=black" />
@@ -323,16 +336,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Elepy</b>
+              <a href="https://github.com/RyanSusana/elepy">
+                <b>Elepy</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/RyanSusana/elepy" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Elepy" src="https://flat.badgen.net/github/stars/RyanSusana/elepy?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://elepy.com" title="Website for Elepy">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Elepy" src="https://flat.badgen.net/github/stars/RyanSusana/elepy?label=★&color=black" />
+              </a>
+              <a href="http://elepy.com">
+                <img alt="Website for Elepy" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Elepy" src="https://flat.badgen.net/github/last-commit/RyanSusana/elepy?color=black" />
@@ -343,16 +357,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Gentics Mesh</b>
+              <a href="https://github.com/gentics/mesh">
+                <b>Gentics Mesh</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/gentics/mesh" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Gentics Mesh" src="https://flat.badgen.net/github/stars/gentics/mesh?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://getmesh.io" title="Website for Gentics Mesh">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Gentics Mesh" src="https://flat.badgen.net/github/stars/gentics/mesh?label=★&color=black" />
+              </a>
+              <a href="http://getmesh.io">
+                <img alt="Website for Gentics Mesh" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Gentics Mesh" src="https://flat.badgen.net/github/last-commit/gentics/mesh?color=black" />
@@ -376,16 +391,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Apostrophe</b>
+              <a href="https://github.com/punkave/apostrophe">
+                <b>Apostrophe</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/punkave/apostrophe?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://apostrophecms.org" title="Website for Apostrophe">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/punkave/apostrophe?label=★&color=black" />
+              </a>
+              <a href="https://apostrophecms.org">
+                <img alt="Website for Apostrophe" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Apostrophe" src="https://flat.badgen.net/github/last-commit/punkave/apostrophe?color=black" />
@@ -396,16 +412,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>CMS.js</b>
+              <a href="https://github.com/cdmedia/cms.js">
+                <b>CMS.js</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/cdmedia/cms.js" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for CMS.js" src="https://flat.badgen.net/github/stars/cdmedia/cms.js?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://cdmedia.github.io/cms.js" title="Website for CMS.js">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for CMS.js" src="https://flat.badgen.net/github/stars/cdmedia/cms.js?label=★&color=black" />
+              </a>
+              <a href="http://cdmedia.github.io/cms.js">
+                <img alt="Website for CMS.js" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for CMS.js" src="https://flat.badgen.net/github/last-commit/cdmedia/cms.js?color=black" />
@@ -416,16 +433,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Cody</b>
+              <a href="https://github.com/jcoppieters/cody">
+                <b>Cody</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/jcoppieters/cody" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Cody" src="https://flat.badgen.net/github/stars/jcoppieters/cody?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://howest.cody-cms.org" title="Website for Cody">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Cody" src="https://flat.badgen.net/github/stars/jcoppieters/cody?label=★&color=black" />
+              </a>
+              <a href="http://howest.cody-cms.org">
+                <img alt="Website for Cody" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Cody" src="https://flat.badgen.net/github/last-commit/jcoppieters/cody?color=black" />
@@ -436,13 +454,14 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Expressa</b>
+              <a href="https://github.com/thomas4019/expressa">
+                <b>Expressa</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/thomas4019/expressa" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Expressa" src="https://flat.badgen.net/github/stars/thomas4019/expressa?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Expressa" src="https://flat.badgen.net/github/stars/thomas4019/expressa?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Expressa" src="https://flat.badgen.net/github/last-commit/thomas4019/expressa?color=black" />
@@ -453,16 +472,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Factor JS</b>
+              <a href="https://github.com/fiction-com/factor">
+                <b>Factor JS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/fiction-com/factor" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Factor JS" src="https://flat.badgen.net/github/stars/fiction-com/factor?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://factor.dev" title="Website for Factor JS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Factor JS" src="https://flat.badgen.net/github/stars/fiction-com/factor?label=★&color=black" />
+              </a>
+              <a href="https://factor.dev">
+                <img alt="Website for Factor JS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Factor JS" src="https://flat.badgen.net/github/last-commit/fiction-com/factor?color=black" />
@@ -473,16 +493,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Gatsby.js</b>
+              <a href="https://github.com/gatsbyjs/gatsby">
+                <b>Gatsby.js</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/gatsbyjs/gatsby" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Gatsby.js" src="https://flat.badgen.net/github/stars/gatsbyjs/gatsby?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.gatsbyjs.org" title="Website for Gatsby.js">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Gatsby.js" src="https://flat.badgen.net/github/stars/gatsbyjs/gatsby?label=★&color=black" />
+              </a>
+              <a href="https://www.gatsbyjs.org">
+                <img alt="Website for Gatsby.js" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Gatsby.js" src="https://flat.badgen.net/github/last-commit/gatsbyjs/gatsby?color=black" />
@@ -493,16 +514,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Ghost</b>
+              <a href="https://github.com/tryghost/Ghost">
+                <b>Ghost</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/tryghost/Ghost" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Ghost" src="https://flat.badgen.net/github/stars/tryghost/Ghost?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://ghost.org" title="Website for Ghost">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Ghost" src="https://flat.badgen.net/github/stars/tryghost/Ghost?label=★&color=black" />
+              </a>
+              <a href="https://ghost.org">
+                <img alt="Website for Ghost" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Ghost" src="https://flat.badgen.net/github/last-commit/tryghost/Ghost?color=black" />
@@ -513,16 +535,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Jekyll Admin</b>
+              <a href="https://github.com/jekyll/jekyll-admin">
+                <b>Jekyll Admin</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/jekyll/jekyll-admin" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Jekyll Admin" src="https://flat.badgen.net/github/stars/jekyll/jekyll-admin?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://jekyll.github.io/jekyll-admin/" title="Website for Jekyll Admin">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Jekyll Admin" src="https://flat.badgen.net/github/stars/jekyll/jekyll-admin?label=★&color=black" />
+              </a>
+              <a href="https://jekyll.github.io/jekyll-admin/">
+                <img alt="Website for Jekyll Admin" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Jekyll Admin" src="https://flat.badgen.net/github/last-commit/jekyll/jekyll-admin?color=black" />
@@ -533,16 +556,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>KeystoneJS</b>
+              <a href="https://github.com/keystonejs/keystone">
+                <b>KeystoneJS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/keystonejs/keystone" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for KeystoneJS" src="https://flat.badgen.net/github/stars/keystonejs/keystone?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://keystonejs.com" title="Website for KeystoneJS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for KeystoneJS" src="https://flat.badgen.net/github/stars/keystonejs/keystone?label=★&color=black" />
+              </a>
+              <a href="http://keystonejs.com">
+                <img alt="Website for KeystoneJS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for KeystoneJS" src="https://flat.badgen.net/github/last-commit/keystonejs/keystone?color=black" />
@@ -553,16 +577,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Netlify CMS</b>
+              <a href="https://github.com/netlify/netlify-cms">
+                <b>Netlify CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/netlify/netlify-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Netlify CMS" src="https://flat.badgen.net/github/stars/netlify/netlify-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.netlifycms.org/" title="Website for Netlify CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Netlify CMS" src="https://flat.badgen.net/github/stars/netlify/netlify-cms?label=★&color=black" />
+              </a>
+              <a href="https://www.netlifycms.org/">
+                <img alt="Website for Netlify CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Netlify CMS" src="https://flat.badgen.net/github/last-commit/netlify/netlify-cms?color=black" />
@@ -573,16 +598,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>PencilBlue</b>
+              <a href="https://github.com/pencilblue/pencilblue">
+                <b>PencilBlue</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/pencilblue/pencilblue" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for PencilBlue" src="https://flat.badgen.net/github/stars/pencilblue/pencilblue?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://pencilblue.org" title="Website for PencilBlue">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for PencilBlue" src="https://flat.badgen.net/github/stars/pencilblue/pencilblue?label=★&color=black" />
+              </a>
+              <a href="https://pencilblue.org">
+                <img alt="Website for PencilBlue" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for PencilBlue" src="https://flat.badgen.net/github/last-commit/pencilblue/pencilblue?color=black" />
@@ -593,16 +619,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Prime CMS</b>
+              <a href="https://github.com/birkir/prime">
+                <b>Prime CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/birkir/prime" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Prime CMS" src="https://flat.badgen.net/github/stars/birkir/prime?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://birkir.github.io/prime" title="Website for Prime CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Prime CMS" src="https://flat.badgen.net/github/stars/birkir/prime?label=★&color=black" />
+              </a>
+              <a href="https://birkir.github.io/prime">
+                <img alt="Website for Prime CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Prime CMS" src="https://flat.badgen.net/github/last-commit/birkir/prime?color=black" />
@@ -613,16 +640,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Prose</b>
+              <a href="https://github.com/prose/prose">
+                <b>Prose</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/prose/prose" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Prose" src="https://flat.badgen.net/github/stars/prose/prose?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://prose.io" title="Website for Prose">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Prose" src="https://flat.badgen.net/github/stars/prose/prose?label=★&color=black" />
+              </a>
+              <a href="http://prose.io">
+                <img alt="Website for Prose" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Prose" src="https://flat.badgen.net/github/last-commit/prose/prose?color=black" />
@@ -633,16 +661,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Reaction</b>
+              <a href="https://github.com/reactioncommerce/reaction">
+                <b>Reaction</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/reactioncommerce/reaction" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Reaction" src="https://flat.badgen.net/github/stars/reactioncommerce/reaction?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://reactioncommerce.com/" title="Website for Reaction">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Reaction" src="https://flat.badgen.net/github/stars/reactioncommerce/reaction?label=★&color=black" />
+              </a>
+              <a href="https://reactioncommerce.com/">
+                <img alt="Website for Reaction" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Reaction" src="https://flat.badgen.net/github/last-commit/reactioncommerce/reaction?color=black" />
@@ -653,13 +682,14 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Relax</b>
+              <a href="https://github.com/relax/relax">
+                <b>Relax</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/relax/relax" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Relax" src="https://flat.badgen.net/github/stars/relax/relax?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Relax" src="https://flat.badgen.net/github/stars/relax/relax?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Relax" src="https://flat.badgen.net/github/last-commit/relax/relax?color=black" />
@@ -670,16 +700,17 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>Sanity.io</b>
+              <a href="https://github.com/sanity-io/sanity">
+                <b>Sanity.io</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/sanity-io/sanity" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Sanity.io" src="https://flat.badgen.net/github/stars/sanity-io/sanity?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.sanity.io" title="Website for Sanity.io">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Sanity.io" src="https://flat.badgen.net/github/stars/sanity-io/sanity?label=★&color=black" />
+              </a>
+              <a href="https://www.sanity.io">
+                <img alt="Website for Sanity.io" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Sanity.io" src="https://flat.badgen.net/github/last-commit/sanity-io/sanity?color=black" />
@@ -691,16 +722,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>strapi</b>
+              <a href="https://github.com/strapi/strapi">
+                <b>strapi</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/strapi/strapi" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for strapi" src="https://flat.badgen.net/github/stars/strapi/strapi?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://strapi.io/" title="Website for strapi">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for strapi" src="https://flat.badgen.net/github/stars/strapi/strapi?label=★&color=black" />
+              </a>
+              <a href="https://strapi.io/">
+                <img alt="Website for strapi" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for strapi" src="https://flat.badgen.net/github/last-commit/strapi/strapi?color=black" />
@@ -711,16 +743,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>TinaCMS</b>
+              <a href="https://github.com/tinacms/tinacms">
+                <b>TinaCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/tinacms/tinacms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for TinaCMS" src="https://flat.badgen.net/github/stars/tinacms/tinacms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://tinacms.org" title="Website for TinaCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for TinaCMS" src="https://flat.badgen.net/github/stars/tinacms/tinacms?label=★&color=black" />
+              </a>
+              <a href="https://tinacms.org">
+                <img alt="Website for TinaCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for TinaCMS" src="https://flat.badgen.net/github/last-commit/tinacms/tinacms?color=black" />
@@ -731,16 +764,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>We.js Framework</b>
+              <a href="https://github.com/wejs/we">
+                <b>We.js Framework</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/wejs/we" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for We.js Framework" src="https://flat.badgen.net/github/stars/wejs/we?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://wejs.org/" title="Website for We.js Framework">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for We.js Framework" src="https://flat.badgen.net/github/stars/wejs/we?label=★&color=black" />
+              </a>
+              <a href="http://wejs.org/">
+                <img alt="Website for We.js Framework" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for We.js Framework" src="https://flat.badgen.net/github/last-commit/wejs/we?color=black" />
@@ -751,16 +785,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Webhook</b>
+              <a href="https://github.com/webhook/webhook">
+                <b>Webhook</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/webhook/webhook" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Webhook" src="https://flat.badgen.net/github/stars/webhook/webhook?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.webhook.com" title="Website for Webhook">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Webhook" src="https://flat.badgen.net/github/stars/webhook/webhook?label=★&color=black" />
+              </a>
+              <a href="http://www.webhook.com">
+                <img alt="Website for Webhook" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Webhook" src="https://flat.badgen.net/github/last-commit/webhook/webhook?color=black" />
@@ -784,16 +819,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Anchor CMS</b>
+              <a href="https://github.com/anchorcms/anchor-cms">
+                <b>Anchor CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/anchorcms/anchor-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Anchor CMS" src="https://flat.badgen.net/github/stars/anchorcms/anchor-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://anchorcms.com/" title="Website for Anchor CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Anchor CMS" src="https://flat.badgen.net/github/stars/anchorcms/anchor-cms?label=★&color=black" />
+              </a>
+              <a href="http://anchorcms.com/">
+                <img alt="Website for Anchor CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Anchor CMS" src="https://flat.badgen.net/github/last-commit/anchorcms/anchor-cms?color=black" />
@@ -804,16 +840,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>AsgardCms</b>
+              <a href="https://github.com/AsgardCms/Platform">
+                <b>AsgardCms</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/AsgardCms/Platform" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for AsgardCms" src="https://flat.badgen.net/github/stars/AsgardCms/Platform?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://asgardcms.com/" title="Website for AsgardCms">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for AsgardCms" src="https://flat.badgen.net/github/stars/AsgardCms/Platform?label=★&color=black" />
+              </a>
+              <a href="https://asgardcms.com/">
+                <img alt="Website for AsgardCms" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for AsgardCms" src="https://flat.badgen.net/github/last-commit/AsgardCms/Platform?color=black" />
@@ -824,16 +861,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Bolt</b>
+              <a href="https://github.com/bolt/bolt">
+                <b>Bolt</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/bolt/bolt" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/bolt?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://github.com/bolt/bolt" title="Website for Bolt">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/bolt?label=★&color=black" />
+              </a>
+              <a href="https://github.com/bolt/bolt">
+                <img alt="Website for Bolt" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Bolt" src="https://flat.badgen.net/github/last-commit/bolt/bolt?color=black" />
@@ -844,13 +882,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Bootstrap CMS</b>
+              <a href="https://github.com/BootstrapCMS/CMS">
+                <b>Bootstrap CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/BootstrapCMS/CMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Bootstrap CMS" src="https://flat.badgen.net/github/stars/BootstrapCMS/CMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Bootstrap CMS" src="https://flat.badgen.net/github/stars/BootstrapCMS/CMS?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Bootstrap CMS" src="https://flat.badgen.net/github/last-commit/BootstrapCMS/CMS?color=black" />
@@ -861,13 +900,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Borgert CMS</b>
+              <a href="https://github.com/odirleiborgert/borgert-cms">
+                <b>Borgert CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/odirleiborgert/borgert-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Borgert CMS" src="https://flat.badgen.net/github/stars/odirleiborgert/borgert-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Borgert CMS" src="https://flat.badgen.net/github/stars/odirleiborgert/borgert-cms?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Borgert CMS" src="https://flat.badgen.net/github/last-commit/odirleiborgert/borgert-cms?color=black" />
@@ -878,16 +918,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Cockpit CMS</b>
+              <a href="https://github.com/COCOPi/cockpit">
+                <b>Cockpit CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/COCOPi/cockpit" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Cockpit CMS" src="https://flat.badgen.net/github/stars/COCOPi/cockpit?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://getcockpit.com" title="Website for Cockpit CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Cockpit CMS" src="https://flat.badgen.net/github/stars/COCOPi/cockpit?label=★&color=black" />
+              </a>
+              <a href="http://getcockpit.com">
+                <img alt="Website for Cockpit CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Cockpit CMS" src="https://flat.badgen.net/github/last-commit/COCOPi/cockpit?color=black" />
@@ -898,16 +939,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Contao</b>
+              <a href="https://github.com/contao/core">
+                <b>Contao</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/contao/core" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Contao" src="https://flat.badgen.net/github/stars/contao/core?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://contao.org/en/" title="Website for Contao">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Contao" src="https://flat.badgen.net/github/stars/contao/core?label=★&color=black" />
+              </a>
+              <a href="https://contao.org/en/">
+                <img alt="Website for Contao" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Contao" src="https://flat.badgen.net/github/last-commit/contao/core?color=black" />
@@ -918,16 +960,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Contenta CMS</b>
+              <a href="https://github.com/contentacms/contenta_jsonapi">
+                <b>Contenta CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/contentacms/contenta_jsonapi" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Contenta CMS" src="https://flat.badgen.net/github/stars/contentacms/contenta_jsonapi?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://contentacms.org/" title="Website for Contenta CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Contenta CMS" src="https://flat.badgen.net/github/stars/contentacms/contenta_jsonapi?label=★&color=black" />
+              </a>
+              <a href="http://contentacms.org/">
+                <img alt="Website for Contenta CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Contenta CMS" src="https://flat.badgen.net/github/last-commit/contentacms/contenta_jsonapi?color=black" />
@@ -938,16 +981,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Craft CMS</b>
+              <a href="https://github.com/craftcms/cms">
+                <b>Craft CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/craftcms/cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Craft CMS" src="https://flat.badgen.net/github/stars/craftcms/cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://craftcms.com" title="Website for Craft CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Craft CMS" src="https://flat.badgen.net/github/stars/craftcms/cms?label=★&color=black" />
+              </a>
+              <a href="https://craftcms.com">
+                <img alt="Website for Craft CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Craft CMS" src="https://flat.badgen.net/github/last-commit/craftcms/cms?color=black" />
@@ -958,16 +1002,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Croogo</b>
+              <a href="https://github.com/croogo/croogo">
+                <b>Croogo</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/croogo/croogo" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Croogo" src="https://flat.badgen.net/github/stars/croogo/croogo?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.croogo.org" title="Website for Croogo">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Croogo" src="https://flat.badgen.net/github/stars/croogo/croogo?label=★&color=black" />
+              </a>
+              <a href="http://www.croogo.org">
+                <img alt="Website for Croogo" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Croogo" src="https://flat.badgen.net/github/last-commit/croogo/croogo?color=black" />
@@ -978,16 +1023,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Directus</b>
+              <a href="https://github.com/directus/directus">
+                <b>Directus</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/directus/directus" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://getdirectus.com" title="Website for Directus">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus?label=★&color=black" />
+              </a>
+              <a href="http://getdirectus.com">
+                <img alt="Website for Directus" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus?color=black" />
@@ -998,18 +1044,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Drupal</b>
+              <a href="https://github.com/drupal/drupal">
+                <b>Drupal</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/drupal/drupal" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Drupal" src="https://flat.badgen.net/github/stars/drupal/drupal?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.drupal.org" title="Website for Drupal">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/mrsinguyen/awesome-drupal" title="Awesome List for Drupal">
-              :sunglasses:
+                <img alt="Stars for Drupal" src="https://flat.badgen.net/github/stars/drupal/drupal?label=★&color=black" />
+              </a>
+              <a href="https://www.drupal.org">
+                <img alt="Website for Drupal" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/mrsinguyen/awesome-drupal">
+              <img alt="Awesome List for Drupal" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1021,16 +1068,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Fork CMS</b>
+              <a href="https://github.com/forkcms/forkcms">
+                <b>Fork CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/forkcms/forkcms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Fork CMS" src="https://flat.badgen.net/github/stars/forkcms/forkcms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.fork-cms.com" title="Website for Fork CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Fork CMS" src="https://flat.badgen.net/github/stars/forkcms/forkcms?label=★&color=black" />
+              </a>
+              <a href="http://www.fork-cms.com">
+                <img alt="Website for Fork CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Fork CMS" src="https://flat.badgen.net/github/last-commit/forkcms/forkcms?color=black" />
@@ -1041,16 +1089,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>FUEL CMS</b>
+              <a href="https://github.com/daylightstudio/FUEL-CMS">
+                <b>FUEL CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/daylightstudio/FUEL-CMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for FUEL CMS" src="https://flat.badgen.net/github/stars/daylightstudio/FUEL-CMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.getfuelcms.com" title="Website for FUEL CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for FUEL CMS" src="https://flat.badgen.net/github/stars/daylightstudio/FUEL-CMS?label=★&color=black" />
+              </a>
+              <a href="http://www.getfuelcms.com">
+                <img alt="Website for FUEL CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for FUEL CMS" src="https://flat.badgen.net/github/last-commit/daylightstudio/FUEL-CMS?color=black" />
@@ -1061,16 +1110,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Grav</b>
+              <a href="https://github.com/getgrav/grav">
+                <b>Grav</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/getgrav/grav" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Grav" src="https://flat.badgen.net/github/stars/getgrav/grav?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://getgrav.org" title="Website for Grav">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Grav" src="https://flat.badgen.net/github/stars/getgrav/grav?label=★&color=black" />
+              </a>
+              <a href="http://getgrav.org">
+                <img alt="Website for Grav" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Grav" src="https://flat.badgen.net/github/last-commit/getgrav/grav?color=black" />
@@ -1081,16 +1131,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Joomla!</b>
+              <a href="https://github.com/joomla/joomla-cms">
+                <b>Joomla!</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/joomla/joomla-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Joomla!" src="https://flat.badgen.net/github/stars/joomla/joomla-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.joomla.org" title="Website for Joomla!">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Joomla!" src="https://flat.badgen.net/github/stars/joomla/joomla-cms?label=★&color=black" />
+              </a>
+              <a href="https://www.joomla.org">
+                <img alt="Website for Joomla!" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Joomla!" src="https://flat.badgen.net/github/last-commit/joomla/joomla-cms?color=black" />
@@ -1101,16 +1152,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Kirby</b>
+              <a href="https://github.com/getkirby/starterkit">
+                <b>Kirby</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/getkirby/starterkit" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Kirby" src="https://flat.badgen.net/github/stars/getkirby/starterkit?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://getkirby.com/" title="Website for Kirby">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Kirby" src="https://flat.badgen.net/github/stars/getkirby/starterkit?label=★&color=black" />
+              </a>
+              <a href="https://getkirby.com/">
+                <img alt="Website for Kirby" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Kirby" src="https://flat.badgen.net/github/last-commit/getkirby/starterkit?color=black" />
@@ -1121,16 +1173,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>KunstmaanBundlesCMS</b>
+              <a href="https://github.com/Kunstmaan/KunstmaanBundlesCMS">
+                <b>KunstmaanBundlesCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/Kunstmaan/KunstmaanBundlesCMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/stars/Kunstmaan/KunstmaanBundlesCMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://bundles.kunstmaan.be" title="Website for KunstmaanBundlesCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/stars/Kunstmaan/KunstmaanBundlesCMS?label=★&color=black" />
+              </a>
+              <a href="https://bundles.kunstmaan.be">
+                <img alt="Website for KunstmaanBundlesCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/last-commit/Kunstmaan/KunstmaanBundlesCMS?color=black" />
@@ -1141,16 +1194,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Lavalite</b>
+              <a href="https://github.com/LavaLite/cms">
+                <b>Lavalite</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/LavaLite/cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Lavalite" src="https://flat.badgen.net/github/stars/LavaLite/cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.lavalite.org" title="Website for Lavalite">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Lavalite" src="https://flat.badgen.net/github/stars/LavaLite/cms?label=★&color=black" />
+              </a>
+              <a href="http://www.lavalite.org">
+                <img alt="Website for Lavalite" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Lavalite" src="https://flat.badgen.net/github/last-commit/LavaLite/cms?color=black" />
@@ -1161,16 +1215,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Magento</b>
+              <a href="https://github.com/magento/magento2">
+                <b>Magento</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/magento/magento2" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Magento" src="https://flat.badgen.net/github/stars/magento/magento2?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://magento.com/" title="Website for Magento">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Magento" src="https://flat.badgen.net/github/stars/magento/magento2?label=★&color=black" />
+              </a>
+              <a href="https://magento.com/">
+                <img alt="Website for Magento" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Magento" src="https://flat.badgen.net/github/last-commit/magento/magento2?color=black" />
@@ -1181,16 +1236,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>MediaWiki</b>
+              <a href="https://github.com/wikimedia/mediawiki">
+                <b>MediaWiki</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/wikimedia/mediawiki" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for MediaWiki" src="https://flat.badgen.net/github/stars/wikimedia/mediawiki?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.mediawiki.org" title="Website for MediaWiki">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for MediaWiki" src="https://flat.badgen.net/github/stars/wikimedia/mediawiki?label=★&color=black" />
+              </a>
+              <a href="https://www.mediawiki.org">
+                <img alt="Website for MediaWiki" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for MediaWiki" src="https://flat.badgen.net/github/last-commit/wikimedia/mediawiki?color=black" />
@@ -1201,16 +1257,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Microweber</b>
+              <a href="https://github.com/microweber/microweber">
+                <b>Microweber</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/microweber/microweber" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Microweber" src="https://flat.badgen.net/github/stars/microweber/microweber?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://microweber.com" title="Website for Microweber">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Microweber" src="https://flat.badgen.net/github/stars/microweber/microweber?label=★&color=black" />
+              </a>
+              <a href="https://microweber.com">
+                <img alt="Website for Microweber" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Microweber" src="https://flat.badgen.net/github/last-commit/microweber/microweber?color=black" />
@@ -1221,16 +1278,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>MODX Web Content Management System and Platform</b>
+              <a href="https://github.com/modxcms/revolution">
+                <b>MODX Web Content Management System and Platform</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/modxcms/revolution" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/stars/modxcms/revolution?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://modx.com/" title="Website for MODX Web Content Management System and Platform">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/stars/modxcms/revolution?label=★&color=black" />
+              </a>
+              <a href="https://modx.com/">
+                <img alt="Website for MODX Web Content Management System and Platform" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/last-commit/modxcms/revolution?color=black" />
@@ -1241,16 +1299,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>October</b>
+              <a href="https://github.com/octobercms/october">
+                <b>October</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/octobercms/october" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for October" src="https://flat.badgen.net/github/stars/octobercms/october?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://octobercms.com/" title="Website for October">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for October" src="https://flat.badgen.net/github/stars/octobercms/october?label=★&color=black" />
+              </a>
+              <a href="https://octobercms.com/">
+                <img alt="Website for October" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for October" src="https://flat.badgen.net/github/last-commit/octobercms/october?color=black" />
@@ -1261,16 +1320,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Pagekit</b>
+              <a href="https://github.com/pagekit/pagekit">
+                <b>Pagekit</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/pagekit/pagekit" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Pagekit" src="https://flat.badgen.net/github/stars/pagekit/pagekit?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://pagekit.com" title="Website for Pagekit">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Pagekit" src="https://flat.badgen.net/github/stars/pagekit/pagekit?label=★&color=black" />
+              </a>
+              <a href="https://pagekit.com">
+                <img alt="Website for Pagekit" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Pagekit" src="https://flat.badgen.net/github/last-commit/pagekit/pagekit?color=black" />
@@ -1281,16 +1341,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Pico</b>
+              <a href="https://github.com/picocms/Pico">
+                <b>Pico</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/picocms/Pico" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Pico" src="https://flat.badgen.net/github/stars/picocms/Pico?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://picocms.org/" title="Website for Pico">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Pico" src="https://flat.badgen.net/github/stars/picocms/Pico?label=★&color=black" />
+              </a>
+              <a href="http://picocms.org/">
+                <img alt="Website for Pico" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Pico" src="https://flat.badgen.net/github/last-commit/picocms/Pico?color=black" />
@@ -1301,16 +1362,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Pimcore Platform</b>
+              <a href="https://github.com/pimcore/pimcore">
+                <b>Pimcore Platform</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/pimcore/pimcore" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Pimcore Platform" src="https://flat.badgen.net/github/stars/pimcore/pimcore?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.pimcore.org/" title="Website for Pimcore Platform">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Pimcore Platform" src="https://flat.badgen.net/github/stars/pimcore/pimcore?label=★&color=black" />
+              </a>
+              <a href="http://www.pimcore.org/">
+                <img alt="Website for Pimcore Platform" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Pimcore Platform" src="https://flat.badgen.net/github/last-commit/pimcore/pimcore?color=black" />
@@ -1321,16 +1383,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Processwire</b>
+              <a href="https://github.com/processwire/processwire">
+                <b>Processwire</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/processwire/processwire" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Processwire" src="https://flat.badgen.net/github/stars/processwire/processwire?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://processwire.com/" title="Website for Processwire">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Processwire" src="https://flat.badgen.net/github/stars/processwire/processwire?label=★&color=black" />
+              </a>
+              <a href="https://processwire.com/">
+                <img alt="Website for Processwire" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Processwire" src="https://flat.badgen.net/github/last-commit/processwire/processwire?color=black" />
@@ -1341,18 +1404,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>PyroCMS</b>
+              <a href="https://github.com/pyrocms/pyrocms">
+                <b>PyroCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/pyrocms/pyrocms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for PyroCMS" src="https://flat.badgen.net/github/stars/pyrocms/pyrocms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.pyrocms.com/" title="Website for PyroCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/websemantics/awesome-pyrocms" title="Awesome List for PyroCMS">
-              :sunglasses:
+                <img alt="Stars for PyroCMS" src="https://flat.badgen.net/github/stars/pyrocms/pyrocms?label=★&color=black" />
+              </a>
+              <a href="https://www.pyrocms.com/">
+                <img alt="Website for PyroCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/websemantics/awesome-pyrocms">
+              <img alt="Awesome List for PyroCMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1364,16 +1428,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>REDAXO</b>
+              <a href="https://github.com/redaxo/redaxo">
+                <b>REDAXO</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/redaxo/redaxo" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for REDAXO" src="https://flat.badgen.net/github/stars/redaxo/redaxo?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.redaxo.org/" title="Website for REDAXO">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for REDAXO" src="https://flat.badgen.net/github/stars/redaxo/redaxo?label=★&color=black" />
+              </a>
+              <a href="http://www.redaxo.org/">
+                <img alt="Website for REDAXO" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for REDAXO" src="https://flat.badgen.net/github/last-commit/redaxo/redaxo?color=black" />
@@ -1384,16 +1449,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Redaxscript</b>
+              <a href="https://github.com/redaxmedia/redaxscript">
+                <b>Redaxscript</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/redaxmedia/redaxscript" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Redaxscript" src="https://flat.badgen.net/github/stars/redaxmedia/redaxscript?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://redaxscript.com" title="Website for Redaxscript">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Redaxscript" src="https://flat.badgen.net/github/stars/redaxmedia/redaxscript?label=★&color=black" />
+              </a>
+              <a href="http://redaxscript.com">
+                <img alt="Website for Redaxscript" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Redaxscript" src="https://flat.badgen.net/github/last-commit/redaxmedia/redaxscript?color=black" />
@@ -1404,16 +1470,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Roadiz</b>
+              <a href="https://github.com/roadiz/roadiz">
+                <b>Roadiz</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/roadiz/roadiz" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Roadiz" src="https://flat.badgen.net/github/stars/roadiz/roadiz?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.roadiz.io/" title="Website for Roadiz">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Roadiz" src="https://flat.badgen.net/github/stars/roadiz/roadiz?label=★&color=black" />
+              </a>
+              <a href="https://www.roadiz.io/">
+                <img alt="Website for Roadiz" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Roadiz" src="https://flat.badgen.net/github/last-commit/roadiz/roadiz?color=black" />
@@ -1424,16 +1491,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>SilverStripe</b>
+              <a href="https://github.com/silverstripe/silverstripe-framework">
+                <b>SilverStripe</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/silverstripe/silverstripe-framework" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for SilverStripe" src="https://flat.badgen.net/github/stars/silverstripe/silverstripe-framework?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://silverstripe.org/" title="Website for SilverStripe">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for SilverStripe" src="https://flat.badgen.net/github/stars/silverstripe/silverstripe-framework?label=★&color=black" />
+              </a>
+              <a href="http://silverstripe.org/">
+                <img alt="Website for SilverStripe" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for SilverStripe" src="https://flat.badgen.net/github/last-commit/silverstripe/silverstripe-framework?color=black" />
@@ -1444,16 +1512,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Sulu</b>
+              <a href="https://github.com/sulu/sulu-standard">
+                <b>Sulu</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/sulu/sulu-standard" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Sulu" src="https://flat.badgen.net/github/stars/sulu/sulu-standard?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://sulu.io/en" title="Website for Sulu">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Sulu" src="https://flat.badgen.net/github/stars/sulu/sulu-standard?label=★&color=black" />
+              </a>
+              <a href="http://sulu.io/en">
+                <img alt="Website for Sulu" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Sulu" src="https://flat.badgen.net/github/last-commit/sulu/sulu-standard?color=black" />
@@ -1464,18 +1533,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Textpattern CMS</b>
+              <a href="https://github.com/textpattern/textpattern">
+                <b>Textpattern CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/textpattern/textpattern" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Textpattern CMS" src="https://flat.badgen.net/github/stars/textpattern/textpattern?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://textpattern.com/" title="Website for Textpattern CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/drmonkeyninja/awesome-textpattern" title="Awesome List for Textpattern CMS">
-              :sunglasses:
+                <img alt="Stars for Textpattern CMS" src="https://flat.badgen.net/github/stars/textpattern/textpattern?label=★&color=black" />
+              </a>
+              <a href="https://textpattern.com/">
+                <img alt="Website for Textpattern CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/drmonkeyninja/awesome-textpattern">
+              <img alt="Awesome List for Textpattern CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1487,16 +1557,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Thelia</b>
+              <a href="https://github.com/thelia/thelia">
+                <b>Thelia</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/thelia/thelia" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Thelia" src="https://flat.badgen.net/github/stars/thelia/thelia?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://thelia.net" title="Website for Thelia">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Thelia" src="https://flat.badgen.net/github/stars/thelia/thelia?label=★&color=black" />
+              </a>
+              <a href="http://thelia.net">
+                <img alt="Website for Thelia" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Thelia" src="https://flat.badgen.net/github/last-commit/thelia/thelia?color=black" />
@@ -1507,16 +1578,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Twill</b>
+              <a href="https://github.com/area17/twill">
+                <b>Twill</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/area17/twill" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Twill" src="https://flat.badgen.net/github/stars/area17/twill?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://twill.io" title="Website for Twill">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Twill" src="https://flat.badgen.net/github/stars/area17/twill?label=★&color=black" />
+              </a>
+              <a href="https://twill.io">
+                <img alt="Website for Twill" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Twill" src="https://flat.badgen.net/github/last-commit/area17/twill?color=black" />
@@ -1527,16 +1599,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>TypiCMS</b>
+              <a href="https://github.com/TypiCMS/Base">
+                <b>TypiCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/TypiCMS/Base" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for TypiCMS" src="https://flat.badgen.net/github/stars/TypiCMS/Base?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://typicms.org" title="Website for TypiCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for TypiCMS" src="https://flat.badgen.net/github/stars/TypiCMS/Base?label=★&color=black" />
+              </a>
+              <a href="https://typicms.org">
+                <img alt="Website for TypiCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for TypiCMS" src="https://flat.badgen.net/github/last-commit/TypiCMS/Base?color=black" />
@@ -1547,16 +1620,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>TYPO3</b>
+              <a href="https://github.com/TYPO3/TYPO3.CMS">
+                <b>TYPO3</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/TYPO3/TYPO3.CMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for TYPO3" src="https://flat.badgen.net/github/stars/TYPO3/TYPO3.CMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://typo3.org" title="Website for TYPO3">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for TYPO3" src="https://flat.badgen.net/github/stars/TYPO3/TYPO3.CMS?label=★&color=black" />
+              </a>
+              <a href="http://typo3.org">
+                <img alt="Website for TYPO3" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for TYPO3" src="https://flat.badgen.net/github/last-commit/TYPO3/TYPO3.CMS?color=black" />
@@ -1567,16 +1641,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Unite CMS</b>
+              <a href="https://github.com/unite-cms/unite-cms">
+                <b>Unite CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/unite-cms/unite-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Unite CMS" src="https://flat.badgen.net/github/stars/unite-cms/unite-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.unitecms.io" title="Website for Unite CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Unite CMS" src="https://flat.badgen.net/github/stars/unite-cms/unite-cms?label=★&color=black" />
+              </a>
+              <a href="https://www.unitecms.io">
+                <img alt="Website for Unite CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Unite CMS" src="https://flat.badgen.net/github/last-commit/unite-cms/unite-cms?color=black" />
@@ -1587,16 +1662,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>WonderCMS</b>
+              <a href="https://github.com/robiso/WonderCMS">
+                <b>WonderCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/robiso/WonderCMS" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for WonderCMS" src="https://flat.badgen.net/github/stars/robiso/WonderCMS?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.wondercms.com" title="Website for WonderCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for WonderCMS" src="https://flat.badgen.net/github/stars/robiso/WonderCMS?label=★&color=black" />
+              </a>
+              <a href="https://www.wondercms.com">
+                <img alt="Website for WonderCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for WonderCMS" src="https://flat.badgen.net/github/last-commit/robiso/WonderCMS?color=black" />
@@ -1607,18 +1683,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>WordPress</b>
+              <a href="https://github.com/WordPress/WordPress">
+                <b>WordPress</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/WordPress/WordPress" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for WordPress" src="https://flat.badgen.net/github/stars/WordPress/WordPress?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://wordpress.org" title="Website for WordPress">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/miziomon/awesome-wordpress" title="Awesome List for WordPress">
-              :sunglasses:
+                <img alt="Stars for WordPress" src="https://flat.badgen.net/github/stars/WordPress/WordPress?label=★&color=black" />
+              </a>
+              <a href="https://wordpress.org">
+                <img alt="Website for WordPress" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/miziomon/awesome-wordpress">
+              <img alt="Awesome List for WordPress" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1630,16 +1707,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>XOOPS</b>
+              <a href="https://github.com/XOOPS/XoopsCore">
+                <b>XOOPS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/XOOPS/XoopsCore" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for XOOPS" src="https://flat.badgen.net/github/stars/XOOPS/XoopsCore?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://xoops.org/" title="Website for XOOPS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for XOOPS" src="https://flat.badgen.net/github/stars/XOOPS/XoopsCore?label=★&color=black" />
+              </a>
+              <a href="https://xoops.org/">
+                <img alt="Website for XOOPS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for XOOPS" src="https://flat.badgen.net/github/last-commit/XOOPS/XoopsCore?color=black" />
@@ -1663,18 +1741,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>django CMS</b>
+              <a href="https://github.com/divio/django-cms">
+                <b>django CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/divio/django-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for django CMS" src="https://flat.badgen.net/github/stars/divio/django-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.django-cms.org" title="Website for django CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/mishbahr/awesome-django-cms" title="Awesome List for django CMS">
-              :sunglasses:
+                <img alt="Stars for django CMS" src="https://flat.badgen.net/github/stars/divio/django-cms?label=★&color=black" />
+              </a>
+              <a href="http://www.django-cms.org">
+                <img alt="Website for django CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/mishbahr/awesome-django-cms">
+              <img alt="Awesome List for django CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1686,16 +1765,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>feinCMS</b>
+              <a href="https://github.com/feincms/feincms">
+                <b>feinCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/feincms/feincms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for feinCMS" src="https://flat.badgen.net/github/stars/feincms/feincms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.feincms.org/" title="Website for feinCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for feinCMS" src="https://flat.badgen.net/github/stars/feincms/feincms?label=★&color=black" />
+              </a>
+              <a href="http://www.feincms.org/">
+                <img alt="Website for feinCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for feinCMS" src="https://flat.badgen.net/github/last-commit/feincms/feincms?color=black" />
@@ -1706,16 +1786,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Kotti</b>
+              <a href="https://github.com/Kotti/Kotti">
+                <b>Kotti</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/Kotti/Kotti" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Kotti" src="https://flat.badgen.net/github/stars/Kotti/Kotti?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://kotti.pylonsproject.org" title="Website for Kotti">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Kotti" src="https://flat.badgen.net/github/stars/Kotti/Kotti?label=★&color=black" />
+              </a>
+              <a href="http://kotti.pylonsproject.org">
+                <img alt="Website for Kotti" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Kotti" src="https://flat.badgen.net/github/last-commit/Kotti/Kotti?color=black" />
@@ -1726,16 +1807,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Lektor</b>
+              <a href="https://github.com/lektor/lektor">
+                <b>Lektor</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/lektor/lektor" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Lektor" src="https://flat.badgen.net/github/stars/lektor/lektor?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.getlektor.com/" title="Website for Lektor">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Lektor" src="https://flat.badgen.net/github/stars/lektor/lektor?label=★&color=black" />
+              </a>
+              <a href="https://www.getlektor.com/">
+                <img alt="Website for Lektor" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Lektor" src="https://flat.badgen.net/github/last-commit/lektor/lektor?color=black" />
@@ -1746,16 +1828,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Mezzanine</b>
+              <a href="https://github.com/stephenmcd/mezzanine">
+                <b>Mezzanine</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/stephenmcd/mezzanine" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Mezzanine" src="https://flat.badgen.net/github/stars/stephenmcd/mezzanine?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://mezzanine.jupo.org" title="Website for Mezzanine">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Mezzanine" src="https://flat.badgen.net/github/stars/stephenmcd/mezzanine?label=★&color=black" />
+              </a>
+              <a href="http://mezzanine.jupo.org">
+                <img alt="Website for Mezzanine" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Mezzanine" src="https://flat.badgen.net/github/last-commit/stephenmcd/mezzanine?color=black" />
@@ -1766,16 +1849,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Opps Project</b>
+              <a href="https://github.com/opps/opps">
+                <b>Opps Project</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/opps/opps" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Opps Project" src="https://flat.badgen.net/github/stars/opps/opps?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://opps.github.io/opps/" title="Website for Opps Project">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Opps Project" src="https://flat.badgen.net/github/stars/opps/opps?label=★&color=black" />
+              </a>
+              <a href="http://opps.github.io/opps/">
+                <img alt="Website for Opps Project" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Opps Project" src="https://flat.badgen.net/github/last-commit/opps/opps?color=black" />
@@ -1786,16 +1870,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Plone CMS</b>
+              <a href="https://github.com/plone/Plone">
+                <b>Plone CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/plone/Plone" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Plone CMS" src="https://flat.badgen.net/github/stars/plone/Plone?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://plone.org" title="Website for Plone CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Plone CMS" src="https://flat.badgen.net/github/stars/plone/Plone?label=★&color=black" />
+              </a>
+              <a href="http://plone.org">
+                <img alt="Website for Plone CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Plone CMS" src="https://flat.badgen.net/github/last-commit/plone/Plone?color=black" />
@@ -1806,16 +1891,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Quokka CMS</b>
+              <a href="https://github.com/quokkaproject/quokka">
+                <b>Quokka CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/quokkaproject/quokka" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Quokka CMS" src="https://flat.badgen.net/github/stars/quokkaproject/quokka?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.quokkaproject.org" title="Website for Quokka CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Quokka CMS" src="https://flat.badgen.net/github/stars/quokkaproject/quokka?label=★&color=black" />
+              </a>
+              <a href="http://www.quokkaproject.org">
+                <img alt="Website for Quokka CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Quokka CMS" src="https://flat.badgen.net/github/last-commit/quokkaproject/quokka?color=black" />
@@ -1826,16 +1912,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Superdesk</b>
+              <a href="https://github.com/superdesk/superdesk">
+                <b>Superdesk</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/superdesk/superdesk" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Superdesk" src="https://flat.badgen.net/github/stars/superdesk/superdesk?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="https://www.superdesk.org/" title="Website for Superdesk">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Superdesk" src="https://flat.badgen.net/github/stars/superdesk/superdesk?label=★&color=black" />
+              </a>
+              <a href="https://www.superdesk.org/">
+                <img alt="Website for Superdesk" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Superdesk" src="https://flat.badgen.net/github/last-commit/superdesk/superdesk?color=black" />
@@ -1846,18 +1933,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Wagtail CMS</b>
+              <a href="https://github.com/torchbox/wagtail">
+                <b>Wagtail CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/torchbox/wagtail" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/torchbox/wagtail?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://wagtail.io" title="Website for Wagtail CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/springload/awesome-wagtail" title="Awesome List for Wagtail CMS">
-              :sunglasses:
+                <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/torchbox/wagtail?label=★&color=black" />
+              </a>
+              <a href="http://wagtail.io">
+                <img alt="Website for Wagtail CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/springload/awesome-wagtail">
+              <img alt="Awesome List for Wagtail CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1882,16 +1970,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Alchemy CMS</b>
+              <a href="https://github.com/AlchemyCMS/alchemy_cms">
+                <b>Alchemy CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/AlchemyCMS/alchemy_cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Alchemy CMS" src="https://flat.badgen.net/github/stars/AlchemyCMS/alchemy_cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://alchemy-cms.com" title="Website for Alchemy CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Alchemy CMS" src="https://flat.badgen.net/github/stars/AlchemyCMS/alchemy_cms?label=★&color=black" />
+              </a>
+              <a href="http://alchemy-cms.com">
+                <img alt="Website for Alchemy CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Alchemy CMS" src="https://flat.badgen.net/github/last-commit/AlchemyCMS/alchemy_cms?color=black" />
@@ -1902,16 +1991,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>APIQ</b>
+              <a href="https://github.com/apiqcms/kms">
+                <b>APIQ</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/apiqcms/kms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for APIQ" src="https://flat.badgen.net/github/stars/apiqcms/kms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://apiq.io" title="Website for APIQ">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for APIQ" src="https://flat.badgen.net/github/stars/apiqcms/kms?label=★&color=black" />
+              </a>
+              <a href="http://apiq.io">
+                <img alt="Website for APIQ" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for APIQ" src="https://flat.badgen.net/github/last-commit/apiqcms/kms?color=black" />
@@ -1922,16 +2012,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Camaleon CMS</b>
+              <a href="https://github.com/owen2345/camaleon-cms">
+                <b>Camaleon CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/owen2345/camaleon-cms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Camaleon CMS" src="https://flat.badgen.net/github/stars/owen2345/camaleon-cms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://camaleon.tuzitio.com/" title="Website for Camaleon CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Camaleon CMS" src="https://flat.badgen.net/github/stars/owen2345/camaleon-cms?label=★&color=black" />
+              </a>
+              <a href="http://camaleon.tuzitio.com/">
+                <img alt="Website for Camaleon CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Camaleon CMS" src="https://flat.badgen.net/github/last-commit/owen2345/camaleon-cms?color=black" />
@@ -1942,13 +2033,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>ComfortableMexicanSofa </b>
+              <a href="https://github.com/comfy/comfortable-mexican-sofa">
+                <b>ComfortableMexicanSofa </b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/comfy/comfortable-mexican-sofa" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for ComfortableMexicanSofa " src="https://flat.badgen.net/github/stars/comfy/comfortable-mexican-sofa?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for ComfortableMexicanSofa " src="https://flat.badgen.net/github/stars/comfy/comfortable-mexican-sofa?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for ComfortableMexicanSofa " src="https://flat.badgen.net/github/last-commit/comfy/comfortable-mexican-sofa?color=black" />
@@ -1959,16 +2051,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>LocomotiveCMS</b>
+              <a href="https://github.com/locomotivecms/engine">
+                <b>LocomotiveCMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/locomotivecms/engine" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for LocomotiveCMS" src="https://flat.badgen.net/github/stars/locomotivecms/engine?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://locomotive.works" title="Website for LocomotiveCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for LocomotiveCMS" src="https://flat.badgen.net/github/stars/locomotivecms/engine?label=★&color=black" />
+              </a>
+              <a href="http://locomotive.works">
+                <img alt="Website for LocomotiveCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for LocomotiveCMS" src="https://flat.badgen.net/github/last-commit/locomotivecms/engine?color=black" />
@@ -1979,16 +2072,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Nesta</b>
+              <a href="https://github.com/gma/nesta">
+                <b>Nesta</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/gma/nesta" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Nesta" src="https://flat.badgen.net/github/stars/gma/nesta?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://nestacms.com" title="Website for Nesta">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Nesta" src="https://flat.badgen.net/github/stars/gma/nesta?label=★&color=black" />
+              </a>
+              <a href="http://nestacms.com">
+                <img alt="Website for Nesta" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Nesta" src="https://flat.badgen.net/github/last-commit/gma/nesta?color=black" />
@@ -1999,16 +2093,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Property Web Builder</b>
+              <a href="https://github.com/etewiah/property_web_builder">
+                <b>Property Web Builder</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/etewiah/property_web_builder" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Property Web Builder" src="https://flat.badgen.net/github/stars/etewiah/property_web_builder?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://propertywebbuilder.com" title="Website for Property Web Builder">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Property Web Builder" src="https://flat.badgen.net/github/stars/etewiah/property_web_builder?label=★&color=black" />
+              </a>
+              <a href="http://propertywebbuilder.com">
+                <img alt="Website for Property Web Builder" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Property Web Builder" src="https://flat.badgen.net/github/last-commit/etewiah/property_web_builder?color=black" />
@@ -2019,16 +2114,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Publify</b>
+              <a href="https://github.com/publify/publify">
+                <b>Publify</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/publify/publify" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Publify" src="https://flat.badgen.net/github/stars/publify/publify?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://publify.co" title="Website for Publify">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Publify" src="https://flat.badgen.net/github/stars/publify/publify?label=★&color=black" />
+              </a>
+              <a href="http://publify.co">
+                <img alt="Website for Publify" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Publify" src="https://flat.badgen.net/github/last-commit/publify/publify?color=black" />
@@ -2039,16 +2135,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Radiant CMS</b>
+              <a href="https://github.com/radiant/radiant">
+                <b>Radiant CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/radiant/radiant" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Radiant CMS" src="https://flat.badgen.net/github/stars/radiant/radiant?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://radiantcms.org/" title="Website for Radiant CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Radiant CMS" src="https://flat.badgen.net/github/stars/radiant/radiant?label=★&color=black" />
+              </a>
+              <a href="http://radiantcms.org/">
+                <img alt="Website for Radiant CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Radiant CMS" src="https://flat.badgen.net/github/last-commit/radiant/radiant?color=black" />
@@ -2059,18 +2156,19 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Refinery CMS</b>
+              <a href="https://github.com/refinery/refinerycms">
+                <b>Refinery CMS</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/refinery/refinerycms" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Refinery CMS" src="https://flat.badgen.net/github/stars/refinery/refinerycms?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://refinerycms.com" title="Website for Refinery CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
-            <a href="https://github.com/refinerycms-contrib/awesome-refinerycms" title="Awesome List for Refinery CMS">
-              :sunglasses:
+                <img alt="Stars for Refinery CMS" src="https://flat.badgen.net/github/stars/refinery/refinerycms?label=★&color=black" />
+              </a>
+              <a href="http://refinerycms.com">
+                <img alt="Website for Refinery CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
+            <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">
+              <img alt="Awesome List for Refinery CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -2082,16 +2180,17 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Spina</b>
+              <a href="https://github.com/denkGroot/Spina">
+                <b>Spina</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/denkGroot/Spina" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Spina" src="https://flat.badgen.net/github/stars/denkGroot/Spina?label=★&color=black" />
-              </a>&nbsp;&nbsp;
-              <a href="http://www.spinacms.com" title="Website for Spina">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Spina" src="https://flat.badgen.net/github/stars/denkGroot/Spina?label=★&color=black" />
+              </a>
+              <a href="http://www.spinacms.com">
+                <img alt="Website for Spina" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Spina" src="https://flat.badgen.net/github/last-commit/denkGroot/Spina?color=black" />
@@ -2102,13 +2201,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Storytime</b>
+              <a href="https://github.com/CultivateLabs/storytime">
+                <b>Storytime</b>
+              </a>
           </div>
           <div>
               <a href="https://github.com/CultivateLabs/storytime" title="GitHub Repo">
-                :octocat:
-                  <img alt="Stars for Storytime" src="https://flat.badgen.net/github/stars/CultivateLabs/storytime?label=★&color=black" />
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for Storytime" src="https://flat.badgen.net/github/stars/CultivateLabs/storytime?label=★&color=black" />
+              </a>
           </div>
           <div>
               <img alt="Last commit for Storytime" src="https://flat.badgen.net/github/last-commit/CultivateLabs/storytime?color=black" />
@@ -2132,12 +2232,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Alfresco</b>
+              <a href="https://www.alfresco.com">
+                <b>Alfresco</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.alfresco.com" title="Website for Alfresco">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.alfresco.com">
+                <img alt="Website for Alfresco" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2147,12 +2249,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Atlassian Confluence</b>
+              <a href="https://www.atlassian.com/software/confluence">
+                <b>Atlassian Confluence</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.atlassian.com/software/confluence" title="Website for Atlassian Confluence">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.atlassian.com/software/confluence">
+                <img alt="Website for Atlassian Confluence" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2162,12 +2266,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Blogger</b>
+              <a href="https://www.blogger.com">
+                <b>Blogger</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.blogger.com" title="Website for Blogger">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.blogger.com">
+                <img alt="Website for Blogger" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2177,12 +2283,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Built.io Contentstack</b>
+              <a href="https://www.built.io/products/contentstack/overview">
+                <b>Built.io Contentstack</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.built.io/products/contentstack/overview" title="Website for Built.io Contentstack">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.built.io/products/contentstack/overview">
+                <img alt="Website for Built.io Contentstack" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2192,12 +2300,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>ButterCMS</b>
+              <a href="https://buttercms.com">
+                <b>ButterCMS</b>
+              </a>
           </div>
           <div>
-              <a href="https://buttercms.com" title="Website for ButterCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://buttercms.com">
+                <img alt="Website for ButterCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2207,12 +2317,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Cloud CMS</b>
+              <a href="https://www.cloudcms.com">
+                <b>Cloud CMS</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.cloudcms.com" title="Website for Cloud CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.cloudcms.com">
+                <img alt="Website for Cloud CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2222,12 +2334,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Cloudcannon</b>
+              <a href="http://cloudcannon.com/">
+                <b>Cloudcannon</b>
+              </a>
           </div>
           <div>
-              <a href="http://cloudcannon.com/" title="Website for Cloudcannon">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://cloudcannon.com/">
+                <img alt="Website for Cloudcannon" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2237,12 +2351,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Contentful</b>
+              <a href="https://www.contentful.com">
+                <b>Contentful</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.contentful.com" title="Website for Contentful">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.contentful.com">
+                <img alt="Website for Contentful" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2252,12 +2368,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Cosmic JS</b>
+              <a href="https://cosmicjs.com">
+                <b>Cosmic JS</b>
+              </a>
           </div>
           <div>
-              <a href="https://cosmicjs.com" title="Website for Cosmic JS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://cosmicjs.com">
+                <img alt="Website for Cosmic JS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2267,12 +2385,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Exagon Concept</b>
+              <a href="https://www.exagon-concept.com">
+                <b>Exagon Concept</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.exagon-concept.com" title="Website for Exagon Concept">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.exagon-concept.com">
+                <img alt="Website for Exagon Concept" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2282,12 +2402,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>ExpressionEngine</b>
+              <a href="https://ellislab.com/expressionengine">
+                <b>ExpressionEngine</b>
+              </a>
           </div>
           <div>
-              <a href="https://ellislab.com/expressionengine" title="Website for ExpressionEngine">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://ellislab.com/expressionengine">
+                <img alt="Website for ExpressionEngine" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2297,12 +2419,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Flamelink</b>
+              <a href="https://flamelink.io">
+                <b>Flamelink</b>
+              </a>
           </div>
           <div>
-              <a href="https://flamelink.io" title="Website for Flamelink">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://flamelink.io">
+                <img alt="Website for Flamelink" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2312,12 +2436,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Forestry</b>
+              <a href="https://forestry.io">
+                <b>Forestry</b>
+              </a>
           </div>
           <div>
-              <a href="https://forestry.io" title="Website for Forestry">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://forestry.io">
+                <img alt="Website for Forestry" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2327,12 +2453,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>GraphCMS</b>
+              <a href="https://graphcms.com">
+                <b>GraphCMS</b>
+              </a>
           </div>
           <div>
-              <a href="https://graphcms.com" title="Website for GraphCMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://graphcms.com">
+                <img alt="Website for GraphCMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2342,12 +2470,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Hippo CMS</b>
+              <a href="https://www.onehippo.org">
+                <b>Hippo CMS</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.onehippo.org" title="Website for Hippo CMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.onehippo.org">
+                <img alt="Website for Hippo CMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2357,12 +2487,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Jimdo</b>
+              <a href="http://www.jimdo.com">
+                <b>Jimdo</b>
+              </a>
           </div>
           <div>
-              <a href="http://www.jimdo.com" title="Website for Jimdo">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://www.jimdo.com">
+                <img alt="Website for Jimdo" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2372,12 +2504,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Kentico EMS</b>
+              <a href="https://www.kentico.com">
+                <b>Kentico EMS</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.kentico.com" title="Website for Kentico EMS">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.kentico.com">
+                <img alt="Website for Kentico EMS" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2387,12 +2521,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Kentico Kontent</b>
+              <a href="https://www.kontent.ai">
+                <b>Kentico Kontent</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.kontent.ai" title="Website for Kentico Kontent">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.kontent.ai">
+                <img alt="Website for Kentico Kontent" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2402,12 +2538,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>LiveWhale</b>
+              <a href="https://www.livewhale.com">
+                <b>LiveWhale</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.livewhale.com" title="Website for LiveWhale">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.livewhale.com">
+                <img alt="Website for LiveWhale" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2417,12 +2555,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Medium</b>
+              <a href="http://medium.com">
+                <b>Medium</b>
+              </a>
           </div>
           <div>
-              <a href="http://medium.com" title="Website for Medium">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://medium.com">
+                <img alt="Website for Medium" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2432,12 +2572,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Osmek</b>
+              <a href="http://osmek.com">
+                <b>Osmek</b>
+              </a>
           </div>
           <div>
-              <a href="http://osmek.com" title="Website for Osmek">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://osmek.com">
+                <img alt="Website for Osmek" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2447,12 +2589,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Perch</b>
+              <a href="https://grabaperch.com/">
+                <b>Perch</b>
+              </a>
           </div>
           <div>
-              <a href="https://grabaperch.com/" title="Website for Perch">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://grabaperch.com/">
+                <img alt="Website for Perch" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2462,12 +2606,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>prismic.io</b>
+              <a href="https://prismic.io">
+                <b>prismic.io</b>
+              </a>
           </div>
           <div>
-              <a href="https://prismic.io" title="Website for prismic.io">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://prismic.io">
+                <img alt="Website for prismic.io" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2477,12 +2623,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Quintype</b>
+              <a href="https://www.quintype.com">
+                <b>Quintype</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.quintype.com" title="Website for Quintype">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.quintype.com">
+                <img alt="Website for Quintype" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2492,12 +2640,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Sitecore XP</b>
+              <a href="http://www.sitecore.net/en/products/sitecore-experience-platform/">
+                <b>Sitecore XP</b>
+              </a>
           </div>
           <div>
-              <a href="http://www.sitecore.net/en/products/sitecore-experience-platform/" title="Website for Sitecore XP">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://www.sitecore.net/en/products/sitecore-experience-platform/">
+                <img alt="Website for Sitecore XP" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2507,12 +2657,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Siteleaf</b>
+              <a href="http://www.siteleaf.com">
+                <b>Siteleaf</b>
+              </a>
           </div>
           <div>
-              <a href="http://www.siteleaf.com" title="Website for Siteleaf">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://www.siteleaf.com">
+                <img alt="Website for Siteleaf" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2522,12 +2674,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>SquareSpace</b>
+              <a href="https://www.squarespace.com">
+                <b>SquareSpace</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.squarespace.com" title="Website for SquareSpace">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.squarespace.com">
+                <img alt="Website for SquareSpace" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2537,12 +2691,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Statamic</b>
+              <a href="https://statamic.com">
+                <b>Statamic</b>
+              </a>
           </div>
           <div>
-              <a href="https://statamic.com" title="Website for Statamic">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://statamic.com">
+                <img alt="Website for Statamic" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2552,12 +2708,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Storyblok</b>
+              <a href="https://www.storyblok.com">
+                <b>Storyblok</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.storyblok.com" title="Website for Storyblok">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.storyblok.com">
+                <img alt="Website for Storyblok" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2567,12 +2725,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>TakeShape</b>
+              <a href="https://www.takeshape.io/">
+                <b>TakeShape</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.takeshape.io/" title="Website for TakeShape">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.takeshape.io/">
+                <img alt="Website for TakeShape" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2582,12 +2742,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>The Grid</b>
+              <a href="https://thegrid.io">
+                <b>The Grid</b>
+              </a>
           </div>
           <div>
-              <a href="https://thegrid.io" title="Website for The Grid">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://thegrid.io">
+                <img alt="Website for The Grid" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2597,12 +2759,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Weebly</b>
+              <a href="https://www.weebly.com">
+                <b>Weebly</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.weebly.com" title="Website for Weebly">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.weebly.com">
+                <img alt="Website for Weebly" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2612,12 +2776,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Wix</b>
+              <a href="http://www.wix.com">
+                <b>Wix</b>
+              </a>
           </div>
           <div>
-              <a href="http://www.wix.com" title="Website for Wix">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="http://www.wix.com">
+                <img alt="Website for Wix" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
@@ -2627,12 +2793,14 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-            <b>Zesty.io</b>
+              <a href="https://www.zesty.io/">
+                <b>Zesty.io</b>
+              </a>
           </div>
           <div>
-              <a href="https://www.zesty.io/" title="Website for Zesty.io">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+              <a href="https://www.zesty.io/">
+                <img alt="Website for Zesty.io" src="https://flat.badgen.net/badge/null/website?label" />
+              </a>
           </div>
           <div>
           </div>
