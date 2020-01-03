@@ -59,10 +59,14 @@ for details on generation and contribution._
           </div>
           <div>
             {{#if starImageURL}}
-              <img alt="Stars for {{name}}" src="{{starImageURL}}" />
+              <div>
+                <img alt="Stars for {{name}}" src="{{starImageURL}}" />
+              </div>
             {{/if}}
             {{#if lastCommitURL}}
-              <img alt="Last commit for {{name}}" src="{{lastCommitURL}}" />
+              <div>
+                <img alt="Last commit for {{name}}" src="{{lastCommitURL}}" />
+              </div>
             {{/if}}
           </div>
         </td>
