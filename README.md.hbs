@@ -21,7 +21,6 @@ for details on generation and contribution._
 | :octocat:              | GitHub Repo      |
 | :globe_with_meridians: | Official Website |
 | :sunglasses:           | Awesome List     |
-| ⓘ                      | Last Commit Date |
 
 {{#each cmsGroups}}
 ## {{name}}
@@ -59,12 +58,11 @@ for details on generation and contribution._
             {{/if}}
           </div>
           <div>
-            {{#if starCountText}}
-              ★{{starCountText}}
+            {{#if starImageURL}}
+              ![Stars][{{starImageURL}}]
             {{/if}}
-            {{#if lastCommit}}
-              |&nbsp;{{lastCommit}}
-              <ins title="Last commit on {{lastCommit}}">ⓘ</ins>
+            {{#if lastCommitURL}}
+              ![Last Commit][{{lastCommitURL}}]
             {{/if}}
           </div>
         </td>
