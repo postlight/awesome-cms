@@ -43,16 +43,16 @@ for details on generation and contribution._
             <b>Awesome Cms Core</b>
           </div>
           <div>
-              <a href="https://github.com/Awesome-CMS-Core/Awesome-CMS-Core" title="GitHub Repo">
+              <a href="https://github.com/SaiGonSoftware/Awesome-CMS-Core" title="GitHub Repo">
                 :octocat:
               </a>&nbsp;&nbsp;
           </div>
           <div>
               <div>
-                <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/Awesome-CMS-Core/Awesome-CMS-Core" />
+                <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/SaiGonSoftware/Awesome-CMS-Core" />
               </div>
               <div>
-                <img alt="Last commit for Awesome Cms Core" src="https://flat.badgen.net/github/last-commit/Awesome-CMS-Core/Awesome-CMS-Core" />
+                <img alt="Last commit for Awesome Cms Core" src="https://flat.badgen.net/github/last-commit/SaiGonSoftware/Awesome-CMS-Core" />
               </div>
           </div>
         </td>
