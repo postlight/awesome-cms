@@ -41,7 +41,7 @@ for details on generation and contribution._
                 <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/SaiGonSoftware/Awesome-CMS-Core?label=★&color=black" />
               </a>
               <a href="https://github.com/SaiGonSoftware/Awesome-CMS-Core" title="GitHub Repo">
-                <img alt="GitHub page for Awesome Cms Core" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Awesome Cms Core" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -62,7 +62,7 @@ for details on generation and contribution._
                 <img alt="Stars for Composite C1" src="https://flat.badgen.net/github/stars/Orckestra/C1-CMS?label=★&color=black" />
               </a>
               <a href="https://github.com/Orckestra/C1-CMS" title="GitHub Repo">
-                <img alt="GitHub page for Composite C1" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Composite C1" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -83,10 +83,10 @@ for details on generation and contribution._
                 <img alt="Stars for DotNetNuke (DNN)" src="https://flat.badgen.net/github/stars/dnnsoftware/Dnn.Platform?label=★&color=black" />
               </a>
               <a href="https://github.com/dnnsoftware/Dnn.Platform" title="GitHub Repo">
-                <img alt="GitHub page for DotNetNuke (DNN)" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for DotNetNuke (DNN)" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.dnnsoftware.com">
-                  <img alt="Website for DotNetNuke (DNN)" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for DotNetNuke (DNN)" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -107,10 +107,10 @@ for details on generation and contribution._
                 <img alt="Stars for Kaliko CMS" src="https://flat.badgen.net/github/stars/KalikoCMS/KalikoCMS.Core?label=★&color=black" />
               </a>
               <a href="https://github.com/KalikoCMS/KalikoCMS.Core" title="GitHub Repo">
-                <img alt="GitHub page for Kaliko CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Kaliko CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://kaliko.com/cms/">
-                  <img alt="Website for Kaliko CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Kaliko CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -131,10 +131,10 @@ for details on generation and contribution._
                 <img alt="Stars for Orchard" src="https://flat.badgen.net/github/stars/OrchardCMS/Orchard?label=★&color=black" />
               </a>
               <a href="https://github.com/OrchardCMS/Orchard" title="GitHub Repo">
-                <img alt="GitHub page for Orchard" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Orchard" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://orchardproject.net">
-                  <img alt="Website for Orchard" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Orchard" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -155,10 +155,10 @@ for details on generation and contribution._
                 <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/PiranhaCMS/Piranha?label=★&color=black" />
               </a>
               <a href="https://github.com/PiranhaCMS/Piranha" title="GitHub Repo">
-                <img alt="GitHub page for Piranha CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Piranha CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://piranhacms.org">
-                  <img alt="Website for Piranha CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Piranha CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -179,10 +179,10 @@ for details on generation and contribution._
                 <img alt="Stars for Platformus" src="https://flat.badgen.net/github/stars/Platformus/Platformus?label=★&color=black" />
               </a>
               <a href="https://github.com/Platformus/Platformus" title="GitHub Repo">
-                <img alt="GitHub page for Platformus" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Platformus" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://platformus.net">
-                  <img alt="Website for Platformus" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Platformus" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -203,10 +203,10 @@ for details on generation and contribution._
                 <img alt="Stars for Squidex" src="https://flat.badgen.net/github/stars/squidex/squidex?label=★&color=black" />
               </a>
               <a href="https://github.com/squidex/squidex" title="GitHub Repo">
-                <img alt="GitHub page for Squidex" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Squidex" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://squidex.io">
-                  <img alt="Website for Squidex" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Squidex" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -227,13 +227,13 @@ for details on generation and contribution._
                 <img alt="Stars for Umbraco" src="https://flat.badgen.net/github/stars/umbraco/Umbraco-CMS?label=★&color=black" />
               </a>
               <a href="https://github.com/umbraco/Umbraco-CMS" title="GitHub Repo">
-                <img alt="GitHub page for Umbraco" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Umbraco" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://umbraco.com">
-                  <img alt="Website for Umbraco" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Umbraco" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/leekelleher/awesome-umbraco">
-              <img alt="Awesome List for Umbraco" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for Umbraco" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -267,10 +267,10 @@ for details on generation and contribution._
                 <img alt="Stars for Ketchup" src="https://flat.badgen.net/github/stars/ketchuphq/ketchup?label=★&color=black" />
               </a>
               <a href="https://github.com/ketchuphq/ketchup" title="GitHub Repo">
-                <img alt="GitHub page for Ketchup" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Ketchup" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://ketchuphq.com">
-                  <img alt="Website for Ketchup" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Ketchup" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -291,10 +291,10 @@ for details on generation and contribution._
                 <img alt="Stars for Ponzu" src="https://flat.badgen.net/github/stars/ponzu-cms/ponzu?label=★&color=black" />
               </a>
               <a href="https://github.com/ponzu-cms/ponzu" title="GitHub Repo">
-                <img alt="GitHub page for Ponzu" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Ponzu" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://ponzu-cms.org">
-                  <img alt="Website for Ponzu" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Ponzu" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -328,10 +328,10 @@ for details on generation and contribution._
                 <img alt="Stars for Crafter CMS" src="https://flat.badgen.net/github/stars/craftercms/craftercms?label=★&color=black" />
               </a>
               <a href="https://github.com/craftercms/craftercms" title="GitHub Repo">
-                <img alt="GitHub page for Crafter CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Crafter CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://craftercms.org">
-                  <img alt="Website for Crafter CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Crafter CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -352,10 +352,10 @@ for details on generation and contribution._
                 <img alt="Stars for dotCMS" src="https://flat.badgen.net/github/stars/dotCMS/core?label=★&color=black" />
               </a>
               <a href="https://github.com/dotCMS/core" title="GitHub Repo">
-                <img alt="GitHub page for dotCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for dotCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.dotcms.com/">
-                  <img alt="Website for dotCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for dotCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -376,10 +376,10 @@ for details on generation and contribution._
                 <img alt="Stars for Elepy" src="https://flat.badgen.net/github/stars/RyanSusana/elepy?label=★&color=black" />
               </a>
               <a href="https://github.com/RyanSusana/elepy" title="GitHub Repo">
-                <img alt="GitHub page for Elepy" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Elepy" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://elepy.com">
-                  <img alt="Website for Elepy" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Elepy" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -400,10 +400,10 @@ for details on generation and contribution._
                 <img alt="Stars for Gentics Mesh" src="https://flat.badgen.net/github/stars/gentics/mesh?label=★&color=black" />
               </a>
               <a href="https://github.com/gentics/mesh" title="GitHub Repo">
-                <img alt="GitHub page for Gentics Mesh" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Gentics Mesh" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://getmesh.io">
-                  <img alt="Website for Gentics Mesh" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Gentics Mesh" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -437,10 +437,10 @@ for details on generation and contribution._
                 <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/punkave/apostrophe?label=★&color=black" />
               </a>
               <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
-                <img alt="GitHub page for Apostrophe" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Apostrophe" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://apostrophecms.org">
-                  <img alt="Website for Apostrophe" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Apostrophe" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -461,10 +461,10 @@ for details on generation and contribution._
                 <img alt="Stars for CMS.js" src="https://flat.badgen.net/github/stars/cdmedia/cms.js?label=★&color=black" />
               </a>
               <a href="https://github.com/cdmedia/cms.js" title="GitHub Repo">
-                <img alt="GitHub page for CMS.js" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for CMS.js" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://cdmedia.github.io/cms.js">
-                  <img alt="Website for CMS.js" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for CMS.js" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -485,10 +485,10 @@ for details on generation and contribution._
                 <img alt="Stars for Cody" src="https://flat.badgen.net/github/stars/jcoppieters/cody?label=★&color=black" />
               </a>
               <a href="https://github.com/jcoppieters/cody" title="GitHub Repo">
-                <img alt="GitHub page for Cody" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Cody" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://howest.cody-cms.org">
-                  <img alt="Website for Cody" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Cody" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -509,7 +509,7 @@ for details on generation and contribution._
                 <img alt="Stars for Expressa" src="https://flat.badgen.net/github/stars/thomas4019/expressa?label=★&color=black" />
               </a>
               <a href="https://github.com/thomas4019/expressa" title="GitHub Repo">
-                <img alt="GitHub page for Expressa" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Expressa" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -530,10 +530,10 @@ for details on generation and contribution._
                 <img alt="Stars for Factor JS" src="https://flat.badgen.net/github/stars/fiction-com/factor?label=★&color=black" />
               </a>
               <a href="https://github.com/fiction-com/factor" title="GitHub Repo">
-                <img alt="GitHub page for Factor JS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Factor JS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://factor.dev">
-                  <img alt="Website for Factor JS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Factor JS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -554,10 +554,10 @@ for details on generation and contribution._
                 <img alt="Stars for Gatsby.js" src="https://flat.badgen.net/github/stars/gatsbyjs/gatsby?label=★&color=black" />
               </a>
               <a href="https://github.com/gatsbyjs/gatsby" title="GitHub Repo">
-                <img alt="GitHub page for Gatsby.js" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Gatsby.js" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.gatsbyjs.org">
-                  <img alt="Website for Gatsby.js" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Gatsby.js" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -578,10 +578,10 @@ for details on generation and contribution._
                 <img alt="Stars for Ghost" src="https://flat.badgen.net/github/stars/tryghost/Ghost?label=★&color=black" />
               </a>
               <a href="https://github.com/tryghost/Ghost" title="GitHub Repo">
-                <img alt="GitHub page for Ghost" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Ghost" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://ghost.org">
-                  <img alt="Website for Ghost" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Ghost" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -602,10 +602,10 @@ for details on generation and contribution._
                 <img alt="Stars for Jekyll Admin" src="https://flat.badgen.net/github/stars/jekyll/jekyll-admin?label=★&color=black" />
               </a>
               <a href="https://github.com/jekyll/jekyll-admin" title="GitHub Repo">
-                <img alt="GitHub page for Jekyll Admin" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Jekyll Admin" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://jekyll.github.io/jekyll-admin/">
-                  <img alt="Website for Jekyll Admin" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Jekyll Admin" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -626,10 +626,10 @@ for details on generation and contribution._
                 <img alt="Stars for KeystoneJS" src="https://flat.badgen.net/github/stars/keystonejs/keystone?label=★&color=black" />
               </a>
               <a href="https://github.com/keystonejs/keystone" title="GitHub Repo">
-                <img alt="GitHub page for KeystoneJS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for KeystoneJS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://keystonejs.com">
-                  <img alt="Website for KeystoneJS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for KeystoneJS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -650,10 +650,10 @@ for details on generation and contribution._
                 <img alt="Stars for Netlify CMS" src="https://flat.badgen.net/github/stars/netlify/netlify-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/netlify/netlify-cms" title="GitHub Repo">
-                <img alt="GitHub page for Netlify CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Netlify CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.netlifycms.org/">
-                  <img alt="Website for Netlify CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Netlify CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -674,10 +674,10 @@ for details on generation and contribution._
                 <img alt="Stars for PencilBlue" src="https://flat.badgen.net/github/stars/pencilblue/pencilblue?label=★&color=black" />
               </a>
               <a href="https://github.com/pencilblue/pencilblue" title="GitHub Repo">
-                <img alt="GitHub page for PencilBlue" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for PencilBlue" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://pencilblue.org">
-                  <img alt="Website for PencilBlue" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for PencilBlue" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -698,10 +698,10 @@ for details on generation and contribution._
                 <img alt="Stars for Prime CMS" src="https://flat.badgen.net/github/stars/birkir/prime?label=★&color=black" />
               </a>
               <a href="https://github.com/birkir/prime" title="GitHub Repo">
-                <img alt="GitHub page for Prime CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Prime CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://birkir.github.io/prime">
-                  <img alt="Website for Prime CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Prime CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -722,10 +722,10 @@ for details on generation and contribution._
                 <img alt="Stars for Prose" src="https://flat.badgen.net/github/stars/prose/prose?label=★&color=black" />
               </a>
               <a href="https://github.com/prose/prose" title="GitHub Repo">
-                <img alt="GitHub page for Prose" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Prose" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://prose.io">
-                  <img alt="Website for Prose" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Prose" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -746,10 +746,10 @@ for details on generation and contribution._
                 <img alt="Stars for Reaction" src="https://flat.badgen.net/github/stars/reactioncommerce/reaction?label=★&color=black" />
               </a>
               <a href="https://github.com/reactioncommerce/reaction" title="GitHub Repo">
-                <img alt="GitHub page for Reaction" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Reaction" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://reactioncommerce.com/">
-                  <img alt="Website for Reaction" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Reaction" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -770,7 +770,7 @@ for details on generation and contribution._
                 <img alt="Stars for Relax" src="https://flat.badgen.net/github/stars/relax/relax?label=★&color=black" />
               </a>
               <a href="https://github.com/relax/relax" title="GitHub Repo">
-                <img alt="GitHub page for Relax" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Relax" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -791,10 +791,10 @@ for details on generation and contribution._
                 <img alt="Stars for Sanity.io" src="https://flat.badgen.net/github/stars/sanity-io/sanity?label=★&color=black" />
               </a>
               <a href="https://github.com/sanity-io/sanity" title="GitHub Repo">
-                <img alt="GitHub page for Sanity.io" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Sanity.io" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.sanity.io">
-                  <img alt="Website for Sanity.io" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Sanity.io" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -816,10 +816,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for strapi" src="https://flat.badgen.net/github/stars/strapi/strapi?label=★&color=black" />
               </a>
               <a href="https://github.com/strapi/strapi" title="GitHub Repo">
-                <img alt="GitHub page for strapi" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for strapi" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://strapi.io/">
-                  <img alt="Website for strapi" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for strapi" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -840,10 +840,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for TinaCMS" src="https://flat.badgen.net/github/stars/tinacms/tinacms?label=★&color=black" />
               </a>
               <a href="https://github.com/tinacms/tinacms" title="GitHub Repo">
-                <img alt="GitHub page for TinaCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for TinaCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://tinacms.org">
-                  <img alt="Website for TinaCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for TinaCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -864,10 +864,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for We.js Framework" src="https://flat.badgen.net/github/stars/wejs/we?label=★&color=black" />
               </a>
               <a href="https://github.com/wejs/we" title="GitHub Repo">
-                <img alt="GitHub page for We.js Framework" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for We.js Framework" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://wejs.org/">
-                  <img alt="Website for We.js Framework" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for We.js Framework" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -888,10 +888,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Webhook" src="https://flat.badgen.net/github/stars/webhook/webhook?label=★&color=black" />
               </a>
               <a href="https://github.com/webhook/webhook" title="GitHub Repo">
-                <img alt="GitHub page for Webhook" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Webhook" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.webhook.com">
-                  <img alt="Website for Webhook" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Webhook" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -925,10 +925,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Anchor CMS" src="https://flat.badgen.net/github/stars/anchorcms/anchor-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/anchorcms/anchor-cms" title="GitHub Repo">
-                <img alt="GitHub page for Anchor CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Anchor CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://anchorcms.com/">
-                  <img alt="Website for Anchor CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Anchor CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -949,10 +949,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for AsgardCms" src="https://flat.badgen.net/github/stars/AsgardCms/Platform?label=★&color=black" />
               </a>
               <a href="https://github.com/AsgardCms/Platform" title="GitHub Repo">
-                <img alt="GitHub page for AsgardCms" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for AsgardCms" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://asgardcms.com/">
-                  <img alt="Website for AsgardCms" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for AsgardCms" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -973,10 +973,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/bolt?label=★&color=black" />
               </a>
               <a href="https://github.com/bolt/bolt" title="GitHub Repo">
-                <img alt="GitHub page for Bolt" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Bolt" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://github.com/bolt/bolt">
-                  <img alt="Website for Bolt" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Bolt" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -997,7 +997,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Bootstrap CMS" src="https://flat.badgen.net/github/stars/BootstrapCMS/CMS?label=★&color=black" />
               </a>
               <a href="https://github.com/BootstrapCMS/CMS" title="GitHub Repo">
-                <img alt="GitHub page for Bootstrap CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Bootstrap CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -1018,7 +1018,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Borgert CMS" src="https://flat.badgen.net/github/stars/odirleiborgert/borgert-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/odirleiborgert/borgert-cms" title="GitHub Repo">
-                <img alt="GitHub page for Borgert CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Borgert CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -1039,10 +1039,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Cockpit CMS" src="https://flat.badgen.net/github/stars/COCOPi/cockpit?label=★&color=black" />
               </a>
               <a href="https://github.com/COCOPi/cockpit" title="GitHub Repo">
-                <img alt="GitHub page for Cockpit CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Cockpit CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://getcockpit.com">
-                  <img alt="Website for Cockpit CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Cockpit CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1063,10 +1063,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Contao" src="https://flat.badgen.net/github/stars/contao/core?label=★&color=black" />
               </a>
               <a href="https://github.com/contao/core" title="GitHub Repo">
-                <img alt="GitHub page for Contao" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Contao" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://contao.org/en/">
-                  <img alt="Website for Contao" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Contao" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1087,10 +1087,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Contenta CMS" src="https://flat.badgen.net/github/stars/contentacms/contenta_jsonapi?label=★&color=black" />
               </a>
               <a href="https://github.com/contentacms/contenta_jsonapi" title="GitHub Repo">
-                <img alt="GitHub page for Contenta CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Contenta CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://contentacms.org/">
-                  <img alt="Website for Contenta CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Contenta CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1111,10 +1111,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Craft CMS" src="https://flat.badgen.net/github/stars/craftcms/cms?label=★&color=black" />
               </a>
               <a href="https://github.com/craftcms/cms" title="GitHub Repo">
-                <img alt="GitHub page for Craft CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Craft CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://craftcms.com">
-                  <img alt="Website for Craft CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Craft CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1135,10 +1135,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Croogo" src="https://flat.badgen.net/github/stars/croogo/croogo?label=★&color=black" />
               </a>
               <a href="https://github.com/croogo/croogo" title="GitHub Repo">
-                <img alt="GitHub page for Croogo" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Croogo" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.croogo.org">
-                  <img alt="Website for Croogo" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Croogo" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1159,10 +1159,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus?label=★&color=black" />
               </a>
               <a href="https://github.com/directus/directus" title="GitHub Repo">
-                <img alt="GitHub page for Directus" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Directus" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://getdirectus.com">
-                  <img alt="Website for Directus" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Directus" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1183,13 +1183,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Drupal" src="https://flat.badgen.net/github/stars/drupal/drupal?label=★&color=black" />
               </a>
               <a href="https://github.com/drupal/drupal" title="GitHub Repo">
-                <img alt="GitHub page for Drupal" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Drupal" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.drupal.org">
-                  <img alt="Website for Drupal" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Drupal" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/mrsinguyen/awesome-drupal">
-              <img alt="Awesome List for Drupal" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for Drupal" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1210,10 +1210,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Fork CMS" src="https://flat.badgen.net/github/stars/forkcms/forkcms?label=★&color=black" />
               </a>
               <a href="https://github.com/forkcms/forkcms" title="GitHub Repo">
-                <img alt="GitHub page for Fork CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Fork CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.fork-cms.com">
-                  <img alt="Website for Fork CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Fork CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1234,10 +1234,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for FUEL CMS" src="https://flat.badgen.net/github/stars/daylightstudio/FUEL-CMS?label=★&color=black" />
               </a>
               <a href="https://github.com/daylightstudio/FUEL-CMS" title="GitHub Repo">
-                <img alt="GitHub page for FUEL CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for FUEL CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.getfuelcms.com">
-                  <img alt="Website for FUEL CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for FUEL CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1258,10 +1258,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Grav" src="https://flat.badgen.net/github/stars/getgrav/grav?label=★&color=black" />
               </a>
               <a href="https://github.com/getgrav/grav" title="GitHub Repo">
-                <img alt="GitHub page for Grav" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Grav" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://getgrav.org">
-                  <img alt="Website for Grav" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Grav" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1282,10 +1282,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Joomla!" src="https://flat.badgen.net/github/stars/joomla/joomla-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/joomla/joomla-cms" title="GitHub Repo">
-                <img alt="GitHub page for Joomla!" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Joomla!" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.joomla.org">
-                  <img alt="Website for Joomla!" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Joomla!" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1306,10 +1306,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Kirby" src="https://flat.badgen.net/github/stars/getkirby/starterkit?label=★&color=black" />
               </a>
               <a href="https://github.com/getkirby/starterkit" title="GitHub Repo">
-                <img alt="GitHub page for Kirby" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Kirby" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://getkirby.com/">
-                  <img alt="Website for Kirby" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Kirby" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1330,10 +1330,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/stars/Kunstmaan/KunstmaanBundlesCMS?label=★&color=black" />
               </a>
               <a href="https://github.com/Kunstmaan/KunstmaanBundlesCMS" title="GitHub Repo">
-                <img alt="GitHub page for KunstmaanBundlesCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for KunstmaanBundlesCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://bundles.kunstmaan.be">
-                  <img alt="Website for KunstmaanBundlesCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for KunstmaanBundlesCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1354,10 +1354,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Lavalite" src="https://flat.badgen.net/github/stars/LavaLite/cms?label=★&color=black" />
               </a>
               <a href="https://github.com/LavaLite/cms" title="GitHub Repo">
-                <img alt="GitHub page for Lavalite" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Lavalite" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.lavalite.org">
-                  <img alt="Website for Lavalite" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Lavalite" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1378,10 +1378,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Magento" src="https://flat.badgen.net/github/stars/magento/magento2?label=★&color=black" />
               </a>
               <a href="https://github.com/magento/magento2" title="GitHub Repo">
-                <img alt="GitHub page for Magento" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Magento" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://magento.com/">
-                  <img alt="Website for Magento" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Magento" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1402,10 +1402,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for MediaWiki" src="https://flat.badgen.net/github/stars/wikimedia/mediawiki?label=★&color=black" />
               </a>
               <a href="https://github.com/wikimedia/mediawiki" title="GitHub Repo">
-                <img alt="GitHub page for MediaWiki" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for MediaWiki" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.mediawiki.org">
-                  <img alt="Website for MediaWiki" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for MediaWiki" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1426,10 +1426,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Microweber" src="https://flat.badgen.net/github/stars/microweber/microweber?label=★&color=black" />
               </a>
               <a href="https://github.com/microweber/microweber" title="GitHub Repo">
-                <img alt="GitHub page for Microweber" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Microweber" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://microweber.com">
-                  <img alt="Website for Microweber" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Microweber" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1450,10 +1450,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/stars/modxcms/revolution?label=★&color=black" />
               </a>
               <a href="https://github.com/modxcms/revolution" title="GitHub Repo">
-                <img alt="GitHub page for MODX Web Content Management System and Platform" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for MODX Web Content Management System and Platform" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://modx.com/">
-                  <img alt="Website for MODX Web Content Management System and Platform" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for MODX Web Content Management System and Platform" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1474,10 +1474,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for October" src="https://flat.badgen.net/github/stars/octobercms/october?label=★&color=black" />
               </a>
               <a href="https://github.com/octobercms/october" title="GitHub Repo">
-                <img alt="GitHub page for October" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for October" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://octobercms.com/">
-                  <img alt="Website for October" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for October" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1498,10 +1498,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Pagekit" src="https://flat.badgen.net/github/stars/pagekit/pagekit?label=★&color=black" />
               </a>
               <a href="https://github.com/pagekit/pagekit" title="GitHub Repo">
-                <img alt="GitHub page for Pagekit" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Pagekit" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://pagekit.com">
-                  <img alt="Website for Pagekit" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Pagekit" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1522,10 +1522,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Pico" src="https://flat.badgen.net/github/stars/picocms/Pico?label=★&color=black" />
               </a>
               <a href="https://github.com/picocms/Pico" title="GitHub Repo">
-                <img alt="GitHub page for Pico" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Pico" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://picocms.org/">
-                  <img alt="Website for Pico" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Pico" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1546,10 +1546,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Pimcore Platform" src="https://flat.badgen.net/github/stars/pimcore/pimcore?label=★&color=black" />
               </a>
               <a href="https://github.com/pimcore/pimcore" title="GitHub Repo">
-                <img alt="GitHub page for Pimcore Platform" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Pimcore Platform" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.pimcore.org/">
-                  <img alt="Website for Pimcore Platform" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Pimcore Platform" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1570,10 +1570,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Processwire" src="https://flat.badgen.net/github/stars/processwire/processwire?label=★&color=black" />
               </a>
               <a href="https://github.com/processwire/processwire" title="GitHub Repo">
-                <img alt="GitHub page for Processwire" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Processwire" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://processwire.com/">
-                  <img alt="Website for Processwire" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Processwire" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1594,13 +1594,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for PyroCMS" src="https://flat.badgen.net/github/stars/pyrocms/pyrocms?label=★&color=black" />
               </a>
               <a href="https://github.com/pyrocms/pyrocms" title="GitHub Repo">
-                <img alt="GitHub page for PyroCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for PyroCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.pyrocms.com/">
-                  <img alt="Website for PyroCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for PyroCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/websemantics/awesome-pyrocms">
-              <img alt="Awesome List for PyroCMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for PyroCMS" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1621,10 +1621,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for REDAXO" src="https://flat.badgen.net/github/stars/redaxo/redaxo?label=★&color=black" />
               </a>
               <a href="https://github.com/redaxo/redaxo" title="GitHub Repo">
-                <img alt="GitHub page for REDAXO" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for REDAXO" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.redaxo.org/">
-                  <img alt="Website for REDAXO" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for REDAXO" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1645,10 +1645,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Redaxscript" src="https://flat.badgen.net/github/stars/redaxmedia/redaxscript?label=★&color=black" />
               </a>
               <a href="https://github.com/redaxmedia/redaxscript" title="GitHub Repo">
-                <img alt="GitHub page for Redaxscript" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Redaxscript" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://redaxscript.com">
-                  <img alt="Website for Redaxscript" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Redaxscript" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1669,10 +1669,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Roadiz" src="https://flat.badgen.net/github/stars/roadiz/roadiz?label=★&color=black" />
               </a>
               <a href="https://github.com/roadiz/roadiz" title="GitHub Repo">
-                <img alt="GitHub page for Roadiz" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Roadiz" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.roadiz.io/">
-                  <img alt="Website for Roadiz" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Roadiz" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1693,10 +1693,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for SilverStripe" src="https://flat.badgen.net/github/stars/silverstripe/silverstripe-framework?label=★&color=black" />
               </a>
               <a href="https://github.com/silverstripe/silverstripe-framework" title="GitHub Repo">
-                <img alt="GitHub page for SilverStripe" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for SilverStripe" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://silverstripe.org/">
-                  <img alt="Website for SilverStripe" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for SilverStripe" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1717,10 +1717,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Sulu" src="https://flat.badgen.net/github/stars/sulu/sulu-standard?label=★&color=black" />
               </a>
               <a href="https://github.com/sulu/sulu-standard" title="GitHub Repo">
-                <img alt="GitHub page for Sulu" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Sulu" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://sulu.io/en">
-                  <img alt="Website for Sulu" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Sulu" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1741,13 +1741,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Textpattern CMS" src="https://flat.badgen.net/github/stars/textpattern/textpattern?label=★&color=black" />
               </a>
               <a href="https://github.com/textpattern/textpattern" title="GitHub Repo">
-                <img alt="GitHub page for Textpattern CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Textpattern CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://textpattern.com/">
-                  <img alt="Website for Textpattern CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Textpattern CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/drmonkeyninja/awesome-textpattern">
-              <img alt="Awesome List for Textpattern CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for Textpattern CMS" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1768,10 +1768,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Thelia" src="https://flat.badgen.net/github/stars/thelia/thelia?label=★&color=black" />
               </a>
               <a href="https://github.com/thelia/thelia" title="GitHub Repo">
-                <img alt="GitHub page for Thelia" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Thelia" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://thelia.net">
-                  <img alt="Website for Thelia" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Thelia" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1792,10 +1792,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Twill" src="https://flat.badgen.net/github/stars/area17/twill?label=★&color=black" />
               </a>
               <a href="https://github.com/area17/twill" title="GitHub Repo">
-                <img alt="GitHub page for Twill" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Twill" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://twill.io">
-                  <img alt="Website for Twill" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Twill" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1816,10 +1816,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for TypiCMS" src="https://flat.badgen.net/github/stars/TypiCMS/Base?label=★&color=black" />
               </a>
               <a href="https://github.com/TypiCMS/Base" title="GitHub Repo">
-                <img alt="GitHub page for TypiCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for TypiCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://typicms.org">
-                  <img alt="Website for TypiCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for TypiCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1840,10 +1840,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for TYPO3" src="https://flat.badgen.net/github/stars/TYPO3/TYPO3.CMS?label=★&color=black" />
               </a>
               <a href="https://github.com/TYPO3/TYPO3.CMS" title="GitHub Repo">
-                <img alt="GitHub page for TYPO3" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for TYPO3" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://typo3.org">
-                  <img alt="Website for TYPO3" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for TYPO3" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1864,10 +1864,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Unite CMS" src="https://flat.badgen.net/github/stars/unite-cms/unite-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/unite-cms/unite-cms" title="GitHub Repo">
-                <img alt="GitHub page for Unite CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Unite CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.unitecms.io">
-                  <img alt="Website for Unite CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Unite CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1888,10 +1888,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for WonderCMS" src="https://flat.badgen.net/github/stars/robiso/WonderCMS?label=★&color=black" />
               </a>
               <a href="https://github.com/robiso/WonderCMS" title="GitHub Repo">
-                <img alt="GitHub page for WonderCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for WonderCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.wondercms.com">
-                  <img alt="Website for WonderCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for WonderCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1912,13 +1912,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for WordPress" src="https://flat.badgen.net/github/stars/WordPress/WordPress?label=★&color=black" />
               </a>
               <a href="https://github.com/WordPress/WordPress" title="GitHub Repo">
-                <img alt="GitHub page for WordPress" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for WordPress" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://wordpress.org">
-                  <img alt="Website for WordPress" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for WordPress" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/miziomon/awesome-wordpress">
-              <img alt="Awesome List for WordPress" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for WordPress" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -1939,10 +1939,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for XOOPS" src="https://flat.badgen.net/github/stars/XOOPS/XoopsCore?label=★&color=black" />
               </a>
               <a href="https://github.com/XOOPS/XoopsCore" title="GitHub Repo">
-                <img alt="GitHub page for XOOPS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for XOOPS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://xoops.org/">
-                  <img alt="Website for XOOPS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for XOOPS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -1976,13 +1976,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for django CMS" src="https://flat.badgen.net/github/stars/divio/django-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/divio/django-cms" title="GitHub Repo">
-                <img alt="GitHub page for django CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for django CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.django-cms.org">
-                  <img alt="Website for django CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for django CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/mishbahr/awesome-django-cms">
-              <img alt="Awesome List for django CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for django CMS" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -2003,10 +2003,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for feinCMS" src="https://flat.badgen.net/github/stars/feincms/feincms?label=★&color=black" />
               </a>
               <a href="https://github.com/feincms/feincms" title="GitHub Repo">
-                <img alt="GitHub page for feinCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for feinCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.feincms.org/">
-                  <img alt="Website for feinCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for feinCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2027,10 +2027,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Kotti" src="https://flat.badgen.net/github/stars/Kotti/Kotti?label=★&color=black" />
               </a>
               <a href="https://github.com/Kotti/Kotti" title="GitHub Repo">
-                <img alt="GitHub page for Kotti" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Kotti" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://kotti.pylonsproject.org">
-                  <img alt="Website for Kotti" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Kotti" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2051,10 +2051,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Lektor" src="https://flat.badgen.net/github/stars/lektor/lektor?label=★&color=black" />
               </a>
               <a href="https://github.com/lektor/lektor" title="GitHub Repo">
-                <img alt="GitHub page for Lektor" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Lektor" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.getlektor.com/">
-                  <img alt="Website for Lektor" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Lektor" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2075,10 +2075,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Mezzanine" src="https://flat.badgen.net/github/stars/stephenmcd/mezzanine?label=★&color=black" />
               </a>
               <a href="https://github.com/stephenmcd/mezzanine" title="GitHub Repo">
-                <img alt="GitHub page for Mezzanine" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Mezzanine" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://mezzanine.jupo.org">
-                  <img alt="Website for Mezzanine" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Mezzanine" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2099,10 +2099,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Opps Project" src="https://flat.badgen.net/github/stars/opps/opps?label=★&color=black" />
               </a>
               <a href="https://github.com/opps/opps" title="GitHub Repo">
-                <img alt="GitHub page for Opps Project" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Opps Project" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://opps.github.io/opps/">
-                  <img alt="Website for Opps Project" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Opps Project" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2123,10 +2123,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Plone CMS" src="https://flat.badgen.net/github/stars/plone/Plone?label=★&color=black" />
               </a>
               <a href="https://github.com/plone/Plone" title="GitHub Repo">
-                <img alt="GitHub page for Plone CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Plone CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://plone.org">
-                  <img alt="Website for Plone CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Plone CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2147,10 +2147,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Quokka CMS" src="https://flat.badgen.net/github/stars/quokkaproject/quokka?label=★&color=black" />
               </a>
               <a href="https://github.com/quokkaproject/quokka" title="GitHub Repo">
-                <img alt="GitHub page for Quokka CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Quokka CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.quokkaproject.org">
-                  <img alt="Website for Quokka CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Quokka CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2171,10 +2171,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Superdesk" src="https://flat.badgen.net/github/stars/superdesk/superdesk?label=★&color=black" />
               </a>
               <a href="https://github.com/superdesk/superdesk" title="GitHub Repo">
-                <img alt="GitHub page for Superdesk" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Superdesk" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://www.superdesk.org/">
-                  <img alt="Website for Superdesk" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Superdesk" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2195,13 +2195,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/torchbox/wagtail?label=★&color=black" />
               </a>
               <a href="https://github.com/torchbox/wagtail" title="GitHub Repo">
-                <img alt="GitHub page for Wagtail CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Wagtail CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://wagtail.io">
-                  <img alt="Website for Wagtail CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Wagtail CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/springload/awesome-wagtail">
-              <img alt="Awesome List for Wagtail CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for Wagtail CMS" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -2235,10 +2235,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Alchemy CMS" src="https://flat.badgen.net/github/stars/AlchemyCMS/alchemy_cms?label=★&color=black" />
               </a>
               <a href="https://github.com/AlchemyCMS/alchemy_cms" title="GitHub Repo">
-                <img alt="GitHub page for Alchemy CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Alchemy CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://alchemy-cms.com">
-                  <img alt="Website for Alchemy CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Alchemy CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2259,10 +2259,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for APIQ" src="https://flat.badgen.net/github/stars/apiqcms/kms?label=★&color=black" />
               </a>
               <a href="https://github.com/apiqcms/kms" title="GitHub Repo">
-                <img alt="GitHub page for APIQ" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for APIQ" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://apiq.io">
-                  <img alt="Website for APIQ" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for APIQ" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2283,10 +2283,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Camaleon CMS" src="https://flat.badgen.net/github/stars/owen2345/camaleon-cms?label=★&color=black" />
               </a>
               <a href="https://github.com/owen2345/camaleon-cms" title="GitHub Repo">
-                <img alt="GitHub page for Camaleon CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Camaleon CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://camaleon.tuzitio.com/">
-                  <img alt="Website for Camaleon CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Camaleon CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2307,7 +2307,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for ComfortableMexicanSofa " src="https://flat.badgen.net/github/stars/comfy/comfortable-mexican-sofa?label=★&color=black" />
               </a>
               <a href="https://github.com/comfy/comfortable-mexican-sofa" title="GitHub Repo">
-                <img alt="GitHub page for ComfortableMexicanSofa " src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for ComfortableMexicanSofa " src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
@@ -2328,10 +2328,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for LocomotiveCMS" src="https://flat.badgen.net/github/stars/locomotivecms/engine?label=★&color=black" />
               </a>
               <a href="https://github.com/locomotivecms/engine" title="GitHub Repo">
-                <img alt="GitHub page for LocomotiveCMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for LocomotiveCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://locomotive.works">
-                  <img alt="Website for LocomotiveCMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for LocomotiveCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2352,10 +2352,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Nesta" src="https://flat.badgen.net/github/stars/gma/nesta?label=★&color=black" />
               </a>
               <a href="https://github.com/gma/nesta" title="GitHub Repo">
-                <img alt="GitHub page for Nesta" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Nesta" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://nestacms.com">
-                  <img alt="Website for Nesta" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Nesta" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2376,10 +2376,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Property Web Builder" src="https://flat.badgen.net/github/stars/etewiah/property_web_builder?label=★&color=black" />
               </a>
               <a href="https://github.com/etewiah/property_web_builder" title="GitHub Repo">
-                <img alt="GitHub page for Property Web Builder" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Property Web Builder" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://propertywebbuilder.com">
-                  <img alt="Website for Property Web Builder" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Property Web Builder" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2400,10 +2400,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Publify" src="https://flat.badgen.net/github/stars/publify/publify?label=★&color=black" />
               </a>
               <a href="https://github.com/publify/publify" title="GitHub Repo">
-                <img alt="GitHub page for Publify" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Publify" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://publify.co">
-                  <img alt="Website for Publify" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Publify" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2424,10 +2424,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Radiant CMS" src="https://flat.badgen.net/github/stars/radiant/radiant?label=★&color=black" />
               </a>
               <a href="https://github.com/radiant/radiant" title="GitHub Repo">
-                <img alt="GitHub page for Radiant CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Radiant CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://radiantcms.org/">
-                  <img alt="Website for Radiant CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Radiant CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2448,13 +2448,13 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Refinery CMS" src="https://flat.badgen.net/github/stars/refinery/refinerycms?label=★&color=black" />
               </a>
               <a href="https://github.com/refinery/refinerycms" title="GitHub Repo">
-                <img alt="GitHub page for Refinery CMS" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Refinery CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://refinerycms.com">
-                  <img alt="Website for Refinery CMS" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Refinery CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">
-              <img alt="Awesome List for Refinery CMS" src="https://flat.badgen.net/badge/icon/awesome?color=purple&icon=awesome&label" />
+              <img alt="Awesome List for Refinery CMS" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
           </div>
           <div>
@@ -2475,10 +2475,10 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Spina" src="https://flat.badgen.net/github/stars/denkGroot/Spina?label=★&color=black" />
               </a>
               <a href="https://github.com/denkGroot/Spina" title="GitHub Repo">
-                <img alt="GitHub page for Spina" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Spina" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://www.spinacms.com">
-                  <img alt="Website for Spina" src="https://flat.badgen.net/badge/null/Website?label" />
+                  <img alt="Website for Spina" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
@@ -2499,7 +2499,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
                 <img alt="Stars for Storytime" src="https://flat.badgen.net/github/stars/CultivateLabs/storytime?label=★&color=black" />
               </a>
               <a href="https://github.com/CultivateLabs/storytime" title="GitHub Repo">
-                <img alt="GitHub page for Storytime" src="https://flat.badgen.net/badge/null/GitHub?label" />
+                <img alt="GitHub page for Storytime" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
           </div>
           <div>
