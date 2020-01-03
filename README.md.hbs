@@ -14,15 +14,6 @@ for details on generation and contribution._
 - [{{text}}](#{{anchor}})
 {{/each}}
 
-**Key**
-
-| Emoji                  | Meaning          |
-| ---------------------- | ---------------- |
-| :octocat:              | GitHub Repo      |
-| :globe_with_meridians: | Official Website |
-| :sunglasses:           | Awesome List     |
-| ⓘ                      | Last Commit Date |
-
 {{#each cmsGroups}}
 ## {{name}}
 
@@ -39,32 +30,41 @@ for details on generation and contribution._
       <tr>
         <td width="240">
           <div>
-            <b>{{name}}</b>
+            {{#if githubURL}}
+              <a href="{{githubURL}}">
+                <b>{{name}}</b>
+              </a>
+            {{else}}
+              <a href="{{url}}">
+                <b>{{name}}</b>
+              </a>
+            {{/if}}
           </div>
           <div>
             {{#if githubURL}}
               <a href="{{githubURL}}" title="GitHub Repo">
-                :octocat:
-              </a>&nbsp;&nbsp;
+                <img alt="Stars for {{name}}" src="{{starImageURL}}?label=★&color=black" />
+              </a>
+              <a href="{{githubURL}}" title="GitHub Repo">
+                <img alt="GitHub page for {{name}}" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
             {{/if}}
-            {{#if url}}
-              <a href="{{url}}" title="Website for {{name}}">
-                :globe_with_meridians:
-              </a>&nbsp;&nbsp;
+            {{#if githubURL}}
+              {{#if url}}
+                <a href="{{url}}">
+                  <img alt="Website for {{name}}" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+              {{/if}}
             {{/if}}
             {{#if awesomeURL}}
-            <a href="{{awesomeURL}}" title="Awesome List for {{name}}">
-              :sunglasses:
+            <a href="{{awesomeURL}}">
+              <img alt="Awesome List for {{name}}" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
             </a>
             {{/if}}
           </div>
           <div>
-            {{#if starCountText}}
-              ★{{starCountText}}
-            {{/if}}
-            {{#if lastCommit}}
-              |&nbsp;{{lastCommit}}
-              <ins title="Last commit on {{lastCommit}}">ⓘ</ins>
+            {{#if lastCommitURL}}
+              <img alt="Last commit for {{name}}" src="{{lastCommitURL}}?color=black" />
             {{/if}}
           </div>
         </td>
@@ -101,6 +101,6 @@ for details on generation and contribution._
 
 🔬 A Labs project from your friends at [Postlight](https://postlight.com).
 
-[awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-image]: https://flat.badgen.net/badge/icon/awesome?icon=awesome&label&color=6f41c1
 [awesome-repo]: https://github.com/sindresorhus/awesome
 [the blog post]: https://postlight.com/trackchanges/building-awesome-cms
