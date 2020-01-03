@@ -5,7 +5,7 @@
   "repository": "github:postlight/awesome-cms",
   "dependencies": {
     "all-contributors-cli": "^4.0.1",
-    "generate-awesome": "0.2.0"
+    "generate-awesome": "0.3.1"
   },
   "scripts": {
     "build": "npm run contributors:generate && generate-awesome generate",
