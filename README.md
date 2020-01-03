@@ -19,14 +19,6 @@ for details on generation and contribution._
 - [Ruby](#ruby)
 - [Closed Source](#closed-source)
 
-**Key**
-
-| Emoji                  | Meaning          |
-| ---------------------- | ---------------- |
-| :octocat:              | GitHub Repo      |
-| :globe_with_meridians: | Official Website |
-| :sunglasses:           | Awesome List     |
-
 ## .NET
 
 <table>
