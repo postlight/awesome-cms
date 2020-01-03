@@ -48,12 +48,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/SaiGonSoftware/Awesome-CMS-Core" />
-              </div>
-              <div>
-                <img alt="Last commit for Awesome Cms Core" src="https://flat.badgen.net/github/last-commit/SaiGonSoftware/Awesome-CMS-Core" />
-              </div>
+              <img alt="Stars for Awesome Cms Core" src="https://flat.badgen.net/github/stars/SaiGonSoftware/Awesome-CMS-Core?label=★&color=black" />
+              <img alt="Last commit for Awesome Cms Core" src="https://flat.badgen.net/github/last-commit/SaiGonSoftware/Awesome-CMS-Core?color=black" />
           </div>
         </td>
         <td>Awesome Cms Core is an Open Source Content Management System built using .Net Core</td>
@@ -69,12 +65,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Composite C1" src="https://flat.badgen.net/github/stars/Orckestra/C1-CMS" />
-              </div>
-              <div>
-                <img alt="Last commit for Composite C1" src="https://flat.badgen.net/github/last-commit/Orckestra/C1-CMS" />
-              </div>
+              <img alt="Stars for Composite C1" src="https://flat.badgen.net/github/stars/Orckestra/C1-CMS?label=★&color=black" />
+              <img alt="Last commit for Composite C1" src="https://flat.badgen.net/github/last-commit/Orckestra/C1-CMS?color=black" />
           </div>
         </td>
         <td>A web CMS that focus on UX and adaptability.</td>
@@ -93,12 +85,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for DotNetNuke (DNN)" src="https://flat.badgen.net/github/stars/dnnsoftware/Dnn.Platform" />
-              </div>
-              <div>
-                <img alt="Last commit for DotNetNuke (DNN)" src="https://flat.badgen.net/github/last-commit/dnnsoftware/Dnn.Platform" />
-              </div>
+              <img alt="Stars for DotNetNuke (DNN)" src="https://flat.badgen.net/github/stars/dnnsoftware/Dnn.Platform?label=★&color=black" />
+              <img alt="Last commit for DotNetNuke (DNN)" src="https://flat.badgen.net/github/last-commit/dnnsoftware/Dnn.Platform?color=black" />
           </div>
         </td>
         <td>DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.</td>
@@ -117,12 +105,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Kaliko CMS" src="https://flat.badgen.net/github/stars/KalikoCMS/KalikoCMS.Core" />
-              </div>
-              <div>
-                <img alt="Last commit for Kaliko CMS" src="https://flat.badgen.net/github/last-commit/KalikoCMS/KalikoCMS.Core" />
-              </div>
+              <img alt="Stars for Kaliko CMS" src="https://flat.badgen.net/github/stars/KalikoCMS/KalikoCMS.Core?label=★&color=black" />
+              <img alt="Last commit for Kaliko CMS" src="https://flat.badgen.net/github/last-commit/KalikoCMS/KalikoCMS.Core?color=black" />
           </div>
         </td>
         <td>Kaliko CMS is a free, powerful and flexible CMS framework for ASP.NET MVC and WebForms.</td>
@@ -141,12 +125,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Orchard" src="https://flat.badgen.net/github/stars/OrchardCMS/Orchard" />
-              </div>
-              <div>
-                <img alt="Last commit for Orchard" src="https://flat.badgen.net/github/last-commit/OrchardCMS/Orchard" />
-              </div>
+              <img alt="Stars for Orchard" src="https://flat.badgen.net/github/stars/OrchardCMS/Orchard?label=★&color=black" />
+              <img alt="Last commit for Orchard" src="https://flat.badgen.net/github/last-commit/OrchardCMS/Orchard?color=black" />
           </div>
         </td>
         <td>Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</td>
@@ -165,12 +145,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/PiranhaCMS/Piranha" />
-              </div>
-              <div>
-                <img alt="Last commit for Piranha CMS" src="https://flat.badgen.net/github/last-commit/PiranhaCMS/Piranha" />
-              </div>
+              <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/PiranhaCMS/Piranha?label=★&color=black" />
+              <img alt="Last commit for Piranha CMS" src="https://flat.badgen.net/github/last-commit/PiranhaCMS/Piranha?color=black" />
           </div>
         </td>
         <td>Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It&#x27;s built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix.</td>
@@ -189,12 +165,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Platformus" src="https://flat.badgen.net/github/stars/Platformus/Platformus" />
-              </div>
-              <div>
-                <img alt="Last commit for Platformus" src="https://flat.badgen.net/github/last-commit/Platformus/Platformus" />
-              </div>
+              <img alt="Stars for Platformus" src="https://flat.badgen.net/github/stars/Platformus/Platformus?label=★&color=black" />
+              <img alt="Last commit for Platformus" src="https://flat.badgen.net/github/last-commit/Platformus/Platformus?color=black" />
           </div>
         </td>
         <td>Free, open source, and cross-platform developer-friendly CMS, based on ASP.NET Core and ExtCore frameworks.</td>
@@ -213,12 +185,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Squidex" src="https://flat.badgen.net/github/stars/squidex/squidex" />
-              </div>
-              <div>
-                <img alt="Last commit for Squidex" src="https://flat.badgen.net/github/last-commit/squidex/squidex" />
-              </div>
+              <img alt="Stars for Squidex" src="https://flat.badgen.net/github/stars/squidex/squidex?label=★&color=black" />
+              <img alt="Last commit for Squidex" src="https://flat.badgen.net/github/last-commit/squidex/squidex?color=black" />
           </div>
         </td>
         <td>Headless CMS and content management hub built on top of ASP.NET Core and Event Sourcing</td>
@@ -240,12 +208,8 @@ for details on generation and contribution._
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for Umbraco" src="https://flat.badgen.net/github/stars/umbraco/Umbraco-CMS" />
-              </div>
-              <div>
-                <img alt="Last commit for Umbraco" src="https://flat.badgen.net/github/last-commit/umbraco/Umbraco-CMS" />
-              </div>
+              <img alt="Stars for Umbraco" src="https://flat.badgen.net/github/stars/umbraco/Umbraco-CMS?label=★&color=black" />
+              <img alt="Last commit for Umbraco" src="https://flat.badgen.net/github/last-commit/umbraco/Umbraco-CMS?color=black" />
           </div>
         </td>
         <td>The simple, flexible and friendly ASP.NET CMS used by more than 360,000 websites.</td>
@@ -277,12 +241,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Ketchup" src="https://flat.badgen.net/github/stars/ketchuphq/ketchup" />
-              </div>
-              <div>
-                <img alt="Last commit for Ketchup" src="https://flat.badgen.net/github/last-commit/ketchuphq/ketchup" />
-              </div>
+              <img alt="Stars for Ketchup" src="https://flat.badgen.net/github/stars/ketchuphq/ketchup?label=★&color=black" />
+              <img alt="Last commit for Ketchup" src="https://flat.badgen.net/github/last-commit/ketchuphq/ketchup?color=black" />
           </div>
         </td>
         <td>Developer-first CMS built with Go and React. Version-controlled templates, complete JSON API, built-in HTTPS and HTTP/2, fast and easy to use.</td>
@@ -301,12 +261,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Ponzu" src="https://flat.badgen.net/github/stars/ponzu-cms/ponzu" />
-              </div>
-              <div>
-                <img alt="Last commit for Ponzu" src="https://flat.badgen.net/github/last-commit/ponzu-cms/ponzu" />
-              </div>
+              <img alt="Stars for Ponzu" src="https://flat.badgen.net/github/stars/ponzu-cms/ponzu?label=★&color=black" />
+              <img alt="Last commit for Ponzu" src="https://flat.badgen.net/github/last-commit/ponzu-cms/ponzu?color=black" />
           </div>
         </td>
         <td>Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.</td>
@@ -338,12 +294,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Crafter CMS" src="https://flat.badgen.net/github/stars/craftercms/craftercms" />
-              </div>
-              <div>
-                <img alt="Last commit for Crafter CMS" src="https://flat.badgen.net/github/last-commit/craftercms/craftercms" />
-              </div>
+              <img alt="Stars for Crafter CMS" src="https://flat.badgen.net/github/stars/craftercms/craftercms?label=★&color=black" />
+              <img alt="Last commit for Crafter CMS" src="https://flat.badgen.net/github/last-commit/craftercms/craftercms?color=black" />
           </div>
         </td>
         <td>Crafter CMS is an open source hybrid headless CMS based on Git that brings content authors, devolopers and devops together to deliver stunning personalized, multi-channel experiences faster and easier than ever before.</td>
@@ -362,12 +314,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for dotCMS" src="https://flat.badgen.net/github/stars/dotCMS/core" />
-              </div>
-              <div>
-                <img alt="Last commit for dotCMS" src="https://flat.badgen.net/github/last-commit/dotCMS/core" />
-              </div>
+              <img alt="Stars for dotCMS" src="https://flat.badgen.net/github/stars/dotCMS/core?label=★&color=black" />
+              <img alt="Last commit for dotCMS" src="https://flat.badgen.net/github/last-commit/dotCMS/core?color=black" />
           </div>
         </td>
         <td>dotCMS is a open source content management system and headless CMS for managing and delivering content driven web apps and sites.</td>
@@ -386,12 +334,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Elepy" src="https://flat.badgen.net/github/stars/RyanSusana/elepy" />
-              </div>
-              <div>
-                <img alt="Last commit for Elepy" src="https://flat.badgen.net/github/last-commit/RyanSusana/elepy" />
-              </div>
+              <img alt="Stars for Elepy" src="https://flat.badgen.net/github/stars/RyanSusana/elepy?label=★&color=black" />
+              <img alt="Last commit for Elepy" src="https://flat.badgen.net/github/last-commit/RyanSusana/elepy?color=black" />
           </div>
         </td>
         <td>Elepy is a Headless Content Management Framework for Java &amp; Kotlin. It is developer-first and focuses on extendability.</td>
@@ -410,12 +354,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Gentics Mesh" src="https://flat.badgen.net/github/stars/gentics/mesh" />
-              </div>
-              <div>
-                <img alt="Last commit for Gentics Mesh" src="https://flat.badgen.net/github/last-commit/gentics/mesh" />
-              </div>
+              <img alt="Stars for Gentics Mesh" src="https://flat.badgen.net/github/stars/gentics/mesh?label=★&color=black" />
+              <img alt="Last commit for Gentics Mesh" src="https://flat.badgen.net/github/last-commit/gentics/mesh?color=black" />
           </div>
         </td>
         <td>Gentics Mesh is an open source API-first CMS, complete with multi‑language support, versioning and roles &amp; permissions.</td>
@@ -447,12 +387,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/punkave/apostrophe" />
-              </div>
-              <div>
-                <img alt="Last commit for Apostrophe" src="https://flat.badgen.net/github/last-commit/punkave/apostrophe" />
-              </div>
+              <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/punkave/apostrophe?label=★&color=black" />
+              <img alt="Last commit for Apostrophe" src="https://flat.badgen.net/github/last-commit/punkave/apostrophe?color=black" />
           </div>
         </td>
         <td>ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more.</td>
@@ -471,12 +407,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for CMS.js" src="https://flat.badgen.net/github/stars/cdmedia/cms.js" />
-              </div>
-              <div>
-                <img alt="Last commit for CMS.js" src="https://flat.badgen.net/github/last-commit/cdmedia/cms.js" />
-              </div>
+              <img alt="Stars for CMS.js" src="https://flat.badgen.net/github/stars/cdmedia/cms.js?label=★&color=black" />
+              <img alt="Last commit for CMS.js" src="https://flat.badgen.net/github/last-commit/cdmedia/cms.js?color=black" />
           </div>
         </td>
         <td>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol&#x27; HTML, CSS and Javascript to generate your website. CMS.js is like a file-based CMS. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting.</td>
@@ -495,12 +427,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Cody" src="https://flat.badgen.net/github/stars/jcoppieters/cody" />
-              </div>
-              <div>
-                <img alt="Last commit for Cody" src="https://flat.badgen.net/github/last-commit/jcoppieters/cody" />
-              </div>
+              <img alt="Stars for Cody" src="https://flat.badgen.net/github/stars/jcoppieters/cody?label=★&color=black" />
+              <img alt="Last commit for Cody" src="https://flat.badgen.net/github/last-commit/jcoppieters/cody?color=black" />
           </div>
         </td>
         <td>Javascript Content Management System running on Node.js.</td>
@@ -516,12 +444,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Expressa" src="https://flat.badgen.net/github/stars/thomas4019/expressa" />
-              </div>
-              <div>
-                <img alt="Last commit for Expressa" src="https://flat.badgen.net/github/last-commit/thomas4019/expressa" />
-              </div>
+              <img alt="Stars for Expressa" src="https://flat.badgen.net/github/stars/thomas4019/expressa?label=★&color=black" />
+              <img alt="Last commit for Expressa" src="https://flat.badgen.net/github/last-commit/thomas4019/expressa?color=black" />
           </div>
         </td>
         <td>Helps you create APIs with very little code. It&#x27;s a middleware for making RESTFUL apis from JSON schema, with a Django-like Admin interface that lets you edit your data and modify your schemas.. It&#x27;s easy to integrate into other applications and your schemas and permissions are just defined in JSON files.</td>
@@ -540,12 +464,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Factor JS" src="https://flat.badgen.net/github/stars/fiction-com/factor" />
-              </div>
-              <div>
-                <img alt="Last commit for Factor JS" src="https://flat.badgen.net/github/last-commit/fiction-com/factor" />
-              </div>
+              <img alt="Stars for Factor JS" src="https://flat.badgen.net/github/stars/fiction-com/factor?label=★&color=black" />
+              <img alt="Last commit for Factor JS" src="https://flat.badgen.net/github/last-commit/fiction-com/factor?color=black" />
           </div>
         </td>
         <td>Factor is an extension-driven platform for VueJS and Node.</td>
@@ -564,12 +484,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Gatsby.js" src="https://flat.badgen.net/github/stars/gatsbyjs/gatsby" />
-              </div>
-              <div>
-                <img alt="Last commit for Gatsby.js" src="https://flat.badgen.net/github/last-commit/gatsbyjs/gatsby" />
-              </div>
+              <img alt="Stars for Gatsby.js" src="https://flat.badgen.net/github/stars/gatsbyjs/gatsby?label=★&color=black" />
+              <img alt="Last commit for Gatsby.js" src="https://flat.badgen.net/github/last-commit/gatsbyjs/gatsby?color=black" />
           </div>
         </td>
         <td>Gatsby is a blazing fast modern site generator for React.</td>
@@ -588,12 +504,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Ghost" src="https://flat.badgen.net/github/stars/tryghost/Ghost" />
-              </div>
-              <div>
-                <img alt="Last commit for Ghost" src="https://flat.badgen.net/github/last-commit/tryghost/Ghost" />
-              </div>
+              <img alt="Stars for Ghost" src="https://flat.badgen.net/github/stars/tryghost/Ghost?label=★&color=black" />
+              <img alt="Last commit for Ghost" src="https://flat.badgen.net/github/last-commit/tryghost/Ghost?color=black" />
           </div>
         </td>
         <td>Ghost is an open source publishing platform which is beautifully designed, easy to use, and free for everyone.</td>
@@ -612,12 +524,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Jekyll Admin" src="https://flat.badgen.net/github/stars/jekyll/jekyll-admin" />
-              </div>
-              <div>
-                <img alt="Last commit for Jekyll Admin" src="https://flat.badgen.net/github/last-commit/jekyll/jekyll-admin" />
-              </div>
+              <img alt="Stars for Jekyll Admin" src="https://flat.badgen.net/github/stars/jekyll/jekyll-admin?label=★&color=black" />
+              <img alt="Last commit for Jekyll Admin" src="https://flat.badgen.net/github/last-commit/jekyll/jekyll-admin?color=black" />
           </div>
         </td>
         <td>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.</td>
@@ -636,12 +544,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for KeystoneJS" src="https://flat.badgen.net/github/stars/keystonejs/keystone" />
-              </div>
-              <div>
-                <img alt="Last commit for KeystoneJS" src="https://flat.badgen.net/github/last-commit/keystonejs/keystone" />
-              </div>
+              <img alt="Stars for KeystoneJS" src="https://flat.badgen.net/github/stars/keystonejs/keystone?label=★&color=black" />
+              <img alt="Last commit for KeystoneJS" src="https://flat.badgen.net/github/last-commit/keystonejs/keystone?color=black" />
           </div>
         </td>
         <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
@@ -660,12 +564,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Netlify CMS" src="https://flat.badgen.net/github/stars/netlify/netlify-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Netlify CMS" src="https://flat.badgen.net/github/last-commit/netlify/netlify-cms" />
-              </div>
+              <img alt="Stars for Netlify CMS" src="https://flat.badgen.net/github/stars/netlify/netlify-cms?label=★&color=black" />
+              <img alt="Last commit for Netlify CMS" src="https://flat.badgen.net/github/last-commit/netlify/netlify-cms?color=black" />
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
@@ -684,12 +584,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for PencilBlue" src="https://flat.badgen.net/github/stars/pencilblue/pencilblue" />
-              </div>
-              <div>
-                <img alt="Last commit for PencilBlue" src="https://flat.badgen.net/github/last-commit/pencilblue/pencilblue" />
-              </div>
+              <img alt="Stars for PencilBlue" src="https://flat.badgen.net/github/stars/pencilblue/pencilblue?label=★&color=black" />
+              <img alt="Last commit for PencilBlue" src="https://flat.badgen.net/github/last-commit/pencilblue/pencilblue?color=black" />
           </div>
         </td>
         <td>Business class content management for Node.js (plugins, server cluster management, data-driven pages).</td>
@@ -708,12 +604,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Prime CMS" src="https://flat.badgen.net/github/stars/birkir/prime" />
-              </div>
-              <div>
-                <img alt="Last commit for Prime CMS" src="https://flat.badgen.net/github/last-commit/birkir/prime" />
-              </div>
+              <img alt="Stars for Prime CMS" src="https://flat.badgen.net/github/stars/birkir/prime?label=★&color=black" />
+              <img alt="Last commit for Prime CMS" src="https://flat.badgen.net/github/last-commit/birkir/prime?color=black" />
           </div>
         </td>
         <td>Prime is a standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.</td>
@@ -732,12 +624,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Prose" src="https://flat.badgen.net/github/stars/prose/prose" />
-              </div>
-              <div>
-                <img alt="Last commit for Prose" src="https://flat.badgen.net/github/last-commit/prose/prose" />
-              </div>
+              <img alt="Stars for Prose" src="https://flat.badgen.net/github/stars/prose/prose?label=★&color=black" />
+              <img alt="Last commit for Prose" src="https://flat.badgen.net/github/last-commit/prose/prose?color=black" />
           </div>
         </td>
         <td>Prose is a content editor for GitHub designed for managing websites.</td>
@@ -756,12 +644,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Reaction" src="https://flat.badgen.net/github/stars/reactioncommerce/reaction" />
-              </div>
-              <div>
-                <img alt="Last commit for Reaction" src="https://flat.badgen.net/github/last-commit/reactioncommerce/reaction" />
-              </div>
+              <img alt="Stars for Reaction" src="https://flat.badgen.net/github/stars/reactioncommerce/reaction?label=★&color=black" />
+              <img alt="Last commit for Reaction" src="https://flat.badgen.net/github/last-commit/reactioncommerce/reaction?color=black" />
           </div>
         </td>
         <td>Reaction is a modern reactive, real-time event driven ecommerce platform.</td>
@@ -777,12 +661,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Relax" src="https://flat.badgen.net/github/stars/relax/relax" />
-              </div>
-              <div>
-                <img alt="Last commit for Relax" src="https://flat.badgen.net/github/last-commit/relax/relax" />
-              </div>
+              <img alt="Stars for Relax" src="https://flat.badgen.net/github/stars/relax/relax?label=★&color=black" />
+              <img alt="Last commit for Relax" src="https://flat.badgen.net/github/last-commit/relax/relax?color=black" />
           </div>
         </td>
         <td>New generation CMS on top of React, Redux and GraphQL.</td>
@@ -801,12 +681,8 @@ for details on generation and contribution._
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Sanity.io" src="https://flat.badgen.net/github/stars/sanity-io/sanity" />
-              </div>
-              <div>
-                <img alt="Last commit for Sanity.io" src="https://flat.badgen.net/github/last-commit/sanity-io/sanity" />
-              </div>
+              <img alt="Stars for Sanity.io" src="https://flat.badgen.net/github/stars/sanity-io/sanity?label=★&color=black" />
+              <img alt="Last commit for Sanity.io" src="https://flat.badgen.net/github/last-commit/sanity-io/sanity?color=black" />
           </div>
         </td>
         <td>Sanity is a real-time content infrastructure. The editor is built in
@@ -826,12 +702,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for strapi" src="https://flat.badgen.net/github/stars/strapi/strapi" />
-              </div>
-              <div>
-                <img alt="Last commit for strapi" src="https://flat.badgen.net/github/last-commit/strapi/strapi" />
-              </div>
+              <img alt="Stars for strapi" src="https://flat.badgen.net/github/stars/strapi/strapi?label=★&color=black" />
+              <img alt="Last commit for strapi" src="https://flat.badgen.net/github/last-commit/strapi/strapi?color=black" />
           </div>
         </td>
         <td>The most advanced open-source Content Management Framework to build powerful API with no effort.</td>
@@ -850,12 +722,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for TinaCMS" src="https://flat.badgen.net/github/stars/tinacms/tinacms" />
-              </div>
-              <div>
-                <img alt="Last commit for TinaCMS" src="https://flat.badgen.net/github/last-commit/tinacms/tinacms" />
-              </div>
+              <img alt="Stars for TinaCMS" src="https://flat.badgen.net/github/stars/tinacms/tinacms?label=★&color=black" />
+              <img alt="Last commit for TinaCMS" src="https://flat.badgen.net/github/last-commit/tinacms/tinacms?color=black" />
           </div>
         </td>
         <td>Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)</td>
@@ -874,12 +742,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for We.js Framework" src="https://flat.badgen.net/github/stars/wejs/we" />
-              </div>
-              <div>
-                <img alt="Last commit for We.js Framework" src="https://flat.badgen.net/github/last-commit/wejs/we" />
-              </div>
+              <img alt="Stars for We.js Framework" src="https://flat.badgen.net/github/stars/wejs/we?label=★&color=black" />
+              <img alt="Last commit for We.js Framework" src="https://flat.badgen.net/github/last-commit/wejs/we?color=black" />
           </div>
         </td>
         <td>Extensible Node.js MVC framework.</td>
@@ -898,12 +762,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Webhook" src="https://flat.badgen.net/github/stars/webhook/webhook" />
-              </div>
-              <div>
-                <img alt="Last commit for Webhook" src="https://flat.badgen.net/github/last-commit/webhook/webhook" />
-              </div>
+              <img alt="Stars for Webhook" src="https://flat.badgen.net/github/stars/webhook/webhook?label=★&color=black" />
+              <img alt="Last commit for Webhook" src="https://flat.badgen.net/github/last-commit/webhook/webhook?color=black" />
           </div>
         </td>
         <td>Webhook lets you build a custom CMS with matching HTML templates in about a minute. Webhook is built with Node JS, Grunt, Firebase and Swig.</td>
@@ -935,12 +795,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Anchor CMS" src="https://flat.badgen.net/github/stars/anchorcms/anchor-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Anchor CMS" src="https://flat.badgen.net/github/last-commit/anchorcms/anchor-cms" />
-              </div>
+              <img alt="Stars for Anchor CMS" src="https://flat.badgen.net/github/stars/anchorcms/anchor-cms?label=★&color=black" />
+              <img alt="Last commit for Anchor CMS" src="https://flat.badgen.net/github/last-commit/anchorcms/anchor-cms?color=black" />
           </div>
         </td>
         <td>A lightweight blog CMS for PHP.</td>
@@ -959,12 +815,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for AsgardCms" src="https://flat.badgen.net/github/stars/AsgardCms/Platform" />
-              </div>
-              <div>
-                <img alt="Last commit for AsgardCms" src="https://flat.badgen.net/github/last-commit/AsgardCms/Platform" />
-              </div>
+              <img alt="Stars for AsgardCms" src="https://flat.badgen.net/github/stars/AsgardCms/Platform?label=★&color=black" />
+              <img alt="Last commit for AsgardCms" src="https://flat.badgen.net/github/last-commit/AsgardCms/Platform?color=black" />
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
@@ -983,12 +835,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/bolt" />
-              </div>
-              <div>
-                <img alt="Last commit for Bolt" src="https://flat.badgen.net/github/last-commit/bolt/bolt" />
-              </div>
+              <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/bolt?label=★&color=black" />
+              <img alt="Last commit for Bolt" src="https://flat.badgen.net/github/last-commit/bolt/bolt?color=black" />
           </div>
         </td>
         <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
@@ -1004,12 +852,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Bootstrap CMS" src="https://flat.badgen.net/github/stars/BootstrapCMS/CMS" />
-              </div>
-              <div>
-                <img alt="Last commit for Bootstrap CMS" src="https://flat.badgen.net/github/last-commit/BootstrapCMS/CMS" />
-              </div>
+              <img alt="Stars for Bootstrap CMS" src="https://flat.badgen.net/github/stars/BootstrapCMS/CMS?label=★&color=black" />
+              <img alt="Last commit for Bootstrap CMS" src="https://flat.badgen.net/github/last-commit/BootstrapCMS/CMS?color=black" />
           </div>
         </td>
         <td>A PHP CMS powered by Laravel 5 and Sentry</td>
@@ -1025,12 +869,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Borgert CMS" src="https://flat.badgen.net/github/stars/odirleiborgert/borgert-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Borgert CMS" src="https://flat.badgen.net/github/last-commit/odirleiborgert/borgert-cms" />
-              </div>
+              <img alt="Stars for Borgert CMS" src="https://flat.badgen.net/github/stars/odirleiborgert/borgert-cms?label=★&color=black" />
+              <img alt="Last commit for Borgert CMS" src="https://flat.badgen.net/github/last-commit/odirleiborgert/borgert-cms?color=black" />
           </div>
         </td>
         <td>A simple CMS to start projects in Laravel 5.3 containing some modules. Blog, Pages, Products, Mailbox, Image Gallery and Users.</td>
@@ -1049,12 +889,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Cockpit CMS" src="https://flat.badgen.net/github/stars/COCOPi/cockpit" />
-              </div>
-              <div>
-                <img alt="Last commit for Cockpit CMS" src="https://flat.badgen.net/github/last-commit/COCOPi/cockpit" />
-              </div>
+              <img alt="Stars for Cockpit CMS" src="https://flat.badgen.net/github/stars/COCOPi/cockpit?label=★&color=black" />
+              <img alt="Last commit for Cockpit CMS" src="https://flat.badgen.net/github/last-commit/COCOPi/cockpit?color=black" />
           </div>
         </td>
         <td>Add content management functionality to any site.</td>
@@ -1073,12 +909,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Contao" src="https://flat.badgen.net/github/stars/contao/core" />
-              </div>
-              <div>
-                <img alt="Last commit for Contao" src="https://flat.badgen.net/github/last-commit/contao/core" />
-              </div>
+              <img alt="Stars for Contao" src="https://flat.badgen.net/github/stars/contao/core?label=★&color=black" />
+              <img alt="Last commit for Contao" src="https://flat.badgen.net/github/last-commit/contao/core?color=black" />
           </div>
         </td>
         <td>Contao is a web-based Open Source CMS, which generates accessible websites. It supports multiple languages and can easily be learned and extended.</td>
@@ -1097,12 +929,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Contenta CMS" src="https://flat.badgen.net/github/stars/contentacms/contenta_jsonapi" />
-              </div>
-              <div>
-                <img alt="Last commit for Contenta CMS" src="https://flat.badgen.net/github/last-commit/contentacms/contenta_jsonapi" />
-              </div>
+              <img alt="Stars for Contenta CMS" src="https://flat.badgen.net/github/stars/contentacms/contenta_jsonapi?label=★&color=black" />
+              <img alt="Last commit for Contenta CMS" src="https://flat.badgen.net/github/last-commit/contentacms/contenta_jsonapi?color=black" />
           </div>
         </td>
         <td>Open Source Healess CMS powered by Drupal. Contenta CMS is for highly structured content. Contenta CMS uses leverages the data modelling tools from Drupal and offers a queriable API and a friendly admin interface.</td>
@@ -1121,12 +949,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Craft CMS" src="https://flat.badgen.net/github/stars/craftcms/cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Craft CMS" src="https://flat.badgen.net/github/last-commit/craftcms/cms" />
-              </div>
+              <img alt="Stars for Craft CMS" src="https://flat.badgen.net/github/stars/craftcms/cms?label=★&color=black" />
+              <img alt="Last commit for Craft CMS" src="https://flat.badgen.net/github/last-commit/craftcms/cms?color=black" />
           </div>
         </td>
         <td>Craft CMS is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients.</td>
@@ -1145,12 +969,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Croogo" src="https://flat.badgen.net/github/stars/croogo/croogo" />
-              </div>
-              <div>
-                <img alt="Last commit for Croogo" src="https://flat.badgen.net/github/last-commit/croogo/croogo" />
-              </div>
+              <img alt="Stars for Croogo" src="https://flat.badgen.net/github/stars/croogo/croogo?label=★&color=black" />
+              <img alt="Last commit for Croogo" src="https://flat.badgen.net/github/last-commit/croogo/croogo?color=black" />
           </div>
         </td>
         <td>A CakePHP powered Content Management System.</td>
@@ -1169,12 +989,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus" />
-              </div>
-              <div>
-                <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus" />
-              </div>
+              <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus?label=★&color=black" />
+              <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus?color=black" />
           </div>
         </td>
         <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
@@ -1196,12 +1012,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for Drupal" src="https://flat.badgen.net/github/stars/drupal/drupal" />
-              </div>
-              <div>
-                <img alt="Last commit for Drupal" src="https://flat.badgen.net/github/last-commit/drupal/drupal" />
-              </div>
+              <img alt="Stars for Drupal" src="https://flat.badgen.net/github/stars/drupal/drupal?label=★&color=black" />
+              <img alt="Last commit for Drupal" src="https://flat.badgen.net/github/last-commit/drupal/drupal?color=black" />
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
@@ -1220,12 +1032,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Fork CMS" src="https://flat.badgen.net/github/stars/forkcms/forkcms" />
-              </div>
-              <div>
-                <img alt="Last commit for Fork CMS" src="https://flat.badgen.net/github/last-commit/forkcms/forkcms" />
-              </div>
+              <img alt="Stars for Fork CMS" src="https://flat.badgen.net/github/stars/forkcms/forkcms?label=★&color=black" />
+              <img alt="Last commit for Fork CMS" src="https://flat.badgen.net/github/last-commit/forkcms/forkcms?color=black" />
           </div>
         </td>
         <td>Fork is an open source CMS using Symfony Components.</td>
@@ -1244,12 +1052,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for FUEL CMS" src="https://flat.badgen.net/github/stars/daylightstudio/FUEL-CMS" />
-              </div>
-              <div>
-                <img alt="Last commit for FUEL CMS" src="https://flat.badgen.net/github/last-commit/daylightstudio/FUEL-CMS" />
-              </div>
+              <img alt="Stars for FUEL CMS" src="https://flat.badgen.net/github/stars/daylightstudio/FUEL-CMS?label=★&color=black" />
+              <img alt="Last commit for FUEL CMS" src="https://flat.badgen.net/github/last-commit/daylightstudio/FUEL-CMS?color=black" />
           </div>
         </td>
         <td>A CodeIgniter Content Management System.</td>
@@ -1268,12 +1072,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Grav" src="https://flat.badgen.net/github/stars/getgrav/grav" />
-              </div>
-              <div>
-                <img alt="Last commit for Grav" src="https://flat.badgen.net/github/last-commit/getgrav/grav" />
-              </div>
+              <img alt="Stars for Grav" src="https://flat.badgen.net/github/stars/getgrav/grav?label=★&color=black" />
+              <img alt="Last commit for Grav" src="https://flat.badgen.net/github/last-commit/getgrav/grav?color=black" />
           </div>
         </td>
         <td>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.</td>
@@ -1292,12 +1092,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Joomla!" src="https://flat.badgen.net/github/stars/joomla/joomla-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Joomla!" src="https://flat.badgen.net/github/last-commit/joomla/joomla-cms" />
-              </div>
+              <img alt="Stars for Joomla!" src="https://flat.badgen.net/github/stars/joomla/joomla-cms?label=★&color=black" />
+              <img alt="Last commit for Joomla!" src="https://flat.badgen.net/github/last-commit/joomla/joomla-cms?color=black" />
           </div>
         </td>
         <td>Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.</td>
@@ -1316,12 +1112,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Kirby" src="https://flat.badgen.net/github/stars/getkirby/starterkit" />
-              </div>
-              <div>
-                <img alt="Last commit for Kirby" src="https://flat.badgen.net/github/last-commit/getkirby/starterkit" />
-              </div>
+              <img alt="Stars for Kirby" src="https://flat.badgen.net/github/stars/getkirby/starterkit?label=★&color=black" />
+              <img alt="Last commit for Kirby" src="https://flat.badgen.net/github/last-commit/getkirby/starterkit?color=black" />
           </div>
         </td>
         <td>Kirby is a file-based CMS. Easy to setup. Easy to use. Flexible as hell.</td>
@@ -1340,12 +1132,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/stars/Kunstmaan/KunstmaanBundlesCMS" />
-              </div>
-              <div>
-                <img alt="Last commit for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/last-commit/Kunstmaan/KunstmaanBundlesCMS" />
-              </div>
+              <img alt="Stars for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/stars/Kunstmaan/KunstmaanBundlesCMS?label=★&color=black" />
+              <img alt="Last commit for KunstmaanBundlesCMS" src="https://flat.badgen.net/github/last-commit/Kunstmaan/KunstmaanBundlesCMS?color=black" />
           </div>
         </td>
         <td>An advanced yet user-friendly content management system, based on the full stack Symfony2 framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS system with an innovative page and form assembling process, versioning, workflow, translation and media managers and much more.</td>
@@ -1364,12 +1152,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Lavalite" src="https://flat.badgen.net/github/stars/LavaLite/cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Lavalite" src="https://flat.badgen.net/github/last-commit/LavaLite/cms" />
-              </div>
+              <img alt="Stars for Lavalite" src="https://flat.badgen.net/github/stars/LavaLite/cms?label=★&color=black" />
+              <img alt="Last commit for Lavalite" src="https://flat.badgen.net/github/last-commit/LavaLite/cms?color=black" />
           </div>
         </td>
         <td>CMS Built with Laravel 5.2 and Bootstrap 3.</td>
@@ -1388,12 +1172,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Magento" src="https://flat.badgen.net/github/stars/magento/magento2" />
-              </div>
-              <div>
-                <img alt="Last commit for Magento" src="https://flat.badgen.net/github/last-commit/magento/magento2" />
-              </div>
+              <img alt="Stars for Magento" src="https://flat.badgen.net/github/stars/magento/magento2?label=★&color=black" />
+              <img alt="Last commit for Magento" src="https://flat.badgen.net/github/last-commit/magento/magento2?color=black" />
           </div>
         </td>
         <td>Magento is an open-source e-commerce platform written in PHP.</td>
@@ -1412,12 +1192,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for MediaWiki" src="https://flat.badgen.net/github/stars/wikimedia/mediawiki" />
-              </div>
-              <div>
-                <img alt="Last commit for MediaWiki" src="https://flat.badgen.net/github/last-commit/wikimedia/mediawiki" />
-              </div>
+              <img alt="Stars for MediaWiki" src="https://flat.badgen.net/github/stars/wikimedia/mediawiki?label=★&color=black" />
+              <img alt="Last commit for MediaWiki" src="https://flat.badgen.net/github/last-commit/wikimedia/mediawiki?color=black" />
           </div>
         </td>
         <td>MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia.</td>
@@ -1436,12 +1212,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Microweber" src="https://flat.badgen.net/github/stars/microweber/microweber" />
-              </div>
-              <div>
-                <img alt="Last commit for Microweber" src="https://flat.badgen.net/github/last-commit/microweber/microweber" />
-              </div>
+              <img alt="Stars for Microweber" src="https://flat.badgen.net/github/stars/microweber/microweber?label=★&color=black" />
+              <img alt="Last commit for Microweber" src="https://flat.badgen.net/github/last-commit/microweber/microweber?color=black" />
           </div>
         </td>
         <td>Microweber is a new generation content management system that allows you to create a website using drag and drop. You can easily manipulate the content and the layout of your pages. No coding skills are required.</td>
@@ -1460,12 +1232,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/stars/modxcms/revolution" />
-              </div>
-              <div>
-                <img alt="Last commit for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/last-commit/modxcms/revolution" />
-              </div>
+              <img alt="Stars for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/stars/modxcms/revolution?label=★&color=black" />
+              <img alt="Last commit for MODX Web Content Management System and Platform" src="https://flat.badgen.net/github/last-commit/modxcms/revolution?color=black" />
           </div>
         </td>
         <td>MODX Revolution is the web content management platform for those that truly care about no-compromise design and exceptional user experience. It gives you complete control over your site and content, with the flexibility and scalability to adapt to your changing needs.</td>
@@ -1484,12 +1252,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for October" src="https://flat.badgen.net/github/stars/octobercms/october" />
-              </div>
-              <div>
-                <img alt="Last commit for October" src="https://flat.badgen.net/github/last-commit/octobercms/october" />
-              </div>
+              <img alt="Stars for October" src="https://flat.badgen.net/github/stars/octobercms/october?label=★&color=black" />
+              <img alt="Last commit for October" src="https://flat.badgen.net/github/last-commit/octobercms/october?color=black" />
           </div>
         </td>
         <td>October is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again.</td>
@@ -1508,12 +1272,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Pagekit" src="https://flat.badgen.net/github/stars/pagekit/pagekit" />
-              </div>
-              <div>
-                <img alt="Last commit for Pagekit" src="https://flat.badgen.net/github/last-commit/pagekit/pagekit" />
-              </div>
+              <img alt="Stars for Pagekit" src="https://flat.badgen.net/github/stars/pagekit/pagekit?label=★&color=black" />
+              <img alt="Last commit for Pagekit" src="https://flat.badgen.net/github/last-commit/pagekit/pagekit?color=black" />
           </div>
         </td>
         <td>Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js.</td>
@@ -1532,12 +1292,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Pico" src="https://flat.badgen.net/github/stars/picocms/Pico" />
-              </div>
-              <div>
-                <img alt="Last commit for Pico" src="https://flat.badgen.net/github/last-commit/picocms/Pico" />
-              </div>
+              <img alt="Stars for Pico" src="https://flat.badgen.net/github/stars/picocms/Pico?label=★&color=black" />
+              <img alt="Last commit for Pico" src="https://flat.badgen.net/github/last-commit/picocms/Pico?color=black" />
           </div>
         </td>
         <td>Pico is a stupidly simple, blazing fast, flat file CMS.</td>
@@ -1556,12 +1312,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Pimcore Platform" src="https://flat.badgen.net/github/stars/pimcore/pimcore" />
-              </div>
-              <div>
-                <img alt="Last commit for Pimcore Platform" src="https://flat.badgen.net/github/last-commit/pimcore/pimcore" />
-              </div>
+              <img alt="Stars for Pimcore Platform" src="https://flat.badgen.net/github/stars/pimcore/pimcore?label=★&color=black" />
+              <img alt="Last commit for Pimcore Platform" src="https://flat.badgen.net/github/last-commit/pimcore/pimcore?color=black" />
           </div>
         </td>
         <td>Content &amp; Product Management Framework (CMS/PIM/E-Commerce).</td>
@@ -1580,12 +1332,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Processwire" src="https://flat.badgen.net/github/stars/processwire/processwire" />
-              </div>
-              <div>
-                <img alt="Last commit for Processwire" src="https://flat.badgen.net/github/last-commit/processwire/processwire" />
-              </div>
+              <img alt="Stars for Processwire" src="https://flat.badgen.net/github/stars/processwire/processwire?label=★&color=black" />
+              <img alt="Last commit for Processwire" src="https://flat.badgen.net/github/last-commit/processwire/processwire?color=black" />
           </div>
         </td>
         <td>CMS and framework for building sites of all shapes and sizes. Developer and client friendly. Open Source</td>
@@ -1607,12 +1355,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for PyroCMS" src="https://flat.badgen.net/github/stars/pyrocms/pyrocms" />
-              </div>
-              <div>
-                <img alt="Last commit for PyroCMS" src="https://flat.badgen.net/github/last-commit/pyrocms/pyrocms" />
-              </div>
+              <img alt="Stars for PyroCMS" src="https://flat.badgen.net/github/stars/pyrocms/pyrocms?label=★&color=black" />
+              <img alt="Last commit for PyroCMS" src="https://flat.badgen.net/github/last-commit/pyrocms/pyrocms?color=black" />
           </div>
         </td>
         <td>PyroCMS is athe modular DDD-adheres PHP CMS/CMF, built on top of the Laravel&#x27;s MVC implementation. It has artisan based code generators, which would made it funny to create the Domain including models or just a new theme and then develop that created code. It has the highest learning curve, from all described here products!</td>
@@ -1631,12 +1375,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for REDAXO" src="https://flat.badgen.net/github/stars/redaxo/redaxo" />
-              </div>
-              <div>
-                <img alt="Last commit for REDAXO" src="https://flat.badgen.net/github/last-commit/redaxo/redaxo" />
-              </div>
+              <img alt="Stars for REDAXO" src="https://flat.badgen.net/github/stars/redaxo/redaxo?label=★&color=black" />
+              <img alt="Last commit for REDAXO" src="https://flat.badgen.net/github/last-commit/redaxo/redaxo?color=black" />
           </div>
         </td>
         <td>Easy to handle for users, flexible for developers. Feels quite reasonable. (Hint: will open up for English users gradually!)</td>
@@ -1655,12 +1395,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Redaxscript" src="https://flat.badgen.net/github/stars/redaxmedia/redaxscript" />
-              </div>
-              <div>
-                <img alt="Last commit for Redaxscript" src="https://flat.badgen.net/github/last-commit/redaxmedia/redaxscript" />
-              </div>
+              <img alt="Stars for Redaxscript" src="https://flat.badgen.net/github/stars/redaxmedia/redaxscript?label=★&color=black" />
+              <img alt="Last commit for Redaxscript" src="https://flat.badgen.net/github/last-commit/redaxmedia/redaxscript?color=black" />
           </div>
         </td>
         <td>Ultra lightweight CMS (Content Management System) for SQLite, MySQL and PostgreSQL.</td>
@@ -1679,12 +1415,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Roadiz" src="https://flat.badgen.net/github/stars/roadiz/roadiz" />
-              </div>
-              <div>
-                <img alt="Last commit for Roadiz" src="https://flat.badgen.net/github/last-commit/roadiz/roadiz" />
-              </div>
+              <img alt="Stars for Roadiz" src="https://flat.badgen.net/github/stars/roadiz/roadiz?label=★&color=black" />
+              <img alt="Last commit for Roadiz" src="https://flat.badgen.net/github/last-commit/roadiz/roadiz?color=black" />
           </div>
         </td>
         <td>Roadiz is a modern CMS based on a node system which can handle many types of services.</td>
@@ -1703,12 +1435,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for SilverStripe" src="https://flat.badgen.net/github/stars/silverstripe/silverstripe-framework" />
-              </div>
-              <div>
-                <img alt="Last commit for SilverStripe" src="https://flat.badgen.net/github/last-commit/silverstripe/silverstripe-framework" />
-              </div>
+              <img alt="Stars for SilverStripe" src="https://flat.badgen.net/github/stars/silverstripe/silverstripe-framework?label=★&color=black" />
+              <img alt="Last commit for SilverStripe" src="https://flat.badgen.net/github/last-commit/silverstripe/silverstripe-framework?color=black" />
           </div>
         </td>
         <td>SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.</td>
@@ -1727,12 +1455,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Sulu" src="https://flat.badgen.net/github/stars/sulu/sulu-standard" />
-              </div>
-              <div>
-                <img alt="Last commit for Sulu" src="https://flat.badgen.net/github/last-commit/sulu/sulu-standard" />
-              </div>
+              <img alt="Stars for Sulu" src="https://flat.badgen.net/github/stars/sulu/sulu-standard?label=★&color=black" />
+              <img alt="Last commit for Sulu" src="https://flat.badgen.net/github/last-commit/sulu/sulu-standard?color=black" />
           </div>
         </td>
         <td>Sulu is a content management platform based on Symfony made for businesses. It’s a flexible CMS to create and manage enterprise multi-sites and a reliable development environment for high-performance apps</td>
@@ -1754,12 +1478,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for Textpattern CMS" src="https://flat.badgen.net/github/stars/textpattern/textpattern" />
-              </div>
-              <div>
-                <img alt="Last commit for Textpattern CMS" src="https://flat.badgen.net/github/last-commit/textpattern/textpattern" />
-              </div>
+              <img alt="Stars for Textpattern CMS" src="https://flat.badgen.net/github/stars/textpattern/textpattern?label=★&color=black" />
+              <img alt="Last commit for Textpattern CMS" src="https://flat.badgen.net/github/last-commit/textpattern/textpattern?color=black" />
           </div>
         </td>
         <td>A flexible, elegant and easy-to-use content management system. Textpattern is both free and open source.</td>
@@ -1778,12 +1498,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Thelia" src="https://flat.badgen.net/github/stars/thelia/thelia" />
-              </div>
-              <div>
-                <img alt="Last commit for Thelia" src="https://flat.badgen.net/github/last-commit/thelia/thelia" />
-              </div>
+              <img alt="Stars for Thelia" src="https://flat.badgen.net/github/stars/thelia/thelia?label=★&color=black" />
+              <img alt="Last commit for Thelia" src="https://flat.badgen.net/github/last-commit/thelia/thelia?color=black" />
           </div>
         </td>
         <td>Thelia is an open source tool for creating e-business websites and managing online content. This software is published under LGPL and uses a large number of components from the Symfony project.</td>
@@ -1802,12 +1518,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Twill" src="https://flat.badgen.net/github/stars/area17/twill" />
-              </div>
-              <div>
-                <img alt="Last commit for Twill" src="https://flat.badgen.net/github/last-commit/area17/twill" />
-              </div>
+              <img alt="Stars for Twill" src="https://flat.badgen.net/github/stars/area17/twill?label=★&color=black" />
+              <img alt="Last commit for Twill" src="https://flat.badgen.net/github/last-commit/area17/twill?color=black" />
           </div>
         </td>
         <td>Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.</td>
@@ -1826,12 +1538,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for TypiCMS" src="https://flat.badgen.net/github/stars/TypiCMS/Base" />
-              </div>
-              <div>
-                <img alt="Last commit for TypiCMS" src="https://flat.badgen.net/github/last-commit/TypiCMS/Base" />
-              </div>
+              <img alt="Stars for TypiCMS" src="https://flat.badgen.net/github/stars/TypiCMS/Base?label=★&color=black" />
+              <img alt="Last commit for TypiCMS" src="https://flat.badgen.net/github/last-commit/TypiCMS/Base?color=black" />
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
@@ -1850,12 +1558,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for TYPO3" src="https://flat.badgen.net/github/stars/TYPO3/TYPO3.CMS" />
-              </div>
-              <div>
-                <img alt="Last commit for TYPO3" src="https://flat.badgen.net/github/last-commit/TYPO3/TYPO3.CMS" />
-              </div>
+              <img alt="Stars for TYPO3" src="https://flat.badgen.net/github/stars/TYPO3/TYPO3.CMS?label=★&color=black" />
+              <img alt="Last commit for TYPO3" src="https://flat.badgen.net/github/last-commit/TYPO3/TYPO3.CMS?color=black" />
           </div>
         </td>
         <td>With more than 500,000 installations TYPO3 CMS is the most widely used Enterprise Content Management System, providing the basis for websites, intranets and web &amp; mobile applications worldwide.</td>
@@ -1874,12 +1578,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Unite CMS" src="https://flat.badgen.net/github/stars/unite-cms/unite-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Unite CMS" src="https://flat.badgen.net/github/last-commit/unite-cms/unite-cms" />
-              </div>
+              <img alt="Stars for Unite CMS" src="https://flat.badgen.net/github/stars/unite-cms/unite-cms?label=★&color=black" />
+              <img alt="Last commit for Unite CMS" src="https://flat.badgen.net/github/last-commit/unite-cms/unite-cms?color=black" />
           </div>
         </td>
         <td>Open Source headless CMS, built on top of Symfony and GraphQL. Allows you to connect and manage all your digital project&#x27;s data in one single backend.</td>
@@ -1898,12 +1598,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for WonderCMS" src="https://flat.badgen.net/github/stars/robiso/WonderCMS" />
-              </div>
-              <div>
-                <img alt="Last commit for WonderCMS" src="https://flat.badgen.net/github/last-commit/robiso/WonderCMS" />
-              </div>
+              <img alt="Stars for WonderCMS" src="https://flat.badgen.net/github/stars/robiso/WonderCMS?label=★&color=black" />
+              <img alt="Last commit for WonderCMS" src="https://flat.badgen.net/github/last-commit/robiso/WonderCMS?color=black" />
           </div>
         </td>
         <td>Free, fast and small (only 5 files, 13KB zip) flat file CMS. No setup or configuration required. Maintained since 2008.</td>
@@ -1925,12 +1621,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for WordPress" src="https://flat.badgen.net/github/stars/WordPress/WordPress" />
-              </div>
-              <div>
-                <img alt="Last commit for WordPress" src="https://flat.badgen.net/github/last-commit/WordPress/WordPress" />
-              </div>
+              <img alt="Stars for WordPress" src="https://flat.badgen.net/github/stars/WordPress/WordPress?label=★&color=black" />
+              <img alt="Last commit for WordPress" src="https://flat.badgen.net/github/last-commit/WordPress/WordPress?color=black" />
           </div>
         </td>
         <td>WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.</td>
@@ -1949,12 +1641,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for XOOPS" src="https://flat.badgen.net/github/stars/XOOPS/XoopsCore" />
-              </div>
-              <div>
-                <img alt="Last commit for XOOPS" src="https://flat.badgen.net/github/last-commit/XOOPS/XoopsCore" />
-              </div>
+              <img alt="Stars for XOOPS" src="https://flat.badgen.net/github/stars/XOOPS/XoopsCore?label=★&color=black" />
+              <img alt="Last commit for XOOPS" src="https://flat.badgen.net/github/last-commit/XOOPS/XoopsCore?color=black" />
           </div>
         </td>
         <td>XOOPS CMS is a web application platform written in PHP for the MySQL database. Its object orientation makes it an ideal tool for developing small or large community websites, corporate portals, weblogs and much more.</td>
@@ -1989,12 +1677,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for django CMS" src="https://flat.badgen.net/github/stars/divio/django-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for django CMS" src="https://flat.badgen.net/github/last-commit/divio/django-cms" />
-              </div>
+              <img alt="Stars for django CMS" src="https://flat.badgen.net/github/stars/divio/django-cms?label=★&color=black" />
+              <img alt="Last commit for django CMS" src="https://flat.badgen.net/github/last-commit/divio/django-cms?color=black" />
           </div>
         </td>
         <td>The easy-to-use and developer-friendly CMS.</td>
@@ -2013,12 +1697,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for feinCMS" src="https://flat.badgen.net/github/stars/feincms/feincms" />
-              </div>
-              <div>
-                <img alt="Last commit for feinCMS" src="https://flat.badgen.net/github/last-commit/feincms/feincms" />
-              </div>
+              <img alt="Stars for feinCMS" src="https://flat.badgen.net/github/stars/feincms/feincms?label=★&color=black" />
+              <img alt="Last commit for feinCMS" src="https://flat.badgen.net/github/last-commit/feincms/feincms?color=black" />
           </div>
         </td>
         <td>A Django-based CMS with a focus on extensibility and concise code.</td>
@@ -2037,12 +1717,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Kotti" src="https://flat.badgen.net/github/stars/Kotti/Kotti" />
-              </div>
-              <div>
-                <img alt="Last commit for Kotti" src="https://flat.badgen.net/github/last-commit/Kotti/Kotti" />
-              </div>
+              <img alt="Stars for Kotti" src="https://flat.badgen.net/github/stars/Kotti/Kotti?label=★&color=black" />
+              <img alt="Last commit for Kotti" src="https://flat.badgen.net/github/last-commit/Kotti/Kotti?color=black" />
           </div>
         </td>
         <td>Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.</td>
@@ -2061,12 +1737,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Lektor" src="https://flat.badgen.net/github/stars/lektor/lektor" />
-              </div>
-              <div>
-                <img alt="Last commit for Lektor" src="https://flat.badgen.net/github/last-commit/lektor/lektor" />
-              </div>
+              <img alt="Stars for Lektor" src="https://flat.badgen.net/github/stars/lektor/lektor?label=★&color=black" />
+              <img alt="Last commit for Lektor" src="https://flat.badgen.net/github/last-commit/lektor/lektor?color=black" />
           </div>
         </td>
         <td>The lektor static file content management system</td>
@@ -2085,12 +1757,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Mezzanine" src="https://flat.badgen.net/github/stars/stephenmcd/mezzanine" />
-              </div>
-              <div>
-                <img alt="Last commit for Mezzanine" src="https://flat.badgen.net/github/last-commit/stephenmcd/mezzanine" />
-              </div>
+              <img alt="Stars for Mezzanine" src="https://flat.badgen.net/github/stars/stephenmcd/mezzanine?label=★&color=black" />
+              <img alt="Last commit for Mezzanine" src="https://flat.badgen.net/github/last-commit/stephenmcd/mezzanine?color=black" />
           </div>
         </td>
         <td>CMS framework for Django.</td>
@@ -2109,12 +1777,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Opps Project" src="https://flat.badgen.net/github/stars/opps/opps" />
-              </div>
-              <div>
-                <img alt="Last commit for Opps Project" src="https://flat.badgen.net/github/last-commit/opps/opps" />
-              </div>
+              <img alt="Stars for Opps Project" src="https://flat.badgen.net/github/stars/opps/opps?label=★&color=black" />
+              <img alt="Last commit for Opps Project" src="https://flat.badgen.net/github/last-commit/opps/opps?color=black" />
           </div>
         </td>
         <td>A Django-based CMS for the magazines, newspappers websites and portals with high-traffic.</td>
@@ -2133,12 +1797,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Plone CMS" src="https://flat.badgen.net/github/stars/plone/Plone" />
-              </div>
-              <div>
-                <img alt="Last commit for Plone CMS" src="https://flat.badgen.net/github/last-commit/plone/Plone" />
-              </div>
+              <img alt="Stars for Plone CMS" src="https://flat.badgen.net/github/stars/plone/Plone?label=★&color=black" />
+              <img alt="Last commit for Plone CMS" src="https://flat.badgen.net/github/last-commit/plone/Plone?color=black" />
           </div>
         </td>
         <td>Plone is a user friendly Content Management System running on top of Python, Zope and the CMF.</td>
@@ -2157,12 +1817,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Quokka CMS" src="https://flat.badgen.net/github/stars/quokkaproject/quokka" />
-              </div>
-              <div>
-                <img alt="Last commit for Quokka CMS" src="https://flat.badgen.net/github/last-commit/quokkaproject/quokka" />
-              </div>
+              <img alt="Stars for Quokka CMS" src="https://flat.badgen.net/github/stars/quokkaproject/quokka?label=★&color=black" />
+              <img alt="Last commit for Quokka CMS" src="https://flat.badgen.net/github/last-commit/quokkaproject/quokka?color=black" />
           </div>
         </td>
         <td>Quokka is a flexible content management platform powered by Python, Flask and MongoDB.</td>
@@ -2181,12 +1837,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Superdesk" src="https://flat.badgen.net/github/stars/superdesk/superdesk" />
-              </div>
-              <div>
-                <img alt="Last commit for Superdesk" src="https://flat.badgen.net/github/last-commit/superdesk/superdesk" />
-              </div>
+              <img alt="Stars for Superdesk" src="https://flat.badgen.net/github/stars/superdesk/superdesk?label=★&color=black" />
+              <img alt="Last commit for Superdesk" src="https://flat.badgen.net/github/last-commit/superdesk/superdesk?color=black" />
           </div>
         </td>
         <td>Superdesk is an open-source headless CMS written in Python using the Flask microframework with RESTful APIs developed in Python-Eve.</td>
@@ -2208,12 +1860,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/torchbox/wagtail" />
-              </div>
-              <div>
-                <img alt="Last commit for Wagtail CMS" src="https://flat.badgen.net/github/last-commit/torchbox/wagtail" />
-              </div>
+              <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/torchbox/wagtail?label=★&color=black" />
+              <img alt="Last commit for Wagtail CMS" src="https://flat.badgen.net/github/last-commit/torchbox/wagtail?color=black" />
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -2245,12 +1893,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Alchemy CMS" src="https://flat.badgen.net/github/stars/AlchemyCMS/alchemy_cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Alchemy CMS" src="https://flat.badgen.net/github/last-commit/AlchemyCMS/alchemy_cms" />
-              </div>
+              <img alt="Stars for Alchemy CMS" src="https://flat.badgen.net/github/stars/AlchemyCMS/alchemy_cms?label=★&color=black" />
+              <img alt="Last commit for Alchemy CMS" src="https://flat.badgen.net/github/last-commit/AlchemyCMS/alchemy_cms?color=black" />
           </div>
         </td>
         <td>Alchemy is a powerful, flexible and user centric Rails CMS.</td>
@@ -2269,12 +1913,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for APIQ" src="https://flat.badgen.net/github/stars/apiqcms/kms" />
-              </div>
-              <div>
-                <img alt="Last commit for APIQ" src="https://flat.badgen.net/github/last-commit/apiqcms/kms" />
-              </div>
+              <img alt="Stars for APIQ" src="https://flat.badgen.net/github/stars/apiqcms/kms?label=★&color=black" />
+              <img alt="Last commit for APIQ" src="https://flat.badgen.net/github/last-commit/apiqcms/kms?color=black" />
           </div>
         </td>
         <td>Simple and powerful Ruby on Rails CMS for developers and agencies</td>
@@ -2293,12 +1933,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Camaleon CMS" src="https://flat.badgen.net/github/stars/owen2345/camaleon-cms" />
-              </div>
-              <div>
-                <img alt="Last commit for Camaleon CMS" src="https://flat.badgen.net/github/last-commit/owen2345/camaleon-cms" />
-              </div>
+              <img alt="Stars for Camaleon CMS" src="https://flat.badgen.net/github/stars/owen2345/camaleon-cms?label=★&color=black" />
+              <img alt="Last commit for Camaleon CMS" src="https://flat.badgen.net/github/last-commit/owen2345/camaleon-cms?color=black" />
           </div>
         </td>
         <td>Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails 4.</td>
@@ -2314,12 +1950,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for ComfortableMexicanSofa " src="https://flat.badgen.net/github/stars/comfy/comfortable-mexican-sofa" />
-              </div>
-              <div>
-                <img alt="Last commit for ComfortableMexicanSofa " src="https://flat.badgen.net/github/last-commit/comfy/comfortable-mexican-sofa" />
-              </div>
+              <img alt="Stars for ComfortableMexicanSofa " src="https://flat.badgen.net/github/stars/comfy/comfortable-mexican-sofa?label=★&color=black" />
+              <img alt="Last commit for ComfortableMexicanSofa " src="https://flat.badgen.net/github/last-commit/comfy/comfortable-mexican-sofa?color=black" />
           </div>
         </td>
         <td>ComfortableMexicanSofa is a powerful Rails 4 CMS Engine.</td>
@@ -2338,12 +1970,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for LocomotiveCMS" src="https://flat.badgen.net/github/stars/locomotivecms/engine" />
-              </div>
-              <div>
-                <img alt="Last commit for LocomotiveCMS" src="https://flat.badgen.net/github/last-commit/locomotivecms/engine" />
-              </div>
+              <img alt="Stars for LocomotiveCMS" src="https://flat.badgen.net/github/stars/locomotivecms/engine?label=★&color=black" />
+              <img alt="Last commit for LocomotiveCMS" src="https://flat.badgen.net/github/last-commit/locomotivecms/engine?color=black" />
           </div>
         </td>
         <td>A platform to create, publish and edit sites.</td>
@@ -2362,12 +1990,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Nesta" src="https://flat.badgen.net/github/stars/gma/nesta" />
-              </div>
-              <div>
-                <img alt="Last commit for Nesta" src="https://flat.badgen.net/github/last-commit/gma/nesta" />
-              </div>
+              <img alt="Stars for Nesta" src="https://flat.badgen.net/github/stars/gma/nesta?label=★&color=black" />
+              <img alt="Last commit for Nesta" src="https://flat.badgen.net/github/last-commit/gma/nesta?color=black" />
           </div>
         </td>
         <td>A lightweight CMS, implemented in Sinatra.</td>
@@ -2386,12 +2010,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Property Web Builder" src="https://flat.badgen.net/github/stars/etewiah/property_web_builder" />
-              </div>
-              <div>
-                <img alt="Last commit for Property Web Builder" src="https://flat.badgen.net/github/last-commit/etewiah/property_web_builder" />
-              </div>
+              <img alt="Stars for Property Web Builder" src="https://flat.badgen.net/github/stars/etewiah/property_web_builder?label=★&color=black" />
+              <img alt="Last commit for Property Web Builder" src="https://flat.badgen.net/github/last-commit/etewiah/property_web_builder?color=black" />
           </div>
         </td>
         <td>Property Web Builder is a CMS for real estate (property listings) implemented as a Ruby on Rails 5 Engine with an ember.js admin panel.</td>
@@ -2410,12 +2030,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Publify" src="https://flat.badgen.net/github/stars/publify/publify" />
-              </div>
-              <div>
-                <img alt="Last commit for Publify" src="https://flat.badgen.net/github/last-commit/publify/publify" />
-              </div>
+              <img alt="Stars for Publify" src="https://flat.badgen.net/github/stars/publify/publify?label=★&color=black" />
+              <img alt="Last commit for Publify" src="https://flat.badgen.net/github/last-commit/publify/publify?color=black" />
           </div>
         </td>
         <td>A self hosted Web publishing platform on Rails.</td>
@@ -2434,12 +2050,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Radiant CMS" src="https://flat.badgen.net/github/stars/radiant/radiant" />
-              </div>
-              <div>
-                <img alt="Last commit for Radiant CMS" src="https://flat.badgen.net/github/last-commit/radiant/radiant" />
-              </div>
+              <img alt="Stars for Radiant CMS" src="https://flat.badgen.net/github/stars/radiant/radiant?label=★&color=black" />
+              <img alt="Last commit for Radiant CMS" src="https://flat.badgen.net/github/last-commit/radiant/radiant?color=black" />
           </div>
         </td>
         <td>Radiant is a no-fluff, open source content management system designed for small teams.</td>
@@ -2461,12 +2073,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <div>
-                <img alt="Stars for Refinery CMS" src="https://flat.badgen.net/github/stars/refinery/refinerycms" />
-              </div>
-              <div>
-                <img alt="Last commit for Refinery CMS" src="https://flat.badgen.net/github/last-commit/refinery/refinerycms" />
-              </div>
+              <img alt="Stars for Refinery CMS" src="https://flat.badgen.net/github/stars/refinery/refinerycms?label=★&color=black" />
+              <img alt="Last commit for Refinery CMS" src="https://flat.badgen.net/github/last-commit/refinery/refinerycms?color=black" />
           </div>
         </td>
         <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
@@ -2485,12 +2093,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Spina" src="https://flat.badgen.net/github/stars/denkGroot/Spina" />
-              </div>
-              <div>
-                <img alt="Last commit for Spina" src="https://flat.badgen.net/github/last-commit/denkGroot/Spina" />
-              </div>
+              <img alt="Stars for Spina" src="https://flat.badgen.net/github/stars/denkGroot/Spina?label=★&color=black" />
+              <img alt="Last commit for Spina" src="https://flat.badgen.net/github/last-commit/denkGroot/Spina?color=black" />
           </div>
         </td>
         <td>GitHub - denkGroot/Spina: Spina CMS.</td>
@@ -2506,12 +2110,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               </a>&nbsp;&nbsp;
           </div>
           <div>
-              <div>
-                <img alt="Stars for Storytime" src="https://flat.badgen.net/github/stars/CultivateLabs/storytime" />
-              </div>
-              <div>
-                <img alt="Last commit for Storytime" src="https://flat.badgen.net/github/last-commit/CultivateLabs/storytime" />
-              </div>
+              <img alt="Stars for Storytime" src="https://flat.badgen.net/github/stars/CultivateLabs/storytime?label=★&color=black" />
+              <img alt="Last commit for Storytime" src="https://flat.badgen.net/github/last-commit/CultivateLabs/storytime?color=black" />
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
