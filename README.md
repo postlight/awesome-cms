@@ -3026,6 +3026,6 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 
 🔬 A Labs project from your friends at [Postlight](https://postlight.com).
 
-[awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-image]: https://flat.badgen.net/badge/icon/awesome?icon=awesome&label&color=6f41c1
 [awesome-repo]: https://github.com/sindresorhus/awesome
 [the blog post]: https://postlight.com/trackchanges/building-awesome-cms
