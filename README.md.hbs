@@ -53,11 +53,16 @@ for details on generation and contribution._
               <a href="{{githubURL}}" title="GitHub Repo">
                 <img alt="Stars for {{name}}" src="{{starImageURL}}?label=★&color=black" />
               </a>
-            {{/if}}
-            {{#if url}}
-              <a href="{{url}}">
-                <img alt="Website for {{name}}" src="https://flat.badgen.net/badge/null/website?label" />
+              <a href="{{githubURL}}" title="GitHub Repo">
+                <img alt="GitHub page for {{name}}" src="https://flat.badgen.net/badge/null/GitHub?label" />
               </a>
+            {{/if}}
+            {{#if githubURL}}
+              {{#if url}}
+                <a href="{{url}}">
+                  <img alt="Website for {{name}}" src="https://flat.badgen.net/badge/null/Website?label" />
+                </a>
+              {{/if}}
             {{/if}}
             {{#if awesomeURL}}
             <a href="{{awesomeURL}}">
