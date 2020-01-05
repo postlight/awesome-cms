@@ -1,3 +1,4 @@
 name = "ExpressionEngine"
 description = "general purpose content management system written in object-oriented PHP and using MySQL for data storage."
+github_repo = "ExpressionEngine/ExpressionEngine"
 url = "https://expressionengine.com"
