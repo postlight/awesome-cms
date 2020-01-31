@@ -5,7 +5,7 @@
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
-_Last generated on January 3rd, 2020. See [CONTRIBUTING.md](/CONTRIBUTING.md)
+_Last generated on January 31st, 2020. See [CONTRIBUTING.md](/CONTRIBUTING.md)
 for details on generation and contribution._
 
 ## Contents
@@ -1161,7 +1161,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               <a href="https://github.com/directus/directus" title="GitHub Repo">
                 <img alt="GitHub page for Directus" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
-                <a href="http://getdirectus.com">
+                <a href="https://getdirectus.com">
                   <img alt="Website for Directus" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
@@ -1169,7 +1169,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus?color=black" />
           </div>
         </td>
-        <td>Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.</td>
+        <td>Directus is a headless CMS open-source suite of software that wraps custom SQL databases with a dynamic API and intuitive Admin App. It allows both administrators and non-technical users to view and manage the content/data stored in pure SQL databases. It can be used as a headless CMS for managing project content, a database client for modeling and viewing raw data REST API or GraphQL, or as customizable WebApp.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1197,6 +1197,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/ExpressionEngine/ExpressionEngine">
+                <b>ExpressionEngine</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/ExpressionEngine/ExpressionEngine" title="GitHub Repo">
+                <img alt="Stars for ExpressionEngine" src="https://flat.badgen.net/github/stars/ExpressionEngine/ExpressionEngine?label=★&color=black" />
+              </a>
+              <a href="https://github.com/ExpressionEngine/ExpressionEngine" title="GitHub Repo">
+                <img alt="GitHub page for ExpressionEngine" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://expressionengine.com">
+                  <img alt="Website for ExpressionEngine" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for ExpressionEngine" src="https://flat.badgen.net/github/last-commit/ExpressionEngine/ExpressionEngine?color=black" />
+          </div>
+        </td>
+        <td>general purpose content management system written in object-oriented PHP and using MySQL for data storage.</td>
       </tr>
       <tr>
         <td width="240">
@@ -2664,20 +2688,6 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-              <a href="https://ellislab.com/expressionengine">
-                <b>ExpressionEngine</b>
-              </a>
-          </div>
-          <div>
-          </div>
-          <div>
-          </div>
-        </td>
-        <td>general purpose content management system written in object-oriented PHP and using MySQL for data storage.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
               <a href="https://flamelink.io">
                 <b>Flamelink</b>
               </a>
@@ -2944,8 +2954,8 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-              <a href="https://thegrid.io">
-                <b>The Grid</b>
+              <a href="https://webflow.com/cms">
+                <b>Webflow</b>
               </a>
           </div>
           <div>
@@ -2953,7 +2963,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           <div>
           </div>
         </td>
-        <td>AI websites that design themselves.</td>
+        <td>Create the content structure you need, then design it visually.</td>
       </tr>
       <tr>
         <td width="240">
@@ -3001,7 +3011,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 </table>
 
 
-## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors)
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors)
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -3015,7 +3025,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 | [<img src="https://avatars1.githubusercontent.com/u/1741198?v=4" width="100px;"/><br /><sub>Ed Tewiah</sub>](http://propertywebbuilder.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=etewiah) | [<img src="https://avatars0.githubusercontent.com/u/599247?v=4" width="100px;"/><br /><sub>Michael Lukaszczyk</sub>](https://graphcms.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=mlukaszczyk) | [<img src="https://avatars2.githubusercontent.com/u/1140906?v=4" width="100px;"/><br /><sub>Mateu Aguiló Bosch</sub>](http://about.me/e0ipso)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=e0ipso) | [<img src="https://avatars0.githubusercontent.com/u/10823695?v=4" width="100px;"/><br /><sub>kevded</sub>](http://github.deddy.me)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Kevded) | [<img src="https://avatars3.githubusercontent.com/u/5930429?v=4" width="100px;"/><br /><sub>Denis Efremov</sub>](https://github.com/Piterden)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Piterden) | [<img src="https://avatars1.githubusercontent.com/u/1236435?v=4" width="100px;"/><br /><sub>Sebastian Stehle</sub>](https://squidex.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=SebastianStehle) | [<img src="https://avatars0.githubusercontent.com/u/136237?v=4" width="100px;"/><br /><sub>Fredrik Broman</sub>](http://frebro.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=frebro) |
 | [<img src="https://avatars2.githubusercontent.com/u/6200139?v=4" width="100px;"/><br /><sub>robiso</sub>](https://twitter.com/robertisoski)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=robiso) | [<img src="https://avatars2.githubusercontent.com/u/13753370?v=4" width="100px;"/><br /><sub>M.D.Gregory</sub>](http://www.matthewdarylgregory.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Synj24) | [<img src="https://avatars3.githubusercontent.com/u/1707744?v=4" width="100px;"/><br /><sub>octavore</sub>](https://github.com/octavore)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=octavore) | [<img src="https://avatars2.githubusercontent.com/u/38933328?v=4" width="100px;"/><br /><sub>Susannavargs90</sub>](https://github.com/Susannavargs90)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Susannavargs90) | [<img src="https://avatars3.githubusercontent.com/u/309309?v=4" width="100px;"/><br /><sub>Franz Wilding</sub>](https://unitecms.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=franzwilding) | [<img src="https://avatars1.githubusercontent.com/u/562536?v=4" width="100px;"/><br /><sub>Rafał Muszyński</sub>](https://blog.rafalmuszynski.pl)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=takeit) | [<img src="https://avatars3.githubusercontent.com/u/3196138?v=4" width="100px;"/><br /><sub>Juha Lindfors</sub>](https://github.com/juhalindfors)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=juhalindfors) |
 | [<img src="https://avatars3.githubusercontent.com/u/13591213?v=4" width="100px;"/><br /><sub>Tony Hudson</sub>](https://ngohungphuc.wordpress.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ngohungphuc) | [<img src="https://avatars0.githubusercontent.com/u/127962?v=4" width="100px;"/><br /><sub>Mark Catalano</sub>](https://www.takeshape.io/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=mcat) | [<img src="https://avatars1.githubusercontent.com/u/708498?v=4" width="100px;"/><br /><sub>Quentin Renard</sub>](https://github.com/ifox)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ifox) | [<img src="https://avatars0.githubusercontent.com/u/13603045?v=4" width="100px;"/><br /><sub>Viraj Trivedi</sub>](https://otaku.codes)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=inf3cti0n95) | [<img src="https://avatars3.githubusercontent.com/u/180773?v=4" width="100px;"/><br /><sub>Birkir Gudjonsson</sub>](https://medium.com/@birkir.gudjonsson)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=birkir) | [<img src="https://avatars3.githubusercontent.com/u/11514928?v=4" width="100px;"/><br /><sub>Joseph Thomas</sub>](https://www.good-idea.studio)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=good-idea) | [<img src="https://avatars1.githubusercontent.com/u/32125?v=4" width="100px;"/><br /><sub>Tom Boutell</sub>](http://punkave.com/window)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=boutell) |
-| [<img src="https://avatars1.githubusercontent.com/u/169432?v=4" width="100px;"/><br /><sub>Russ Danner</sub>](http://craftersoftware.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=russdanner) | [<img src="https://avatars1.githubusercontent.com/u/1254351?v=4" width="100px;"/><br /><sub>Ryan Susana</sub>](https://ryansusana.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=RyanSusana) | [<img src="https://avatars3.githubusercontent.com/u/308134?v=4" width="100px;"/><br /><sub>Andrew Powers</sub>](https://www.fiction.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=arpowers) | [<img src="https://avatars1.githubusercontent.com/u/9218736?v=4" width="100px;"/><br /><sub>Ondřej Chrastina</sub>](https://github.com/Simply007)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Simply007) |
+| [<img src="https://avatars1.githubusercontent.com/u/169432?v=4" width="100px;"/><br /><sub>Russ Danner</sub>](http://craftersoftware.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=russdanner) | [<img src="https://avatars1.githubusercontent.com/u/1254351?v=4" width="100px;"/><br /><sub>Ryan Susana</sub>](https://ryansusana.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=RyanSusana) | [<img src="https://avatars3.githubusercontent.com/u/308134?v=4" width="100px;"/><br /><sub>Andrew Powers</sub>](https://www.fiction.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=arpowers) | [<img src="https://avatars1.githubusercontent.com/u/9218736?v=4" width="100px;"/><br /><sub>Ondřej Chrastina</sub>](https://github.com/Simply007)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Simply007) | [<img src="https://avatars2.githubusercontent.com/u/395307?v=4" width="100px;"/><br /><sub>Forrest Oliphant</sub>](https://www.forresto.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=forresto) | [<img src="https://avatars0.githubusercontent.com/u/308752?v=4" width="100px;"/><br /><sub>Tim Murtaugh</sub>](http://monkeydo.biz)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=murtaugh) | [<img src="https://avatars1.githubusercontent.com/u/19521054?v=4" width="100px;"/><br /><sub>Andres Garcia</sub>](https://github.com/andgar2010)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=andgar2010) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
