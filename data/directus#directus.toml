@@ -1,5 +1,5 @@
 name = "Directus"
-description = "Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas."
-url = "http://getdirectus.com"
+description = "Directus is a headless CMS open-source suite of software that wraps custom SQL databases with a dynamic API and intuitive Admin App. It allows both administrators and non-technical users to view and manage the content/data stored in pure SQL databases. It can be used as a headless CMS for managing project content, a database client for modeling and viewing raw data REST API or GraphQL, or as customizable WebApp."
+url = "https://getdirectus.com"
 github_repo = "directus/directus"
 language = "php"
