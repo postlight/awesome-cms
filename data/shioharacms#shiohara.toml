@@ -1,0 +1,5 @@
+name = "Shiohara CMS"
+description = "Model Content and Create Site using Javascript with Native Cache and Search. Shiohara CMS uses AngularJS and Spring Boot, develop javascript models on the server through Nashorn"
+url = "http://shiohara.org"
+github_repo = "ShioharaCMS/shiohara"
+language = "java"
