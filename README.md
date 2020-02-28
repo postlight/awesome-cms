@@ -5,8 +5,7 @@
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
-_Last generated on February 28th, 2020. See [CONTRIBUTING.md](/CONTRIBUTING.md)
-for details on generation and contribution._
+_See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribution._
 
 ## Contents
 
