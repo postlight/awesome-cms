@@ -145,26 +145,26 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
       <tr>
         <td width="240">
           <div>
-              <a href="https://github.com/PiranhaCMS/Piranha">
-                <b>Piranha CMS</b>
+              <a href="https://github.com/piranhacms/piranha.core">
+                <b>Piranha CMS Core</b>
               </a>
           </div>
           <div>
-              <a href="https://github.com/PiranhaCMS/Piranha" title="GitHub Repo">
-                <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/PiranhaCMS/Piranha?label=★&color=black" />
+              <a href="https://github.com/PiranhaCMS/piranha.core" title="GitHub Repo">
+                <img alt="Stars for Piranha CMS" src="https://flat.badgen.net/github/stars/piranha.core/Piranha?label=★&color=black" />
               </a>
-              <a href="https://github.com/PiranhaCMS/Piranha" title="GitHub Repo">
-                <img alt="GitHub page for Piranha CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              <a href="https://github.com/PiranhaCMS/piranha.core" title="GitHub Repo">
+                <img alt="GitHub page for Piranha CMS Core" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="http://piranhacms.org">
-                  <img alt="Website for Piranha CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                  <img alt="Website for Piranha CMS Core" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
-              <img alt="Last commit for Piranha CMS" src="https://flat.badgen.net/github/last-commit/PiranhaCMS/Piranha?color=black" />
+              <img alt="Last commit for Piranha CMS Core" src="https://flat.badgen.net/github/last-commit/PiranhaCMS/Piranha?color=black" />
           </div>
         </td>
-        <td>Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It&#x27;s built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix.</td>
+        <td>Piranha Core is the fun, fast and lightweight .NET Core framework for developing cms-based web applications with an extra bite. Piranha Core is complete rewrite of Piranha CMS for .NET Core.</td>
       </tr>
       <tr>
         <td width="240">
