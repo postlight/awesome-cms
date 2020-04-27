@@ -659,7 +659,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
               <img alt="Last commit for KeystoneJS" src="https://flat.badgen.net/github/last-commit/keystonejs/keystone?color=black" />
           </div>
         </td>
-        <td>The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.</td>
+        <td>The open source framework for developing database-driven websites, applications and APIs in Node.js based on GraphQL. Built on Express and supports Postgres and MongoDB.</td>
       </tr>
       <tr>
         <td width="240">
