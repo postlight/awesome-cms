@@ -1,0 +1,5 @@
+name = "Flextype"
+description = "Flextype is an open-source self-hosted Data-First Headless CMS & API. Building this content management system, we focused on simplicity - even novice webmaster adapt his template and writes his own plugin. To achieve this, we implemented a simple but powerful API's."
+url = "https://flextype.org"
+github_repo = "flextype/flextype"
+language = "php"
