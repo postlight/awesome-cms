@@ -1,7 +1,7 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-[Postlight](https://postlight.com)'s Awesome CMS is a collection of **135** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **136** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -1244,6 +1244,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>general purpose content management system written in object-oriented PHP and using MySQL for data storage.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/flextype/flextype">
+                <b>Flextype</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/flextype/flextype" title="GitHub Repo">
+                <img alt="Stars for Flextype" src="https://flat.badgen.net/github/stars/flextype/flextype?label=★&color=black" />
+              </a>
+              <a href="https://github.com/flextype/flextype" title="GitHub Repo">
+                <img alt="GitHub page for Flextype" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://flextype.org">
+                  <img alt="Website for Flextype" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Flextype" src="https://flat.badgen.net/github/last-commit/flextype/flextype?color=black" />
+          </div>
+        </td>
+        <td>Flextype is an open-source self-hosted Data-First Headless CMS &amp; API. Building this content management system, we focused on simplicity - even novice webmaster adapt his template and writes his own plugin. To achieve this, we implemented a simple but powerful API&#x27;s.</td>
       </tr>
       <tr>
         <td width="240">
@@ -3034,7 +3058,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 </table>
 
 
-## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-71-orange.svg?style=flat-square)](#contributors)
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-72-orange.svg?style=flat-square)](#contributors)
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -3049,7 +3073,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 | [<img src="https://avatars2.githubusercontent.com/u/6200139?v=4" width="100px;"/><br /><sub>robiso</sub>](https://twitter.com/robertisoski)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=robiso) | [<img src="https://avatars2.githubusercontent.com/u/13753370?v=4" width="100px;"/><br /><sub>M.D.Gregory</sub>](http://www.matthewdarylgregory.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Synj24) | [<img src="https://avatars3.githubusercontent.com/u/1707744?v=4" width="100px;"/><br /><sub>octavore</sub>](https://github.com/octavore)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=octavore) | [<img src="https://avatars2.githubusercontent.com/u/38933328?v=4" width="100px;"/><br /><sub>Susannavargs90</sub>](https://github.com/Susannavargs90)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Susannavargs90) | [<img src="https://avatars3.githubusercontent.com/u/309309?v=4" width="100px;"/><br /><sub>Franz Wilding</sub>](https://unitecms.io)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=franzwilding) | [<img src="https://avatars1.githubusercontent.com/u/562536?v=4" width="100px;"/><br /><sub>Rafał Muszyński</sub>](https://blog.rafalmuszynski.pl)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=takeit) | [<img src="https://avatars3.githubusercontent.com/u/3196138?v=4" width="100px;"/><br /><sub>Juha Lindfors</sub>](https://github.com/juhalindfors)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=juhalindfors) |
 | [<img src="https://avatars3.githubusercontent.com/u/13591213?v=4" width="100px;"/><br /><sub>Tony Hudson</sub>](https://ngohungphuc.wordpress.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ngohungphuc) | [<img src="https://avatars0.githubusercontent.com/u/127962?v=4" width="100px;"/><br /><sub>Mark Catalano</sub>](https://www.takeshape.io/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=mcat) | [<img src="https://avatars1.githubusercontent.com/u/708498?v=4" width="100px;"/><br /><sub>Quentin Renard</sub>](https://github.com/ifox)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=ifox) | [<img src="https://avatars0.githubusercontent.com/u/13603045?v=4" width="100px;"/><br /><sub>Viraj Trivedi</sub>](https://otaku.codes)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=inf3cti0n95) | [<img src="https://avatars3.githubusercontent.com/u/180773?v=4" width="100px;"/><br /><sub>Birkir Gudjonsson</sub>](https://medium.com/@birkir.gudjonsson)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=birkir) | [<img src="https://avatars3.githubusercontent.com/u/11514928?v=4" width="100px;"/><br /><sub>Joseph Thomas</sub>](https://www.good-idea.studio)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=good-idea) | [<img src="https://avatars1.githubusercontent.com/u/32125?v=4" width="100px;"/><br /><sub>Tom Boutell</sub>](http://punkave.com/window)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=boutell) |
 | [<img src="https://avatars1.githubusercontent.com/u/169432?v=4" width="100px;"/><br /><sub>Russ Danner</sub>](http://craftersoftware.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=russdanner) | [<img src="https://avatars1.githubusercontent.com/u/1254351?v=4" width="100px;"/><br /><sub>Ryan Susana</sub>](https://ryansusana.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=RyanSusana) | [<img src="https://avatars3.githubusercontent.com/u/308134?v=4" width="100px;"/><br /><sub>Andrew Powers</sub>](https://www.fiction.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=arpowers) | [<img src="https://avatars1.githubusercontent.com/u/9218736?v=4" width="100px;"/><br /><sub>Ondřej Chrastina</sub>](https://github.com/Simply007)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Simply007) | [<img src="https://avatars2.githubusercontent.com/u/395307?v=4" width="100px;"/><br /><sub>Forrest Oliphant</sub>](https://www.forresto.com/)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=forresto) | [<img src="https://avatars0.githubusercontent.com/u/308752?v=4" width="100px;"/><br /><sub>Tim Murtaugh</sub>](http://monkeydo.biz)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=murtaugh) | [<img src="https://avatars1.githubusercontent.com/u/19521054?v=4" width="100px;"/><br /><sub>Andres Garcia</sub>](https://github.com/andgar2010)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=andgar2010) |
-| [<img src="https://avatars3.githubusercontent.com/u/331174?v=4" width="100px;"/><br /><sub>Alexandre Oliveira</sub>](http://viglet.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=alegauss) |
+| [<img src="https://avatars3.githubusercontent.com/u/331174?v=4" width="100px;"/><br /><sub>Alexandre Oliveira</sub>](http://viglet.com)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=alegauss) | [<img src="https://avatars0.githubusercontent.com/u/477114?v=4" width="100px;"/><br /><sub>Sergey Romanenko</sub>](http://digital.flextype.org)<br />[📖](https://github.com/postlight/awesome-cms/commits?author=Awilum) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
