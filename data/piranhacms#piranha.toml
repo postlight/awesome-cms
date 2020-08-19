@@ -1,5 +1,5 @@
 name = "Piranha CMS"
 description = "Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix."
 url = "http://piranhacms.org"
-github_repo = "PiranhaCMS/Piranha"
+github_repo = "PiranhaCMS/piranha.core"
 language = "c#"
