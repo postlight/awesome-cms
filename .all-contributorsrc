@@ -660,6 +660,26 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "zacpross",
+      "name": "Zac",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1058963?v=4",
+      "profile": "https://thingsthat.com",
+      "contributions": [
+        "docs",
+        "doc"
+      ]
+    },
+    {
+      "login": "KevinGliewe",
+      "name": "Kevin Gliewe",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/28301259?v=4",
+      "profile": "http://gliewe.net",
+      "contributions": [
+        "doc"
+      ]
     }
-  ]
+  ],
+  "repoType": "github"
 }
