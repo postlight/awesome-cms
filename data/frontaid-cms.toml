@@ -1,0 +1,3 @@
+name = "FrontAid CMS"
+description = "FrontAid is a Git-based CMS for JSON files. Based on a data model that you define, it allows copy texters to fill in and update content that is then stored in a single JSON file and pushed to your own Git repository."
+url = "https://frontaid.io/"
