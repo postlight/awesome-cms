@@ -1,7 +1,7 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-[Postlight](https://postlight.com)'s Awesome CMS is a collection of **137** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **138** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -2759,6 +2759,20 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Forestry is the Git-based CMS that makes website development easy and keeps your editors happy.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://frontaid.io/">
+                <b>FrontAid CMS</b>
+              </a>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>FrontAid is a Git-based CMS for JSON files. Based on a data model that you define, it allows copy texters to fill in and update content that is then stored in a single JSON file and pushed to your own Git repository.</td>
       </tr>
       <tr>
         <td width="240">

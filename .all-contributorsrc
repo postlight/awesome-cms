@@ -679,6 +679,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "frontaid",
+      "name": "FrontAid CMS",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/56605536?v=4",
+      "profile": "https://frontaid.io/",
+      "contributions": [
+        "docs"
+      ]
     }
   ],
   "repoType": "github"
