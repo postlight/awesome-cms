@@ -1,5 +1,5 @@
 name = "Bolt"
-description = "Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL."
-url = "https://github.com/bolt/bolt"
-github_repo = "bolt/bolt"
+description = "Bolt is an extensible Symfony-based CMS. It has a built-in REST & GraphQL API, multilingual and powerful content querying in Twig."
+url = "https://boltcms.io/"
+github_repo = "bolt/project"
 language = "php"
