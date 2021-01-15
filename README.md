@@ -987,26 +987,26 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-              <a href="https://github.com/bolt/bolt">
+              <a href="https://github.com/bolt/project">
                 <b>Bolt</b>
               </a>
           </div>
           <div>
-              <a href="https://github.com/bolt/bolt" title="GitHub Repo">
-                <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/bolt?label=★&color=black" />
+              <a href="https://github.com/bolt/project" title="GitHub Repo">
+                <img alt="Stars for Bolt" src="https://flat.badgen.net/github/stars/bolt/project?label=★&color=black" />
               </a>
-              <a href="https://github.com/bolt/bolt" title="GitHub Repo">
+              <a href="https://github.com/bolt/project" title="GitHub Repo">
                 <img alt="GitHub page for Bolt" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
-                <a href="https://github.com/bolt/bolt">
+                <a href="https://boltcms.io/">
                   <img alt="Website for Bolt" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
           <div>
-              <img alt="Last commit for Bolt" src="https://flat.badgen.net/github/last-commit/bolt/bolt?color=black" />
+              <img alt="Last commit for Bolt" src="https://flat.badgen.net/github/last-commit/bolt/project?color=black" />
           </div>
         </td>
-        <td>Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.</td>
+        <td>Bolt is an extensible Symfony-based CMS. It has a built-in REST &amp; GraphQL API, multilingual and powerful content querying in Twig.</td>
       </tr>
       <tr>
         <td width="240">
