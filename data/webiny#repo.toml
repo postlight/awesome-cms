@@ -1,5 +1,0 @@
-name = "Webiny Serverless CMS"
-description = "GraphQL based headless CMS with powerful content modeling features."
-url = "https://www.webiny.com/"
-github_repo = "webiny/webiny-js"
-language = "javascript"
