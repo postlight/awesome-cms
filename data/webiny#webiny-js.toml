@@ -1,0 +1,5 @@
+name = "Webiny Serverless CMS"
+description = "A self-hosted, open-source, headless CMS that runs on top of serverless infrastructure. Scaleable, cost-effective, and innovative solution for managing all of your content needs. It is quick and easy to deploy, and because of the serverless infrastructure, you will only pay for what you use."
+url = "https://www.webiny.com/?utm_source=awesome-cms&utm_medium=webiny&utm_campaign=webiny-serverless-cms-awsome-cms-repo&utm_content=webiny-serverless-cms&utm_term=W00498 "
+github_repo = "webiny/webiny-js"
+language = "javascript"
