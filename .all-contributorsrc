@@ -688,6 +688,24 @@
       "contributions": [
         "docs"
       ]
+    },
+    {
+      "login": "AlbionaHoti",
+      "name": "Albiona",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22985657?v=4",
+      "profile": "http://blog.albiona.dev",
+      "contributions": [
+        "docs"
+      ]
+    },
+    {
+      "login": "paescuj",
+      "name": "Pascal Jufer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5363448?v=4",
+      "profile": "https://paescuj.ch",
+      "contributions": [
+        "docs"
+      ]
     }
   ],
   "repoType": "github"

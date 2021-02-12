@@ -1,7 +1,7 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-[Postlight](https://postlight.com)'s Awesome CMS is a collection of **138** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **140** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -922,6 +922,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Webhook lets you build a custom CMS with matching HTML templates in about a minute. Webhook is built with Node JS, Grunt, Firebase and Swig.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/webiny/webiny-js">
+                <b>Webiny Serverless CMS</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/webiny/webiny-js" title="GitHub Repo">
+                <img alt="Stars for Webiny Serverless CMS" src="https://flat.badgen.net/github/stars/webiny/webiny-js?label=★&color=black" />
+              </a>
+              <a href="https://github.com/webiny/webiny-js" title="GitHub Repo">
+                <img alt="GitHub page for Webiny Serverless CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://www.webiny.com/?utm_source&#x3D;awesome-cms&amp;utm_medium&#x3D;webiny&amp;utm_campaign&#x3D;webiny-serverless-cms-awsome-cms-repo&amp;utm_content&#x3D;webiny-serverless-cms&amp;utm_term&#x3D;W00498 ">
+                  <img alt="Website for Webiny Serverless CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Webiny Serverless CMS" src="https://flat.badgen.net/github/last-commit/webiny/webiny-js?color=black" />
+          </div>
+        </td>
+        <td>A self-hosted, open-source, headless CMS that runs on top of serverless infrastructure. Scaleable, cost-effective, and innovative solution for managing all of your content needs. It is quick and easy to deploy, and because of the serverless infrastructure, you will only pay for what you use.</td>
       </tr>
   </tbody>
 </table>
@@ -2717,6 +2741,23 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Cosmic JS is a cloud-hosted content platform that offers a flexible and intuitive CMS API.  Build websites and applications with more freedom and manage content easier.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://www.episerver.com/">
+                <b>Episerver</b>
+              </a>
+          </div>
+          <div>
+            <a href="https://github.com/valdisiljuconoks/awesome-episerver">
+              <img alt="Awesome List for Episerver" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
+            </a>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Manages content, products and campaigns. Built on top of a Microsoft technology stack and features integrations with a cloud platform and third party services.</td>
       </tr>
       <tr>
         <td width="240">
