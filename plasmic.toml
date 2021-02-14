@@ -1,0 +1,10 @@
+name = "Plasmic"
+description = "A fast, easy to use, powerful visual page builder that integrates like a headless CMS into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps."
+# A URL other than the GitHub URL
+url = "https://www.plasmic.app"
+# If there's an awesome list for this CMS.
+awesome_repo = ""
+# Only if it's open source
+github_repo = "plasmicapp/plasmic"
+# Lower case, e.g. javascript, php, c#.
+language = "typescript, javascript"
