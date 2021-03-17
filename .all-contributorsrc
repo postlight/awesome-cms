@@ -706,6 +706,15 @@
       "contributions": [
         "docs"
       ]
+    },
+    {
+      "login": "ZeProf2Code",
+      "name": "Arnaud Lier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32982428?v=4",
+      "profile": "https://zeprof2code.github.io",
+      "contributions": [
+        "docs"
+      ]
     }
   ],
   "repoType": "github"
