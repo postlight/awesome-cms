@@ -1,7 +1,7 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-[Postlight](https://postlight.com)'s Awesome CMS is a collection of **140** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **141** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -1007,6 +1007,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>A modular multilingual CMS built with Laravel 5.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/Azuriom/Azuriom">
+                <b>Azuriom</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/Azuriom/Azuriom" title="GitHub Repo">
+                <img alt="Stars for Azuriom" src="https://flat.badgen.net/github/stars/Azuriom/Azuriom?label=★&color=black" />
+              </a>
+              <a href="https://github.com/Azuriom/Azuriom" title="GitHub Repo">
+                <img alt="GitHub page for Azuriom" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://www.azuriom.com">
+                  <img alt="Website for Azuriom" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Azuriom" src="https://flat.badgen.net/github/last-commit/Azuriom/Azuriom?color=black" />
+          </div>
+        </td>
+        <td>Azuriom is a modern, reliable, fast and secure game CMS built with Laravel 8.</td>
       </tr>
       <tr>
         <td width="240">
