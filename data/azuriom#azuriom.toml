@@ -1,0 +1,5 @@
+name = "Azuriom"
+description = "Azuriom is a modern, reliable, fast and secure game CMS built with Laravel 8."
+url = "https://www.azuriom.com"
+github_repo = "Azuriom/Azuriom"
+language = "php"
