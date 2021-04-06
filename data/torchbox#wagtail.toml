@@ -1,6 +1,6 @@
 name = "Wagtail CMS"
 description = "Wagtail is a content management system built on Django. It's focused on user experience, and offers precise control for designers and developers."
-url = "http://wagtail.io"
-github_repo = "torchbox/wagtail"
+url = "https://wagtail.io"
+github_repo = "wagtail/wagtail"
 awesome_repo = "springload/awesome-wagtail"
 language = "python"
