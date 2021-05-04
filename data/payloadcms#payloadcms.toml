@@ -1,0 +1,5 @@
+name = "Payload CMS"
+description = "A self-hosted, headless CMS with code-first configuration, customizable admin panel, and a rich editing experience. Many advanced features - flexible content, authentication, localization, GraphQL, hooks, and TypeScript support."
+url = "https://payloadcms.com"
+language = "javascript"
+github_repo = "payloadcms/payload"
