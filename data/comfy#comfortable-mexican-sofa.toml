@@ -1,4 +1,4 @@
 name = "ComfortableMexicanSofa "
-description = "ComfortableMexicanSofa is a powerful Rails 4 CMS Engine."
+description = "ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine."
 github_repo = "comfy/comfortable-mexican-sofa"
 language = "ruby"
