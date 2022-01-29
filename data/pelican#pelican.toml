@@ -1,0 +1,5 @@
+name = "Pelican"
+description = "The Pelican static file content management system"
+url = "https://blog.getpelican.com/"
+github_repo = "getpelican/pelican"
+language = "python"
