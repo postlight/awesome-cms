@@ -1,0 +1,5 @@
+name = "Atomic-Server"
+description = "Atomic-Server is a lightweight and fast open source graph database server and CMS that includes authorization, full-text search and an easy to use API."
+url = "https://atomicdata.dev"
+github_repo = "joepio/atomic-data-rust"
+language = "rust"
