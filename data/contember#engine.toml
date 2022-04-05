@@ -1,0 +1,5 @@
+name = "Contember"
+description = "Bespoke content management. With Contember you will easily manage your content and data. Build and run GraphQL API and user-centric administration without any hassle."
+url = "https://www.contember.com"
+github_repo = "contember/engine"
+language = "javascript"
