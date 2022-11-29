@@ -12,7 +12,7 @@ is accepted._
 ### 1. [Create a new file][] in the [data folder](/data) named as follows:
 
 - Open source? Use the _lowercase_ filename `org#repo.toml`.
-- Closed source? Use the _lowercase_ product name, with dashes substituded for spaces `product-name.toml`.
+- Closed source? Use the _lowercase_ product name, with dashes substituted for spaces `product-name.toml`.
 
 ### 2. Fill out this template
 
