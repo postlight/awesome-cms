@@ -1,0 +1,6 @@
+name = "Winter CMS"
+description = "Open source, flexible, performant, and secure content management framework based on Laravel with best in class developer experience"
+url = "https://wintercms.com"
+awesome_repo = "wintercms/awesome-wintercms"
+github_repo = "wintercms/winter"
+language = "php"
