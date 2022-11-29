@@ -1,5 +1,5 @@
 name = "Apostrophe"
 description = "ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more."
-url = "https://apostrophecms.org"
+url = "https://apostrophecms.com"
 github_repo = "punkave/apostrophe"
 language = "javascript"
