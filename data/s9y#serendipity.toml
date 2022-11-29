@@ -1,0 +1,5 @@
+name = "Serendipity"
+description = "Serendipity is a PHP-powered weblog engine which gives the user an easy way to maintain a blog."
+url = "https://s9y.org"
+github_repo = "s9y/Serendipity"
+language = "php"
