@@ -1,7 +1,7 @@
 <!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS [![Awesome][awesome-image]][awesome-repo]
 
-[Postlight](https://postlight.com)'s Awesome CMS is a collection of **141** open and closed source Content Management
+[Postlight](https://postlight.com)'s Awesome CMS is a collection of **149** open and closed source Content Management
 Systems (CMS) for your perusal. Check out [the blog post][] on the creation of
 Awesome CMS.
 
@@ -16,6 +16,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Closed Source](#closed-source)
 
 ## .NET
@@ -462,7 +463,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
               <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
                 <img alt="GitHub page for Apostrophe" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
-                <a href="https://apostrophecms.org">
+                <a href="https://apostrophecms.com">
                   <img alt="Website for Apostrophe" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
           </div>
@@ -519,6 +520,54 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
           </div>
         </td>
         <td>Javascript Content Management System running on Node.js.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/contember/engine">
+                <b>Contember</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/contember/engine" title="GitHub Repo">
+                <img alt="Stars for Contember" src="https://flat.badgen.net/github/stars/contember/engine?label=★&color=black" />
+              </a>
+              <a href="https://github.com/contember/engine" title="GitHub Repo">
+                <img alt="GitHub page for Contember" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://www.contember.com">
+                  <img alt="Website for Contember" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Contember" src="https://flat.badgen.net/github/last-commit/contember/engine?color=black" />
+          </div>
+        </td>
+        <td>Bespoke content management. With Contember you will easily manage your content and data. Build and run GraphQL API and user-centric administration without any hassle.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/directus/directus">
+                <b>Directus</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/directus/directus" title="GitHub Repo">
+                <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus?label=★&color=black" />
+              </a>
+              <a href="https://github.com/directus/directus" title="GitHub Repo">
+                <img alt="GitHub page for Directus" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://getdirectus.com">
+                  <img alt="Website for Directus" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus?color=black" />
+          </div>
+        </td>
+        <td>Directus is a headless CMS open-source suite of software that wraps custom SQL databases with a dynamic API and intuitive Admin App. It allows both administrators and non-technical users to view and manage the content/data stored in pure SQL databases. It can be used as a headless CMS for managing project content, a database client for modeling and viewing raw data REST API or GraphQL, or as customizable WebApp.</td>
       </tr>
       <tr>
         <td width="240">
@@ -684,6 +733,30 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
           </div>
         </td>
         <td>A CMS for Static Site Generators.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/payloadcms/payload">
+                <b>Payload CMS</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/payloadcms/payload" title="GitHub Repo">
+                <img alt="Stars for Payload CMS" src="https://flat.badgen.net/github/stars/payloadcms/payload?label=★&color=black" />
+              </a>
+              <a href="https://github.com/payloadcms/payload" title="GitHub Repo">
+                <img alt="GitHub page for Payload CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://payloadcms.com">
+                  <img alt="Website for Payload CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Payload CMS" src="https://flat.badgen.net/github/last-commit/payloadcms/payload?color=black" />
+          </div>
+        </td>
+        <td>A self-hosted, headless CMS with code-first configuration, customizable admin panel, and a rich editing experience. Many advanced features - flexible content, authentication, localization, GraphQL, hooks, and TypeScript support.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1217,30 +1290,6 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>A CakePHP powered Content Management System.</td>
-      </tr>
-      <tr>
-        <td width="240">
-          <div>
-              <a href="https://github.com/directus/directus">
-                <b>Directus</b>
-              </a>
-          </div>
-          <div>
-              <a href="https://github.com/directus/directus" title="GitHub Repo">
-                <img alt="Stars for Directus" src="https://flat.badgen.net/github/stars/directus/directus?label=★&color=black" />
-              </a>
-              <a href="https://github.com/directus/directus" title="GitHub Repo">
-                <img alt="GitHub page for Directus" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
-              </a>
-                <a href="https://getdirectus.com">
-                  <img alt="Website for Directus" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
-                </a>
-          </div>
-          <div>
-              <img alt="Last commit for Directus" src="https://flat.badgen.net/github/last-commit/directus/directus?color=black" />
-          </div>
-        </td>
-        <td>Directus is a headless CMS open-source suite of software that wraps custom SQL databases with a dynamic API and intuitive Admin App. It allows both administrators and non-technical users to view and manage the content/data stored in pure SQL databases. It can be used as a headless CMS for managing project content, a database client for modeling and viewing raw data REST API or GraphQL, or as customizable WebApp.</td>
       </tr>
       <tr>
         <td width="240">
@@ -1803,6 +1852,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
+              <a href="https://github.com/s9y/Serendipity">
+                <b>Serendipity</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/s9y/Serendipity" title="GitHub Repo">
+                <img alt="Stars for Serendipity" src="https://flat.badgen.net/github/stars/s9y/Serendipity?label=★&color=black" />
+              </a>
+              <a href="https://github.com/s9y/Serendipity" title="GitHub Repo">
+                <img alt="GitHub page for Serendipity" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://s9y.org">
+                  <img alt="Website for Serendipity" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Serendipity" src="https://flat.badgen.net/github/last-commit/s9y/Serendipity?color=black" />
+          </div>
+        </td>
+        <td>Serendipity is a PHP-powered weblog engine which gives the user an easy way to maintain a blog.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
               <a href="https://github.com/silverstripe/silverstripe-framework">
                 <b>SilverStripe</b>
               </a>
@@ -1994,6 +2067,33 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Open Source headless CMS, built on top of Symfony and GraphQL. Allows you to connect and manage all your digital project&#x27;s data in one single backend.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/wintercms/winter">
+                <b>Winter CMS</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/wintercms/winter" title="GitHub Repo">
+                <img alt="Stars for Winter CMS" src="https://flat.badgen.net/github/stars/wintercms/winter?label=★&color=black" />
+              </a>
+              <a href="https://github.com/wintercms/winter" title="GitHub Repo">
+                <img alt="GitHub page for Winter CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://wintercms.com">
+                  <img alt="Website for Winter CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+            <a href="https://github.com/wintercms/awesome-wintercms">
+              <img alt="Awesome List for Winter CMS" src="https://flat.badgen.net/badge/icon/awesome?color=6f41c1&icon=awesome&label" />
+            </a>
+          </div>
+          <div>
+              <img alt="Last commit for Winter CMS" src="https://flat.badgen.net/github/last-commit/wintercms/winter?color=black" />
+          </div>
+        </td>
+        <td>Open source, flexible, performant, and secure content management framework based on Laravel with best in class developer experience</td>
       </tr>
       <tr>
         <td width="240">
@@ -2233,6 +2333,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
+              <a href="https://github.com/getpelican/pelican">
+                <b>Pelican</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/getpelican/pelican" title="GitHub Repo">
+                <img alt="Stars for Pelican" src="https://flat.badgen.net/github/stars/getpelican/pelican?label=★&color=black" />
+              </a>
+              <a href="https://github.com/getpelican/pelican" title="GitHub Repo">
+                <img alt="GitHub page for Pelican" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://blog.getpelican.com/">
+                  <img alt="Website for Pelican" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Pelican" src="https://flat.badgen.net/github/last-commit/getpelican/pelican?color=black" />
+          </div>
+        </td>
+        <td>The Pelican static file content management system</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
               <a href="https://github.com/plone/Plone">
                 <b>Plone CMS</b>
               </a>
@@ -2305,18 +2429,18 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
-              <a href="https://github.com/torchbox/wagtail">
+              <a href="https://github.com/wagtail/wagtail">
                 <b>Wagtail CMS</b>
               </a>
           </div>
           <div>
-              <a href="https://github.com/torchbox/wagtail" title="GitHub Repo">
-                <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/torchbox/wagtail?label=★&color=black" />
+              <a href="https://github.com/wagtail/wagtail" title="GitHub Repo">
+                <img alt="Stars for Wagtail CMS" src="https://flat.badgen.net/github/stars/wagtail/wagtail?label=★&color=black" />
               </a>
-              <a href="https://github.com/torchbox/wagtail" title="GitHub Repo">
+              <a href="https://github.com/wagtail/wagtail" title="GitHub Repo">
                 <img alt="GitHub page for Wagtail CMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
-                <a href="http://wagtail.io">
+                <a href="https://wagtail.io">
                   <img alt="Website for Wagtail CMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
                 </a>
             <a href="https://github.com/springload/awesome-wagtail">
@@ -2324,7 +2448,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
             </a>
           </div>
           <div>
-              <img alt="Last commit for Wagtail CMS" src="https://flat.badgen.net/github/last-commit/torchbox/wagtail?color=black" />
+              <img alt="Last commit for Wagtail CMS" src="https://flat.badgen.net/github/last-commit/wagtail/wagtail?color=black" />
           </div>
         </td>
         <td>Wagtail is a content management system built on Django. It&#x27;s focused on user experience, and offers precise control for designers and developers.</td>
@@ -2580,7 +2704,7 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
               <img alt="Last commit for Refinery CMS" src="https://flat.badgen.net/github/last-commit/refinery/refinerycms?color=black" />
           </div>
         </td>
-        <td>An extendable Ruby on Rails CMS that supports Rails 4.2+.</td>
+        <td>An extendable Ruby on Rails CMS that supports Rails 6.0+.</td>
       </tr>
       <tr>
         <td width="240">
@@ -2626,6 +2750,43 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
+      </tr>
+  </tbody>
+</table>
+
+## Rust
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/joepio/atomic-data-rust">
+                <b>Atomic-Server</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/joepio/atomic-data-rust" title="GitHub Repo">
+                <img alt="Stars for Atomic-Server" src="https://flat.badgen.net/github/stars/joepio/atomic-data-rust?label=★&color=black" />
+              </a>
+              <a href="https://github.com/joepio/atomic-data-rust" title="GitHub Repo">
+                <img alt="GitHub page for Atomic-Server" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://atomicdata.dev">
+                  <img alt="Website for Atomic-Server" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for Atomic-Server" src="https://flat.badgen.net/github/last-commit/joepio/atomic-data-rust?color=black" />
+          </div>
+        </td>
+        <td>Atomic-Server is a lightweight and fast open source graph database server and CMS that includes authorization, full-text search and an easy to use API.</td>
       </tr>
   </tbody>
 </table>
@@ -2681,6 +2842,20 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Publish your passions your way. Whether you’d like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://www.blogody.com">
+                <b>Blogody</b>
+              </a>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Create your own blog and see it live in seconds. Minimalist SaaS platform with a free plan.</td>
       </tr>
       <tr>
         <td width="240">
@@ -3020,6 +3195,20 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Supports Jekyll, user collaboration, publishing to AWS S3, GitHub Pages, FTP, and more.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://spinalcms.com/">
+                <b>Spinal</b>
+              </a>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Spinal is a beautiful and minimal CMS for static site generators, built for content marketing teams</td>
       </tr>
       <tr>
         <td width="240">
