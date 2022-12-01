@@ -2,7 +2,7 @@ name: Generate README on Push
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
   workflow_dispatch:
 
