@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate_list:
+  generate_readme:
     runs-on: ubuntu-latest
 
     steps:
