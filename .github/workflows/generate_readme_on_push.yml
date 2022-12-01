@@ -2,7 +2,7 @@ name: Generate README on Push
 
 on:
   push:
-    branches: [ "fdsimms/chore-github-action" ]
+    branches: [ "master" ]
 
   workflow_dispatch:
 
