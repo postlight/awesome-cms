@@ -2,7 +2,7 @@ name: Generate README on Push
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "fdsimms/chore-github-action" ]
 
   workflow_dispatch:
 
@@ -17,15 +17,11 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18.x
-      
-      # action allowing us to use Yarn CLI
-      - name: GitHub Action for Yarn
-        uses: borales/actions-yarn@v4
         
       - name: Yarn install
         uses: borales/actions-yarn@v4
         with:
-          cmd: install
+          cmd: install 
           
       - name: Generate README
         uses: borales/actions-yarn@v4
