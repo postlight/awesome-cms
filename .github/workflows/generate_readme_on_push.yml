@@ -28,7 +28,7 @@ jobs:
           cmd: generate-awesome generate
           
       - name: Autocommit new README file
-      - uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: regenerate README file"
 
