@@ -452,15 +452,15 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
       <tr>
         <td width="240">
           <div>
-              <a href="https://github.com/punkave/apostrophe">
+              <a href="https://github.com/apostrophecms/apostrophe">
                 <b>Apostrophe</b>
               </a>
           </div>
           <div>
-              <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
-                <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/punkave/apostrophe?label=★&color=black" />
+              <a href="https://github.com/apostrophecms/apostrophe" title="GitHub Repo">
+                <img alt="Stars for Apostrophe" src="https://flat.badgen.net/github/stars/apostrophecms/apostrophe?label=★&color=black" />
               </a>
-              <a href="https://github.com/punkave/apostrophe" title="GitHub Repo">
+              <a href="https://github.com/apostrophecms/apostrophe" title="GitHub Repo">
                 <img alt="GitHub page for Apostrophe" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
               </a>
                 <a href="https://apostrophecms.com">
@@ -468,7 +468,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
                 </a>
           </div>
           <div>
-              <img alt="Last commit for Apostrophe" src="https://flat.badgen.net/github/last-commit/punkave/apostrophe?color=black" />
+              <img alt="Last commit for Apostrophe" src="https://flat.badgen.net/github/last-commit/apostrophecms/apostrophe?color=black" />
           </div>
         </td>
         <td>ApostropheCMS is a CMS for Node.js. It supports in-context editing, schema-driven content types, flexible widgets, localization and a great deal more.</td>
