@@ -24,7 +24,9 @@ jobs:
           cmd: install 
           
       - name: Generate README
-        run: generate-awesome generate
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: generateReadme 
           
       - name: Autocommit new README file
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -32,8 +34,4 @@ jobs:
           commit_message: "chore: regenerate README file"
 
           file_pattern: 'README.md'
-
-          # Optional. Options used by `git-add`.
-          # See https://git-scm.com/docs/git-add#_options
-          add_options: '-u'   
 
