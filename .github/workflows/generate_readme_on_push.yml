@@ -1,0 +1,37 @@
+name: Generate README on Push
+
+on:
+  push:
+    branches: [ "master" ]
+
+  workflow_dispatch:
+
+jobs:
+  generate_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+        
+      - name: Yarn install
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install 
+          
+      - name: Generate README
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: generateReadme 
+          
+      - name: Autocommit new README file
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: regenerate README file"
+
+          file_pattern: 'README.md'
+
