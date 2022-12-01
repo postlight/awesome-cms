@@ -24,8 +24,7 @@ jobs:
           cmd: install 
           
       - name: Generate README
-        with:
-          cmd: generate-awesome generate
+        run: generate-awesome generate
           
       - name: Autocommit new README file
         uses: stefanzweifel/git-auto-commit-action@v4
