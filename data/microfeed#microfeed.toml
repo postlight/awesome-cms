@@ -1,0 +1,5 @@
+name = "microfeed"
+description = "microfeed is a lightweight cms self-hosted on cloudflare."
+url = "https://www.microfeed.org"
+github_repo = "microfeed/microfeed"
+language = "javascript"
