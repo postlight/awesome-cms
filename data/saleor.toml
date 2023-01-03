@@ -1,0 +1,5 @@
+name = "Saleor"
+description = "CMS for e-commerce"
+url = "https://saleor.io/"
+github_repo = "https://github.com/saleor/saleor"
+language = "python"
