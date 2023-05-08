@@ -1,0 +1,10 @@
+name = "Primo"
+description = "Primo is a modern monolithic CMS powered by Svelte and Supabase"
+# A URL other than the GitHub URL
+url = "https://primocms.org"
+# If there's an awesome list for this CMS.
+awesome_repo = ""
+# Only if it's open source
+github_repo = "primocms/primo"
+# Lower case, e.g. javascript, php, c#.
+language = "javascript"
