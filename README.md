@@ -194,6 +194,30 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
       <tr>
         <td width="240">
           <div>
+            <a href="https://github.com/elanatframework/Elanat">
+              <b>Elanat framework</b>
+            </a>
+          </div>
+          <div>
+            <a href="https://github.com/elanatframework/Elanat" title="GitHub Repo">
+              <img alt="Stars for Elanat framework" src="https://flat.badgen.net/github/stars/elanatframework/Elanat?label=%E2%98%85&color=black" />
+            </a>
+            <a href="https://github.com/elanatframework/Elanat" title="GitHub Repo">
+              <img alt="GitHub page for Elanat framework" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+            </a>
+            <a href="http://elanat.net">
+              <img alt="Website for Elanat framework" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+            </a>
+          </div>
+          <div>
+              <img alt="Last commit for Elanat framework" src="https://flat.badgen.net/github/last-commit/elanatframework/Elanat?color=black" />
+          </div>
+      </td>
+      <td>Elanat is a new free and open-source dotnet framework include inner CMS. Elanat is big system and powerful, there is eight type of add-ons in Elanat.</td>
+    </tr>
+      <tr>
+        <td width="240">
+          <div>
               <a href="https://github.com/squidex/squidex">
                 <b>Squidex</b>
               </a>
