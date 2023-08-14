@@ -1,0 +1,5 @@
+name = "Graphweaver"
+description = "Turn multiple data sources into a single GraphQL API"
+url = "https://graphweaver.com/"
+github_repo = "exogee-technology/graphweaver"
+language = "Typescript"
