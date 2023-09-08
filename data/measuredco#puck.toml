@@ -1,0 +1,5 @@
+name = "Puck"
+description = "The self hosted visual editor for React"
+url = "https://puck-editor-demo.vercel.app/edit"
+github_repo = "measuredco/puck"
+language = "javascript"
