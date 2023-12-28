@@ -1,0 +1,5 @@
+name = "e107"
+description = "e107 is a free and open-source content management system (CMS) based on PHP, MySQL, HTML5, jQuery and Bootstrap."
+url = "https://e107.org/"
+github_repo = "e107inc/e107"
+language = "php"
