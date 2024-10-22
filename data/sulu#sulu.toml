@@ -1,5 +1,5 @@
 name = "Sulu"
 description = "Sulu is a content management platform based on Symfony made for businesses. It’s a flexible CMS to create and manage enterprise multi-sites and a reliable development environment for high-performance apps"
 url = "http://sulu.io/en"
-github_repo = "sulu/sulu-standard"
+github_repo = "sulu/sulu"
 language = "php"
