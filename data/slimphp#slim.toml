@@ -1,0 +1,6 @@
+name = "Slim"
+description = "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs."
+url = "http://slimframework.com/"
+github_repo = "slimphp/Slim"
+awesome_repo = "nekofar/awesome-slim"
+language = "php"
