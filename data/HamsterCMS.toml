@@ -1,0 +1,6 @@
+name = "HamsterCMS"
+description = "HamsterCMS is the world's smallest and very simple multi-template flatfile content management system."
+url = "http://old.net.eu.org/"
+github_repo = "turboblack/HamsterCMS"
+awesome_repo = "turboblack/HamsterCMS"
+language = "php"
