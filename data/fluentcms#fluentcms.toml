@@ -1,0 +1,5 @@
+name = "FluentCMS"
+description = "FluentCMS is open-source modern CMS built on the powerful ASP.NET Core and the innovative Blazor technology."
+url = "http://fluentcms.com"
+github_repo = "fluentcms/FluentCMS"
+language = "c#"
