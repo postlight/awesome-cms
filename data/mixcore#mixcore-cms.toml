@@ -1,0 +1,6 @@
+name = "Mixcore CMS"
+description = "Mixcore CMS is an Future-Proof Enterprise Web CMS that supports both headless and decoupled to easily build any kinds of app/web app/all in all/customizable APIs built on top of ASP.NET Core / Dotnet Core. It is a completely open-source ASP.NET Core (Dotnet Core) CMS solution."
+url = "https://mixcore.org/"
+github_repo = "mixcore/mix.core"
+awesome_repo = "mixcore/mix.core"
+language = "c#"
