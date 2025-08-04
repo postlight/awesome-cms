@@ -1,0 +1,6 @@
+name = "Sitepins"
+description = "A modern Git-based CMS for static site generators like Hugo, Astro, and Next.js. Offers visual editing, Git integration, and AI content support."
+url = "https://sitepins.com"
+awesome_repo = ""
+github_repo = ""
+language = "javascript"
