@@ -1,0 +1,5 @@
+name = "Masa CMS"
+description = "MASA CMS is an Enterprise Content Management platform based on open source technology. MASA CMS allows you, quickly and efficiently, to deliver personalised internet and intranet sites and mobile applications. It allows for easy deployment on your infrastructure of choice (AWS, GCP, Azure, own hardware). MASA CMS is ideally suited to organisations looking to be compliant with privacy laws such as GDPR. The roots of MASA CMS lie in the last version of MuraTM CMS which was available as open source."
+url = "https://www.masacms.com"
+github_repo = "MasaCMS"
+language = "Coldfusion"
