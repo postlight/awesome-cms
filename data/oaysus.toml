@@ -1,0 +1,5 @@
+name = "Oaysus"
+description = "Visual page builder for developer-built React, Vue, or Svelte components. Marketing teams create pages visually while developers build reusable components with editable prop schemas."
+url = "https://oaysus.com"
+github_repo = "oaysus/cli"
+language = "javascript"
