@@ -1342,6 +1342,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
         </td>
         <td>general purpose content management system written in object-oriented PHP and using MySQL for data storage.</td>
       </tr>
+     <tr>
+        <td width="240">
+          <div>
+              <a href="https://github.com/fearlessgeekmedia/FearlessCMS">
+                <b>FearlessCMS</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/fearlessgeekmedia/FearlessCMS" title="GitHub Repo">
+                <img alt="Stars for FearlessCMS" src="https://flat.badgen.net/github/stars/fearlessgeekmedia/FearlessCMS?label=★&color=black" />
+              </a>
+              <a href="https://github.com/fearlessgeekmedia/FearlessCMS" title="GitHub Repo">
+                <img alt="GitHub page for FearlessCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://fearlesscms.online">
+                  <img alt="Website for FearlessCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for FearlessCMS" src="https://flat.badgen.net/github/last-commit/fearlessgeekmedia/FearlessCMS?color=black" />
+          </div>
+        </td>
+        <td>A flat-file content management system with static site export capabilities. A plugin is available to connect to MariaDB.</td>
+      </tr>
       <tr>
         <td width="240">
           <div>
