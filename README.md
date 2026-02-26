@@ -282,6 +282,30 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
       <tr>
         <td width="240">
           <div>
+              <a href="https://github.com/jonradoff/lightcms">
+                <b>LightCMS</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/jonradoff/lightcms" title="GitHub Repo">
+                <img alt="Stars for LightCMS" src="https://flat.badgen.net/github/stars/jonradoff/lightcms?label=★&color=black" />
+              </a>
+              <a href="https://github.com/jonradoff/lightcms" title="GitHub Repo">
+                <img alt="GitHub page for LightCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://metavert.io">
+                  <img alt="Website for LightCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for LightCMS" src="https://flat.badgen.net/github/last-commit/jonradoff/lightcms?color=black" />
+          </div>
+        </td>
+        <td>AI-native CMS with MCP (Model Context Protocol) integration. 41 MCP tools for managing websites through natural language. Features templates, assets, themes, collections, redirects, content versioning, and a REST API.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
               <a href="https://github.com/ponzu-cms/ponzu">
                 <b>Ponzu</b>
               </a>
