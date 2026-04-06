@@ -7,6 +7,7 @@ Awesome CMS.
 
 _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribution._
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CMS workflow orchestration, automated content management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [.NET](#net)
