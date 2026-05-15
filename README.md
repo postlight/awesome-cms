@@ -18,6 +18,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Closed Source](#closed-source)
+- [WebCoreLab](https://webcorelab.com) — AI-First agency building headless WordPress + custom WP/WooCommerce solutions. Toronto, est. 2014.
 
 ## .NET
 
