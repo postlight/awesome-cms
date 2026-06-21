@@ -2071,6 +2071,30 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
       <tr>
         <td width="240">
           <div>
+              <a href="https://github.com/hpakdaman/unfoldcms">
+                <b>UnfoldCMS</b>
+              </a>
+          </div>
+          <div>
+              <a href="https://github.com/hpakdaman/unfoldcms" title="GitHub Repo">
+                <img alt="Stars for UnfoldCMS" src="https://flat.badgen.net/github/stars/hpakdaman/unfoldcms?label=★&color=black" />
+              </a>
+              <a href="https://github.com/hpakdaman/unfoldcms" title="GitHub Repo">
+                <img alt="GitHub page for UnfoldCMS" src="https://flat.badgen.net/badge/null/GitHub/29a745?label" />
+              </a>
+                <a href="https://unfoldcms.com/">
+                  <img alt="Website for UnfoldCMS" src="https://flat.badgen.net/badge/null/Website/0566d6?label" />
+                </a>
+          </div>
+          <div>
+              <img alt="Last commit for UnfoldCMS" src="https://flat.badgen.net/github/last-commit/hpakdaman/unfoldcms?color=black" />
+          </div>
+        </td>
+        <td>Self-hosted Laravel CMS with a React + shadcn/ui admin panel, REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.</td>
+      </tr>
+      <tr>
+        <td width="240">
+          <div>
               <a href="https://github.com/wintercms/winter">
                 <b>Winter CMS</b>
               </a>
