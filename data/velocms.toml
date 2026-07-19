@@ -1,0 +1,3 @@
+name = "VeloCMS"
+description = "VeloCMS is a managed multi-tenant blogging CMS with a visual page builder, AI writing assistant, memberships, and built-in commerce. Built on Next.js and PocketBase."
+url = "https://velocms.org"
