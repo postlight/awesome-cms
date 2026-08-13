@@ -10,6 +10,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 ## Contents
 
 - [.NET](#net)
+- [AI Alt Text Generator](https://github.com/DeusAcc/ai-alt-text-generator) - WordPress plugin that scans the Media Library and generates missing image ALT text automatically via a vision AI model (BYOK: your own OpenAI-compatible key, free tiers included). GPLv2, no subscription.
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
