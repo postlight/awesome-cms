@@ -1,0 +1,3 @@
+name = "CMS Brew"
+description = "Git-based CMS where a client edits a static site in chat. Safe edits publish as commits, risky ones go back to the developer."
+url = "https://cmsbrew.com/?utm_source=awesome-cms"
