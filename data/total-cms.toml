@@ -1,0 +1,4 @@
+name = "Total CMS"
+description = "Commercial flat-file PHP CMS: structured content modeling, no database, JSON on disk, Twig templating, a REST API and a built-in MCP server for AI agents."
+url = "https://totalcms.co"
+language = "php"
