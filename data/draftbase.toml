@@ -1,0 +1,3 @@
+name = "Draftbase"
+description = "MCP-native headless CMS for React and Next.js developers. Typed MDX components, REST and GraphQL delivery, and an efficient remote MCP server for AI agents."
+url = "https://draftbase.co"
